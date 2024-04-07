@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+440,Aqueous solubility of the compound at pH 6.8 by high throughput equilibrium method,6.8,aqueous,,high throughput equilibrium method,,True
+441,Thermodynamic solubility of the compound in phosphate buffer at pH 7 incubated for 1 hr by shake flask based HPLC-UV analysis,7.0,phosphate buffer,1 hr,shake flask based HPLC-UV analysis,,True
+442,Aqueous solubility of the compound in pH 7.0 phosphate buffer at 2 mg incubated for 72 hrs by shake flask method,7.0,phosphate buffer,72 hrs,shake flask method,,True
+443,Solubility of the compound in 50 mM phosphate buffer at pH 6.5 by lyophilisation solubility assay,6.5,phosphate buffer,,lyophilisation solubility assay,,True
+444,Equilibrium solubility in phosphate buffer in absence of 10% Labrasol at pH 7.4,7.4,phosphate buffer,,,,True
+445,Aqueous solubility of the compound at ph 6.5,6.5,aqueous,,,,True
+446,Solubility in aqueous solution,,aqueous solution,,,,True
+447,Aqueous solubility of the compound in phosphate buffer at pH 7.2 after 24 hrs by shaking flask method,7.2,phosphate buffer,24 hrs,shaking flask method,,True
+448,Kinetic aqueous solubility of the compound by laser nephelometry,,aqueous,,laser nephelometry,,True
+449,Kinetic solubility in PBS buffer at pH 7.4 by UV/vis absorbance analysis,7.4,PBS buffer,,UV/vis absorbance analysis,,True
+450,Kinetic solubility of the compound in DMSO solution at pH 6.8,6.8,DMSO solution,,,,False
+451,Solubility of compound by chemiluminescent nitrogen detection assay,,,,chemiluminescent nitrogen detection assay,,True
+452,Solubility of compound in 0.01N HCl at pH 2 incubated for 48 to 72 hrs under shaking conditions by LCMS analysis,2.0,0.01N HCl,48 to 72 hrs,LCMS analysis,,True
+453,Aqueous solubility of the compound in 0.1 M sodium phosphate buffer at pH 7.4 after 24 hrs,7.4,0.1 M sodium phosphate buffer,24 hrs,,,True
+454,Kinetic solubility of compound in water at pH7 by HPLC analysis,7.0,water,,HPLC analysis,,True
+455,Aqueous equilibrium solubility of compound after 24 hrs,,aqueous,24 hrs,,,True
+456,Aqueous solubility of the compound in pH 7.2 phosphate buffered saline,7.2,phosphate buffered saline,,,,True
+457,Solubility by nephelometry,,,,nephelometry,,True
+458,Aqueous solubility of the compound after 24 hrs by HPLC analysis,,aqueous,24 hrs,HPLC analysis,,True
+459,Solubility of compound in PBS buffer at pH 7.4 incubated for 48 to 72 hrs under shaking conditions by LCMS analysis,7.4,PBS buffer,48 to 72 hrs,LCMS analysis,,True

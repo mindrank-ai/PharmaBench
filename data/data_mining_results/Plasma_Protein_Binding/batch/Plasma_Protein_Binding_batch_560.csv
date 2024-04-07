@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+541,Protein binding in rat liver at 1 uM,Rat Liver,1 uM,,LC-MS/MS,Equilibrium Dialysis,True
+542,Protein binding in LB assay broth (above 30 kDa) by ultra filtration method,LB Broth,,,Ultrafiltration,,True
+543,Protein binding in artificial plasma assessed as tritiated drug level,Artificial Plasma,,,,,True
+544,Protein binding in rat plasma at 1 uM measured after 60 mins by equilibrium dialysis based LC/MS/MS analysis,Rat Plasma,1 uM,60 mins,LC-MS/MS,Equilibrium Dialysis,True
+545,Protein binding in hamster plasma at 10 uM at pH 7.4 incubated for 30 mins measured after 10 hrs by LC-MS/MS based equilibrium dialysis method,Hamster Plasma,10 uM,"30 mins incubation, measured after 10 hrs",LC-MS/MS,Red Equilibrium Dialysis,True
+546,Protein binding in mouse brain homogenate,Mouse Brain Homogenate,,,,,False
+547,Protein binding in human blood at 0.0002 to 1000 mg/ml after 4 hrs by LC/MS/MS based rapid equilibrium dialysis method,Human Blood,0.0002 to 1000 mg/ml,4 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+548,Protein binding in human plasma at 0.3 ug/ml after 8 hrs by equilibrium dialysis method,Human Plasma,0.3 ug/ml,8 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+549,Protein binding in HCHZ2H1 xenografted HSD athymic nude mouse plasma after 10 mins by LC-MS/MS analysis,HSD Athymic Nude Mouse Plasma,,10 mins,LC-MS/MS,Rapid Equilibrium Dialysis,True
+550,Plasma protein binding in hamster at 2 uM after 6 hrs by equilibrium dialysis method,Hamster Plasma,2 uM,6 hrs,LC-MS/MS,,False
+551,Protein binding in cynomolgus monkey serum at 53 nM after 1 hr by ultracentrifugation assay,Cynomolgus Monkey Serum,53 nM,1 hr,Ultracentrifugation,Equilibrium Dialysis,True
+552,Protein binding in Sprague-Dawley rat serum at 1 ug/ml after 4 hrs by equilibrium dialysis method,Sprague-Dawley Rat Serum,1 ug/ml,4 hrs,Equilibrium Dialysis,Ultracentrifugation,True
+553,Protein binding in iv or po dosed cynomolgus monkey plasma,Cynomolgus Monkey Plasma,,,,Equilibrium Dialysis,True
+554,Protein binding in Lewis rat plasma,Lewis Rat Plasma,,,,,False
+555,Plasma protein binding in pigeon at 10 ug/ml,Pigeon Plasma,10 ug/ml,,LC-MS/MS,,True
+556,Plasma protein binding in pigeon at 0.5 ug/ml,Pigeon Plasma,0.5 ug/ml,,LC-MS/MS,,True
+557,Protein binding in Sprague-Dawley rat plasma at 0.2 to 20 uM,Sprague-Dawley Rat Plasma,0.2 to 20 uM,,,,False
+558,Binding affinity to human hemoglobin assessed as protein bound compound level at 1 uM,Human Hemoglobin,1 uM,,,,False
+559,Binding affinity to monkey hemoglobin assessed as protein bound compound level at 20 uM,Monkey Hemoglobin,20 uM,,,,False
+560,Protein binding in rat plasma at 1 uM incubated for 5 hrs under shaking conditions by LC-MS analysis,Rat Plasma,1 uM,5 hrs,LC-MS,Equilibrium Dialysis,False

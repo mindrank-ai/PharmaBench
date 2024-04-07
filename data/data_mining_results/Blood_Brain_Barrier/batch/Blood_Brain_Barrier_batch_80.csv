@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+80,Permeability of the compound from apical to basolateral side in human Caco2 cells,Caco2,,apical to basolateral,,,False
+81,Permeability across porcine brain lipid coated polyvinylidene fluoride membrane by PAMPA,porcine brain lipid coated PVDF,,,,,False
+82,Permeability across artificial membrane at pH 7.4 by PAMPA assay,artificial membrane,,,7.4,,False
+83,Permeability across human Caco2 cell membrane,Caco2,,,,,False
+84,Permeability across Caco-2 cells,Caco-2,,,,,False
+85,Permeability of the compound at PH 7.4 by PAMPA,PAMPA,,,,,False
+86,Permeability from apical to basolateral side of human Caco-2 cells,Caco-2,,apical to basolateral,,,False
+87,Permeability from basolateral to apical side of human Caco-2 cells,Caco-2,,basolateral to apical,,,False
+88,Passive permeability in MDCK2-MDR1 cells transduced with BacMam2-BCRP at 3 uM after 90 mins by Transwell assay,MDCK2-MDR1,,,,3 uM after 90 mins,False
+89,Permeability of the compound in human Caco2 cells,Caco2,,,,,False
+90,Permeability in human Caco2/TC7 cells assessed as total flux at 20 uM incubated for 2 hrs by LC-MS/MS method,Caco2/TC7,,total flux,7.4,20 uM incubated for 2 hrs,False
+91,Permeability of compound in pH 7.4 PBS/EtOH buffer (7:3) incubated for 18 hrs by UV plate reader based PAMPA-BBB assay,PAMPA-BBB,,,7.4 PBS/EtOH (7:3),incubated for 18 hrs,True
+92,Permeability of the compound after 10 hrs by PAMPA,PAMPA,,,,after 10 hrs,False
+93,Apparent permeability across human Caco-2 cells,Caco-2,,,,,False
+94,Permeability of compound in pH 7.4 PBS/EtOH buffer (7:3) after 16 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4 PBS/EtOH (7:3),after 16 hrs,True
+95,Permeability across apical to basolateral membrane in human Caco-2 cells,Caco-2,,apical to basolateral,,,False
+96,Permeability across MDCK cells,MDCK,,,,,False
+97,Permeability in human Caco2/TC7 cells at 5 uM,Caco2/TC7,,,,at 5 uM,False
+98,Permeability of the compound at pH 7.4 at 1 mg/ml after 4 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4,1 mg/ml after 4 hrs,True
+99,Effective permeability of the compound after 2.5 hrs at 25 degC by PAMPA assay,PAMPA,25 degC,,,after 2.5 hrs,False

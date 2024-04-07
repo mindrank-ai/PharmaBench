@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+680,Solubility of the compound in PBS buffer at 250 uM at pH 7 by UV spectrophotometry,7.0,PBS buffer,,UV spectrophotometry,,True
+681,Thermodynamic solubility of the compound in phosphate buffer at pH 6.8 incubated for 24 hrs by HPLC analysis,6.8,phosphate buffer,24 hrs,HPLC analysis,,True
+682,Solubility in HCl/KCl buffer at pH 1,1.0,HCl/KCl buffer,,,,True
+683,Solubility in Tris buffer at pH 8.0 by nephelometry,8.0,Tris buffer,,nephelometry,,True
+684,Solubility of the compound in PBS at 200 uM at pH 7.4 measured after 24 hrs,7.4,PBS,24 hrs,None,,True
+685,Solubility of compound by chemiluminscent nitrogen detection (CLND) method,,,,chemiluminscent nitrogen detection (CLND) method,,True
+686,Solubility of the compound in stimulated lung fluid at pH 6.5 measured after 4 hrs by HPLC-UV analysis,6.5,stimulated lung fluid,4 hrs,HPLC-UV analysis,,True
+687,Kinetic solubility of the compound by laser nephelometric analysis,,,,laser nephelometric analysis,,True
+688,Thermodynamic solubility of the compound after 24 hrs at pH 7.4,7.4,,24 hrs,,,True
+689,Solubility of the compound in 0.5 ml of distilled water after 15 mins by RP-HPLC analysis,,distilled water,15 mins,RP-HPLC analysis,,True
+690,Thermodynamic solubility of the compound in phosphate buffer at pH 7.4 after 16 hrs by HPLC analysis,7.4,phosphate buffer,16 hrs,HPLC analysis,,True
+691,Solubility of the compound in phosphate buffer saline at pH 7,7.0,phosphate buffer saline,,,,True
+692,Aqueous solubility at pH 1,1.0,aqueous,,,,True
+693,Aqueous solubility of compound in PBS at pH 7.4 by HPLC-UV analysis,7.4,PBS,,HPLC-UV analysis,,True
+694,Solubility by shake flask method,,aqueous,,shake flask method,,True
+695,Aqueous solubility of the compound in PBS at pH 7.4,7.4,PBS,,,,True
+696,Solubility in simulated gastric fluid at pH 2.0,2.0,simulated gastric fluid,,,,True
+697,Kinetic solubility of the compound at pH 7.4 using crystalline form of sample,7.4,crystalline sample,,,,True
+698,Solubility in phosphate buffer at pH 7.4 after 24 hrs,7.4,phosphate buffer,24 hrs,,,True
+699,Solubility of the compound in pH 6.5 phosphate buffered saline at 50 uM after overnight incubation by LC-MS analysis,6.5,phosphate buffered saline,overnight,LC-MS analysis,,True

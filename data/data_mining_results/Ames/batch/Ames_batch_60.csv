@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in p53-competent human TK6 cells in absence of Sprague-Dawley rat S9 fraction by GADD45alpha GFP reporter assay,,,,absence of Sprague-Dawley rat S9 fraction,p53-competent human TK6 cells,False
+2,Mutagenicity in Salmonella typhimurium by Ames II test in presence of liver S9 fraction,,,,liver S9 fraction,Salmonella typhimurium,True
+3,Antiproliferative activity against dexamethasone-sensitive human MM.1S cells assessed as reduction in cell viability at 10 uM measured after 72 hrs by XTT assay,10 uM,,72 hrs,,dexamethasone-sensitive human MM.1S cells,False
+4,Mutagenic activity in Salmonella typhimurium by Ames test,,,,,Salmonella typhimurium,True
+5,Mutagenicity in Salmonella typhimurium by Ames II test in absence of liver S9 fraction,,,,absence of liver S9 fraction,Salmonella typhimurium,True
+6,Antiproliferative activity against dexamethasone-resistant human MM.1R cells assessed as reduction in cell viability at 10 uM measured after 72 hrs by XTT assay,10 uM,,72 hrs,,dexamethasone-resistant human MM.1R cells,False
+7,Mutagenicity in Salmonella typhimurium TA98 in presence of rat S9 fraction by Ames test,,,,rat S9 fraction,Salmonella typhimurium TA98,True
+8,Mutagenicity in Salmonella typhimurium TA100 in presence of rat S9 fraction by Ames test,,,,rat S9 fraction,Salmonella typhimurium TA100,True
+9,Mutagenicity in Salmonella typhimurium TA98 in absence of rat S9 fraction by Ames test,,,,absence of rat S9 fraction,Salmonella typhimurium TA98,True
+10,Genotoxicity in Salmonella typhimurium TA98 in presence of rat liver S9 fraction by Ames test,,,,rat liver S9 fraction,Salmonella typhimurium TA98,True
+11,Genotoxicity in Salmonella typhimurium TA100 by Ames test,,,,,Salmonella typhimurium TA100,True
+12,Antiviral activity against hepatitis A virus genotype 1b infected in human Huh-7.5.1 cells assessed as reduction in virus production at 10 uM incubated for 72 hrs by Nano-Glo luciferase assay,10 uM,,72 hrs,,human Huh-7.5.1 cells,False
+13,Genotoxicity in human HK2 cells assessed as induction of DNA strand breakage at 20 uM after 6 hrs by DAPI staining based alkaline comet assay,20 uM,,6 hrs,,human HK2 cells,False
+14,Mutagenicity in Salmonella typhimurium TA100 in absence of rat S9 fraction by Ames test,,,,absence of rat S9 fraction,Salmonella typhimurium TA100,True
+15,Antimicrofilament activity in human HCT116 cells assessed as loss of microfilament at 0.01 uM by rhodamine-phalloidin staining,0.01 uM,,,,human HCT116 cells,False
+16,Genotoxicity in Salmonella typhimurium TA100 in presence of rat liver S9 fraction by Ames test,,,,rat liver S9 fraction,Salmonella typhimurium TA100,True
+17,Antifungal activity against wild-type Candida albicans SC5314 assessed as reduction in filamentous growth,,,,,Candida albicans SC5314,False
+18,Antibacterial activity against Staphylococcus aureus ATCC 6538 assessed as diameter of the inhibition zone at 1 uM/disk after 4 hrs by disk diffusion method,1 uM/disk,,4 hrs,,Staphylococcus aureus ATCC 6538,False
+19,Genotoxicity in Salmonella typhimurium TA1535/pSK1002 in absence of rat S9 mix incubated for 4 hrs by SOS/umu test,,,4 hrs,absence of rat S9 mix,Salmonella typhimurium TA1535/pSK1002,True
+20,Genotoxicity in Salmonella typhimurium in presence of metabolic activation by SOS/umu test,,,,presence of metabolic activation,Salmonella typhimurium,True

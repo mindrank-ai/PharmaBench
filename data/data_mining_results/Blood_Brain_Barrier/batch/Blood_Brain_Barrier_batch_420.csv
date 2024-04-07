@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+400,Permeability of the compound at donor pH 6.2 and acceptor pH 7.4 by PAMPA,PAMPA,,,donor 6.2 and acceptor 7.4,,False
+401,Permeability of the compound across Homo sapiens (human) Caco2 cells,human Caco2,,,,,False
+402,Permeability of the compound in pH 7.4 phosphate buffer solution after 4 hrs by LC-MS/MS based PAMPA assay,LC-MS/MS PAMPA,,,7.4,after 4 hrs,False
+403,Permeability of the compound in simulated dialysis membrane at pH 6.8 measured within 6 hrs by Franz diffusion cell-based spectrophotometric method,,,Franz diffusion cell-based,6.8,measured within 6 hrs,False
+404,Permeability of compound by PAMPA method,PAMPA,,,,,False
+405,Permeability of the compound in simulated dialysis membrane at pH 6.8 measured within 6 hrs using solid lipid nanoparticle formulation by Franz diffusion cell-based spectrophotometric method,,,Franz diffusion cell-based,6.8,measured within 6 hrs,False
+406,Permeability across apical to basal side in human Caco-2 cells preincubated with verapamil for 30 mins followed by compound addition measured at 0.5 to 2 hrs by LC-MS analysis,human Caco-2 LC-MS,,apical to basal,,preincubated with verapamil and compound addition,False
+407,Permeability from apical to basolateral side in human Caco-2 cells after 21 days,human Caco-2,,apical to basolateral,,after 21 days,False
+408,Permeability of the compound in pH 7.05 phosphate buffer incubated for 3 hrs by artificial membrane permeability assay based LCMS analysis,,,artificial membrane permeability assay LCMS,7.05,incubated for 3 hrs,False
+409,Permeability from apical to basolateral side in dog MDCK cells expressing MDR-1 gene,MDCK MDR-1,,apical to basolateral,,,False
+410,Permeability of the compound at pH 7.4,,,,7.4,,False
+411,Permeability across apical to basolateral side in human Caco2 cells at 2 uM,human Caco2,,apical to basolateral,,at 2 uM,False
+412,Permeability in dog RRCK cells after 2 hrs by transwell assay,dog RRCK transwell,,,,after 2 hrs,False
+413,Permeability across apical to basolateral membrane in MDCK cells,MDCK,,apical to basolateral,,,False
+414,Permeability of compound at pH 7.4 assessed as drug retention by PAMPA,PAMPA,,drug retention,7.4,,False
+415,Permeability of compound in PBS/EtOH buffer (7:3) at 100 ul and pH 7.4 after 2 hrs and 30 mins by UV plate reader based PAMPA-BBB assay,PAMPA-BBB,,,7.4,at 100 ul after 2 hrs and 30 mins,True
+416,Permeability across apical to basal side in human Caco-2 cells measured at 0.5 to 2 hrs by LC-MS analysis,human Caco-2 LC-MS,,apical to basal,,measured at 0.5 to 2 hrs,False
+417,Permeability of compound at pH 5.5 measured after 4 hrs by PAMPA assay,PAMPA,,,5.5,measured after 4 hrs,False
+418,Permeability of the compound in pH 7.4 phosphate buffered saline at 20 uM after 20 hrs by PAMPA,PAMPA,,,7.4,at 20 uM after 20 hrs,False
+419,Permeability of the compound in PBS/ethanol at 1 mg/ml after 4 hrs by PAMPA,PAMPA,,,,at 1 mg/ml after 4 hrs,False

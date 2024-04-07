@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+580,Kinetic solubility of compound in phosphate buffer at pH 6.5 measured after 30 mins by HPLC-UV based analysis,6.5,phosphate buffer,30 mins,HPLC-UV analysis,,True
+581,Aqueous solubility of the compound in amorphous form at pH 2 after 24 hrs by shake flask method,2.0,aqueous (amorphous form),24 hrs,shake flask method,,True
+582,Solubility of the compound in PBS at pH 7,7.0,PBS,,,,True
+583,Aqueous solubility of the compound at pH 5,5.0,aqueous,,,,True
+584,Solubility of the compound at pH 6.8 by high throughput equilibrium method,6.8,aqueous,,high throughput equilibrium method,,True
+585,Aqueous solubility of the compound in pH 6.8 buffer solution after 24 hrs by LC-UV analysis,6.8,buffer solution,24 hrs,LC-UV analysis,,True
+586,Aqueous solubility in pH 7.4 phosphate buffer after 24 hrs by LC-UV-MS analysis,7.4,phosphate buffer,24 hrs,LC-UV-MS analysis,,True
+587,Kinetic solubility of compound in PBS at pH 7.4 at 200 uM incubated for 24 hrs by UPLC/MS analysis,7.4,PBS,24 hrs,UPLC/MS analysis,,True
+588,Aqueous solubility of the compound in pH 6.8 JP2 fluid measured after 4 hrs by HPLC-UV analysis,6.8,JP2 fluid,4 hrs,HPLC-UV analysis,,True
+589,Solubility in water at pH 7 at 20 degC,7.0,water,,,20 degC,True
+590,Solubility of the compound by LYSA,,,,LYSA,,True
+591,Solubility of compound in phosphate buffer at pH 6.5 after one night incubation by HPLC-UV method,6.5,phosphate buffer,overnight,HPLC-UV method,,True
+592,Thermodynamic solubility of compound in buffer at 298 +/- 0.1 K after 24 hrs by shake flask method,,buffer,24 hrs,shake flask method,298 +/- 0.1 K,True
+593,Aqueous solubility at pH 7.4 by direct UV method,7.4,aqueous,,direct UV method,,True
+594,Kinetic solubility of the compound in FaSSIF at pH 6.5 after 2 hrs by shake flask method,6.5,FaSSIF,2 hrs,shake flask method,,True
+595,Solubility in FeSSIF at pH 5,5.0,FeSSIF,,,,True
+596,Aqueous solubility in pH 7.4 PBS buffer by UV-Visible spectrophotometric method,7.4,PBS buffer,,UV-Visible spectrophotometric method,,True
+597,Solubility in 0.01 M sodium phosphate buffer at pH = 7.4,7.4,sodium phosphate buffer,,,,True
+598,Solubility of the compound in aqueous phosphate buffer at 25 degC at pH 7.4 after 24 hrs,7.4,aqueous phosphate buffer,24 hrs,LC-UV analysis,25 degC,True
+599,Solubility of the compound in phosphate buffer at pH 7.4 by chemi-luminescent nitrogen detection method,7.4,phosphate buffer,,chemi-luminescent nitrogen detection method,,True

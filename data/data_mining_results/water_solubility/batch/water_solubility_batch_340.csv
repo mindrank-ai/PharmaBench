@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+260,Solubility in water by spectrophotometry,,water,,spectrophotometry,,True
+261,Kinetic solubility of the compound at pH 6.8,6.8,,,kinetic solubility,,True
+262,Solubility of the compound in bis-tris propane at pH 7 by UPLC analysis,7.0,bis-tris propane,,UPLC analysis,,True
+263,Kinetic solubility in HCl buffer at pH 2.0 by nephelometric analysis,2.0,HCl buffer,,nephelometric analysis,,True
+264,Solubility of the compound in bis-tris propane at pH 7.5 by UPLC analysis,7.5,bis-tris propane,,UPLC analysis,,True
+265,Solubility of the compound in bis-tris propane at pH 8 by UPLC analysis,8.0,bis-tris propane,,UPLC analysis,,True
+266,Solubility of the compound in bis-tris propane at pH 6.5 by UPLC analysis,6.5,bis-tris propane,,UPLC analysis,,True
+267,Kinetic solubility of compound in Tris-HCl buffer at pH 7.4 at 1 mM after 4 hrs by HPLC analysis,7.4,Tris-HCl buffer,4 hrs,HPLC analysis,,True
+268,Aqueous solubility of compound in pH 7 citrate buffer using amorphous form after 16 hrs by LC-MS/MS analysis,7.0,pH 7 citrate buffer,16 hrs,LC-MS/MS analysis,,True
+269,Aqueous solubility of the compound in pH 4 acetate buffer by RP-UPLC analysis,4.0,pH 4 acetate buffer,,RP-UPLC analysis,,True
+270,Aqueous solubility in pH 6.8 JP2 buffer incubated for 24 hrs by HPLC analysis,6.8,pH 6.8 JP2 buffer,24 hrs,HPLC analysis,,True
+271,Thermodynamic solubility of compound,,,,thermodynamic solubility,,True
+272,Solubility of the compound in bis-tris propane at pH 6 by UPLC analysis,6.0,bis-tris propane,,UPLC analysis,,True
+273,Solubility of the compound in lactate at pH 3 by UPLC analysis,3.0,lactate,,UPLC analysis,,True
+274,Aqueous solubility of the compound at 1 mg measured after 12 hrs by shake flask method,,aqueous,12 hrs,shake flask method,,True
+275,Aqueous solubility in PBS at pH 7,7.0,PBS,,,,True
+276,Solubility of the compound in phosphate buffer solution at pH 7.4 incubated for 1 hr in shaker and subsequently equilibrated for 72 hrs by LC/MS analysis,7.4,phosphate buffer solution,72 hrs,LC/MS analysis,,True
+277,Solubility of the compound in in fasted state simulated intestinal fluid at pH 6.8 incubated for 1 hr in shaker and subsequently equilibrated for 72 hrs by LC/MS analysis,6.8,fasted state simulated intestinal fluid,72 hrs,LC/MS analysis,,True
+278,Equilibrium solubility at pH 7.4 in phosphate buffer,7.4,phosphate buffer,,equilibrium solubility,,True
+279,Solubility of the compound in alphaMEM containing 5% FCS and 1% DMSO by HPLC analysis,,alphaMEM containing 5% FCS and 1% DMSO,,HPLC analysis,,True

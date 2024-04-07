@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+1,Protein binding in human plasma,Human,,,,,True
+2,Plasma protein binding in human,Human,,,,,True
+3,Protein binding in mouse plasma,Mouse,,,,,True
+4,Protein binding in rat plasma,Rat,,,,,True
+5,Plasma protein binding in rat,Rat,,,,,True
+6,Plasma protein binding in mouse,Mouse,,,,,True
+7,Protein binding in plasma (unknown origin),,,,,,True
+8,Protein binding in human plasma after 18 hrs by LC/MS/MS based rapid equilibrium dialysis method,Human,,18 hrs,LC/MS/MS,Rapid Equilibrium Dialysis,True
+9,Protein binding in human plasma at 5 uM incubated for 5 hrs by rapid equilibrium dialysis,Human,5 uM,5 hrs,,Rapid Equilibrium Dialysis,True
+10,Protein binding in rat plasma at 200 to 1000 ng/ml measured after 15 mins by UC-LC/MS/MS analysis,Rat,200 to 1000 ng/ml,15 mins,UC-LC/MS/MS,,True
+11,The protein binding is expressed as percent bound as determined by VolSurf,,,,VolSurf,,False
+12,Protein binding in human plasma after 18 hrs by rapid equilibrium dialysis method,Human,,18 hrs,,Rapid Equilibrium Dialysis,True
+13,Protein binding in dog plasma,Dog,,,,,True
+14,Percentage binding to plasma protein.,,,,,,False
+15,Plasma protein binding in dog,Dog,,,,,True
+16,Plasma protein binding in mouse assessed as unbound fraction,Mouse,,,,,True
+17,Protein binding in human plasma at 10 uM after 4 hrs by RF-MS analysis,Human,10 uM,4 hrs,RF-MS,,True
+18,Protein binding in human plasma assessed as bound fraction,Human,,,,,True
+19,Protein binding in human serum at 1 ug/ml incubated for 4 hrs by LC-MS/MS analysis,Human,1 ug/ml,4 hrs,LC-MS/MS,,True
+20,Plasma protein binding in human assessed as unbound fraction,Human,,,,,True

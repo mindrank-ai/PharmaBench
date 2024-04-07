@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in CHOK1 cells by micronucleus assay,,,,,CHOK1 cells,False
+2,Mutagenic activity in Salmonella typhimurium TA98 assessed as induction of reverse mutation at 50 uM,50 uM,,,,Salmonella typhimurium TA98,False
+3,Genotoxicity in Salmonella typhimurium TA98 at 10 to 500 uM by AMES test,10 to 500 uM,,,,Salmonella typhimurium TA98,True
+4,Genotoxicity in micronucleus (unknown origin),,,,,micronucleus (unknown origin),False
+5,Toxicity in liver microsomes isolated from CYP activator dexamethasone-treated Sprague-Dawley rat assessed as induction of mitochondrial permeability transition by measuring mitochondrial swelling at 50 uM measured after 30 mins in absence of NADPH,50 uM,,30 mins,absence of NADPH,liver microsomes (Sprague-Dawley rat),False
+6,"Inhibition of sterol biosynthesis in Leishmania mexicana amazonensis promastigotes assessed as reduction in endogenous cholesta-5,7,24-trien-3beta-ol level at 10 uM after 96 hrs by gas-liquid chromatography",10 uM,,96 hrs,,Leishmania mexicana amazonensis promastigotes,False
+7,Toxicity in Salmonella Typhimurium T98 at 600 ug/plate after 72 hrs in presence of Ames S-9 fraction,600 ug/plate,,72 hrs,Ames S-9 fraction,Salmonella Typhimurium T98,False
+8,Mutagenicity in Escherichia coli PQ37 at 10 to 500 uM by SOS-chromotest,10 to 500 uM,,,,Escherichia coli PQ37,False
+9,Genotoxicity in Salmonella typhimurium TA104 at 0.25 to 25 uM measured every 5 mins for 4 hrs by vitotox assay,0.25 to 25 uM,,every 5 mins for 4 hrs,,Salmonella typhimurium TA104,False
+10,Binding affinity to 2-amino purine labelled SAM2 riboswitch aptamer assessed as change in fluorescence at 5 mM to 10 mM at pH 8.3 by fluorescence binding assay,5 mM to 10 mM,,,,,False
+11,Mutagenicity in Salmonella typhi TA1537 by Ames test in presence of liver S9 fraction,,,,liver S9 fraction,Salmonella typhi TA1537,True
+12,Mutagenicity in Escherichia coli PQ35 at 10 to 500 uM by SOS-chromotest,10 to 500 uM,,,,Escherichia coli PQ35,False
+13,Genotoxicity in Salmonella typhimurium TA102 at 10 to 500 uM by AMES test,10 to 500 uM,,,,Salmonella typhimurium TA102,True
+14,Genotoxicity in Salmonella typhimurium TA100 at 10 to 500 uM by AMES test,10 to 500 uM,,,,Salmonella typhimurium TA100,True
+15,Genotoxicity against human HTLA-230 cells assessed as phosphorylation of histone H2AX at 100 uM after 24 hrs by Western blot analysis,100 uM,,24 hrs,,human HTLA-230 cells,False
+16,Genotoxicity in CHO cells assessed as mitotic inhibition at 5 ppm after 60 mins in dark followed by 5 W/m'2 UV irradiation for 30 mins,5 ppm,,60 mins in dark followed by 30 mins UV irradiation,,CHO cells,False
+17,Genotoxicity in Salmonella typhimurium TA97 at 10 to 500 uM by AMES test,10 to 500 uM,,,,Salmonella typhimurium TA97,True
+18,Effect on morphology in human A498 cells assessed as cell aberration at 100 umol after 16 hrs by microfilament immunofluorescence assay,100 umol,,16 hrs,,human A498 cells,False
+19,Genotoxicity in Salmonella typhimurium TA104 at 0.25 to 25 uM measured every 5 mins for 4 hrs by vitotox assay in presence of S9 liver extract,0.25 to 25 uM,,every 5 mins for 4 hrs,S9 liver extract,Salmonella typhimurium TA104,False
+20,Toxicity in liver microsomes isolated from CYP activator dexamethasone-treated Sprague-Dawley rat assessed as induction of mitochondrial permeability transition by measuring mitochondrial swelling at 50 uM measured after 30 mins in presence of NADPH,50 uM,,30 mins,NADPH,liver microsomes (Sprague-Dawley rat),False

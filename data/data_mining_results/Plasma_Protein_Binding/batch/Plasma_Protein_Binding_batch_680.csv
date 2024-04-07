@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+661,Plasma protein binding in cynomolgus monkey at 5 uM incubated for 5 hrs by LC-MS analysis,Cynomolgus Monkey Plasma,5 uM,5 hrs,LC-MS,,True
+662,Protein binding in human plasma by HPLC-UV/Vis detection-based equilibrium dialysis method,Human Plasma,,,HPLC-UV/Vis,Equilibrium Dialysis,True
+663,Protein binding in mouse plasma at 300 ng/ml after 8 hrs by equilibrium dialysis,Mouse Plasma,300 ng/ml,8 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+664,Protein binding in mouse plasma fraction at 5 uM after 4.5 hrs LC-MS/MS-based rapid equilibrium dialysis method,Mouse Plasma,5 uM,4.5 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+665,Protein binding in human plasma at 10 uM after 6 hrs by LC-MS/MS based equilibrium dialysis method,Human Plasma,10 uM,6 hrs,LC-MS/MS,Equilibrium Dialysis,True
+666,Plasma protein binding in mouse at 10 uM after 5 hrs by LC-MS/MS analysis,Mouse Plasma,10 uM,5 hrs,LC-MS/MS,,True
+667,Protein binding in human plasma a 5 uM after 5 hrs by UPLC-MS based rapid equilibrium dialysis method,Human Plasma,5 uM,5 hrs,UPLC-MS,Rapid Equilibrium Dialysis,True
+668,Binding affinity to rat hemoglobin assessed as protein bound compound level at 20 uM,Rat Hemoglobin,20 uM,,,,False
+669,Protein binding in Sprague-Dawley rat brain after 4.2 hrs by LC-MS analysis based ultracentrifugation assay,Sprague-Dawley Rat Brain,,4.2 hrs,Ultracentrifugation,Ultracentrifugation,False
+670,Protein binding in mouse plasma at 5 uM by LC-MS/MS based equilibrium dialysis method,Mouse Plasma,5 uM,,LC-MS/MS,Equilibrium Dialysis,True
+671,Protein binding in human plasma after 4 hrs by equilibrium dialysis method,Human Plasma,,4 hrs,Equilibrium Dialysis,,True
+672,Protein binding in human plasma measured after 4 hrs by rapid equilibrium dialysis,Human Plasma,,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+673,Protein binding in dog plasma at 5 uM incubated for 16 hrs under shaking condition by LC/MS/MS based rapid equilibrium dialysis method,Dog Plasma,5 uM,16 hrs,LC/MS/MS,Rapid Equilibrium Dialysis,True
+674,Protein binding in human plasma at 1 uM incubated for 5 hrs under shaking conditions by LC-MS analysis,Human Plasma,1 uM,5 hrs,LC-MS,,True
+675,Protein binding in mouse plasma at 10 uM incubated for 4 hrs by HPLC-MS/MS analysis,Mouse Plasma,10 uM,4 hrs,HPLC-MS/MS,,True
+676,"Protein binding in human at 0.4 g, po by HPLC analysis",Human,0.4 g,,HPLC,,False
+677,Protein binding in mouse plasma at 5 uM after 45 mins by LC-MS/MS analysis,Mouse Plasma,5 uM,45 mins,LC-MS/MS,,True
+678,Protein binding in human plasma at 10 uM incubated for 4 hrs by HPLC-MS/MS analysis,Human Plasma,10 uM,4 hrs,HPLC-MS/MS,Equilibrium Dialysis,True
+679,"Protein binding in rat plasma at 0.5 mg/kg, iv or 1 mg/kg, po",Rat Plasma,1 mg/kg,,,,False
+680,Protein binding to human plasma,Human Plasma,,,,,True

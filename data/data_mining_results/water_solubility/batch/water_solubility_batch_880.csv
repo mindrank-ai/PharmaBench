@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+60,Kinetic solubility of the compound at 10 mg/ml at pH 2 by nephelometry,2.0,,,nephelometry,,True
+61,Aqueous solubility of the compound in pH 6.8 phosphate buffer after 24 hrs by HPLC analysis,6.8,phosphate buffer,24 hrs,HPLC analysis,,True
+62,Kinetic solubility of the compound at pH 6.5 by nephelometric analysis,6.5,,,nephelometric analysis,,True
+63,Solubility of the compound in simulated intestinal fluid at pH 7.4,7.4,simulated intestinal fluid,,,,True
+64,Solubility in simulated gastric fluid at pH 1.5 by HPLC method,1.5,simulated gastric fluid,,HPLC method,,True
+65,Kinetic solubility of compound in PBS at pH 2 measured after 24 hrs by HPLC analysis,2.0,PBS,24 hrs,HPLC analysis,,True
+66,Solubility of the compound in water at 1 mg at 20 degC after 24 to 36 hrs by LC-UV-MS analysis,,water,24 to 36 hrs,LC-UV-MS analysis,20 degC,True
+67,Solubility of the compound at pH 6.8 after 24 hrs by shake flask method,6.8,,24 hrs,shake flask method,,True
+68,Aqueous solubility of the compound in Dulbecco's phosphate buffered saline at pH 7.4 by DMSO solution precipitation method,7.4,Dulbecco's phosphate buffered saline,,DMSO solution precipitation method,,True
+69,Kinetic solubility of the compound in aqueous phosphate buffer at pH 7.4 after 24 hrs by HPLC/CLND method,7.4,aqueous phosphate buffer,24 hrs,HPLC/CLND method,,True
+70,Solubility by shake-flask method,,,,shake-flask method,,
+71,Solubility at pH 5.4,5.4,,,,,
+72,Aqueous solubility of the compound in sodium phosphate buffer at pH 6.8 after 90 mins by shake flask method,6.8,sodium phosphate buffer,90 mins,shake flask method,,True
+73,Thermodynamic solubility in aqueous buffer at pH 1 at 20 degC by HPLC,1.0,aqueous buffer,,HPLC,20 degC,True
+74,Thermodynamic solubility in aqueous buffer at pH 7.4 at 20 degC by HPLC,7.4,aqueous buffer,,HPLC,20 degC,True
+75,Aqueous solubility of the compound at pH 7.4 measured after 24 hrs by HPLC analysis,7.4,,24 hrs,HPLC analysis,,True
+76,Aqueous solubility of compound at pH 2 by nephelometry,2.0,,,nephelometry,,True
+77,Aqueous solubility of compound at pH 6.5 by nephelometry,6.5,,,nephelometry,,True
+78,Solubility of the compound in KH2PO4/Na2HPO4 buffer at pH 6.8 by shake-flask method,6.8,KH2PO4/Na2HPO4 buffer,,shake-flask method,,True
+79,Solubility of the compound in NaCl/HCl buffer at pH 1.2 by shake-flask method,1.2,NaCl/HCl buffer,,shake-flask method,,True

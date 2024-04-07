@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,"Clearance in rat at 1 mg/kg, iv or 10 mg/kg, po","1 mg/kg iv, 10 mg/kg po",none,none,rat,none,none,rat,"iv, po",none,none,False
+1,"Clearance in rat at 2.5 mg/kg, iv or 5 mg/kg, po measured up to 24 hrs by LC-MS/MS analysis","2.5 mg/kg iv, 5 mg/kg po",up to 24 hrs,none,rat,none,LC-MS/MS,rat,"iv, po",none,none,False
+2,Metabolic stability in human liver microsomes assessed as intrinsic clearance incubated for 1 hr by LC/MS/MS method,none,1 hr,none,human liver microsomes,none,LC/MS/MS,human,none,liver microsomes,none,True
+3,"Clearance in BALB/c mouse at 3 mg/kg, iv by LC-MS/MS analysis",3 mg/kg,none,none,BALB/c mouse,none,LC-MS/MS,BALB/c mouse,iv,none,none,False
+4,"Clearance in Sprague-Dawley rat at 100 nmol/kg, sc",100 nmol/kg,none,none,Sprague-Dawley rat,none,none,Sprague-Dawley rat,sc,none,none,False
+5,"Clearance in C57BL/6 mouse at 1 mg/kg, iv or 10 mg/kg, po administered via gavage by HPLC-MS/MS analysis","1 mg/kg iv, 10 mg/kg po",none,none,C57BL/6 mouse,none,HPLC-MS/MS,C57BL/6 mouse,"iv, po",none,none,False
+6,Metabolic stability in human liver microsomes assessed as intrinsic clearance at 1 uM by LC-MS/MS analysis,1 uM,none,none,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+7,"Clearance in Sprague-Dawley rat blood at 1 mg/kg, iv measured upto 24 hrs by LC-MS analysis",1 mg/kg,up to 24 hrs,none,Sprague-Dawley rat,none,LC-MS,Sprague-Dawley rat,iv,none,none,False
+8,Intrinsic clearance in mouse liver microsomes in presence of NADPH and measured upto 45 mins,none,up to 45 mins,NADPH,mouse liver microsomes,none,none,mouse,none,liver microsomes,none,True
+9,"Clearance in ICR mouse at 10 mg/kg, iv or po measured up to 1440 mins by LC-MS/MS analysis",10 mg/kg,up to 1440 mins,none,ICR mouse,none,LC-MS/MS,ICR mouse,"iv, po",none,none,False
+10,"Clearance in Sprague-Dawley rat at 1 mg/kg, iv administered via gavage measured after 0.02 to 24 hrs by tandem liquid chromatography/mass spectrometry",1 mg/kg,0.02 to 24 hrs,none,Sprague-Dawley rat,none,tandem liquid chromatography/mass spectrometry,Sprague-Dawley rat,iv,none,none,False
+11,Clearance in human hepatic microsomes at 2 uM measured up to 60 mins in presence of NADPH generating system by LC-MS/MS analysis,2 uM,up to 60 mins,NADPH generating system,human hepatic microsomes,none,LC-MS/MS,human,none,hepatic microsomes,none,True
+12,"Intrinsic clearance in Wistar Han rat at 2 mg/kg, iv by LC-MS/MS analysis",2 mg/kg,none,none,Wistar Han rat,none,LC-MS/MS,Wistar Han rat,iv,none,none,False
+13,"Clearance in Sprague-Dawley rat at 0.25 mg/kg, iv measured upto 8 hrs by LC/MS/MS analysis",0.25 mg/kg,up to 8 hrs,none,Sprague-Dawley rat,none,LC/MS/MS,Sprague-Dawley rat,iv,none,none,False
+14,"Clearance in rat at 1 mg/kg,iv",1 mg/kg,none,none,rat,none,none,rat,iv,none,none,False
+15,Metabolic stability in human liver microsomes assessed as intrinsic clearance at 1 uM measured upto 120 mins in presence of NADPH regenerating system by LC-MS/MS analysis,1 uM,up to 120 mins,NADPH regenerating system,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+16,"Clearance in CD-1 mouse at 0.6 mg/kg, iv",0.6 mg/kg,none,none,CD-1 mouse,none,none,CD-1 mouse,iv,none,none,False
+17,"Clearance in Sprague-Dawley rat plasma at 1 mg/kg, iv measured upto 24 hrs by LC-MS analysis",1 mg/kg,up to 24 hrs,none,Sprague-Dawley rat,none,LC-MS,Sprague-Dawley rat,iv,none,none,False
+18,Clearance in iv dosed Sprague-Dawley rat,none,none,none,Sprague-Dawley rat,none,none,Sprague-Dawley rat,iv,none,none,False
+19,"Clearance in rat plasma at 1 mg/kg, iv",1 mg/kg,none,none,rat,none,none,rat,iv,none,none,False

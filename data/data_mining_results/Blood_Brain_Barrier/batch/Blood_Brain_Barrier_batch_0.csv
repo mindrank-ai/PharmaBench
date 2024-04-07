@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+0,Permeability of the compound by PAMPA,PAMPA,,,,,False
+1,Permeability of the compound at pH 7.4 by PAMPA,PAMPA,,,7.4,,False
+2,SUPPLEMENTARY: PAMPA permeability assay,PAMPA,,,,,False
+3,Permeability of compound by PAMPA assay,PAMPA,,,,,False
+4,Permeability from apical to basolateral side in human Caco2 cells,Caco2,,apical to basolateral,,,False
+5,Permeability across apical to basolateral side in human Caco2 cells,Caco2,,apical to basolateral,,,False
+6,Permeability across human Caco2 cells,Caco2,,,,,False
+7,Permeability from basolateral to apical side in human Caco2 cells,Caco2,,basolateral to apical,,,False
+8,Permeability at pH 7.4 by PAMPA method,PAMPA,,,7.4,,False
+9,Permeability in human Caco2 cells,Caco2,,,,,False
+10,Permeability from apical to basolateral side of human Caco2 cells,Caco2,,apical to basolateral,,,False
+11,Permeability of the compound at pH 7.4 by PAMPA assay,PAMPA,,,7.4,,False
+12,Permeability of the compound by PAMPA method at pH 7.4,PAMPA,,,7.4,,False
+13,Permeability of the compound at pH 7.4 after 30 mins by PAMPA,PAMPA,,,7.4,after 30 mins,False
+14,Membrane permeability by PAMPA,PAMPA,,,,,False
+15,Membrane permeability by PAMPA assay,PAMPA,,,,,False
+16,Permeability of compound by PAMPA,PAMPA,,,,,False
+17,Permeability of compound by PAMPA-BBB assay,PAMPA-BBB,,,,,True
+18,Passive transcellular permeability of the compound at pH 4 by PAMPA,PAMPA,,,4,,False
+19,Passive transcellular permeability of the compound at pH 7.4 by PAMPA,PAMPA,,,7.4,,False

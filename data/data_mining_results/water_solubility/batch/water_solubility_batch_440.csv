@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+360,Thermodynamic solubility of the compound in DMSO solution after 24 hrs by shake flask method,,DMSO solution,24 hrs,shake flask method,,False
+361,Thermodynamic solubility of the compound in phosphate buffer at pH 7.4 after 24 hrs by HPLC analysis,7.4,phosphate buffer,24 hrs,HPLC analysis,,True
+362,Aqueous solubility of compound in PBS at pH 7.4,7.4,PBS,,,,True
+363,Solubility of the compound by CLND assay,,,,CLND assay,,True
+364,Aqueous solubility of the compound at pH 1,1.0,,,,,True
+365,Aqueous solubility of compound by HPLC analysis,,,,HPLC analysis,,True
+366,Kinetic solubility of compound at pH 7.4 incubated for 24 hrs by LC/CLND method,7.4,,24 hrs,LC/CLND method,,True
+367,Solubility (22 degree C),,,,,22 degree C,True
+368,Solubility in fasted state simulated intestinal fluid at 125 ug/ml incubated for 16 hrs by HPLC analysis,,fasted state simulated intestinal fluid,16 hrs,HPLC analysis,,True
+369,Kinetic solubility in pH 6.5 phosphate buffer incubated for 30 mins by nephelometry,6.5,phosphate buffer,30 mins,nephelometry,,True
+370,Aqueous solubility in pH 7.4 buffer,7.4,pH 7.4 buffer,,,,True
+371,Kinetic solubility in PBS buffer at pH 7.4 after 18 hrs by UV-spectroscopic analysis,7.4,PBS buffer,18 hrs,UV-spectroscopic analysis,,True
+372,Kinetic aqueous solubility of compound in DMSO by nephelometric analysis,,DMSO,,nephelometric analysis,,False
+373,Thermodynamic solubility of the compound at pH 7.4 after 24 hrs by UPLC-MS analysis,7.4,,24 hrs,UPLC-MS analysis,,True
+374,Kinetic solubility of compound in phosphate buffer saline,,phosphate buffer saline,,kinetic solubility,,True
+375,Aqueous solubility of the compound in PBS buffer with 1% DMSO at pH 7.4 by nephelometry,7.4,PBS buffer with 1% DMSO,None,nephelometry,,True
+376,Thermodynamic solubility in phosphate buffer at pH 7.4 at 2 mg incubated under shaking condition for 6 hrs followed by rechecking and readjusting pH to 7.4 and further incubated for 18 hrs by HPLC/UV detection method,7.4,phosphate buffer,24 hrs,HPLC/UV detection method,,True
+377,Aqueous solubility in PBS buffer at pH 7.4 by HPLC analysis,7.4,PBS buffer,,HPLC analysis,,True
+378,Thermodynamic solubility of the compound in pH 6.8 phosphate buffer after 24 hrs by HPLC analysis,6.8,phosphate buffer,24 hrs,HPLC analysis,,True
+379,Kinetic solubility of compound in PBS at pH 7.4 incubated for 24 hrs by chemiluminscent nitrogen detection method,7.4,PBS,24 hrs,chemiluminscent nitrogen detection method,,True

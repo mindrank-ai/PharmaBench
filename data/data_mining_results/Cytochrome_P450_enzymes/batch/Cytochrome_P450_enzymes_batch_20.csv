@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+21,Inhibition of human CYP2C19,CYP2C19,,,,,,,,,human,True
+22,"DRUGMATRIX: CYP450, 2D6 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",CYP2D6,,,,3-Cyano-7-ethoxycoumarin,,,DRUGMATRIX,,,True
+23,"Inhibition of human CYP11B2 expressed in hamster V79MZh cells using [1,2-3H]-11-deoxycorticosterone as substrate",CYP11B2,,,,"[1,2-3H]-11-deoxycorticosterone",,,,hamster V79MZh cells,human,True
+24,Inhibition of human recombinant CYP1A2,CYP1A2,,,,,,,,recombinant,human recombinant,True
+25,In vitro inhibitory concentration against human placental CYP19 incubated with 500 nM of substrate androstenedione in presence of the compound,CYP19,,,,500 nM androstenedione,500 nM,,,,human placental,True
+26,Inhibition of human CYP11B2 expressed in hamster V79 MZh cells,CYP11B2,,,,,,,,hamster V79 MZh cells,human,True
+27,In vitro inhibitory concentration against human CYP11B2 expressed in V79MZh hamster fibroblasts incubated with 100 nM of substrate deoxy-corticosterone in presence of the compound,CYP11B2,,,,100 nM deoxy-corticosterone,100 nM,,,V79MZh hamster fibroblasts,human,True
+28,DNDI: CYP Inhibition,,,,,,,,DNDI,,,True
+29,Inhibition of human recombinant CYP2C9,CYP2C9,,,,,,,,recombinant,human recombinant,True
+30,Inhibition of CYP2C9 in human liver microsomes,CYP2C9,,,,,,,,,human liver microsomes,True
+31,Inhibition of CYP3A4 in human liver microsomes,CYP3A4,,,,,,,,,human liver microsomes,True
+32,Inhibition of CYP8B1 in human liver microsomes using 7alpha-hydroxy-4-cholesten-3-one as substrate preincubated followed by substrate addition in presence of NADPH and measured after 45 mins by ESI-MS analysis,CYP8B1,45 mins,,,7alpha-hydroxy-4-cholesten-3-one,,NADPH,ESI-MS,,human liver microsomes,True
+33,"DRUGMATRIX: CYP450, 2C19 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",CYP2C19,,,,3-Cyano-7-ethoxycoumarin,,,DRUGMATRIX,,,True
+34,Inhibition of human CYP11B1 expressed in hamster V79 MZh cells,CYP11B1,,,,,,,,hamster V79 MZh cells,human,True
+35,Reversible inhibition of CYP3A4,CYP3A4,,,,,,,,,,True
+36,Inhibition of recombinant CYP21 (unknown origin) expressed in human AD293 cells using 17alpha-hydroxyprogesterone as substrate pretreated for 60 mins followed by substrate addition and measured after 45 mins by LC/MS analysis,CYP21,60 mins,,,17alpha-hydroxyprogesterone,,,LC/MS,human AD293 cells,recombinant,True
+37,Inhibition of recombinant CYP17 (unknown origin) expressed in human AD293 cells using 21[3H]-17alpha-hydroxyl-pregnenolone as substrate pretreated for 60 mins followed by substrate addition and measured after 4 hrs by Topcount method,CYP17,60 mins,,,21[3H]-17alpha-hydroxyl-pregnenolone,,,Topcount,human AD293 cells,recombinant,True
+38,Inhibition of CYP2D6 in human liver microsomes,CYP2D6,,,,,,,,,human liver microsomes,True
+39,Inhibition of CYP3A4 in human liver microsomes using midazolam as substrate after 10 mins by LC/MS/MS analysis,CYP3A4,10 mins,,,midazolam,,,LC/MS/MS,,human liver microsomes,True
+40,"DRUGMATRIX: CYP450, 3A4 enzyme inhibition (substrate: 7-Benzyloxy-4-(trifluoromethyl)-coumarin)",CYP3A4,,,,7-Benzyloxy-4-(trifluoromethyl)-coumarin,,,DRUGMATRIX,,,True

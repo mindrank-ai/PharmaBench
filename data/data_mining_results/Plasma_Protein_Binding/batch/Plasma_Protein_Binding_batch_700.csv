@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+681,Protein binding in human plasma assessed as compound remaining at 5 uM incubated for 4 hrs by LC/MS/MS analysis,Human Plasma,5 uM,4 hrs,LC/MS/MS,,True
+682,Protein binding in rat plasma at 1 ug/ml after 4 hrs by rapid equilibrium dialysis and LC-MS/MS analysis,Rat Plasma,1 ug/ml,4 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+683,Protein binding in rat liver at 1 ug/ml after 4 hrs by rapid equilibrium dialysis and LC-MS/MS analysis,Rat Liver,1 ug/ml,4 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,False
+684,Protein binding in rat plasma at 1 uM after 5 hrs by LC/MS analysis,Rat Plasma,1 uM,5 hrs,LC/MS,,True
+685,Protein binding in dog assessed as bound fraction,Dog,,,,,True
+686,Plasma protein binding in human at 2 uM after 6 hrs by equilibrium dialysis method,Human Plasma,2 uM,6 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+687,Protein binding in CD1 mouse plasma after 6 hrs by LC-ESI MS analysis,CD1 Mouse Plasma,,6 hrs,LC-ESI MS,,True
+688,Protein binding in rat plasma measured after 6 hrs by LC-MS analysis based equilibrium dialysis method,Rat Plasma,,6 hrs,LC-MS,Equilibrium Dialysis,True
+689,"Protein binding in CD-1 mouse plasma at 1 mg/kg, iv measured at 2 hrs by LC/MS/MS method",CD-1 Mouse Plasma,1 mg/kg,2 hrs,LC/MS/MS,,False
+690,Binding affinity to monkey hemoglobin assessed as protein bound compound level at 1 uM,Monkey Hemoglobin,1 uM,,,,False
+691,"Protein binding in dog plasma at 0.5 mg/kg, iv or 1 mg/kg, po",Dog Plasma,0.5 mg/kg,,LC-MS/MS,,False
+692,"Protein binding in plasma of PS2APP mouse model at 15 to 50 mg/kg, po administered as single dose after 6 hrs",PS2APP Mouse Model Plasma,15 to 50 mg/kg,6 hrs,LC-MS,,False
+693,"Plasma protein binding in beagle dog plasma at 0.3 mg/kg, po or 0.1 mg/kg, iv measured after 4 hrs by rapid equilibrium dialysis method",Beagle Dog Plasma,0.3 mg/kg,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+694,Protein binding in rat plasma assessed as bound fraction at 10 uM after 6 hrs by LC-MS/MS analysis,Rat Plasma,10 uM,6 hrs,LC-MS/MS,Equilibrium Dialysis,True
+695,Protein binding in mouse plasma at 2 uM after 6 hrs by equilibrium dialysis and LC-MS analysis,Mouse Plasma,2 uM,6 hrs,LC-MS,,False
+696,Plasma protein binding in mouse at 10 uM,Mouse Plasma,10 uM,,,,True
+697,Protein binding in OATP knock out Wistar Han rat,OATP Knock Out Wistar Han Rat,,,,,True
+698,Protein binding in rat plasma incubated for 6 hrs by quadrupole mass spectrometry coupled UFLC analysis,Rat Plasma,,6 hrs,UFLC,,False
+699,Plasma protein binding in mouse plasma,Mouse Plasma,,,,,True
+700,Plasma protein binding in sc dosed C57BL/6 mouse by LC-MS/MS analysis,C57BL/6 Mouse,,,LC-MS/MS,,True

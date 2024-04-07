@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Distribution coefficient, log D of the compound by shake flask method",,shake flask,,,,shake flask,True
+2,"Octanol-PBS partition coefficient, log D at 25 mM at pH 7.4",7.4,,Octanol-PBS,,,,True
+3,"Lipophilicity, log D of the compound by shake flask method",,shake flask,,,,shake flask,True
+4,"Octanol-phosphate buffered saline distribution coefficient, log D of the compound at pH 7.4",7.4,,Octanol-phosphate buffered saline,,,,True
+5,"1-Octanol/PBS buffer distribution coefficient, log D of the compound at pH 7.4",7.4,,1-Octanol/PBS,,,,True
+6,"n-Octanol/phosphate buffer partition coefficient, logD of the compound at pH 7.4 incubated for 3 hrs by shake flask method based HPLC-DAD analysis",7.4,HPLC-DAD,n-Octanol/phosphate buffer,,3 hrs,shake flask,True
+7,"Lipophilicity, log D of compound at pH 7.4 by HPLC analysis",7.4,HPLC,,,,,True
+8,"Lipophilicity, log D of the compound by chromatographic method",,chromatography,,,,,True
+9,"Distribution coefficient, logD of the compound",,,,,,,True
+10,"Octanol/water phosphate buffer partition coefficient, log D of compound at pH 7.4 by shake-flask method",7.4,shake-flask,Octanol/water phosphate buffer,,,shake-flask,True
+11,"Lipophilicity, log D at pH 7.4 by shake flask method",7.4,shake flask,,,,shake flask,True
+12,Partition coefficient (logD) (chloroform/buffer),,,chloroform/buffer,,,,True
+13,"Octanol/water partition coefficient, logD of the compound at pH 7.4 by HPLC analysis",7.4,HPLC,Octanol/water,,,,True
+14,"Lipophilicity, logD of the compound in octanol/buffer at pH 7.4 by shake flask method",7.4,shake flask,octanol/buffer,,,shake flask,True
+15,"Octanol-buffer partition coefficient, log D of the compound at pH 7.4",7.4,,Octanol-buffer,,,,True
+16,"Lipophilicity, log D at pH 7.0",7.0,,,,,,True
+17,"Lipophilicity, LogD of the compound",,,,,,,True
+18,"Lipophilicity, log D of the compound at pH 7.4 by by shake flask method",7.4,shake flask,,,,shake flask,True
+19,"Lipophilicity, log D at pH 7.4 by liquid chromatography",7.4,liquid chromatography,,,,,True
+20,"n-Octanol/phosphate buffered saline partition coefficient, log D of the compound at pH 7.4 by LC-UV method",7.4,LC-UV,n-Octanol/phosphate buffered saline,,,,True

@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+141,Inhibition of CYP1A2 in human liver microsomes using phenacetin preincubated for 5 mins by LC-MS/MS analysis,CYP1A2,preincubated for 5 mins,,,phenacetin,,,LC-MS/MS,human liver microsomes,human liver,True
+142,Inhibition of human CYP11B2 expressed in V79 cells assessed as aldosterone level after 3 hrs by HTRF assay in presence of 125 nM 11-deoxycorticosterone,CYP11B2,after 3 hrs,,,125 nM 11-deoxycorticosterone,,,HTRF assay,expressed in V79 cells,human,True
+143,Inhibition of recombinant CYP3A4 by microtiter plate-based fluorimetric assay,CYP3A4,,,,,,,microtiter plate-based fluorimetric assay,recombinant human,recombinant human,True
+144,Inhibition of CYP3A4 using testosterone as substrate,CYP3A4,,,,testosterone,,,,,human,True
+145,Inhibition of cytochrome P450 CYP2C19,CYP2C19,,,,,,,,recombinant human,human,True
+146,Inhibition of human CYP51 expressed in Topp 3 cells by lanosterol demethylase assay,CYP51,,,,,,,lanosterol demethylase assay,expressed in Topp 3 cells,human,True
+147,Inhibition of CYP450 aromatase activity in SK-BR-3 cells,CYP450 aromatase,,,,,,,,in SK-BR-3 cells,human SK-BR-3 cells,True
+148,Inhibition of human CYP1B1 assessed as reduction in 7-ethoxyresorufin O-deethylation activity by fluorescence based EROD assay,CYP1B1,,,,7-ethoxyresorufin,,,fluorescence based EROD assay,,human,True
+149,Inhibition of human CYP3A4 by radiometric assay,CYP3A4,,,,,,,radiometric assay,,human,True
+150,Reversible inhibition of CYP2C9 in human liver microsomes using (S)-warfarin as substrate in presence of NADPH by LC-MS/MS analysis,CYP2C9,,,,(S)-warfarin,in presence of NADPH,NADPH,LC-MS/MS,human liver microsomes,human liver,True
+151,Inhibition of CYP2C19 (unknown origin) by fluorescence assay,CYP2C19,,,,,,,fluorescence assay,,unknown origin,True
+152,Inhibition of human liver CYP1A1 expressed in Saccharomyces cerevisiae YY7 microsomal membranes using 7-ethoxyresorufin as substrate after 10 mins by fluorescence assay,CYP1A1,after 10 mins,,,7-ethoxyresorufin,,,fluorescence assay,expressed in Saccharomyces cerevisiae YY7 microsomal membranes,human liver,True
+153,Inhibition of human CYP11B1 expressed in hamster V79 MZh cells using deoxycorticosterone substrate,CYP11B1,,,,deoxycorticosterone,,,,human liver microsomes,human liver,True
+154,Inhibition of CYP26A1 in human MCF7 cells assessed as all-trans retinoic acid metabolism,CYP26A1,,,,all-trans retinoic acid,,,,expressed in human MCF7 cells,human MCF7 cells,True
+155,Inhibition of CypA (unknown origin) assessed as peptidyl-prolyl cis-trans isomerase activity using N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide as substrate by spectrophotometry,CypA,,,,N-succinyl-Ala-Ala-Pro-Phe-p-nitroanilide,,,spectrophotometry,unknown origin,unknown origin,False
+156,Inhibition of recombinant CYP21 (unknown origin) expressed in human AD293 cells assessed as reduction in 11-deoxycortisol level preincubated for 60 mins followed by 17alpha-OH-progesterone substrate addition and measured after 45 mins by LC-MS method,CYP21,"preincubated for 60 mins, measured after 45 mins",,,17alpha-OH-progesterone,,,LC-MS,recombinant (unknown origin) expressed in human AD293 cells,recombinant (unknown origin),True
+157,Inhibition of human CYP11B1 expressed in hamster V79MZ cells using [3H]-11-deoxycorticosterone as substrate after 1 hr by HPLC analysis,CYP11B1,after 1 hr,,,[3H]-11-deoxycorticosterone,,,HPLC,expressed in hamster V79MZ cells,human,True
+158,Inhibition of CYP11B2 in human V79MZ cells using [3H]-11-deoxycorticosterone as substrate incubated for 1 hr prior to substrate addition measured after 45 mins by HPLC analysis,CYP11B2,"incubated for 1 hr, measured after 45 mins",,,[3H]-11-deoxycorticosterone,,,HPLC,expressed in human V79MZ cells,human,True
+159,Inhibition of human CYP2D6 expressed in Escherichia coli JM109,CYP2D6,,,,,,,,expressed in Escherichia coli JM109,human,True
+160,Inhibition of human CYP11B2 expressed in hamster V79MZh cells,CYP11B2,,,,,,,,expressed in hamster V79MZh cells,human,True

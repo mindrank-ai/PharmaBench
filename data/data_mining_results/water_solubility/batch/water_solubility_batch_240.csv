@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+160,Kinetic solubility in aqueous phosphate buffer at pH 7.4 at 200 uM after 24 hrs by HPLC-MS analysis,7.4,aqueous phosphate buffer,24 hrs,HPLC-MS analysis,,True
+161,Aqueous solubility of the compound at pH 7.4 by pseudothermodynamic equilibrium,7.4,aqueous,,pseudothermodynamic equilibrium,,True
+162,Solubility of compound by turbidimetric assay,,,,turbidimetric assay,,True
+163,Solubility of the compound in propylene glycol/ethanol96 at 30 mg/ml after 24 hrs by UV-spectrometric analysis,,propylene glycol/ethanol96,24 hrs,UV-spectrometric analysis,,False
+164,Solubility (at pH 4),4.0,,,,,True
+165,Solubility (in 0.1 N HCl),,0.1 N HCl,,,,True
+166,Solubility in aqueous buffer at pH 7.4,7.4,aqueous buffer,,,,True
+167,Kinetic solubility in pH 7 water by HPLC analysis,7.0,water,,HPLC analysis,,True
+168,Solubility in PBS buffet at pH 7.4 at 100 uM incubated for 18 hrs by UPLC-MS method,7.4,PBS buffet,18 hrs,UPLC-MS method,,True
+169,Solubility of compound in distilled water after 24 hrs by HPLC analysis,,distilled water,24 hrs,HPLC analysis,,True
+170,Aqueous solubility of the compound in phosphate buffer at pH 7.4,7.4,phosphate buffer,,,,True
+171,Solubility of the compound by high throughput solubility assay,,,,high throughput solubility assay,,True
+172,Solubility of the compound in Japanese pharmacopoeia first fluid at pH 1.2 at 10 mM after 12 hrs,1.2,Japanese pharmacopoeia first fluid,12 hrs,,,True
+173,Thermodynamic solubility in sodium phosphate buffer of pH 7.4 by UV-reverse phase HPLC analysis,7.4,sodium phosphate buffer,,UV-reverse phase HPLC analysis,,True
+174,Aqueous solubility of the compound at pH 6.8 after 4 hrs by HPLC-UV analysis,6.8,aqueous,4 hrs,HPLC-UV analysis,,True
+175,Solubility in water was determined,,water,,,,True
+176,Solubility of the compound in Japanese pharmacopoeia second fluid at pH 6.8 at 10 mM after 12 hrs,6.8,Japanese pharmacopoeia second fluid,12 hrs,,,True
+177,Aqueous solubility was determined,,aqueous,,,,True
+178,High throughput equilibrium kinetic solubility at pH 7,7.0,,,High throughput equilibrium kinetic solubility,,True
+179,Kinetic solubility of compound in pH 7.4 phosphate buffered saline by chemiluminescent nitrogen detection,7.4,phosphate buffered saline,,chemiluminescent nitrogen detection,,True

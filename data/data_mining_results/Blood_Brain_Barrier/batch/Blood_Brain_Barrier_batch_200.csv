@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+200,Permeability from apical to basolateral side in dog MDCK cells expressing human MDR-1 gene,dog MDCK human MDR-1,,apical to basolateral,,,False
+201,Permeability of the compound at 100 ug/ml after 16 hrs by PAMPA-BBB method,PAMPA-BBB,,,,100 ug/ml after 16 hrs,True
+202,Permeability of the compound at pH 7.4 measured after 6 hrs by PAMPA method,PAMPA,,,7.4,after 6 hrs,False
+203,Permeability of compound in MDCKII-LE cells,MDCKII-LE,,,,,False
+204,Permeability of the compound at pH 7.4 at 5 mg/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4,5 mg/ml after 18 hrs,True
+205,Permeability from apical to basolateral side of MDCK2 cells over expressing MDR1 at 5 uM after 1 hr,MDCK2 MDR1,,apical to basolateral,,5 uM after 1 hr,False
+206,Permeability of compound in PBS at pH 7.4 incubated for 5 hrs by UV spectroscopic assay based PAMPA,PAMPA,,,7.4,in PBS after 5 hrs,False
+207,Permeability of the compound at 100 ug/ml after 18 hrs by PAMPA assay,PAMPA,,,,100 ug/ml after 18 hrs,False
+208,Permeability of compound across artificial membrane after 3 hrs by LC-MS analysis,artificial membrane,,,,after 3 hrs,False
+209,Permeability of the compound in PBS:EtOH (70:30) measured after 2 hrs and 30 mins by PAMPA-BBB assay,PAMPA-BBB,,,,after 2 hrs and 30 mins,True
+210,Permeability from apical side to basolateral side in human Caco2 cells,human Caco2,,apical to basolateral,,,False
+211,Permeability of the compound assessed as drug transmittance level at 10 uM after 5 hrs by LC-MS detection based PAMPA method,PAMPA,,,,10 uM after 5 hrs,False
+212,Permeability of the compound at 50 ug/ml in 70:30 PBS:EtOH by PAMPA-BBB assay,PAMPA-BBB,,,,50 ug/ml in PBS:EtOH,True
+213,Permeability across apical to basolateral side in MDCK2-MDR1 cells at 10 uM incubated for 60 mins in presence 2 uM P-gp inhibitor elacridar by LC-MS/MS analysis,MDCK2-MDR1,,apical to basolateral,,10 uM in presence 2 uM elacridar after 60 mins,False
+214,Permeability from apical to basolateral side of MDCK2 cells over expressing MDR1 at 5 uM in presence LSN335984 pretreated for 30 mins measured after 1 hr,MDCK2 MDR1,,apical to basolateral,,5 uM in presence LSN335984 pre incubation 30 mins,False
+215,Permeability coefficient by PAMPA,PAMPA,,,,,False
+216,Permeability of the compound in PBS/EtOH at 100 ug/ml after 18 hrs by PAMPA,PAMPA,,,,100 ug/ml in PBS/EtOH after 18 hrs,False
+217,Permeability from basal to apical side of RRCK cells at 2 uM,RRCK,,basal to apical,,2 uM,False
+218,Transcellular permeability of the compound by PAMPA,PAMPA,,,,,False
+219,Permeability in dog RRCK cells,dog RRCK,,,,,False

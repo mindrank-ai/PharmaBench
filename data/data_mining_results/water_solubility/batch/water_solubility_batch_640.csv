@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+560,Aqueous solubility in pH 7.4 PBS buffer after 24 hrs by HPLC analysis,7.4,PBS buffer,24 hrs,HPLC analysis,,True
+561,Aqueous solubility of the compound in phosphate buffer at pH 5.5 after 24 hrs by HPLC analysis,5.5,phosphate buffer,24 hrs,HPLC analysis,,True
+562,Solubility in water at 25 degC sonicated for 10 mins by HPLC method,,water,10 mins,HPLC method,25 degC,True
+563,Aqueous solubility of compound at 1 mg,,aqueous,,,,True
+564,Solubility at pH 1.2,1.2,aqueous,,,,True
+565,Solubility of the compound at pH 4,4.0,aqueous,,,,True
+566,Thermodynamic solubility in 0.001N HCl by HPLC analysis,,0.001N HCl,,HPLC analysis,,True
+567,Solubility of compound in PBS buffer at pH 6.5 incubated for over night by HPLC-UV based LYSA assay,6.5,PBS buffer,overnight,HPLC-UV based LYSA assay,,True
+568,Solubility in aqueous buffer at pH 6.8,6.8,aqueous buffer,,,,True
+569,Thermodynamic aqueous solubility of compound in pH 7.4 PBS by UPLC-MS analysis,7.4,PBS,,UPLC-MS analysis,,True
+570,Solubility of the compound in HEPES buffer incubated for 20 hrs by quantitative - 1H-NMR analysis,,HEPES buffer,20 hrs,quantitative 1H-NMR analysis,,True
+571,Thermodynamic solubility of the compound at pH 4 to 7.4 pION buffer after 18 hrs by UV spectrophotometric analysis,4 to 7.4,pION buffer,18 hrs,UV spectrophotometric analysis,,True
+572,Solubility of compound in pH 6.8 PBS incubated for 16 to 24 hrs under shaking condition by LC-MS/MS analysis,6.8,PBS,16 to 24 hrs,LC-MS/MS analysis,,True
+573,Kinetic aqueous solubility of the compound in PBS incubated for 2 hrs under mild shaking at pH 7.4 by UV- vis spectrophotometric analysis,7.4,PBS,2 hrs,UV-vis spectrophotometric analysis,,True
+574,Solubility in pH 6.8 buffer,6.8,buffer,,,,True
+575,Solubility of compound in sodium phosphate buffer at pH 7.4,7.4,sodium phosphate buffer,,,,True
+576,Solubility of the compound in octanol at pH 7.4 by HPLC analysis,7.4,octanol,,HPLC analysis,,False
+577,Solubility of the compound in aqueous phosphate buffer at pH 7.4 after 24 hrs at 25 degC by LC-UV analysis,7.4,phosphate buffer,24 hrs,LC-UV analysis,25 degC,True
+578,Solubility of the compound in water at pH 7,7.0,water,,,,True
+579,Aqueous solubility of the compound in amorphous form at pH 6.8 after 24 hrs by shake flask method,6.8,aqueous (amorphous sample),24 hrs,shake flask method,,True

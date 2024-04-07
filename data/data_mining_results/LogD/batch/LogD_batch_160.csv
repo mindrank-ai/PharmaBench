@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"n-Octanol/phopshate buffer partition coefficient, log D of the compound at pH 7.4 by LC/UV analysis",7.4,LC/UV,n-Octanol/phopshate buffer,,,,True
+2,"n-octanol to japanese pharmacopoeia second fluid distribution coefficient, log D at pH 6.8",6.8,,,,,,True
+3,"Lipophilicity, log D of the compound at pH 2.7 by HPLC method",2.7,HPLC,,,,,True
+4,"Octanol-buffer partition coefficient, log D of the compound after 30 mins by shake flask method at pH 7.4",7.4,shake flask,octanol-buffer,,30 mins,shake flask,True
+5,"Octanol-water distribution coefficient, Log D of the compound at pH 7.4 by HPLC-based shake-flask method",7.4,HPLC-based shake-flask,octanol-water,,,shake-flask,True
+6,"Lipophilicity, logD of the compound at pH 7.4 by HPLC analysis",7.4,HPLC,,,,,True
+7,"Lipophilicity, log D of the compound at pH 7.4 by RP-HPLC method",7.4,RP-HPLC,,,,,True
+8,"Lipophilicity, log D of compound in PBS buffer at pH 7 at 200 uM incubated for 24 hrs in shaker by UPLC/DAD analysis",7.0,UPLC/DAD,PBS buffer,,24 hrs,shaker,True
+9,"Lipophilicity, log D at pH7.4",7.4,,,,,,True
+10,"Lipophilicity, logD of the compound at pH 7 by RP-HPLC analysis",7.0,RP-HPLC,,,,,True
+11,"Lipophilicity, logD of compound at 7.4 by the LC/MS based microscale shake flask method",7.4,LC/MS,,,,microscale shake flask,True
+12,"Distribution coefficient, log D of the compound at pH 3",3.0,,,,,,True
+13,"Lipophilicity, log D of the compound in 1-Octanol-phosphate buffer at pH 7.4 by LC-MS/MS analysis",7.4,LC-MS/MS,1-Octanol-phosphate buffer,,,,True
+14,"Octanol-phosphate buffer distribution coefficient, log D of the compound at pH 7.4 after 2 hrs by shake flask method using LC-MS analysis",7.4,LC-MS,octanol-phosphate buffer,,2 hrs,shake flask,True
+15,"1-Octanol-phosphate buffered saline distribution coefficient, log D of the compound at pH 7.4",7.4,,1-Octanol-phosphate buffered saline,,,,True
+16,"Lipophilicity, log D of the compound by gradient HPLC at pH 3.0",3.0,gradient HPLC,,,,,True
+17,"Lipophilicity, log D of the compound by gradient HPLC at pH 7.4",7.4,gradient HPLC,,,,,True
+18,"Lipophilicity, logD of compound at pH 7 by UV-vis detection based HPLC analysis",7.0,UV-vis detection based HPLC,,,,,True
+19,"Lipophilicity, log D of the compound at pH 7",7.0,,,,,,True
+20,Lipophilicity log D at pH 7.4,7.4,,,,,,True

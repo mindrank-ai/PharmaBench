@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"n-octanol-PBS buffer partition coefficient, log D of the compound at pH 7.4 by shake-flask method",7.4,shake flask,n-octanol-PBS buffer,,,shake flask,True
+2,"Octanol-water distribution coefficient, log D of the compound at pH 8.5 by shake flask method",8.5,shake flask,octanol-water,,,shake flask,True
+3,"Distribution coefficient, log D at pH 7.4 after 4 hrs",7.4,,,,after 4 hrs,,True
+4,Partition coefficient (logD1.0),1.0,,,,,,True
+5,Distribution coefficients at 25 C in a 1-octanol-TRIS buffer,,,1-octanol-TRIS buffer,,,,True
+6,"Distribution coefficient, log D of the compound in 1-octanol/0.05 mol/L sodium phosphate buffer at pH 7.4",7.4,,1-octanol/sodium phosphate buffer,,,,True
+7,"n-octanol/aqueous buffer distribution coefficient, log D of compound at pH 7.4 by LC-MS analysis",7.4,LC-MS,n-octanol/aqueous buffer,,,shake flask,True
+8,"Octanol-water distribution coefficient, log D of the compound at pH 6.8",6.8,,octanol-water,,,,True
+9,"Lipophilicity, logD of the compound using n-octanol and phosphate-buffered saline at pH 7.4 by the shake flask method",7.4,shake flask,n-octanol/phosphate-buffered saline,,,shake flask,True
+10,Lipophilicity log D of the compound,,,,,,,True
+11,"Partition coefficient, log D in phosphate buffer at pH 7.2 to 7.4 by extractive method",,extractive,phosphate buffer,,,,True
+12,"n-octanol-water partition coefficient, log D of the compound by HPLC capacity factor method",,HPLC capacity factor,n-octanol-water,,,,True
+13,"Octanol-phosphate buffer partition coefficient, log D of the compound at 100 uM at pH 7.4 after 3 hrs by shake flask method",7.4,shake flask,octanol-phosphate buffer,,3 hrs,shake flask,True
+14,"Lipophilicity, log D of the compound in 1-octanol at pH 7.4 by potentiometric titration method",7.4,potentiometric titration,1-octanol,,,,True
+15,"Lipophilicity, logD of the compound in 1-octanol and phosphate buffer at pH 7.4 incubated for 2 hrs under shaking condition by LC-MS/MS analysis",7.4,LC-MS/MS,1-octanol/phosphate buffer,,2 hrs,shake flask,True
+16,"Distribution coefficient, logD of the compound incubated for 72 hrs by LC-MS based shake-flask method",,LC-MS,,,72 hrs,shake flask,True
+17,"Lipophilicity , log D of the compound at pH 7.4 by shake-flask method",7.4,shake flask,,,,shake flask,True
+18,Apparent partition coefficient of compound was evaluated in octanol/buffer at pH of 7.4 at 37 degree Centigrade,7.4,,octanol/buffer,,,,True
+19,"Octanol-water distribution coefficient, log D of the compound at pH 5.4 by stir flask method",5.4,stir flask,octanol-water,,,stir flask,True
+20,"Octanol-PBS partition coefficient, log D of the compound at pH 7.4 by UPLC/MS/MS analysis",7.4,UPLC/MS/MS,octanol-PBS,,,,True

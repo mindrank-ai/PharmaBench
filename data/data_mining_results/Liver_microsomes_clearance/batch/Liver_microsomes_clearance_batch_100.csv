@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,Clearance in Han/Wistar rat hepatocytes assessed as extrapolated blood clearance at 1 uM and measured up to 90 mins by LC/MS/MS analysis,1 uM,up to 90 mins,none,hepatocytes,none,LC/MS/MS,Han/Wistar rat,none,none,none,True
+1,Intrinsic clearance in mouse liver microsomes at 1 uM in presence of NADPH incubated up to 40 mins by LC-MS/MS analysis,1 uM,up to 40 mins,NADPH,liver,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+2,Unbound intrinsic clearance in human liver microsomes at 0.5 uM incubated for 4 hrs by equilibrium dialysis and LC-MS/MS method,0.5 uM,4 hrs,none,liver,none,LC-MS/MS,human,none,liver microsomes,none,True
+3,Metabolic stability in NMRI mouse liver microsomes assessed as intrinsic clearance at 1 uM in presence of NADPH by HPLC-UV analysis,1 uM,none,NADPH,liver,none,HPLC-UV,NMRI mouse,none,liver microsomes,none,True
+4,Intrinsic clearance in rat liver microsomes at 1 uM after 30 mins by LC-MS HRMS analysis,1 uM,30 mins,none,liver,none,LC-MS HRMS,rat,none,liver microsomes,none,True
+0,Intrinsic clearance in CD1 mouse liver microsomes at 0.5 uM measured up to 30 mins in presence of NADPH by UPLC-MSMS analysis,0.5 uM,up to 30 mins,NADPH,liver,none,UPLC-MSMS,CD1 mouse,none,liver microsomes,none,True
+1,Intrinsic clearance in rat liver microsomes at 0.5 uM after 30 mins by HPLC-MS/MS analysis,0.5 uM,30 mins,none,liver,none,HPLC-MS/MS,rat,none,liver microsomes,none,True
+2,Metabolic stability in human liver microsomes assessed as intrinsic clearance at 1 uM in presence of NADPH by HPLC-UV analysis,1 uM,none,NADPH,liver,none,HPLC-UV,human,none,liver microsomes,none,True
+3,Intrinsic clearance in rat hepatocytes by MS/MS analysis,none,none,none,hepatocytes,none,MS/MS,rat,none,hepatocytes,none,True
+4,Intrinsic clearance in rat liver microsomes at 1 uM preincubated for 5 mins followed by NADPH addition measured up to 45 mins by LC-MS/MS analysis,1 uM,up to 45 mins,NADPH,liver,none,LC-MS/MS,rat,none,liver microsomes,none,True
+0,Metabolic stability in human liver microsomes assessed as intrinsic clearance at 1 uM in presence of NADPH regenerating system by LC-MS/MS analysis,1 uM,none,NADPH regenerating system,liver,none,LC-MS/MS,human,none,liver microsomes,none,True
+1,DNDI: in vitro intrinsic clearance in mouse liver microsomes at a concentration of 10uM,10uM,none,none,liver,none,none,mouse,none,liver microsomes,none,True
+2,Metabolic stability in Wistar rat liver microsomes assessed as intrinsic clearance at 1 uM in presence of NADPH by HPLC-UV analysis,1 uM,none,NADPH,liver,none,HPLC-UV,Wistar rat,none,liver microsomes,none,True
+3,Intrinsic clearance in CD1 mouse liver microsomes at 1 uM measured up to 30 mins by UPLC-MS/MS method,1 uM,up to 30 mins,none,liver,none,UPLC-MS/MS,CD1 mouse,none,liver microsomes,none,True
+4,"Non-renal clearance in nephrectomized Sprague-Dawley rat at 0.1 mg/kg, iv administered as cassette dose by LC-MS/MS analysis",0.1 mg/kg,none,none,none,none,LC-MS/MS,Sprague-Dawley rat,iv,none,none,False
+0,"Clearance in Sprague-Dawley rat at 2 mg/kg, iv measured upto 24 hrs by LC-MS/MS analysis",2 mg/kg,up to 24 hrs,none,none,none,LC-MS/MS,Sprague-Dawley rat,iv,none,none,False
+1,Intrinsic clearance in mouse liver microsomes by LC-MS/MS analysis,none,none,none,liver,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+2,Metabolic stability in Sprague-Dawley rat liver microsomes assessed as intrinsic clearance at 10 uM preincubated with NADPH regenerating system for 5 mins followed by addition of microsome upto 60 mins by HPLC analysis,10 uM,up to 60 mins,NADPH regenerating system,liver,none,HPLC,Sprague-Dawley rat,none,liver microsomes,none,True
+3,Intrinsic clearance in human liver microsomes at 1 uM after 60 mins,1 uM,60 mins,none,liver,none,none,human,none,liver microsomes,none,True
+4,Stability in mouse microsomes assessed as unbound intrinsic clearance,none,none,none,microsomes,none,none,mouse,none,microsomes,none,True

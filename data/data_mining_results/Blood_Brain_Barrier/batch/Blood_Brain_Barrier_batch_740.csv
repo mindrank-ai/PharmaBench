@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+680,Apparent permeability from apical to basolateral side of the Caco-2 cell,Caco-2,,apical to basolateral apparent,,,False
+681,Apparent permeability across apical to basolateral side in human Caco2 cells by LC-MS/MS analysis,human Caco2 LC-MS/MS,,apical to basolateral apparent,,,False
+682,Permeability from basolateral to apical side in MDCK cells expressing MDR1 at 10 uM incubated at 37 degC for 90 mins by LC/MS/MS method,MDCK MDR1 LC-MS/MS,37 degC,basolateral to apical,,10 uM for 90 mins,False
+683,Passive permeability of compound,Passive permeability assay,,Passive permeability measurement,,,False
+684,Permeability at pH 7.4 incubated for 4 hrs by PAMPA method,PAMPA,,pH 7.4 permeability,7.4,incubated for 4 hrs,False
+685,Permeability across apical to basolateral side in human Caco2 cells coexpressing Pgp at 10 uM measured for 3 hrs by UPLC/MS analysis,human Caco2 coexpressing Pgp UPLC/MS,,apical to basolateral Pgp coexpression,,10 uM for 3 hrs,False
+686,Permeability of compound at 10 uM by PAMPA assay,PAMPA,,permeability at 10 uM,,10 uM,False
+687,Effect on membrane permeability of Sclerotinia sclerotiorum at 100 ug/ml after 240 mins relative to control,Sclerotinia sclerotiorum permeability assay,,membrane permeability effect,,100 ug/ml,False
+688,Permeability in Sprague-Dawley rat skin at 0.68 mg applied topically measured after 24 hrs,Sprague-Dawley rat skin,,topical permeability rat skin,,0.68 mg topically for 24 hrs,False
+689,Permeability across MDCK cells expressing MDR1,MDCK MDR1,,across MDR1,,,False
+690,Permeability from apical to basolateral side in pig LLC-PK1 cells expressing rat MDR1,pig LLC-PK1 rat MDR1,,apical to basolateral rat MDR1,,,False
+691,Permeability from apical to basolateral side of in wild type MDCK cells assessed as cell retention at 10 uM after 2 hrs,MDCK wild type,,apical to basolateral cell retention,,10 uM for 2 hrs,False
+692,Permeability in human Caco2 cells assessed as compound recovery from basal to apical,human Caco2,,compound recovery,,,False
+693,Permeability from apical to basolateral side of the human 21 days cultured Caco-2 cells,human Caco-2 21 days culture,,apical to basolateral,,,False
+694,Permeability from apical to basolateral side in human Caco2 cells at 10'-5 M at pH 6.5 to 7.4,human Caco2,,apical to basolateral pH 6.5 to 7.4,pH 6.5 to 7.4,,False
+695,Permeability of compound assessed as percentage transport at 500 uM after 5 hrs by PAMPA assay,PAMPA,,percentage transport,,500 uM after 5 hrs,False
+696,Effective apical efflux permeability in MDCK2 cells expressing rat ABCG2 assessed as ABCG2-mediated transport by HPLC method,MDCK2 rat ABCG2 HPLC,,ABC-mediated transport,,,False
+697,Permeability across apical to basolateral side in pig LLC-PK1 cells expressing human MDR1 preincubated with M199 for 30 mins followed by compound addition measured after 2 hrs by LC/MS/MS analysis,pig LLC-PK1 human MDR1 LC/MS/MS,,apical to basolateral human MDR1,,After 2 hrs with preincubation,False
+698,Permeability of the compound from apical to basolateral side,Basolateral to apical Caco-2,,apical to basolateral transport,,,False
+699,Permeability across basolateral to apical side of human Caco2 cells at 10 umol/L at pH 7.4,human Caco2 LC-MS/MS,,basolateral to apical,7.4,10 umol/L after 90 mins,False

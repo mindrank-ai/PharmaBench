@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,Intrinsic clearance in mouse liver microsomes in presence of reduced NADPH,in presence of NADPH,none,reduced NADPH,mouse liver microsomes,none,LC-MS,mouse,none,liver microsomes,none,True
+1,Intrinsic clearance in human liver microsomes at 3 uM measured up to 90 mins in presence of metabolic phase 1 cofactors by LC-MS analysis,3 uM,up to 90 mins,metabolic phase 1 cofactors,human liver microsomes,none,LC-MS,human,none,liver microsomes,per mg protein,True
+2,Intrinsic clearance in rat liver microsomes in presence of phase1 and 2 cofactor,in presence of phase1 and 2 cofactor,none,phase1 and 2 cofactor,rat liver microsomes,none,HPLC,rat,none,liver microsomes,none,True
+3,Intrinsic clearance from human liver microsomes,from liver microsomes,none,none,human liver microsomes,none,none,human,none,liver microsomes,none,True
+4,Intrinsic clearance in human liver microsomes in presence of reduced NADPH,in presence of NADPH,none,reduced NADPH,human liver microsomes,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+0,"Fraction unbound clearance in C57BL/6 mouse at 10 mg/kg, po or 1 mg/kg, iv",fraction unbound,none,"10 mg/kg, po or 1 mg/kg, iv",C57BL/6 mouse,none,HPLC-MS/MS,C57BL/6 mouse,po or iv,none,none,True
+1,"Clearance in rat at 0.5 to 1 mg/kg, iv",0.5 to 1 mg/kg,none,iv,rat,none,LC-MS/MS,rat,iv,none,none,True
+2,Clearance in rat hepatocytes at 10 uM by UPLC/TOF-MS analysis,10 uM,none,none,rat hepatocytes,none,UPLC/TOF-MS,rat,none,none,none,True
+3,Unbound intrinsic clearance in human hepatocytes assessed as parent compound loss at 0.3 uM preincubated with ABT for 30 mins followed by compound addition measured up to 90 mins by LC/MS analysis relative to control,0.3 uM,30 mins followed by addition,ABT,human hepatocytes,none,relative to control,human,none,none,unbound,True
+4,Intrinsic clearance in CD-1 mouse liver microsomes after 0.5 to 4 hrs in presence of NADPH by UPLC-MS analysis,after 0.5 to 4 hrs,0.5 to 4 hrs,NADPH,CD-1 mouse liver microsomes,none,UPLC-MS,mouse,iv,liver microsomes,none,True
+0,"Clearance in Sprague-Dawley rat at 1 mg/kg, iv or 1 mg/kg, po","1 mg/kg, iv or po",none,iv or po,Sprague-Dawley rat,none,LC-MS/MS,Sprague-Dawley rat,iv or po,none,none,True
+1,Drug metabolism in CD-1 mouse NADPH-fortified liver microsomes assessed as maximum intrinsic clearance for hydrolysis metabolite formation by LC-MS/MS analysis,maximum intrinsic clearance,none,NADPH-fortified,CD-1 mouse liver microsomes,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+2,"Observed clearance in Sprague-Dawley rat at 2 mg/kg, iv dosed as single administration",2 mg/kg,as single administration,iv dosed,Sprague-Dawley rat,none,LC-MS/MS,Sprague-Dawley rat,iv,none,none,True
+3,Metabolic clearance in rat liver microsomes,metabolic clearance,none,none,rat liver microsomes,none,none,rat,none,none,none,True
+4,"Clearance in rat at 0.70 mg/kg, iv or 1.40 mg/kg, po","0.70 mg/kg, iv or 1.40 mg/kg, po",none,iv or po,rat,none,LC-MS/MS,rat,iv or po,none,per mg protein,True
+0,Metabolic stability in human liver microsomes assessed as intrinsic clearance at 1 uM measured up to 60 mins in presence of NADPH by LC-MS/MS analysis,1 uM,up to 60 mins,NADPH,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+1,Metabolic stability in mouse liver microsomes assessed as intrinsic clearance followed by substrate addition incubated for 30 mins by LC-MS/MS analysis,intrinsic clearance,for 30 mins,after substrate addition,mouse liver microsomes,none,LC-MS/MS,mouse,none,liver microsomes,measured,True
+2,Clearance in rat liver microsome,none,none,none,rat liver microsome,none,none,rat,none,none,none,True
+3,"Clearance in BALB/c mouse at 5 mg/kg, iv measured for 8 hrs",5 mg/kg,measured for 8 hrs,iv,BALB/c mouse,none,LC-MS/MS,BALB/c mouse,iv,plasma,none,True
+4,Metabolic stability in pooled rat liver microsomes assessed as intrinsic clearance at 1 uM measured up to 120 mins in presence of NADPH by UHPLC-TOF MS assay,1 uM,up to 120 mins,NADPH,rat liver microsomes,none,UHPLC-TOF MS,rat,none,liver microsomes,none,True

@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Compound was tested for the ratio of octanol / buffer partition coefficient for 0.1M, pH 7.6 phosphate buffer",7.6,,octanol/buffer,,,,True
+2,"n-Octanol-buffer partition coefficient, log D of the compound at pH 7.4 by HPLC method",7.4,HPLC,n-octanol/buffer,,,,True
+3,"Partition coefficient, log D of the compound at pH 7.4 by phase gradient HPLC analysis",7.4,phase gradient HPLC,,,,,True
+4,"Octanol-aqueous buffer distribution coefficient, log D of the compound at pH 7.4",7.4,,octanol-aqueous buffer,,,,True
+5,"Distribution coefficient, log D of the compound at pH 5",5.0,,,,,,True
+6,"Octanol-buffer partition coefficient, log D of the compound at pH 7.4 by shake flask method",7.4,shake flask,octanol-buffer,,,shake flask,True
+7,"Lipophilicity, log P at pH 7.4",7.4,,,,,,True
+8,"Distribution co-efficient, log D of the compound at pH 10 by reversed-phase thin-layer chromatographic method",10.0,reversed-phase thin-layer chromatography,,,,,True
+9,"Distribution coefficient of the compound, log D at pH 7.4",7.4,,,,,,True
+10,Partition coefficient in octanol-phosphate buffer at pH 7.4,7.4,,octanol-phosphate buffer,,,,True
+11,Partition coefficient in the octanol/water phase at pH 7.4,7.4,,octanol/water,,,,True
+12,"Octanol-phosphate buffered saline partition coefficient, log D of the compound at pH 6.8",6.8,,octanol-phosphate buffered saline,,,,True
+13,"Distribution coefficient, log D of the compound at pH 7.4 by HPLC analysis",7.4,HPLC,,,,,True
+14,"Distribution coefficient, log D of the compound at pH 6.5",6.5,,,,,,True
+15,"Distribution coefficient, log D of compound in octanol and water at pH 7.4",7.4,,octanol/water,,,,True
+16,log P values determined at pH 7.4,7.4,,,,,,True
+17,"Lipophilicity, logD of the compound at pH 7.4 by shake-flask assay",7.4,shake-flask,,,,shake flask,True
+18,"Chromatographic hydrophobicity index, log D of the compound by reverse-phase HPLC analysis",,reverse-phase HPLC,,,,,True
+19,"1-Octanol/phosphate buffered-saline distribution coefficient, logD of compound at pH 7.4",7.4,LC-MS,1-Octanol/phosphate buffered-saline,,,,True
+20,Lipophilicity log D of the compound at pH 7.4,7.4,,,,,,True

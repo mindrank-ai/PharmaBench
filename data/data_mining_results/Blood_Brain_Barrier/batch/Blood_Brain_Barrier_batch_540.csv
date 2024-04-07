@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+520,Permeability of the compound from apical to basolateral side of human Caco2 cells,human Caco2,,apical to basolateral,7.4,10 umol/L after 3 hrs,False
+521,Permeability from basolateral to apical side of human Caco2 cells at 10 uM after 1.5 hrs by HPLC-MS/MS analysis,human Caco2 HPLC-MS/MS,,basolateral to apical,,10 uM after 1.5 hrs,False
+522,Permeability form apical to basolateral side in human Caco2 cells,human Caco2,,apical to basolateral,,,False
+523,Intestinal permeability in ex vivo Wistar rat everted gut sac model assessed as GLUT2-mediated drug permeation by measuring drug level permeated through intestinal membrane at 100 uM after 15 mins by HPLC analysis,Wistar rat everted gut sac GLUT2-mediated HPLC,,intestinal GLUT2-mediated permeation,,100 uM for 15 mins,False
+524,Permeability from apical to basolateral side in human Caco2/TC7 cells at 5 uM,human Caco2/TC7,,apical to basolateral,,5 uM,False
+525,Permeability from apical to basolateral side in human Caco2 cells assessed as prodrug remaining in apical side for 2 hrs by HPLC method,human Caco2 HPLC,,apical to basolateral as remaining prodrug,,for 2 hrs as remaining prodrug,False
+526,Permeability from apical to basolateral side in human Caco2 cells at pH 7.4,human Caco2,,apical to basolateral,7.4,,False
+527,Permeability in biomimetic membrane layer DMPC vesicles assessed as decrease in fluorescence at 30 uM by colorimetric mixed-vesicle assay,DMPC vesicles colorimetric mixed-vesicle assay,,biomimetic membrane permeability,,30 uM,False
+528,Permeability from basolateral to apical side in MDCK-MDR1 cells,MDCK-MDR1,,basolateral to apical,,,False
+529,Intestinal permeability in ex vivo Wistar rat everted gut sac model assessed as GLUT2-mediated drug permeation by measuring drug level permeated through intestinal membrane at 100 uM after 30 mins by HPLC analysis,Wistar rat everted gut sac GLUT2-mediated HPLC,,intestinal GLUT2-mediated permeation,,100 uM for 30 mins,False
+530,Permeability from apical to basolateral side of human Caco2 cells at 10 uM after 1.5 hrs by HPLC-MS/MS analysis,human Caco2 HPLC-MS/MS,,apical to basolateral,,10 uM after 1.5 hrs,False
+531,Permeability of the compound from apical to basolateral side in human Caco-2 cells,human Caco-2,,apical to basolateral,,,False
+532,Intestinal permeability in ex vivo Wistar rat everted gut sac model assessed as GLUT2-mediated drug permeation by measuring drug level permeated through intestinal membrane at 100 uM after 60 mins by HPLC analysis,Wistar rat everted gut sac GLUT2-mediated HPLC,,intestinal GLUT2-mediated permeation,,100 uM for 60 mins,False
+533,Permeability from apical to basolateral side in human Caco2 cells assessed as compound recovery after 2 hrs by LC-MS/MS analysis,human Caco2 LC-MS/MS,,apical to basolateral as compound recovery,,5 uM after 2 hrs as compound recovery,False
+534,Intrinsic permeability in human Caco2 cells in presence of cocktail of common transporter inhibitors,human Caco2 with transport inhibitors,,intrinsic permeability,,,False
+535,Permeability from basolateral to apical side in human Caco2 cells assessed as compound recovery after 2 hrs by LC-MS/MS analysis,human Caco2 LC-MS/MS,,basolateral to apical as compound recovery,,10 uM after 2 hrs as compound recovery,False
+536,Permeability across apical side to basolateral side in human Caco2 cells at 30 uM after 4 hrs by HPLC analysis,human Caco2 HPLC,,apical to basolateral,,30 uM after 4 hrs,False
+537,Permeability of the compound in PBS/EtOH buffer (7:3) incubated for 16 hrs by PAMPA-BBB assay,PAMPA-BBB PBS/EtOH,,PAMPA-BBB,,incubated for 16 hrs,True
+538,Permeability of compound by artificial membrane assay,artificial membrane assay,,artificial membrane permeability,,,False
+539,Permeability of the compound from apical to basolateral side of human Caco2 cells at 10 uM after 21 days,human Caco2,,apical to basolateral after 21 days,,10 uM after 21 days,False

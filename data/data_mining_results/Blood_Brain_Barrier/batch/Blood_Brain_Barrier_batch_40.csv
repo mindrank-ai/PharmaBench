@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+40,Artificial membrane permeability of the compound,,,,,,False
+41,Artificial membrane permeability by PAMPA method,PAMPA,,,,,False
+42,Permeability of the compound at 25 ug/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,25 ug/ml after 18 hrs,True
+43,Permeability of the compound at pH 5 by PAMPA,PAMPA,,,5,,False
+44,Permeability of the compound at 10 mM after 3 hrs by artificial membrane permeability assay,artificial membrane,,,,10 mM after 3 hrs,False
+45,Permeability of compound by AMP assay,AMP,,,,,False
+46,Permeability of compound at pH 7.4 incubated for 4 hrs by PAMPA assay,PAMPA,,,7.4,incubated for 4 hrs,False
+47,Membrane permeability at 10 uM at pH 4 by PAMPA method,PAMPA,,,4,10 uM,False
+48,Permeability of the compound by PAMPA analysis,PAMPA,,,,,False
+49,Permeability by PAMPA method,PAMPA,,,,,False
+50,Permeability in dog MDCK cells by PAMPA,dog MDCK,,,,,False
+51,Permeability of the compound at pH 7.4 after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4,after 18 hrs,True
+52,Effective permeability across human jejunum,human jejunum,,,,,False
+53,Permeability of compound at pH 5.5 incubated for 4 hrs by PAMPA assay,PAMPA,,,5.5,incubated for 4 hrs,False
+54,Permeability of the compound at pH 7.4 by artificial membrane permeability assay,artificial membrane,,,7.4,,False
+55,Membrane permeability assessed as passive transport after 4 hrs by PAMPA,PAMPA,,,,after 4 hrs,False
+56,Permeability of the compound at pH 5.5 at 100 uM after 4 hrs by PAMPA,PAMPA,,,5.5,100 uM after 4 hrs,False
+57,Permeability of the compound at 100 ug/ml after 10 hrs by artificial membrane permeability assay,artificial membrane,,,,100 ug/ml after 10 hrs,False
+58,Permeability from apical to basolateral side of human Caco2 cells at 10 uM after 30 to 90 mins by LC-MS/MS analysis,Caco2,,apical to basolateral,,10 uM after 30 to 90 mins,False
+59,Permeability of the compound after 4 hrs by PAMPA,PAMPA,,,,after 4 hrs,False

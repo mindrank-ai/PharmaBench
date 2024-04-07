@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Mutagenicity in Salmonella typhimurium TA100 at 5000 lg/plate in presence of liver S9 fraction by Ames test,5000 lg/plate,,,presence of liver S9 fraction,Salmonella typhimurium TA100,True
+2,Binding affinity to DOPG large unilamellar vesicle assessed as carboxyfluorescein leakage at 10 mg/L after 20 secs by fluorescence-based assay relative to control,10 mg/L,,20 secs,,DOPG large unilamellar vesicle,False
+3,Mutagenic activity in Salmonella typhimurium TA1537 at 10 to 100 uM by ames test,10 to 100 uM,,,,Salmonella typhimurium TA1537,True
+4,Mutagenicity in Salmonella typhimurium TA100 at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,,absence of liver S9 fraction,Salmonella typhimurium TA100,True
+5,Genotoxicity against CHO cells after UV irradiation,,,,,CHO cells,False
+6,Antiviral activity against HCV genotype 2a replicon infected in HuH7 cells after 3 days by renilla luciferase assay,,,3 days,,HCV genotype 2a replicon infected in HuH7 cells,False
+7,Antifungal activity against Cryptococcus neoformans (Sanfelice) Vuillemin ATCC 90112 assessed as diameter of inhibition zone at 5 ug/disk after 48 to 72 hrs by paper disk assay,5 ug/disk,,48 to 72 hrs,,Cryptococcus neoformans ATCC 90112,False
+8,Mutagenicity in Salmonella typhimurium TA98 measured after 20 mins in absence of S9 fraction by microsome assay,,,20 mins,absence of S9 fraction,Salmonella typhimurium TA98,False
+9,Genotoxicity in Salmonella typhimurium Cytox (pr1) expressing lux operon assessed as activation of SOS operon at 0.1 to 10 ug/ml measured for 4 hrs with 5 mins interval by vitotox assay in presence of S9 fraction,0.1 to 10 ug/ml,,4 hrs with 5 mins interval,presence of S9 fraction,Salmonella typhimurium Cytox (pr1) expressing lux operon,False
+10,Mutagenic activity in Salmonella typhimurium TA100 at 10 to 100 uM by ames test in presence of S9 mixture,10 to 100 uM,,,presence of S9 mixture,Salmonella typhimurium TA100,True
+11,Mutagenicity in Salmonella typhimurium TA100 at 5 to 230 uM measured after 90 mins in absence of rat liver S9 fraction by Ames test,5 to 230 uM,,90 mins,absence of rat liver S9 fraction,Salmonella typhimurium TA100,True
+12,Induction of pore formation in negatively charged DOPE/DOPG large unilamellar vesicles assessed as calcein release at 0.39 to 50 uM measured for 60 mins by fluorescence based assay,0.39 to 50 uM,,60 mins,,negatively charged DOPE/DOPG large unilamellar vesicles,False
+13,Mutagenic activity in Salmonella Typhimurium TA100 without metabolic activation,,,,without metabolic activation,Salmonella Typhimurium TA100,True
+14,Mutagenicity in Salmonella typhimurium,,,,,Salmonella typhimurium,True
+15,Genotoxicity in mouse 3T3 cells by micronucleus test,,,,,mouse 3T3 cells,False
+16,Mutagenicity in Salmonella typhimurium TA1537 at 5000 lg/plate in presence of liver S9 fraction by Ames test,5000 lg/plate,,,presence of liver S9 fraction,Salmonella typhimurium TA1537,True
+17,Antifungal activity against Aspergillus fumigatus Fresenius 167 assessed as diameter of inhibition zone upto 100 ug/disk after 48 to 72 hrs by paper disk assay,upto 100 ug/disk,,48 to 72 hrs,,Aspergillus fumigatus Fresenius 167,False
+18,Anti-virulence activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation by measuring reduction of hyphae formation in RPMI medium at 1.3 uM incubated for 3 to 5 days by stereomicroscopic analysis,1.3 uM,,3 to 5 days,,Candida albicans SC5314,False
+19,Mutagenic activity in Salmonella Typhimurium TA100 by Ames test in presence of S9 fraction,,,,presence of S9 fraction,Salmonella Typhimurium TA100,True
+20,Genotoxicity in Salmonella Typhimurium Cytox pr1 at 0.1 to 10 uM measured every 5 mins for 4 hrs by vitotox assay in presence of S9 liver extract,0.1 to 10 uM,,4 hrs with 5 mins interval,presence of S9 liver extract,Salmonella Typhimurium Cytox pr1,False

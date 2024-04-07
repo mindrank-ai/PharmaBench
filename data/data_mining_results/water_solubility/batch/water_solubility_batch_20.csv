@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,Water Solubility
+20,Solubility (buffer pH 7.4),7.4,buffer,,,,True
+21,Thermodynamic aqueous solubility of the compound,,aqueous,,thermodynamic solubility,,True
+22,GSK_TB: GSK in-house kinetic solubility assay. DMSO stock solution diluted to 100 ml with pH 7.4 phosphate buffered saline.,7.4,DMSO stock solution diluted with pH 7.4 phosphate buffered saline,,kinetic solubility assay,,True
+23,Aqueous solubility of the compound at pH 7,7.0,aqueous,,,,True
+24,Thermodynamic solubility of the compound at pH 7.4,7.4,,,thermodynamic solubility,,True
+25,Solubility of the compound at pH 2,2.0,,,,,True
+26,Aqueous solubility in phosphate buffered saline by multi-screen solubility assay,,phosphate buffered saline,,multi-screen solubility assay,,True
+27,Solubility in sodium phosphate buffer at pH 7.4,7.4,sodium phosphate buffer,,,,True
+28,Aqueous solubility of the compound at pH 6.8,6.8,aqueous,,,,True
+29,Solubility of compound in water,,water,,,,True
+30,Solubility of compound at pH 7.4,7.4,,,,,True
+31,Solubility in 100 mM glycylglycine buffer at pH 4.0 incubated for 18 hrs by UPLC analysis,4.0,100 mM glycylglycine buffer,18 hrs,UPLC analysis,,True
+32,Solubility in 100 mM glycylglycine buffer at pH 3.0 incubated for 18 hrs by UPLC analysis,3.0,100 mM glycylglycine buffer,18 hrs,UPLC analysis,,True
+33,Solubility in 100 mM bistrispropane buffer at pH 6.0 incubated for 18 hrs by UPLC analysis,6.0,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,True
+34,Solubility in 100 mM bistrispropane buffer at pH 6.5 incubated for 18 hrs by UPLC analysis,6.5,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,True
+35,Solubility in 100 mM bistrispropane buffer at pH 7.0 incubated for 18 hrs by UPLC analysis,7.0,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,True
+36,Solubility in 100 mM bistrispropane buffer at pH 8.0 incubated for 18 hrs by UPLC analysis,8.0,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,True
+37,Solubility in 100 mM glycylglycine buffer at pH 5.0 incubated for 18 hrs by UPLC analysis,5.0,100 mM glycylglycine buffer,18 hrs,UPLC analysis,,True
+38,Solubility in 100 mM bistrispropane buffer at pH 7.5 incubated for 18 hrs by UPLC analysis,7.5,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,True
+39,Solubility of compound,,,,,,True

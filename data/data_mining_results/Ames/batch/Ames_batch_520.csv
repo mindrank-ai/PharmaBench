@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,"Antiosteoporotic activity in glucocorticoid-induced Wistar rat osteoporosis model assessed as increase in trabecula number at 30 mg/kg/day, po administered six times a week for 3 months by toluidine blue staining-based light microscopic analysis relative to dexamethasone",30 mg/kg/day,,six times a week for 3 months,,Wistar rat osteoporosis model,False
+2,Mutagenic activity in Salmonella Typhimurium TA98 by Biolum Ames test in presence of metabolizing enzyme,,,,presence of metabolizing enzyme,Salmonella Typhimurium TA98,True
+3,Mutagenicity in Salmonella typhimurium TA1537 assessed as increase in number of revertant colony up to 5000 ug/plate by Ames test in absence of S9 fraction,up to 5000 ug/plate,,,absence of S9 fraction,Salmonella typhimurium TA1537,True
+4,Antibacterial activity against Mycobacterium smegmatis ATCC 14468 assessed as inhibition zone diameter at 10 mg/mL after 24 hrs by Kirby-Bauer disk diffusion assay,10 mg/mL,,24 hrs,,Mycobacterium smegmatis ATCC 14468,False
+5,Mutagenic activity in Salmonella Typhimurium TA98 by Biolum Ames test,,,,,Salmonella Typhimurium TA98,True
+6,Mutagenicity in Salmonella typhimurium TA100 up to 2000 ug/ml by Ames fluctuation test,up to 2000 ug/ml,,,,Salmonella typhimurium TA100,True
+7,Mutagenicity in Salmonella typhimurium TA98 up to 2000 ug/ml by Ames fluctuation test,up to 2000 ug/ml,,,,Salmonella typhimurium TA98,True
+8,Antifungal activity against Aspergillus niger Van Tieghem H7160B assessed as diameter of inhibition zone upto 100 ug/disk after 48 to 72 hrs by paper disk assay,upto 100 ug/disk,,48 to 72 hrs,,Aspergillus niger Van Tieghem H7160B,False
+9,Genotoxicity in Salmonella Typhimurium Cytox pr1 at 0.1 to 10 uM measured every 5 mins for 4 hrs by vitotox assay in absence of S9 liver extract,0.1 to 10 uM,,every 5 mins for 4 hrs,absence of S9 liver extract,Salmonella Typhimurium Cytox pr1,False
+10,Mutagenicity in Salmonella typhimurium TA98 measured after 20 mins in presence of S9 fraction by microsome assay,,,20 mins,presence of S9 fraction,Salmonella typhimurium TA98,False
+11,Induction of ribosome to readthrough in-frame renilla/firefly TGA codon transfected in rabbit reticulocyte at 200 to 600 uM after 16 hrs dual-luciferase reporter gene assay,200 to 600 uM,,16 hrs,,rabbit reticulocyte,False
+12,Genotoxicity in Salmonella typhimurium TA98 up to 349 uM incubated for 48 hrs in absence of rat liver S9 fraction by Ames test,up to 349 uM,,48 hrs,absence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+13,"Antihypertensive activity in anesthetized SHR rat assessed as decrease in basal mean arterial blood pressure at 10 mg/kg, iv pretreated with hexamethonium for 10 mins",10 mg/kg,,10 mins,,anesthetized SHR rat,False
+14,"Antiallodynic activity in rat model of spinal nerve ligation-induced neuropathic pain assessed as reduction in mechanical threshold for paw withdrawal at 100 mg/kg, po administered on day 14 after ligation surgery and measured 3 to 5 hrs post dose by Von Frey filaments based method",100 mg/kg,,3 to 5 hrs post dose,,rat model of spinal nerve ligation-induced neuropathic pain,False
+15,Mutagenic activity in Salmonella Typhimurium TA98 by Ames test in presence of S9 fraction,,,,presence of S9 fraction,Salmonella Typhimurium TA98,True
+16,Genotoxicity in Salmonella typhimurium TA1535 in presence of rat liver S9 fraction by Ames test,,,,presence of rat liver S9 fraction,Salmonella typhimurium TA1535,True
+17,Modulation of glucocorticoid receptor in human SKGT4 cells assessed as receptor translocation from cytoplasm to nucleus at 100 uM after 240 mins by Hoechst staining relative to Dexamethasone,100 uM,,240 mins,,human SKGT4 cells,False
+18,Genotoxicity in Salmonella typhimurium TA98 at 50 ug/plate by Ames test in presence of S9 fraction,50 ug/plate,,,presence of S9 fraction,Salmonella typhimurium TA98,True
+19,Antibacterial activity against SCCmec type 4 genotype-positive and methicillin-resistant Staphylococcus aureus by CLSI method,,,,,SCCmec type 4 genotype-positive and methicillin-resistant Staphylococcus aureus,False
+20,Genotoxicity in Escherichia coli WPuvrA by Ames test,,,,,Escherichia coli WPuvrA,True

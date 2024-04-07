@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+264,Inhibition of human CYP3A4 using testosterone as substrate after 45 mins,CYP3A4,after 45 mins,,,testosterone,,,,expressed in hamster fibroblast,human,True
+265,Inhibition of human liver CYP2D6 expressed in Saccharomyces cerevisiae YY7 microsomal membranes using EOMCC as substrate after 10 mins by fluorescence assay,CYP2D6,after 10 mins,,,EOMCC,,,fluorescence assay,expressed in Saccharomyces cerevisiae YY7 microsomal membranes,human liver,True
+266,Inhibition of human CYP1A2 bound to yeast microsomal membrane using 3-cyano-7-ethoxycoumarin as substrate after 10 mins by fluorescence assay,CYP1A2,after 10 mins,,,3-cyano-7-ethoxycoumarin,,NADPH-regenerating system,fluorescence assay,bound to yeast microsomal membrane,human,True
+267,Inhibition of human CYP2C9 by fluorescence assay,CYP2C9,,,,,,,fluorescence assay,,human,True
+268,Inhibition of CYP2J2,CYP2J2,,,,,,,,unknown origin,human,True
+269,Inhibition of rat CYP11B1 expressed in hamster fibroblast using 500 nM [3H]-11-deoxycorticosterone as substrate after 7 hrs by HPLC analysis,rat CYP11B1,after 7 hrs,,,500 nM [3H]-11-deoxycorticosterone,,NADPH,HPLC,expressed in hamster fibroblast,rat,True
+270,Inhibition of CYP2C9 in human liver microsomes using diclofenac substrate,CYP2C9,,,,diclofenac,,,,human liver microsomes,human liver,True
+271,Inhibition of CYP2C19 in human liver microsomes using (S)-mephenytoin as substrate preincubated for 5 mins by LC-MS/MS analysis,CYP2C19,preincubated for 5 mins,,,(S)-mephenytoin,,NADPH,LC-MS/MS,human liver microsomes,human liver,True
+272,Inhibition of CYP3A4 in human liver microsomes assessed as inhibition of oxidative metabolism of testosterone after 45 mins by MS analysis in the presence of 1 mmol NADPH,CYP3A4,after 45 mins,,,testosterone,in presence of 1 mmol NADPH,NADPH,MS,human liver microsomes,human liver,True
+273,Inhibition of CYP3A4 using diethoxyfluoresin as substrate,CYP3A4,,,,diethoxyfluoresin,,,,,human,True
+274,Inhibition of human recombinant CYP2C8 incubated for 15 mins prior to substrate addition measured after 30 mins by spectrophotometry,CYP2C8,"incubated for 15 mins, measured after 30 mins",,,,,,spectrophotometry,recombinant human,human recombinant,True
+275,Inhibition of CYP1A1 activity in rat liver microsomes using benzo[alpha]pyrene as substrate after 10 mins by fluorescence analysis,CYP1A1,after 10 mins,,,benzo[alpha]pyrene,,,fluorescence analysis,rat liver microsomes,rat liver,True
+276,Inhibition of human placental CYP19 using [1beta-3H]androstenedione as substrate by 3H2O-method,CYP19,,,,[1beta-3H]androstenedione,,,3H2O-method,human placental,human placental,True
+277,Inhibition of recombinant CYP2C9,CYP2C9,,,,,,,,recombinant human,recombinant human,True
+278,Antiproliferative activity against human HEK293 cells expressing CYP2W1 assessed as growth inhibition after 96 hrs by MTT assay,CYP2W1,after 96 hrs,,,,,,MTT assay,expressing human HEK293 cells,human HEK293,True
+279,Inhibition of human recombinant CYP3A4 using diethoxyfluorescein as substrate by fluorescence plate reader,CYP3A4,,,,diethoxyfluorescein,,,fluorescence plate reader,recombinant human,recombinant human,True
+280,Inhibition of human recombinant CYP1A2 expressed in baculovirus-infected insect microsomes,CYP1A2,,,,,,,,recombinant human expressed in baculovirus-infected insect microsomes,recombinant human,True
+281,Antiproliferative activity against human RT112 cells expressing CYP1A1 assessed as growth inhibition after 96 hrs by MTT assay,CYP1A1,after 96 hrs,,,,,,MTT assay,expressing human RT112 cells,human RT112,True
+282,Inhibition of human hepatic CYP3A4,CYP3A4,,,,,,,,human hepatic,human hepatic,True
+283,"Inhibition of human CYP11B1 expressed in V79 MZh cells using [1,2-3H]-11-deoxycorticosterone as substrate for 6 hrs by HPTLC analysis",CYP11B1,for 6 hrs,,,"[1,2-3H]-11-deoxycorticosterone",,,HPTLC analysis,expressed in hamster V79 MZh cells,human,True

@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,Clearance in human liver microsomes at 1.11 uM preincubated for 10 mins followed by NADPH addition by LC-MS/MS analysis,1.11 uM,preincubated for 10 mins,NADPH,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+1,Intrinsic clearance in CD-1 mouse microsomes at 100 uM measured after 60 mins in presence of NADPH by LC-MS/MS analysis,100 uM,after 60 mins,NADPH,CD-1 mouse microsomes,none,LC-MS/MS,CD-1 mouse,none,microsomes,none,True
+2,"Clearance in Sprague-Dawley rat at 1 mg/kg, iv or 5 mg/kg, po by LC-MS/MS analysis","1 mg/kg iv, 5 mg/kg po",none,none,none,none,LC-MS/MS,Sprague-Dawley rat,"iv, po",none,none,False
+3,"Clearance in ICR mouse at 0.5 mg/kg, iv measured after 0.0833 to 120 hrs by LC-MS-MS analysis",0.5 mg/kg,0.0833 to 120 hrs,none,ICR mouse,none,LC-MS-MS,ICR mouse,iv,none,none,False
+4,Intrinsic clearance in mouse liver microsomes at 1 umol/L,1 umol/L,none,none,mouse liver microsomes,none,none,mouse,none,liver microsomes,none,True
+5,Plasma clearance in Wistar Han rat at 0.05 mg/kg,0.05 mg/kg,none,none,Wistar Han rat plasma,none,none,Wistar Han rat,none,none,none,False
+6,"Clearance in Wistar Han rat at 2 mg/kg, iv or 10 mg/kg, po","2 mg/kg iv, 10 mg/kg po",none,none,Wistar Han rat,none,none,Wistar Han rat,"iv, po",none,none,False
+7,"Clearance in Sprague-Dawley rat at 5 mg/kg, po measured upto 24 hrs by LC-MS/MS analysis",5 mg/kg,up to 24 hrs,none,Sprague-Dawley rat,none,LC-MS/MS,Sprague-Dawley rat,po,none,none,False
+8,"Fraction unbound clearance in Wistar Han rat at 0.1 mg/kg, iv",0.1 mg/kg,none,none,Wistar Han rat,none,none,Wistar Han rat,iv,none,unbound,False
+9,Intrinsic clearance in human liver microsomes assessed as metabolism at 5 uM incubated for 20 mins in presence of NADPH by LC-MS/MS analysis,5 uM,20 mins,NADPH,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+10,"Clearance in ICR mouse at 2.5 mg/kg, iv by LC-MS/MS analysis",2.5 mg/kg,none,none,ICR mouse,none,LC-MS/MS,ICR mouse,iv,none,none,False
+11,Rat clearance,none,none,none,rat,none,none,rat,none,none,none,False
+12,Intrinsic clearance in human liver microsomes at 0.1 to 0.2 umol/L incubated for 30 mins in presence of NADPH by LC-MS/MS analysis,0.1 to 0.2 umol/L,30 mins,NADPH,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+13,Metabolic stability in rat liver microsomes assessed as intrinsic clearance measured upto 60 mins in presence of NADP by UPLC-MS/MS analysis,none,up to 60 mins,NADP,rat liver microsomes,none,UPLC-MS/MS,rat,none,liver microsomes,none,True
+14,"Clearance in Sprague-Dawley rat at 3 mg/kg, iv measured up to 24 hrs by LC-MS/MS analysis",3 mg/kg,up to 24 hrs,none,Sprague-Dawley rat,none,LC-MS/MS,Sprague-Dawley rat,iv,none,none,False
+15,"Clearance in mouse at 10 mg/kg, iv or 30 mg/kg, po","10 mg/kg iv, 30 mg/kg po",none,none,mouse,none,none,mouse,"iv, po",none,none,False
+16,Clearance in Wistar Han rat at 1 mg/kg administered as iv infusion for 1 hr and measured up to 7 hrs by LC-MS/MS analysis,1 mg/kg,iv infusion for 1 hr and measured up to 7 hrs,none,Wistar Han rat,none,LC-MS/MS,Wistar Han rat,iv,none,none,False
+17,"Total clearance in rat at 0.1 mg/kg, iv by LC/MS/MS analysis",0.1 mg/kg,none,none,rat,none,LC/MS/MS,rat,iv,none,total,False
+18,"Intrinsic clearance in rat measured per 10^6 cells at 1 mg/kg, po and 0.5 mg/kg, iv","1 mg/kg po, 0.5 mg/kg iv",none,none,rat,none,none,rat,"po, iv",none,per 10^6 cells,False
+19,Microsomal stability in human liver microsomes assessed as intrinsic clearance measured upto 60 mins,none,up to 60 mins,none,human liver microsomes,none,none,human,none,liver microsomes,none,True

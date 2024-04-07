@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+100,Permeability in human Caco-2 cells,Caco-2,,,,,False
+101,Permeability from apical to basolateral side of the human Caco-2 cell membrane,Caco-2,,apical to basolateral,,,False
+102,Permeability across dog RRCK cells,dog RRCK,,,,,False
+103,Permeability of the compound in pH 7.4 PBS by PAMPA-BBB assay,PAMPA-BBB,,,7.4 PBS,,True
+104,Permeability from apical to basolateral side of human Caco-2 cells after 21 days,Caco-2,,apical to basolateral,,after 21 days,False
+105,Permeability of the compound in RRCK cells,RRCK,,,,,False
+106,Permeability from apical to basolateral side of the Caco-2 cell membrane,Caco-2,,apical to basolateral,,,False
+107,Permeability across pig LLC-PK1 cells expressing MDR assessed as membrane passage at 1 ug/ml after 3 hrs by LC/MS analysis,pig LLC-PK1 expressing MDR,,,,1 ug/ml after 3 hrs,False
+108,Passive membrane permeability across the PAMPA using pre coated plate based method,PAMPA,,,,,False
+109,Permeability across dog MDCK cells expressing MRP2,dog MDCK expressing MRP2,,,,,False
+110,Permeability of the compound by BBB-PAMPA,BBB-PAMPA,,,,,True
+111,Permeability of compound incubated for 3 hrs by UV plate reader based PAMPA assay,PAMPA,,,,incubated for 3 hrs,False
+112,Permeability across human Caco-2 cell membrane at 20 uM,Caco-2,,,,at 20 uM,False
+113,Permeability of compound at 100 ug/ml after 18 hrs by PAMPA,PAMPA,,,,100 ug/ml after 18 hrs,False
+114,Permeability from apical side to basal side of human Caco2 cells,Caco2,,apical to basal,,,False
+115,Permeability of compound in 5% DMSO after 7 hrs by PAMPA,PAMPA,,,,in 5% DMSO after 7 hrs,False
+116,Apparent permeability from apical to basolateral side of human Caco2 cells,Caco2,,apical to basolateral,,,False
+117,Permeability of compound at pH 5.5 by PAMPA,PAMPA,,,5.5,,False
+118,Passive permeability in RRCK cells,RRCK,,,,,False
+119,Passive permeability across RRCK cells,RRCK,,,,,False

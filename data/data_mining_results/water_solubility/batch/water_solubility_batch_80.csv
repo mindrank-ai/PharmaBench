@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+0,Solubility of compound at pH 6.8,6.8,,,,,True
+1,Estimated solubility (buffer pH 7.4),7.4,buffer,,estimated solubility,,True
+2,Aqueous solubility of the compound in pH 6.8 buffer incubated for 24 hrs under shaking condition by UV-HPLC analysis,6.8,buffer,24 hrs,UV-HPLC analysis,,True
+3,Kinetic solubility of the compound at pH 7.4 after 4 hrs by UPLC-UV analysis,7.4,,4 hrs,UPLC-UV analysis,,True
+4,Solubility of the compound in buffer,,buffer,,,,True
+5,Solubility of the compound in PBS at pH 7.4 for 18 hrs by UV spectroscopic analysis,7.4,PBS,18 hrs,UV spectroscopic analysis,,True
+6,Aqueous solubility of the compound by lyophilisate solubility assay,,,,lyophilisate solubility assay,,True
+7,Kinetic solubility of the compound in DMSO/phosphate buffer by UPLC analysis,,DMSO/phosphate buffer,,UPLC analysis,,True
+8,Kinetic solubility of the compound in pH 7.4 PBS buffer incubated for 2 hrs using orbital shaker by LC-UV mass spectrometry,7.4,PBS buffer,2 hrs,LC-UV mass spectrometry,,True
+9,Solubility of compound by CLND method,,,,CLND method,,True
+10,Solubility of the compound in DMSO after 4 hrs,,DMSO,4 hrs,,,True
+11,Solubility of Haemoglobin S (HbS) concentration after addition of acid and dithionite,,,,,,False
+12,Solubility of Deoxyhemoglobin S (dHbS) concentration after addition dithionite as control,,,,,,False
+13,Thermodynamic aqueous solubility of the compound in 0.1 M phosphate buffer at pH 7.4 measured after 20 to 24 hrs by LC-MS/MS analysis,7.4,0.1 M phosphate buffer,20 to 24 hrs,LC-MS/MS analysis,,True
+14,Thermodynamic solubility of compound at pH 7.4 aqueous phosphate buffer,7.4,aqueous phosphate buffer,,,,True
+15,Solubility in phosphate buffer at pH 7.4,7.4,phosphate buffer,,,,True
+16,Aqueous solubility of compound in phosphate buffer saline at pH 6.5 incubated for 20 hrs under shaking condition by shake-flask method based HPLC-DAD analysis,6.5,phosphate buffer saline,20 hrs,shake-flask method based HPLC-DAD analysis,,True
+17,"Solubility at 25 degC of compound (diluted from DMSO) in PBS at pH 7.4 determined after 24h (1h sonication, 22h shaking, 1h sonication) by LCMS/MS",7.4,PBS,"24h (1h sonication, 22h shaking, 1h sonication)",LCMS/MS,25 degC,True
+18,Intrinsic solubility of the compound,,,,intrinsic solubility,,True
+19,Aqueous solubility of the compound in phosphate buffered saline at pH 7.4,7.4,phosphate buffered saline,,,,True

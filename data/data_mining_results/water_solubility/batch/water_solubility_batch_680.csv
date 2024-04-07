@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+580,Kinetic solubility in pH 2 PBS buffer at 100 uM after 4 hrs by UV-HPLC analysis,2.0,PBS buffer,4 hrs,UV-HPLC analysis,,True
+581,Aqueous solubility of compound in sodium phosphate buffer containing 1% DMSO at pH 6.8,6.8,sodium phosphate buffer containing 1% DMSO,,,,True
+582,Kinetic solubility in pH 7.4 incubated for 1 hr by HPLC method,7.4,None,1 hr,HPLC method,,True
+583,Aqueous solubility of the compound in phosphate buffer at pH 7 after 48 hrs by spectrophotometric analysis,7.0,phosphate buffer,48 hrs,spectrophotometric analysis,,True
+584,Thermodynamic solubility of the compound in 30 mM phosphate buffer at 10 mM at pH 7 after 2 to 5 days by UV-HPLC analysis,7.0,phosphate buffer,2 to 5 days,UV-HPLC analysis,,True
+585,Kinetic solubility of the compound in 2nd fluid of Disintegration Test of the Japanese Pharmacopoeia at pH 6.8,6.8,2nd fluid of Disintegration Test of the Japanese Pharmacopoeia,,,,True
+586,Kinetic aqueous solubility of compound in phosphate buffer saline containing 5% DMSO at pH 7.4 by charged aerosol detection method,7.4,phosphate buffer saline containing 5% DMSO,,charged aerosol detection method,,True
+587,Aqueous solubility of the compound at pH 7.5 at 25 degC,7.5,aqueous,,,25 degC,True
+588,Solubility in fasted state simulated intestinal fluid,,fasted state simulated intestinal fluid,,,,True
+589,Kinetic solubility in pH 7.4 PBS buffer at 100 uM after 4 hrs by UV-HPLC analysis,7.4,PBS buffer,4 hrs,UV-HPLC analysis,,True
+590,Solubility of the compound in water at 25 degC by reversed phase HPLC analysis,,water,,reversed phase HPLC analysis,25 degC,True
+591,Solubility of the compound in phosphate buffer of pH 7.4 after 24 hrs by RP-HPLC analysis,7.4,phosphate buffer,24 hrs,RP-HPLC analysis,,True
+592,Aqueous kinetic solubility of the compound,,None,,,,True
+593,Solubility of the compound in phosphate buffer of pH 2 after 24 hrs by RP-HPLC analysis,2.0,phosphate buffer,24 hrs,RP-HPLC analysis,,True
+594,Solubility in phosphate buffer at pH 7.4 by nephelometric method,7.4,phosphate buffer,,nephelometric method,,True
+595,Solubility of the compound in PBS buffer after 16 hrs,,PBS buffer,16 hrs,,,True
+596,Equilibrium solubility of the compound in simulated intestinal fluid after 48 to 72 hrs,,simulated intestinal fluid,48 to 72 hrs,,,True
+597,Equilibrium solubility of the compound in 0.01N HCl after 48 to 72 hrs,,0.01N HCl,48 to 72 hrs,,,True
+598,Aqueous solubility of the compound in pH 4.5 buffer solution after 24 hrs by LC-UV analysis,4.5,pH 4.5 buffer solution,24 hrs,LC-UV analysis,,True
+599,Solubility of the compound in PBS at pH 7.4 after 24 hrs by turbidimetric analysis,7.4,PBS,24 hrs,turbidimetric analysis,,True

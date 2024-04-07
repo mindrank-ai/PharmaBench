@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+61,Protein binding in human plasma at 5 uM after 4 hrs by LC-MS/MS analysis,Human,5 uM,4 hrs,LC-MS/MS,,True
+62,Protein binding in cynomolgus monkey plasma,Cynomolgus Monkey,,,,,True
+63,Plasma protein binding in BALB/c mouse incubated for 48 hrs,BALB/c Mouse,,48 hrs,,,True
+64,"Plasma protein binding in rat at 5 mg/kg, po",Rat,5 mg/kg,,,,True
+65,Protein binding in human plasma incubated for 4 hrs,Human,,4 hrs,,,True
+66,Protein binding in rat,Rat,,,,,True
+67,Protein binding in human serum,Human Serum,,,,,True
+68,"Plasma protein binding in rat at 50 mg/kg, po",Rat,50 mg/kg,,,,True
+69,Protein binding in rat plasma incubated for 4 hrs,Rat,,4 hrs,,,True
+70,Protein binding in DMEM medium containing 10% fetal calf serum,,,,,,True
+71,Protein binding in human,Human,,,,,True
+72,Protein binding in CD1 mouse plasma after 2 hrs by HPLC analysis relative to control,CD1 Mouse,,2 hrs,HPLC,,True
+73,Protein binding in human plasma at 10 uM after 5 hrs by equilibrium dialysis based LC-MS/MS analysis,Human,10 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True
+74,Plasma protein binding in mouse at 5 uM measured after 4 hrs by LC-MS/MS analysis,Mouse,5 uM,4 hrs,LC-MS/MS,,True
+75,Plasma protein binding in mouse measured by equilibrium dialysis method,Mouse,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+76,Protein binding in serum,,,,,,True
+77,Protein binding in guinea pig plasma at 10 uM after 5 hrs by equilibrium dialysis based LC-MS/MS analysis,Guinea Pig,10 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True
+78,Protein binding in human serum assessed as fraction unbound,Human Serum,,,,,True
+79,Protein binding in mouse plasma at 2.5 uM measured after 4 hrs by equilibrium dialysis based LC-MS/MS analysis,Mouse,2.5 uM,4 hrs,LC-MS/MS,Equilibrium Dialysis,True
+80,Protein binding in human plasma at 5 uM after 30 mins by LC-MS/MS analysis based ultrafiltration method,Human,5 uM,30 mins,LC-MS/MS,Ultrafiltration,True

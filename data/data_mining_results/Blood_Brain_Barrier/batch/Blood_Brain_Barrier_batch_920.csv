@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+780,Tested for effective permeability across the rat intestinal membrane using mass balance analysis at 0.01 mM concentration,rat intestinal membrane mass balance,,effective permeability rat intestine,,0.01 mM,False
+781,Passive permeability of the compound in human Caco2 cells after 7 days by UV analysis,human Caco2 UV,,passive permeability 7 days,,,False
+782,Apparent permeability from mucosal to serosal side in Wistar rat jejunum,Wistar rat jejunum,,mucosal to serosal apparent,,,False
+783,Apparent permeability in MDCKII expressing MDR1 cells across apical to basolateral side,MDCKII MDR1,,apical to basolateral apparent,,,False
+784,Intestinal permeability in ex vivo Wistar rat everted gut sac model assessed as GLUT2-mediated drug permeation by measuring drug level permeated through the intestinal membrane at 100 uM added 10 mins after 10 uM SGLT1 inhibitor phloridzin dihydrate and measured after 60 mins post-drug dose by HPLC analysis,Wistar rat everted gut sac HPLC,,GLUT2-mediated intestinal permeation,,100 uM added after 10 uM inhibitor,False
+785,Permeability of the compound at pH 6.8,PAMPA pH 6.8,,pH 6.8 permeability,6.8,,False
+786,Permeability across apical to basolateral side in human Caco2/TC7 cells at 20 uM after 120 mins by UPLC/ESI-MS-MS analysis,human Caco2/TC7 UPLC/ESI-MS-MS,,apical to basolateral permeability,,20 uM for 120 mins,False
+787,Permeability from basolateral to apical side in human Caco2 cells assessed as drug recovery at 10'-5 M at pH 6.5 to 7.4,human Caco2,,basolateral to apical drug recovery,pH 6.5 to 7.4,10'-5 M,False
+788,Maximal carrier-mediated permeability coefficient in human Caco-2 cells at 0.25 to 30 uM measured after 120 mins by LC-MS/MS analysis,human Caco-2 LC-MS/MS,,carrier-mediated permeability coefficient,,0.25 to 30 uM for 120 mins,False
+789,Permeability of the compound in pig LLC-PK1 cells expressing MDR1,pig LLC-PK1 MDR1,,permeability in MDR1 expression,,,False
+790,Permeability of compound in PBS buffer at pH 7.4 by PAMPA-BBB assay,PAMPA-BBB,,,7.4,100 uM in PBS pH 7.4,False
+791,Permeability from basolateral to apical side of human Caco-2 cell membranes,human Caco-2,,basolateral to apical,,,False
+792,Permeability in human C2BBe1 cells at 10 uM incubated for 3 hrs by LC-MS analysis relative to control,human C2BBe1 LC-MS,,relative permeability to control,,10 uM for 3 hrs,False
+793,Permeability of the compound at 10 uM at pH 7.4 after 5 hrs by PAMPA,PAMPA,,permeability at pH 7.4,7.4,10 uM after 5 hrs,False
+794,Membrane permeability by PAMPA method,PAMPA,,membrane permeability,,,False
+795,Permeability across basolateral to apical side in human Caco2 cells at 10 uM after 21 days,human Caco2,,basolateral to apical after 21 days,,10 uM for 21 days,False
+796,Permeability across apical to basolateral side in human Caco-2 cells assessed as compound recovery at 10 uM measured up to 120 mins by LC-MS/MS analysis,human Caco-2 LC-MS/MS,,apical to basolateral recovery,,10 uM measured up to 120 mins,False
+797,Permeability across apical to basolateral side of human Caco2 cells at 10 uM after 21 days,human Caco2,,apical to basolateral after 21 days,,10 uM for 21 days,False
+798,Permeability of compound at pH 7.4 at 10 uM incubated for 3 hrs by PAMPA based LC/MS/MS analysis,PAMPA LC/MS/MS,,pH 7.4 permeability incubated for 3 hrs,7.4,10 uM incubated for 3 hrs,False
+799,Membrane permeability at pH 6.8 by PAMPA,PAMPA pH 6.8,,pH 6.8 membrane permeability,6.8,,False

@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in Salmonella typhimurium TA98 at 0.004 to 5 mg/ml measured after 90 mins in absence of rat S9 fraction by mini-Ames test,0.004 to 5 mg/ml,,after 90 mins,absence of S9 fraction,Salmonella typhimurium TA98,True
+2,Mutagenicity in Salmonella typhimurium TA102 at 62.5 to 625 uM preincubated for 1 hr followed by addition of molten top agar and measured 48 hrs post dark incubation by Ames test,62.5 to 625 uM,,preincubated for 1 hr followed by 48 hrs,presence of S9 mixture,Salmonella typhimurium TA102,True
+3,Genotoxicity in Salmonella typhimurium TA100,,,,,,False
+4,Genotoxicity in Salmonella typhimurium TA100 at 50 times antiproliferative IC50 by Ames test,50 times antiproliferative IC50,,,presence of S9 mixture,Salmonella typhimurium TA100,True
+5,Mutagenic activity in Salmonella typhimurium TA1535 at 10 to 100 uM by ames test in presence of S9 mixture,10 to 100 uM,,,,DOPC/cholesterol large unilamellar vesicles,False
+6,Phytotoxicity in Persea americana (avocado) assessed as induction of visual damage after compound application for 1 hr through two-tier reduced pressure fumigation at 30 mmHg for 0.5 hr and then 760 mmHg for 1.5 hr at 23 +/- 1 degC,,23 +/- 1 degC,,,Escherichia coli WP2 uvrA,False
+7,Mutagenicity in Salmonella typhimurium TA98 by Ames test,,,,presence of S9 mixture,human HCT116 cells,True
+8,Genotoxicity in Salmonella typhimurium TA100 at 1.5 to 1000 ug/well in presence of rat liver S9 fraction by mini-Ames test,1.5 to 1000 ug/well,,after 90 mins,presence of S9 mixture,human A375 cells,True
+9,Antiviral activity against HCV genotype 1a replicon infected in human HuH7 cells after 3 days by renilla luciferase assay,,,after 3 days,,Salmonella typhimurium TA102,False
+10,Antiviral activity against HCV genotype 1b infected in human HuH7 cells at >= 10 times antiviral EC50 after 3 days by luciferase reporter assay,>= 10 times antiviral EC50,,after 3 days,,POPC large unilamellar vesicle,False
+11,Genotoxicity in Salmonella typhimurium TA98 at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,,absence of S9 fraction,Salmonella typhimurium TA1535,True
+12,Mutagenicity in Salmonella typhimurium TA100 measured after 20 mins in presence of S9 fraction by microsome assay,,,after 20 mins,presence of S9 fraction,Salmonella typhimurium TA100,False
+13,Binding affinity to 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine small unilamellar vesicle in 40 mM phosphate buffer at pH 6.8 at 100 uM by Far-UV CD spectra analysis,100 uM,,,,,False
+14,Binding affinity to 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine large unilamellar vesicle in 40 mM phosphate buffer at pH 6.8 at 100 uM by Far-UV CD spectra analysis,100 uM,,,,,False
+15,Genotoxicity in Salmonella typhimurium TA1535 at 5000 lg/plate in presence of liver S9 fraction by Ames test,5000 lg/plate,,,presence of S9 fraction,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine small unilamellar vesicle,True
+16,Mutagenicity in Salmonella typhimurium TA1535 at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,,absence of S9 fraction,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine large unilamellar vesicle,True
+17,Mutagenicity in Salmonella typhimurium YG1021 at 5 to 100 ug/plate after 20 mins by microsome assay,5 to 100 ug/plate,,after 20 mins,,Salmonella typhimurium TA98,False
+18,Induction of citrate synthase activity in BCAEC at EC50 after 48 hrs in presence of L-NAME,,,after 48 hrs,,BCAEC,False
+19,Genotoxicity in Salmonella typhimurium TA100 at 0.004 to 5 mg/ml measured after 90 mins in absence of rat S9 fraction by mini-Ames test,0.004 to 5 mg/ml,,after 90 mins,absence of S9 fraction,Salmonella typhimurium TA100,True
+20,Mutagenicity in Salmonella typhimurium TA1537 assessed as lowest compound concentration causing mutagenic effect incubated at 16 to 5000 ug/plate at 37 degC for 3 days in absence of rat liver S9 fraction by Ames test,16 to 5000 ug/plate,37 degC,incubated at 37 degC for 3 days,absence of S9 fraction,Salmonella typhimurium TA1537,True

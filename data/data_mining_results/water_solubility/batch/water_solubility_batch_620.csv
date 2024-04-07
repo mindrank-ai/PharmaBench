@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+540,Aqueous solubility in phosphate buffer at pH 6.5 by lyophilization solubility assay,6.5,phosphate buffer,,lyophilization solubility assay,,True
+541,Aqueous solubility of the compound in Britton-Robinson buffer at pH 6.5 measured after 2 days by saturation shake flask based UV-vis spectroscopy,6.5,Britton-Robinson buffer,2 days,UV-vis spectroscopy,,True
+542,Kinetic solubility in pH 7.4 PBS buffer at 100 uM incubated for 24 hrs by LC/CLND method,7.4,PBS buffer,24 hrs,LC/CLND method,,True
+543,Solubility of compound in PBS at pH 7.4 after 24 hrs by UHPLC analysis,7.4,PBS,24 hrs,UHPLC analysis,,True
+544,Aqueous solubility of compound in Japanese pharmacopoeia second fluid at pH 6.8 at 130 uM after 20 hrs by HPLC analysis,6.8,Japanese pharmacopoeia second fluid,20 hrs,HPLC analysis,,True
+545,Aqueous kinetic solubility at pH 7.4 by turbidimetric assay,7.4,aqueous,,turbidimetric assay,,True
+546,Solubility of the compound in phosphate buffered saline at pH 7.4 after 4 hrs by LC-MS/MS analysis,7.4,phosphate buffered saline,4 hrs,LC-MS/MS analysis,,True
+547,Solubility of the compound at pH 6.5 in fast state simulated intestinal fluid incubated for 16 hrs by HPLC analysis,6.5,fast state simulated intestinal fluid,16 hrs,HPLC analysis,,True
+548,Kinetic solubility of the compound at pH 1.0 by HPLC-UV method,1.0,None,,HPLC-UV method,,True
+549,Thermodynamic solubility in pH 7 buffer,7.0,pH 7 buffer,,,,True
+550,Solubility in n-octanol at pH 7.4 after 24 hrs by HPLC analysis,7.4,n-octanol,24 hrs,HPLC analysis,,False
+551,Aqueous solubility of the compound in phosphate buffer at pH 7.4 after 3 hrs by UV detection assay,7.4,phosphate buffer,3 hrs,UV detection assay,,True
+552,Solubility in culture medium,,culture medium,,,,True
+553,Kinetic solubility by chemiluminescent nitrogen detection assay,,,,chemiluminescent nitrogen detection assay,,True
+554,Kinetic solubility of compound at pH 6.8 by turbidimetry method,6.8,,,turbidimetry method,,True
+555,Solubility of the compound in deionized water,,deionized water,,,,True
+556,Aqueous solubility of the compound at pH 7.4 phosphate buffer using crystalline sample measured after 24 hrs by LC-UV analysis,7.4,phosphate buffer,24 hrs,LC-UV analysis,,True
+557,Aqueous solubility of the compound in pH 6.5 phosphate buffer by RP-UPLC analysis,6.5,phosphate buffer,,RP-UPLC analysis,,True
+558,Kinetic solubility of compound at pH 7.4 by turbidimetry method,7.4,,,turbidimetry method,,True
+559,Aqueous solubility of the compound in 10 mM phosphate buffer at pH 7.4 after 27 hrs,7.4,10 mM phosphate buffer,27 hrs,,,True

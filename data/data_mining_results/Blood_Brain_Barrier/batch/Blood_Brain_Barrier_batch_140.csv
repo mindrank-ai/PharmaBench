@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+780,Passive permeability across MDCK2 cells,MDCK2,,passive permeability,,,False
+781,Permeability of the compound in porcine brain lipid assessed as ratio of compound in acceptor plate to amount of compound in donor plate at 5 mg/ml after 10 hrs by PAMPA assay,PAMPA porcine brain lipid,,ratio assessment in acceptor vs donor,,5 mg/ml after 10 hrs,True
+782,Permeability of the compound in PRISMA HT buffer at pH 7.4 at 10 uM incubated for 3 hrs by PAMPA based LC/MS/MS analysis,PAMPA PRISMA HT LC/MS/MS,,permeability at pH 7.4,7.4,10 uM for 3 hrs,False
+783,Permeability of the compound measured after compound dilution in PBS/EtOH buffer (70:30) by PAMPA-BBB assay,PAMPA-BBB,,compound dilution permeability,,after dilution in PBS/EtOH,True
+784,Permeability across PAMPA membrane,PAMPA,,permeability across membrane,,,False
+785,Permeability of the compound at pH 7.4 buffer after 3 hrs by PAMPA,PAMPA,,,7.4,after 3 hrs,False
+786,Membrane permeability of the compound by PAMPA,PAMPA,,,,,False
+787,sPermeability by PAMPA,PAMPA,,sPermeability assessment,,,False
+788,Permeability of compound at 100 ug/ml measured after dilution with PBS/EtOH (70:30) at pH 7.4 after 18 hrs by PAMPA-BBB assay,PAMPA-BBB PBS/EtOH,,permeability after dilution with PBS/EtOH,7.4,100 ug/ml after 18 hrs,True
+789,Membrane permeability dissolved in PBS/EtOH (70:30) mixture by PAMPA-BBB assay,PAMPA-BBB PBS/EtOH,,dissolved in PBS/EtOH mixture permeability,,,True
+790,Permeability of the compound at 5 mg/mL after 18 hrs by PAMPA,PAMPA,,,,5 mg/mL after 18 hrs,False
+791,Permeability of the compound at 25 ug/ml after 18 hrs by PAMPA,PAMPA,,,,25 ug/ml after 18 hrs,False
+792,Permeability by artificial membrane permeability assay,Artificial membrane permeability assay,,artificial membrane permeability,,,False
+793,Permeability across human Caco2 cells at pH 6.5,human Caco2,,permeability at pH 6.5,6.5,,False
+794,Permeability of compound across apical to basolateral membrane in MDCK2 cells at 10 to 50 uM incubated for 2 hrs under shaking condition by LC-MS/MS analysis,MDCK2 LC-MS/MS,,across apical to basolateral under shaking,,10 to 50 uM for 2 hrs,False
+795,Membrane permeability by PAMPA-BBB assay,PAMPA-BBB,,BBB assay,,,True
+796,Permeability of the compound in MDCK cells,MDCK,,permeability in MDCK,,,False
+797,Permeability across human Caco-2 cells assessed as permeability coefficient,human Caco-2,,permeability coefficient assessment,,,False
+798,Permeability of compound in DMSO aqueous buffer at pH 7.4 after 30 mins by PAMPA,PAMPA,,in DMSO aqueous buffer at pH 7.4,7.4,after 30 mins,False
+799,Permeability from apical to basolateral side in MDCK2-MDR1 cells at pH 7.4,MDCK2-MDR1,,apical to basolateral in MDCK2-MDR1,7.4,,False

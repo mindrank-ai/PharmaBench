@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+564,Inhibition of CYP2C9 (unknown origin) co-incubated with substrate and protein,CYP2C9,,,,,,,,unknown origin,unknown origin CYP2C9,True
+565,Inhibition of CYP1A2 using CEC as substrate,CYP1A2,,,,CEC,,,,,human recombinant CYP1A2,True
+566,Inhibition of CYP1A,CYP1A,,,,,,,,,CYP1A,True
+567,Inhibition of human recombinant CYP1A2 after 15 mins by 7-ethoxyresorufin-O-deethylation-based spectrofluorimetry,CYP1A2,after 15 mins,,,7-ethoxyresorufin,,,spectrofluorimetry,,human recombinant CYP1A2,True
+568,Inhibition of CYP1A2 in human liver microsomes using phenacetin as substrate after 8 mins by LC-MS/MS analysis,CYP1A2,after 8 mins,,,phenacetin,,,LC-MS/MS,human liver microsomes,human liver CYP1A2,True
+569,Inhibition of recombinant human CYP1A2 expressed in supersomes using 7-ethoxyresorufin as substrate after 50 mins in presence of NADP+ by EROD assay,CYP1A2,after 50 mins,,,7-ethoxyresorufin,,NADP+,EROD assay,expressed in supersomes,recombinant human CYP1A2,True
+570,Inhibition of CYP3A4 in human liver microsomes using midazolam as substrate after 4 mins by LC-MS analysis,CYP3A4,after 4 mins,,,midazolam,,NADPH,LC-MS,human liver microsomes,human liver CYP3A4,True
+571,Reversible inhibition of CYP3A4 in human liver microsomes using midazolam as substrate,CYP3A4,,,,midazolam,,NADPH,,human liver microsomes,human liver CYP3A4,True
+572,Inhibition of recombinant CYP2C19 (unknown origin),CYP2C19,,,,,,,,unknown origin,unknown origin recombinant CYP2C19,True
+573,Inhibition of CYP450 (unknown origin),CYP450,,,,,,,,unknown origin,unknown origin CYP450,True
+574,Inhibition of CYP1A2 in human liver microsomes using phenacetin as substrate by LC-MS/MS analysis,CYP1A2,,,,phenacetin,,,,human liver microsomes,human liver CYP1A2,True
+575,Inhibition of CYP2D6 (unknown origin) using AMMC as substrate after 30 mins,CYP2D6,after 30 mins,,,AMMC,,,fluorescence assay,,unknown origin CYP2D6,True
+576,Inhibition of CYP3A4 in human liver microsomes using testosterone as substrate by LC-MS/MS analysis,CYP3A4,,,,testosterone,,,,human liver microsomes,human liver CYP3A4,True
+577,Inhibition of recombinant CYP3A4 using benzyloxy-4-(trifluoromethyl)coumarin as substrate,CYP3A4,,,,benzyloxy-4-(trifluoromethyl)coumarin,,,,expressed in baculovirus infected insect cells,recombinant human CYP3A4,True
+578,Inhibition of human CYP3A4 expressed in baculovirus infected insect cells using beetle D-luciferin as substrate preincubated for 30 mins followed by NADPH addition and measured after 30 mins by CYP450-Glo assay,CYP3A4,after 30 mins,,,beetle D-luciferin,,NADPH,CYP450-Glo assay,,human recombinant CYP3A4,True
+579,Inhibition of human CYP2C19 expressed in baculovirus infected insect cells using beetle D-luciferin as substrate preincubated for 30 mins followed by NADPH addition and measured after 30 mins by CYP450-Glo assay,CYP2C19,after 30 mins,,,beetle D-luciferin,,NADPH,CYP450-Glo assay,expressed in baculovirus infected insect cells,human recombinant CYP2C19,True
+580,Inhibition of CYP1A2 in human liver microsomes using phenacetin as substrate preincubated for 5 mins followed by NADPH addition measured after 10 mins by LC-MS/MS analysis,CYP1A2,after 10 mins,,,phenacetin,,NADPH,LC-MS/MS,human liver microsomes,human liver CYP1A2,True
+581,Inhibition of CYP2D6 in human liver microsomes using dextromethorphan as substrate after 15 mins by LC/MS/MS analysis,CYP2D6,after 15 mins,,,dextromethorphan,,,LC/MS/MS,human liver microsomes,human liver CYP2D6,True
+582,Inhibition of human CYP2D6 expressed in baculovirus infected insect cells using beetle D-luciferin as substrate preincubated for 30 mins followed by NADPH addition and measured after 30 mins by CYP450-Glo assay,CYP2D6,after 30 mins,,,beetle D-luciferin,,NADPH,CYP450-Glo assay,expressed in baculovirus infected insect cells,human recombinant CYP2D6,True
+583,Inhibition of CYP3A4 in human liver microsomes assessed as testosterone 6beta-hydroxylation,CYP3A4,,,,testosterone,,,,human liver microsomes,human liver CYP3A4,True

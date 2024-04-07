@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Mutagenicity in Salmonella typhimurium in presence of human liver S9 fraction by Ames test,,,,presence of human liver S9 fraction,Salmonella typhimurium,True
+2,Activity at synthetic biotin-RNA pseudoknot assessed as increase in -1 ribosomal frameshifting efficiency at 250 uM by dual luciferase assay,250 uM,,,,,False
+3,Mutagenicity in Salmonella typhimurium in presence of liver S9 fraction by non-GLP Ames test,,,,presence of liver S9 fraction,Salmonella typhimurium,True
+4,Mutagenicity in Salmonella typhimurium LT2 TA1535 in presence of S9 microsomes by Ames test,,,,presence of S9 microsomes,Salmonella typhimurium LT2 TA1535,True
+5,Mutagenicity in Salmonella typhimurium TA97A at 2.5 mM after 1 hr by Ames test in absence of S9 fraction,2.5 mM,,after 1 hr,absence of S9 fraction,Salmonella typhimurium TA97A,True
+6,Mutagenicity in Salmonella typhimurium LT2 TA100 in presence of S9 microsomes by Ames test,,,,presence of S9 microsomes,Salmonella typhimurium LT2 TA100,True
+7,Anti-virulence activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation by measuring reduction of hyphae formation in RPMI medium up to 10 uM incubated for 3 to 5 days by stereomicroscopic analysis,up to 10 uM,,incubated for 3 to 5 days,,Candida albicans SC5314,False
+8,Genotoxicity in Salmonella typhimurium by AMES test,,,,presence of S9 fraction,Salmonella typhimurium,True
+9,Binding affinity to POPC small unilamellar vesicle at 100 uM by circular dichroism analysis,100 uM,,,,POPC small unilamellar vesicle,False
+10,Genotoxicity against Salmonella typhimurium by Ames test,,,,presence of S9 fraction,Salmonella typhimurium,True
+11,Cytotoxicity against human ONS cells derived from Parkinson's disease patients assessed as alteration of nuclear parameters at 10 uM,10 uM,,,,human ONS cells,False
+12,Anti-virulence activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation by measuring reduction in hyphae formation in GlcNAc medium up to 10 uM incubated for 3 to 5 days by stereomicroscopic analysis,up to 10 uM,,incubated for 3 to 5 days,,Candida albicans SC5314,False
+13,Binding affinity to 4:1 POPC/POPG small unilamellar vesicle at 100 uM by circular dichroism analysis,100 uM,,,,POPC/POPG small unilamellar vesicle,False
+14,Anti-virulence activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation by measuring reduction in hyphae formation in SLAD medium up to 10 uM incubated for 3 to 5 days by stereomicroscopic analysis,up to 10 uM,,incubated for 3 to 5 days,,Candida albicans SC5314,False
+15,Mutagenic activity in Salmonella TA 98 by microsome assay in presence of rat liver S9 fraction,,,,presence of rat liver S9 fraction,Salmonella TA 98,True
+16,"Induction of membrane leakage in large unilamellar vesicles composed of 1,2-dioleoyl-sn-glycero-3-phosphocholine and 0.2% lipid II assessed as spore formation at 5 uM by carboxyfluorescein based fluorescence spectroscopy",5 uM,,,,large unilamellar vesicles,False
+17,Mutagenicity in Salmonella typhimurium LT2 TA98 in presence of S9 microsomes by Ames test,,,,presence of S9 microsomes,Salmonella typhimurium LT2 TA98,True
+18,Binding affinity to POPC large unilamellar vesicle at 1:300 ratio measured after 30 mins at pH 5 to 7.4 by tryptophan fluorescence spectroscopic analysis,1:300 ratio,,after 30 mins,,POPC large unilamellar vesicle,False
+19,"Inhibition of sterol biosynthesis in Leishmania mexicana amazonensis promastigotes assessed as reduction in endogenous cholesta-7,24-dien-3beta-ol level at 3 uM after 96 hrs by gas-liquid chromatography",3 uM,,after 96 hrs,,Leishmania mexicana amazonensis promastigotes,False
+20,Mutagenicity in Salmonella typhimurium LT2 TA100 in absence of S9 microsomes by Ames test,,,,absence of S9 microsomes,Salmonella typhimurium LT2 TA100,True

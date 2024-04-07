@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+660,Aqueous solubility of the compound at pH 6.5 by HPLC analysis,6.5,aqueous,,HPLC analysis,,True
+661,Equilibrium solubility in pH 7.0 phosphate buffer by LC/MS method,7.0,phosphate buffer,,LC/MS method,,True
+662,Solubility of the compound in water at 5 mg incubated in magnetic stirrer for 1 hr,,water,1 hr,magnetic stirrer incubation,25 degC,True
+663,Kinetic solubility of compound at pH 6.8 by shake flask method,6.8,phosphate buffer,,shake flask method,,True
+664,Solubility of the compound in 20% SBE beta-cyclodextrin at pH 6,6.0,20% SBE beta-cyclodextrin,,,,True
+665,Compound was tested for its solubility at 20 degrees C and isoelectric pH.,isoelectric,None,,,20 degrees C,True
+666,Solubility of the compound in pH 7.4 phosphate buffered saline at 50 uM after overnight incubation by LC-MS analysis,7.4,phosphate buffered saline,overnight,LC-MS analysis,,True
+667,Kinetic solubility of compound in phosphate buffer at pH 7.4 for 1 hr,7.4,phosphate buffer,1 hr,,,True
+668,Solubility of the compound in fasted state simulated intestinal fluid at pH 6.8,6.8,fasted state simulated intestinal fluid,,,,True
+669,Solubility of the compound by chemiluminescent nitrogen detection (CLND) method,,,,chemiluminescent nitrogen detection (CLND) method,,True
+670,Thermodynamic solubility of the compound in PBS after 48 hrs by LC-UV analysis,,PBS,48 hrs,LC-UV analysis,,True
+671,Aqueous solubility in pH 7.4 phosphate buffer (0.05 M) at 37 degree C,7.4,phosphate buffer,,,37 degree C,True
+672,Aqueous solubility of the compound in phosphate buffered saline at pH 7.4 incubated for 24 hrs by shake flask method based HPLC-UV/VIS analysis,7.4,phosphate buffered saline,24 hrs,shake flask method based HPLC-UV/VIS analysis,,True
+673,Solubility of compound in water at 0.1 to 10 ug/ml by UV spectrophotometry,,water,,UV spectrophotometry,,True
+674,Solubility of the compound in fasted state simulated intestinal fluid after 2 hrs by UV-HPLC analysis,,fasted state simulated intestinal fluid,2 hrs,UV-HPLC analysis,,True
+675,Solubility of the compound in pH 7.4 PBS buffer by ultraviolet spectroscopic method,7.4,PBS buffer,,ultraviolet spectroscopic method,,True
+676,Solubility of the compound in Japanese pharmacopoeia first fluid at pH 1.2,1.2,Japanese pharmacopoeia first fluid,,,,True
+677,Aqueous solubility of the compound in phosphate buffer at pH 6.5 by lyophilization-based spectrophotometry,6.5,phosphate buffer,,lyophilization-based spectrophotometry,,True
+678,Solubility in water at pH 7 and 25 degC by UV-vis spectrophotometry,7.0,water,,UV-vis spectrophotometry,25 degC,True
+679,Solubility of the compound in fasted state simulated intestinal fluid at 10 mM after 2 hrs by HPLC-UV analysis,6.8,fasted state simulated intestinal fluid,2 hrs,HPLC-UV analysis,,True

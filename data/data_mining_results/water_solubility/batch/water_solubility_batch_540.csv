@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+460,Solubility of the compound by chemiluminescent nitrogen detection assay,,,,chemiluminescent nitrogen detection assay,,True
+461,Aqueous solubility of the compound in sodium phosphate buffer at pH 7.4,7.4,sodium phosphate buffer,,,,True
+462,Aqueous solubility of compound at 50 mg after 1 hr by HPLC analysis,,aqueous,1 hr,HPLC analysis,,True
+463,Kinetic solubility of the compound at pH 6.5 phosphate buffer by nephelometric analysis,6.5,phosphate buffer,,nephelometric analysis,,True
+464,Kinetic solubility of the compound in 0.01M HCl at pH 2 by nephelometric method,2.0,0.01M HCl,,nephelometric method,,True
+465,Aqueous solubility of the compound in DMSO at 500 uM by filter based assay,,DMSO,,filter based assay,,False
+466,Kinetic solubility of the compound in 1%DMSO at pH 6.8,6.8,1%DMSO,,,,True
+467,Kinetic solubility of the compound in phosphate buffer at pH 6.5 by nephelometric method,6.5,phosphate buffer,,nephelometric method,,True
+468,Thermodynamic aqueous solubility of the compound in fasted state simulated intestinal fluid after 24 hrs by HPLC analysis,,fasted state simulated intestinal fluid,24 hrs,HPLC analysis,,True
+469,Solubility of the compound in water at 500 ug/mL by HPLC method,,water,,HPLC method,,True
+470,Kinetic solubility of compound in pH 7.4 buffer after 15 hrs,7.4,pH 7.4 buffer,15 hrs,,,True
+471,Thermodynamic solubility of the compound in phosphate buffer of pH 7.4 incubated for 20 hrs at room temperature by UV-reverse phase HPLC analysis,7.4,phosphate buffer,20 hrs,UV-reverse phase HPLC analysis,room temperature,True
+472,Solubility in 0.1 M phosphate buffer at pH 7.4,7.4,0.1 M phosphate buffer,,,,True
+473,Solubility in pH 6 MES buffer by dynamic light scattering assay,6.0,MES buffer,,dynamic light scattering assay,,True
+474,Thermodynamic solubility of the compound at pH 1,1.0,aqueous,,,,True
+475,Aqueous solubility of compound at 1 mg after 24 hrs by UV/LC-MS analysis,,aqueous,24 hrs,UV/LC-MS analysis,,True
+476,Solubility of the compound in phosphate buffered saline by UV-spectroscopic analysis,,phosphate buffered saline,,UV-spectroscopic analysis,,True
+477,Solubility of compound in DMSO,,DMSO,,,,False
+478,Solubility of the compound in water at pH 1.0 by HPLC,1.0,water,,HPLC,,True
+479,Solubility of compound by lyophilisation solubility assay,,,,lyophilisation solubility assay,,True

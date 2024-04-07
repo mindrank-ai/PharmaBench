@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+484,Inhibition of CYP2D6 in human liver microsomes using dextromethorphan as substrate preincubated for 5 mins followed by addition of NADPH-regenerating system and measured after 15 mins by UPLC-MS analysis,CYP2D6,"preincubated for 5 mins, measured after 15 mins",,,dextromethorphan,,NADPH-regenerating system,UPLC-MS,human liver microsomes,human liver,True
+485,Inhibition of human CYP2C9 after 10 mins,CYP2C9,after 10 mins,,,,,,,recombinant human,human,True
+486,Inhibition of CYP2D6 in human liver microsomes using AMMC substrate and NADPH incubated up to 2 hrs,CYP2D6,up to 2 hrs,,,AMMC,,NADPH,fluorescence assay,human liver microsomes,human liver,True
+487,Inhibition of human recombinant CYP2C9 expressed in insect microsomes,CYP2C9,,,,,,,,recombinant human expressed in insect microsomes,insect cells infected with baculovirus,True
+488,Inhibition of CYP1A2 in human liver microsomes using phenacetin as substrate pretreated for 15 mins followed by NADPH addition measured after 8 mins by LC-MS/MS analysis,CYP1A2,"pretreated for 15 mins, measured after 8 mins",,,phenacetin,,NADPH,LC-MS/MS,human liver microsomes,human liver,True
+489,"Inhibition Assay: The potential inhibition of enzyme activities of human cytochromes P450 (CYP) of Compound 1, 2, or 105 was evaluated using pooled human liver microsomes... The CYP probe substrates and CYP inhibitors used as positive controls.",Various human CYP isoforms,,37° C,pH 7.4,,,,,,pooled human liver microsomes,False
+490,Inhibition of human recombinant CYP2C9 preincubated for 10 mins,CYP2C9,preincubated for 10 mins,,,,,NADPH,fluorescence assay,,recombinant human,True
+491,Inhibition of CYP3A4 in human liver microsomes using midazolam as substrate in presence of NADPH by LC-MS/MS analysis,CYP3A4,,,,midazolam,in presence of NADPH,,LC-MS/MS,human liver microsomes,human liver,True
+492,Inhibition of CYP3A4 in human liver microsomes using testosterone as substrate,CYP3A4,,,,testosterone,,,,unknown origin,human liver,True
+493,Inhibition of CYP2D6 after 30 mins by fluorometric assay,CYP2D6,after 30 mins,,,,,NADPH,fluorometric assay,recombinant human,recombinant human,True
+494,Inhibition of human CYP2D6 after 10 mins,CYP2D6,after 10 mins,,,,,,,,recombinant human,True
+495,Inhibition of CYP2C9 in human liver microsomes by LC-MS/MS analysis,CYP2C9,,,,,,,LC-MS/MS,human liver microsomes,human liver,True
+496,Inhibition of CYP2A6 in human liver microsomes assessed as inhibition of coumarin 7-hydroxylation after 10 mins by plate reader,CYP2A6,after 10 mins,,,coumarin 7,,,plate reader,,human liver,True
+497,Inhibition of human recombinant CYP2C9 using 7-methoxy-4-trifluoromethylcoumarin-3-acetic acid as substrate by fluorescence plate reader,CYP2C9,,,,7-methoxy-4-trifluoromethylcoumarin-3-acetic acid,,,fluorescence plate reader,,recombinant human,True
+498,Inhibition of CYP1A in human liver microsomes by LC-MS/MS analysis,CYP1A,,,,,,,LC-MS/MS,,human liver,True
+499,Inhibition of CYP2C9 in human liver microsome by LC-MS/MS analysis,CYP2C9,,,,,,,LC-MS/MS,,recombinant human,True
+500,Inhibition of human CYP3A4 in human liver microsomes assessed as formation of 6beta-hydroxy-testosterone using testosterone as substrate by high throughput mass spectrometry in absence of NADPH,CYP3A4,in absence of NADPH,,,testosterone,,,,,recombinant human,True
+501,Inhibition of human Cyp11B1 transfected in chinese hamster V79MZ cells using deoxycorticosterone as substrate incubated for 60 mins prior to substrate addition measured after 25 mins by HPLC analysis,Cyp11B1,"incubated for 60 mins, measured after 25 mins",,,deoxycorticosterone,,,HPLC,recombinant human,,True
+502,Inhibition of CYP3A4 in human liver microsomes using 7-benzyloxyquiniline substrate and NADPH incubated up to 2 hrs,CYP3A4,up to 2 hrs,,,7-benzyloxyquiniline,,,,human liver microsomes,human liver,True
+503,Inhibition of CYP3A4 (unknown origin) using BQ as substrate after 30 mins,CYP3A4,after 30 mins,,,BQ,,,,unknown origin,unknown origin,True

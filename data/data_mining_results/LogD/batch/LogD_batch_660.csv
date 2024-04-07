@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"1-Octanol-sodium phosphate buffer distribution coefficient, log D of the compound at pH 7.4",7.4,,1-octanol-sodium phosphate buffer,,,,True
+2,"Partition coefficient in octanol/water system was determined at pH 7.4, as a measure of lipophilicity.",7.4,,octanol/water,,,,True
+3,"Octanol-aqueous phase distribution coefficient, log D of the compound at pH 5",5.0,,octanol-aqueous phase,,,,True
+4,"Lipophilicity, log D of the compound at pH 7.4 at 0.52 mg after 1 hr by shake-flask method",7.4,shake flask,,,1 hr,shake flask,True
+5,"Lipophilicity, log D of the compound at pH 7 by HPLC-DAD analysis",7.0,HPLC-DAD,,,,,True
+6,"Lipophilicity, log D of the compound at pH 7.4 assessed as chromatographic hydrophobicity index",7.4,,,,,,True
+7,"Distribution coefficient, log D of the compound at pH 7.4 by potentiometric titration method",7.4,potentiometric titration,,,,,True
+8,Lipophilicity log D of compound at pH 7.4,7.4,,,,,,True
+9,"Distribution coefficient, log D of the compound by chromatographic method",,chromatography,,,,,True
+10,"1-octanol-PBS distribution coefficient, Log D of the compound at pH 7.4 after 2 hrs by LC-MS analysis",7.4,LC-MS,1-octanol-PBS,,2 hrs,,True
+11,"1-Octanol-water distribution coefficient, log D of the compound at pH 7 after 1 week by HPLC-ESIMS/MS analysis",7.0,HPLC-ESIMS/MS,1-octanol-water,,1 week,,True
+12,"Chromatographic hydrophobicity index, log D of the compound at pH 10.5",10.5,,,,,,True
+13,"1-octanol/phosphate buffer solution partition coefficient, log D of the compound at pH 7.4 after 1 hr by LC-MS/MS method",7.4,LC-MS/MS,1-octanol/phosphate buffer,,1 hr,,True
+14,"Lipophilicity, logD of the compound in octanol and water at pH 7.4 by shake-flask method",7.4,shake flask,octanol and water,,,shake flask,True
+15,LogP (Octanol-water partition coefficient) was measured at pH 2.3,2.3,,Octanol-water,,,,True
+16,"1-Octanol-water distribution coefficient, log D of the compound at pH 4.5 after 1 week by HPLC-ESIMS/MS analysis",4.5,HPLC-ESIMS/MS,1-octanol-water,,1 week,,True
+17,"Distribution coefficient, log D of the compound in buffer/octanol solution by shake-flask method",,shake flask,buffer/octanol,,,shake flask,True
+18,"1-Octanol-water distribution coefficient, log D of the compound at pH 6 after 1 week by HPLC-ESIMS/MS analysis",6.0,HPLC-ESIMS/MS,1-octanol-water,,1 week,,True
+19,"n-Octanol-water distribution coefficient, log D of the compound at pH 7.4 after 90 mins by UV-spectrphotometric based shake-flask method",7.4,UV-spectrophotometry,n-octanol-water,,90 mins,shake flask,True
+20,"Partition coefficient for 0.1M, pH 7.8 phosphate buffer",7.8,,,,,,True

@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+340,Solubility in acetate buffer at pH 5,5.0,acetate buffer,,,,True
+341,Solubility (pH 7.4),7.4,,,,,True
+342,Solubility of the compound in PBS measured after overnight incubation by LYSA assay,,PBS,overnight,LYSA assay,,True
+343,Solubility of the compound in RPMI-1640/Sula media by spectrophotometric analysis,,RPMI-1640/Sula media,,spectrophotometric analysis,,True
+344,Aqueous kinetic solubility of compound in pH 7.4 PBS buffer at 250 uM incubated for 1 hr under shaking condition by UPLC/MS analysis,7.4,PBS buffer,1 hr,UPLC/MS analysis,20 degC,True
+345,Kinetic aqueous solubility of compound in 2% DMSO/Phosphate buffer saline incubated for 90 mins under shaking condition by,,2% DMSO/Phosphate buffer saline,90 mins,,,True
+346,Kinetic solubility of the compound at pH 7.4 by chemiluminescence nitrogen detection method,7.4,,,chemiluminescence nitrogen detection method,,True
+347,Solubility of the compound in water by spectrophotometric method,,water,,spectrophotometric method,,True
+348,Equilibrium solubility of compound at pH 1 incubated for 24 to 48 hrs by HPLC analysis,1.0,,24 to 48 hrs,HPLC analysis,,True
+349,Kinetic aqueous solubility of the compound in PBS buffer at pH 7.4 incubated for 24 hrs under shaking condition by LC-CLND assay,7.4,PBS buffer,24 hrs,LC-CLND assay,,True
+350,Solubility in pH 6.5 solution,6.5,,,,,True
+351,Solubility (at pH 7.4),7.4,,,,,True
+352,Kinetic solubility in phosphate buffer at pH 7.4,7.4,phosphate buffer,,,,True
+353,Equilibrium solubility of compound at pH 7.4 incubated for 24 to 48 hrs by HPLC analysis,7.4,,24 to 48 hrs,HPLC analysis,,True
+354,Equilibrium solubility of the compound at pH 6.8,6.8,,,,,True
+355,Aqueous solubility of compound at pH 6.5,6.5,,,,,True
+356,Kinetic solubility of the compound in pH 7.4 KH2PO4/KOAc/KCl buffer,7.4,KH2PO4/KOAc/KCl buffer,,,,True
+357,Equilibrium solubility in 0.5% methylcellulose/2% Tween-80 in water,,0.5% methylcellulose/2% Tween-80 in water,,,,True
+358,Solubility of the compound at pH 6.5 by LYSA,6.5,,,LYSA,,True
+359,Solubility of compound in phosphate buffer at 2 mg for 20 hrs at pH 7.4 by UPLC analysis,7.4,phosphate buffer,20 hrs,UPLC analysis,,True

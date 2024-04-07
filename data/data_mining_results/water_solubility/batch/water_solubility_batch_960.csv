@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+840,Aqueous solubility of the compound in pH 7.4 buffered water after 24 hrs,7.4,buffered water,24 hrs,,25 degC,True
+841,Aqueous solubility in 0.01 M Hcl at pH 2 at 10 mg/ml after 4 hrs by by UV-HPLC method,2.0,0.01 M HCl,4 hrs,UV-HPLC method,,True
+842,Solubility at pH 7.5,7.5,,,,,True
+843,Solubility of compound in 1% DMSO : 99% PBS buffer solution at 37 degree C measured after 2 hrs by nephelometer analysis,7.4,1% DMSO : 99% PBS buffer solution,2 hrs,nephelometry,37 degree C,True
+844,Kinetic solubility in pH 7.4 PBS at 0.125 to 8 mM incubated for 2 hrs by turbidimetric kinetic solubility assay,7.4,PBS,2 hrs,turbidimetric kinetic solubility assay,,True
+845,Solubility of the compound in DMEM/FBS medium,,DMEM/FBS medium,,,,True
+846,Equilibrium solubility of compound in PBS by HPLC analysis,,PBS,,HPLC analysis,,True
+847,Kinetic solubility of the compound in 20% HP-beta-cyclodextrin at pH 4 by UPLC/UV method,4.0,20% HP-beta-cyclodextrin,,UPLC/UV method,,True
+848,Aqueous solubility of the compound at pH 6.5 for 24 hrs by HPLC-MS/MS,6.5,phosphate buffer,24 hrs,HPLC-MS/MS,,True
+849,Solubility of compound in FaSSIF,,FaSSIF,,,,True
+850,Thermodynamic solubility of compound in FaSSIF at pH 6.5 using crystalline form of sample,6.5,crystalline sample in FaSSIF,,,,True
+851,Kinetic solubility of the compound at pH 7,7.0,,,,,True
+852,Thermodynamic solubility of compound in SLF at pH 6.9 using crystalline form of sample,6.9,crystalline sample in SLF,,,,True
+853,Equilibrium solubility of the compound at pH 6.8 by LC-MS/MS analysis,6.8,,,LC-MS/MS analysis,,True
+854,Aqueous solubility of the compound in DMSO at pH 6.5 after 24 hrs by HPLC-MS/MS analysis,6.5,DMSO,24 hrs,HPLC-MS/MS analysis,,True
+855,Thermodynamic solubility of the compound in 50 mM Phosphate buffer at pH 7.4 after 16 hrs by HPLC analysis,7.4,50 mM Phosphate buffer,16 hrs,HPLC analysis,,True
+856,Solubility of the compound in water irradiated with 365 nanometer UV light up to 10 mins by UV-Visible spectrum analysis,,water irradiated with 365 nm UV light,up to 10 mins,UV-Visible spectrum analysis,,True
+857,Water solubility was determined by UV absorption at 273 nm,,water,,UV absorption,,True
+858,Kinetic solubility of compound in 0.01 M HCL at 10 mg/ml at pH 2 by nephelometry,2.0,0.01 M HCl,,nephelometry,,True
+859,Kinetic solubility of compound in pH 6.5 phosphate buffer at 10 mg/ml by nephelometry,6.5,phosphate buffer,,nephelometry,,True

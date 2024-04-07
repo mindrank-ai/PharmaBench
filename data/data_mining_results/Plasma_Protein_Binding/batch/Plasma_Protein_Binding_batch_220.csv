@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+221,Protein binding in human plasma at 10 uM after 4 hrs by rapid equilibrium dialysis method,Human Plasma,10 uM,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+222,In vitro anticoagulant activity was measured by percentage binding of compound toward plasma protein,,,,,,True
+223,Protein binding in rat plasma at 10 uM after 4 hrs by rapid equilibrium dialysis method,Rat Plasma,10 uM,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+224,Protein binding in Sprague-Dawley rat plasma at 10 uM incubated for 4 hrs under shaking condition by LC-MS/MS analysis,Sprague-Dawley Rat Plasma,10 uM,4 hrs,LC-MS/MS,,True
+225,Protein binding in human plasma at 5 uM after 4 hrs by rapid equilibrium dialysis,Human Plasma,5 uM,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+226,Plasma protein binding in human by LC-MS/MS analysis,Human Plasma,,,LC-MS/MS,,True
+227,Protein binding in human plasma at 5 uM,Human Plasma,5 uM,,,,True
+228,Protein binding in human plasma at 2 uM after 4 hrs by by LC-MS/MS-based equilibrium dialysis method,Human Plasma,2 uM,4 hrs,LC-MS/MS,Equilibrium Dialysis,True
+229,Plasma protein binding in human assessed as unbound fraction at 2 uM by rapid equilibrium dialysis analysis,Human Plasma,2 uM,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+230,Plasma protein binding in guinea pig,Guinea Pig Plasma,,,,,True
+231,"Binding affinity to Sprague-Dawley rat serum protein at 40 to 80 MBq, iv after 40 mins",Sprague-Dawley Rat Serum,40 to 80 MBq,40 mins,,,False
+232,Binding affinity to Sprague-Dawley rat serum protein fractions at 8 to 10 MBq after 5 mins,Sprague-Dawley Rat Serum,8 to 10 MBq,5 mins,,,False
+233,Protein binding in rat plasma at 5 uM,Rat Plasma,5 uM,,,,True
+234,Compound was tested for percent protein binding (PB) in human,Human Plasma,,,,,True
+235,Plasma protein binding in monkey,Monkey Plasma,,,,,True
+236,Protein binding in mouse plasma at 10 uM,Mouse Plasma,10 uM,,,,True
+237,Plasma protein binding in human assessed as bound fraction,Human Plasma,,,,,True
+238,Plasma protein binding in rat at 5 uM,Rat Plasma,5 uM,,,,True
+239,Protein binding in ICR mouse plasma by equilibrium dialysis,ICR Mouse Plasma,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+240,Protein binding in human plasma after 20 mins by ultra-filtration method,Human Plasma,,20 mins,Ultra-filtration,,True

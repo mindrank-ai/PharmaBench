@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+800,Permeability of the compound at 50 uM after 2 hrs by PAMPA,PAMPA,,permeability assessment 50 uM 2 hrs,,50 uM 2 hrs,True
+801,Effective permeability of the compound at pH 7.4 incubated for 4 hrs by PAMPA-BBB assay,PAMPA-BBB,,effective permeability pH 7.4 4 hrs,7.4,pH 7.4 4 hrs,False
+802,Permeability across Micrococcus luteus ATCC 4698 lipid II-containing unilamellar vesicle assessed as partial leakage after disintegration of vesicles at lower concentration by carboxyfluorescein leakage assay,Micrococcus luteus vesicle,,vesicle leakage by carboxyfluorescein assay,,,False
+803,Permeability across basolateral to apical side in human Caco2 cells coexpressing Pgp at 5 uM in presence of P-gp inhibitor valspodar measured for 3 hrs by UPLC/MS analysis,human Caco2 Pgp UPLC/MS,,basolateral to apical Pgp inhibitor,,5 uM Pgp inhibitor,False
+804,Permeability across basal to apical side in human Caco-2 cells,human Caco-2,,basal to apical,,,False
+805,Permeability across bilateral to apical side in human Caco-2 cells,human Caco-2,,bilateral to apical,,,False
+806,Permeability of the compound in pH 7.4 phosphate buffer measured after 3 hrs by artificial membrane permeability assay based LC-MS analysis,artificial membrane LC-MS,,artificial membrane permeability pH 7.4,7.4,pH 7.4 measurement,False
+807,Permeability surface area of paracellular transport in MDCK2 cells assessed as transport at 50 uM after 0.5 to 1 hrs by HPLC method,MDCK2 HPLC,,paracellular transport surface area,,50 uM 0.5 to 1 hr,False
+808,Permeability of the compound at 50 uM at pH 7.4 after 4 hrs by PAMPA,PAMPA,,permeability 50 uM pH 7.4,7.4,50 uM at pH 7.4,False
+809,Permeability in MDCK2 cells,MDCK2,,permeability in MDCK2 cells,,,False
+810,Passive permeability from apical to basolateral side in MDCK2-MDR1 cells after 90 mins by LC-MS/MS analysis,MDCK2-MDR1 LC-MS/MS,,passive apical to basolateral MDCK2-MDR1,,apical to basolateral 5 uM,False
+811,Permeability of the compound in aqueous buffer at donor compartment pH 5.0 and acceptor compartment pH 7.4 by PAMPA,PAMPA,,aqueous buffer pH 5.0 to 7.4,donor 5.0 and acceptor 7.4,pH 5.0 and 7.4 buffer,False
+812,Permeability across apical to basolateral side in human Caco-2 cells at pH 6.5 to 7.4 by HPLC-MS/MS analysis,human Caco-2 HPLC-MS/MS,,apical to basolateral pH 6.5 to 7.4,6.5 to 7.4,1 uM measured up to 120 min,False
+813,Apparent permeability in human Caco-2 expressing BCRP cells across apical to basolateral side,human Caco-2 BCRP,,BCRP-mediated apical to basolateral,,apical to basolateral,False
+814,Permeability from apical to basolateral side in MDCK-MDR1 cells in presence of Pgp inhibitor verapamil,MDCK-MDR1 verapamil,,apical to basolateral MDCK-MDR1 verapamil,,,False
+815,Permeability from basolateral to apical side of Caco-2 cells,Caco-2,,basolateral to apical Caco-2,,,False
+816,Permeability in porcine brain endothelial cells/rat astrocytes model system,porcine brain endothelial cells/rat astrocytes,,porcine brain endothelial cells/rat astrocytes permeability,,,False
+817,Permeability in MDCK cells expressing low Pgp,MDCK low Pgp,,MDCK low Pgp permeability,,,False
+818,Permeability across apical side to basolateral side in human Caco2 cells expressing p-gp at 3 uM incubated for 2 hrs in presence of BCRP inhibitor KO143 by LC-MS/MS analysis,human Caco2 p-gp KO143 LC-MS/MS,,apical to basolateral human Caco2 p-gp,,3 uM with BCRP inhibitor,False
+819,Permeability across apical to basolateral side in human Caco2 cells coexpressing Pgp at 5 uM measured for 3 hrs by UPLC/MS analysis relative to control,human Caco2 Pgp UPLC/MS,,apical to basolateral human Caco2 Pgp,,5 uM relative to control,False

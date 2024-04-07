@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+500,Permeability form basolateral to apical side in human Caco2 cells,human Caco2,,basolateral to apical,,,False
+501,Permeability from apical to basolateral side of multidrug-resistant MDCK2 cells over expressing human MDR1 in presence of P-gp inhibitor GF120918,MDCK2 human MDR1,,apical to basolateral with P-gp inhibitor,,5 uM after 30 mins with GF120918,False
+502,Permeability across apical to basolateral side of MDCK cells,MDCK,,apical to basolateral,,,False
+503,Membrane permeability by PAMPA in presence of 20% 1-propanol,PAMPA,,permeability with 1-propanol,,,False
+504,Permeability of the compound from basolateral to apical side of human Caco2 cells at 10 uM after 21 days,human Caco2,,basolateral to apical after 21 days,,10 uM after 21 days,False
+505,Permeability from apical to basolateral side of MDR1 transfected MDCK cells at 1 uM,MDCK MDR1,,apical to basolateral,,1 uM,False
+506,Permeability of compound at pH 5.0 by PAMPA,PAMPA,,,5.0,,False
+507,Permeability of compound in human HeLa cells by CAPA,human HeLa CAPA,,,,,False
+508,Permeability from apical to basolateral side in MDCK cells expressing human MDR1 at 10 uM after 1 hr by chromatography analysis,MDCK human MDR1,,apical to basolateral,,10 uM after 1 hr,False
+509,Apparent permeability from basolateral side to apical in MDCK cells expressing MDR1 at 10 uM after 60 mins by LC/MS analysis,MDCK MDR1 LC/MS,,basolateral to apical apparent permeability,,10 uM after 60 mins,False
+510,Permeability of the compound at 10 uM after 5 hrs by PAMPA,PAMPA,,,,10 uM after 5 hrs,False
+511,Permeability in human Caco2 cells at 10 uM,human Caco2,,,,10 uM,False
+512,Permeability from apical to basolateral side in MDCK-MDR1 cells,MDCK-MDR1,,apical to basolateral,,,False
+513,Permeability from basolateral to apical side in human Caco2 cells assessed as prodrug remaining in apical side for 2 hrs by HPLC method,human Caco2 HPLC,,basolateral to apical,,assessed as prodrug for 2 hrs,False
+514,Permeability in pH 7.4 PBS incubated for 2.5 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4,incubated for 2.5 hrs,True
+515,Permeability across basolateral to apical side of MDCK cells,MDCK,,basolateral to apical,,,False
+516,Permeability from apical to basolateral side in human Caco2 cells assessed as prodrug remaining in basolateral side for 2 hrs by HPLC method,human Caco2 HPLC,,apical to basolateral,,assessed as prodrug for 2 hrs,False
+517,Permeability from basolateral to apical side in human Caco2 cells assessed as prodrug remaining in basolateral side for 2 hrs by HPLC method,human Caco2 HPLC,,basolateral to apical,,assessed as prodrug for 2 hrs,False
+518,Permeability of the compound from basolateral to apical side in human Caco-2 cells,human Caco-2,,basolateral to apical,,,False
+519,Permeability of compound at 100 ug/mL by PAMPA-BBB assay,PAMPA-BBB,,,,100 ug/mL,True

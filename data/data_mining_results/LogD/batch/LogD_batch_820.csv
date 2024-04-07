@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Octanol-water distribution coefficient, log D of the compound with pH 7.4 PBS buffer",7.4,,octanol-water with PBS,,,,True
+2,"Lipophilicity, log D of the compound at pH 7.3",7.3,,,,,,True
+3,"Octanol/water partition coefficient, log D of the compound at pH 7.4",7.4,,octanol/water,,,,True
+4,Compound was evaluated for distribution coefficient (logD) measured at pH7.4,7.4,,,,,,True
+5,"Partition coefficient, log D of the compound in octanol-phosphate buffer at pH 7.4",7.4,,octanol-phosphate buffer,,,,True
+6,"n-Octanol-phosphate buffer partition coefficient, log D of the compound at 0.5 mg after 24 hrs by LC-MS analysis",7.4,LC-MS,n-octanol-phosphate buffer,,24 hrs,,True
+7,"Hydrophobicity, log D of compound at pH 7.4",7.4,,,,,,True
+8,"Lipophilicity, log P after 15 mins by shake-flask method",,shake flask,,,after 15 mins,shake flask,True
+9,Lipophilicity was calculated as LogD,,,,,,,True
+10,"Octanol-water distribution coefficient, log D at pH 7.4 by HPLC",7.4,HPLC,octanol-water,,,,True
+11,"Lipophilicity, logD of the compound at pH 3",3.0,,,,,,True
+12,"n-octanol/phosphate buffer partition coefficient, log D of compound at pH 7.4 by shake-flask assay",7.4,shake flask,n-octanol/phosphate buffer,,,shake flask,True
+13,Partition coefficient (logD) (octanol/PBS),,,octanol/PBS,,,,True
+14,Apparent partition coefficients was determined at a pH 7.4 by using the capacity factors of RP-HPLC.,7.4,RP-HPLC,,,,,True
+15,"Lipophilicity, log D of the compound at pH 7.4 by UV-metric/potentiometric method",7.4,UV-metric/potentiometric,,,,,True
+16,Octanol-water partition at pH 7.4,7.4,,octanol-water,,,,True
+17,"1-octanol/phosphate buffered saline distribution coefficient, log D of the compound at 200 uM at pH 7.4 after 30 mins by shake flask based HPLC/LC-MS analysis",7.4,HPLC/LC-MS,1-octanol/phosphate buffered saline,,after 30 mins,shake flask,True
+18,"Lipophilicity, logD of compound by HPLC analysis",,HPLC,,,,,True
+19,"Apparent partition coefficient, log D of the compound at pH 7.4",7.4,,,,,,True
+20,"1-octanol-phosphate buffer partition coefficient, log D of the compound at pH 7.4 by UPLC/MS/MS analysis",7.4,UPLC/MS/MS,1-octanol-phosphate buffer,,,,True

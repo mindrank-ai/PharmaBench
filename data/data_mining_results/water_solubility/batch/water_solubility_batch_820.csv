@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+720,Solubility in water at pH 7,7.0,water,,,25 degC,True
+721,Solubility in 0.01 N HCl,,0.01 N HCl,,,,True
+722,Solubility of the compound in PBS at pH 7.4 at upto 200 uM by HPLC-UV analysis,7.4,PBS,,HPLC-UV analysis,,True
+723,Aqueous solubility of the compound at pH 7.4 by HPLC-UV method,7.4,aqueous,,HPLC-UV method,,True
+724,Solubility of the compound in PBS buffer after 45 mins,,PBS buffer,45 mins,,,True
+725,Solubility of the compound in 0.010 M aqueous hydrogen chloride at pH 7.4,7.4,0.010 M aqueous hydrogen chloride,,,25 degC,True
+726,Solubility of the compound in crystalline form,,,,,,True
+727,Aqueous solubility of the compound in buffer at pH 7.4 after 24 hrs by spectrophotometric method,7.4,buffer,24 hrs,spectrophotometric method,,True
+728,Aqueous solubility of the compound incubated for 72 hrs under shaking condition by HPLC method,,aqueous,72 hrs,HPLC method,,True
+729,Solubility in 0.1 N HCL after 4 hrs by HPLC/MS analysis,,0.1 N HCL,4 hrs,HPLC/MS analysis,,True
+730,Aqueous solubility of the compound in water containing 5% dextrose at pH 4,4.0,water containing 5% dextrose,,,25 degC,True
+731,Prodrug solubility in solutol,,solutol,,,,True
+732,Aqueous solubility of the compound at pH 7 at 2 mg after 72 hrs by UV-based shake-flask method,7.0,aqueous,72 hrs,UV-based shake-flask method,,True
+733,Thermodynamic solubility of the compound in phosphate buffer at pH 7.4 incubated for 18 hrs by shake flask method,7.4,phosphate buffer,18 hrs,shake flask method,,True
+734,Thermodynamic solubility of the compound in monobasic potassium phosphate buffer at pH 7.4 after 24 hrs by LC-MS/MS analysis,7.4,monobasic potassium phosphate buffer,24 hrs,LC-MS/MS analysis,,True
+735,Solubility of compound in PBS buffer,,PBS buffer,,,,True
+736,Solubility in 50 mM phosphate buffer at pH 6.5 after 2 hrs,6.5,phosphate buffer,2 hrs,,,True
+737,Kinetic solubility of the compound in PBS buffer at pH 7.4 after 24 hrs by turbidimetric method,7.4,PBS buffer,24 hrs,turbidimetric method,,True
+738,Aqueous solubility of the compound at pH 2.0 after 4 hrs,2.0,aqueous,4 hrs,,,True
+739,Aqueous solubility of the compound at pH 7.4 after 4 hrs,7.4,aqueous,4 hrs,,,True

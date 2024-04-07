@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,Clearance in the Sprague Dawley rats; (n = 3),none,none,none,Sprague Dawley rats,none,none,Sprague Dawley rat,none,none,none,False
+1,"Plasma clearance (2 mg/kg, i.v.) was determined in Sprague-Dawley rats",2 mg/kg,none,none,Sprague-Dawley rats,none,none,Sprague-Dawley rat,iv,none,none,False
+2,"Clearance in rat at 1 mg/kg, iv by LC-MS/MS analysis",1 mg/kg,none,none,rat,none,LC-MS/MS,rat,iv,none,none,True
+3,Total plasma clearance in rat,none,none,none,rat,none,none,rat,none,none,none,False
+4,Intrinsic clearance in mouse liver microsomes assessed as parent compound at 1 uM after 60 mins in presence of NADPH by LC-MS analysis,1 uM,60 mins,NADPH,mouse liver microsomes,none,LC-MS,mouse,none,liver microsomes,none,True
+5,Intrinsic clearance in human liver microsomes at 0.5 uM up to 60 mins in presence of NADPH generating system by LC-MS/MS analysis,0.5 uM,up to 60 mins,NADPH generating system,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+6,"Clearance in Wistar Han rat plasma 2 mg/kg, iv measured for 2 to 1440 mins by LC-MS/MS analysis",2 mg/kg,2 to 1440 mins,none,Wistar Han rat plasma,none,LC-MS/MS,Wistar Han rat,iv,plasma,none,False
+7,"Clearance in rat at 0.5 mg/kg, iv by LC-MS/MS analysis",0.5 mg/kg,none,none,rat,none,LC-MS/MS,rat,iv,none,none,True
+8,Intrinsic clearance in human intestinal microsomes assessed UGT-mediated glucuronidation clearance,none,none,UGT-mediated glucuronidation,human intestinal microsomes,none,none,human,none,intestinal microsomes,none,False
+9,Metabolic stability in human liver microsomes at 20 uM assessed as intrinsic clearance measured up to 90 mins by LC-HRMS analysis,20 uM,up to 90 mins,NADPH,human liver microsomes,none,LC-HRMS,human,none,liver microsomes,none,True
+10,Metabolic stability in human liver S9 fraction assessed as intrinsic clearance at 1 uM in presence of NADPH measured upto 60 min by LC-MS/MS analysis,1 uM,up to 60 mins,NADPH,human liver S9 fraction,none,LC-MS/MS,human,none,liver S9 fraction,none,True
+11,Metabolic stability in mouse liver S9 fraction assessed as intrinsic clearance at 1 uM in presence of NADPH measured upto 60 min by LC-MS/MS analysis,1 uM,up to 60 mins,NADPH,mouse liver S9 fraction,none,LC-MS/MS,mouse,none,liver S9 fraction,none,True
+12,"Blood clearance in Wistar Hannover rat at 0.3 to 0.5 mg/kg, iv by LC-MS/MS analysis",0.3 to 0.5 mg/kg,none,none,Wistar Hannover rat,none,LC-MS/MS,Wistar Hannover rat,iv,none,none,False
+13,"Clearance in Sprague-Dawley rat at 2 mg/kg, iv by LC-MS/MS analysis",2 mg/kg,none,none,Sprague-Dawley rat,none,LC-MS/MS,Sprague-Dawley rat,iv,none,none,True
+14,"Clearance in rat at 5 mg/kg, iv",5 mg/kg,none,none,rat,none,none,rat,iv,cryopreserved pooled hepatocytes,none,False
+15,Intrinsic clearance in rat liver microsomes assessed per protein,none,none,none,rat liver microsomes,none,none,rat,none,liver microsomes,assessed per protein,True
+16,Apparent intrinsic clearance in human liver microsomes at 1 uM up to 60 mins in presence of NADP+ by LC-MS/MS analysis,1 uM,up to 60 mins,NADP+,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+17,Apparent intrinsic clearance in human liver microsomes at 1 uM after 30 mins in presence of NADPH by HPLC-MS analysis,1 uM,30 mins,NADPH,human liver microsomes,none,HPLC-MS,human,none,liver microsomes,none,True
+18,Unbound intrinsic clearance in human liver microsomes at 1 uM up to 60 mins in presence of NADPH,1 uM,up to 60 mins,NADPH,human liver microsomes,none,none,human,none,liver microsomes,unbound,True
+19,Intrinsic clearance in CD1 mouse liver microsomes at 0.5 uM after 3 to 30 mins in presence of NADPH by UPLC-MS/MS analysis,0.5 uM,3 to 30 mins,NADPH,CD1 mouse liver microsomes,none,UPLC-MS/MS,CD1 mouse,none,liver microsomes,none,True

@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in Salmonella typhimurium TAT1535 in presence of rat liver S9 fraction by Ames test,,,,rat liver S9 fraction,Salmonella typhimurium TAT1535,True
+2,Mutagenicity in Escherichia coli WP2 uvrA in absence of rat liver S9 fraction by AMES test,,,,,Escherichia coli WP2 uvrA,True
+3,Mutagenicity in Escherichia coli WP2 uvrA in presence of rat liver S9 fraction by AMES test,,,,rat liver S9 fraction,Escherichia coli WP2 uvrA,True
+4,Mutagenicity in Salmonella typhimurium TA98 in absence of rat liver S9 fraction by AMES test,,,,,Salmonella typhimurium TA98,True
+5,Mutagenicity in Salmonella typhimurium TA98 assessed as increase in revertant colonies up to 10 uM in absence of S9 fraction by Ames test,up to 10 uM,,,absence of S9 fraction,Salmonella typhimurium TA98,True
+6,Antimicrofilament activity in human HCT116 cells assessed as loss of microfilament at 0.1 uM by rhodamine-phalloidin staining,0.1 uM,,,,human HCT116 cells,False
+7,Mutagenicity in Salmonella typhimurium TA98 assessed as increase in revertant colonies up to 10 uM in presence of S9 fraction by Ames test,up to 10 uM,,,S9 fraction,Salmonella typhimurium TA98,True
+8,Mutagenicity in Salmonella typhimurium TA100 assessed as increase in revertant colonies up to 10 uM in absence of S9 fraction by Ames test,up to 10 uM,,,absence of S9 fraction,Salmonella typhimurium TA100,True
+9,Mutagenicity in Salmonella typhimurium TA100 assessed as increase in revertant colonies up to 10 uM in presence of S9 fraction by Ames test,up to 10 uM,,,S9 fraction,Salmonella typhimurium TA100,True
+10,Mutagenicity in Salmonella typhimurium TA97 assessed as increase in revertant colonies after 2 days in presence of rat liver S9 fraction by Ames test relative to control,,,2 days,rat liver S9 fraction,Salmonella typhimurium TA97,True
+11,Mutagenicity in Salmonella typhimurium TA100 assessed as increase in revertant colonies after 2 days in presence of rat liver S9 fraction by Ames test relative to control,,,2 days,rat liver S9 fraction,Salmonella typhimurium TA100,True
+12,Mutagenicity in Salmonella typhimurium TA98 in presence of rat liver S9 fraction by AMES test,,,,rat liver S9 fraction,Salmonella typhimurium TA98,True
+13,Antiviral activity against HCV sub-genomic replicon infected in human Huh7 cells at 10 uM added immediately with viral infection and measured after 24 hrs by bright-glo luciferase reporter gene assay relative to control,10 uM,,24 hrs,,human Huh7 cells,False
+14,Mutagenicity in Salmonella typhimurium TA1535 in absence of rat liver S9 fraction by AMES test,,,,,Salmonella typhimurium TA1535,True
+15,Antibacterial activity against Pseudomonas aeruginosa ATCC 9027 assessed as inhibition zone diameter after 24 hrs by agar diffusion method,,,24 hrs,,Pseudomonas aeruginosa ATCC 9027,False
+16,Inhibition of GlyT1-mediated glycine uptake in sc dosed rat CSF assessed as dose required for doubling endogenous glycine level after 90 mins,,,90 mins,,rat CSF,False
+17,Mutagenicity in Salmonella typhimurium TA1537 in absence of rat liver S9 fraction by AMES test,,,,,Salmonella typhimurium TA1537,True
+18,Binding affinity to DOPE/POPG large unilamellar vesicles in 3:1 ratio assessed as exciton split measured at 225 nanometer in NaHCO3 buffer,,,,,,False
+19,Mutagenicity in Salmonella typhimurium TA100 in absence of rat liver S9 fraction by AMES test,,,,,Salmonella typhimurium TA100,True
+20,Binding affinity to bacterial membrane mimic POPG large unilamellar vesicle assessed as bathochromic shift at 125 uM measured at t = 0 by UV-Vis spectrophotometric analysis,125 uM,,,,,False

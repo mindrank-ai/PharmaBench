@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+180,Permeability of the compound at 50 uM at pH 6.2 after 4 hrs by PAMPA,PAMPA,,,6.2,50 uM after 4 hrs,False
+181,Permeability of the compound after 2.5 hrs by PAMPA,PAMPA,,,,after 2.5 hrs,False
+182,Passive permeability of the compound in dog RRCK cells,dog RRCK,,,,,False
+183,Permeability of the compound at 10 uM at pH 7.4 by PAMPA,PAMPA,,,7.4,10 uM,False
+184,Permeability of the compound at pH 7.4 at 10 uM after 10 hrs by LC-MS based PAMPA,PAMPA,,,7.4,10 uM after 10 hrs,False
+185,Permeability across apical to basolateral side in human Caco2 cells by LC/MS analysis,human Caco2,,apical to basolateral,,,False
+186,Permeability of the compound in pH 5.5 buffer after 4 hrs by PAMPA,PAMPA,,,5.5,,False
+187,Permeability across apical to basolateral side in human Caco-2 cells incubated for 2 hrs by LC-MS/MS analysis,human Caco-2,,apical to basolateral,,incubated for 2 hrs,False
+188,Permeability of the compound at 10 uM incubated for 5 hrs by UPLC-MS/MS analysis based PAMPA method,PAMPA,,,,10 uM incubated for 5 hrs,False
+189,Permeability of the compound at donor pH 7.4 and acceptor pH 7.4 after 3 hrs incubation by PAMPA analysis,PAMPA,,,donor 7.4 and acceptor 7.4,after 3 hrs,False
+190,Passive permeability in human Caco2 cells,human Caco2,,,,,False
+191,Permeability of the compound at 200 umol/L after 5 hrs by PAMPA,PAMPA,,,,200 umol/L after 5 hrs,False
+192,P-glycoprotein-mediated transport in MDCK cells assessed as permeability across apical to basolateral side,MDCK,,apical to basolateral,,,False
+193,Permeability of the compound in phosphate buffer at pH 7.4 by PAMPA,PAMPA,,,7.4,,False
+194,Permeability from basolateral to apical side in dog MDCK cells expressing human MDR-1 gene,dog MDCK human MDR-1,,basolateral to apical,,,False
+195,Permeability of the compound in pH 7.4 PBS/EtOH at 100 ug/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4 PBS/EtOH,100 ug/ml after 18 hrs,True
+196,Permeability of compound at pH 7.4 measured after 6 hrs by PAMPA assay,PAMPA,,,7.4,after 6 hrs,False
+197,Permeability of compound in PBS/EtOH buffer (70:30) at 25 ug/ml incubated for 16 hrs by UV plate reader based PAMPA-BBB,PAMPA-BBB,,,PBS/EtOH (70:30),25 ug/ml incubated for 16 hrs,True
+198,Permeability from apical to basolateral side of human Caco-2 cell membrane,human Caco-2,,apical to basolateral,,,False
+199,Permeability from basolateral to apical side of human Caco2 cells,human Caco2,,basolateral to apical,,,False

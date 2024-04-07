@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+581,Protein binding in human plasma at 1 uM after 4 hrs by LC/MS/MS analysis,Human Plasma,1 uM,4 hrs,LC/MS/MS,,True
+582,Protein binding in dog liver at 1 uM,Dog Liver,1 uM,,,,False
+583,Protein binding in monkey liver at 1 uM,Monkey Liver,1 uM,,,,False
+584,Protein binding in mouse plasma at 5 uM incubated for 16 hrs under shaking condition by LC/MS/MS based rapid equilibrium dialysis method,Mouse Plasma,5 uM,16 hrs,LC/MS/MS,Rapid Equilibrium Dialysis,True
+585,Protein binding in rat plasma by equilibrium dialysis method,Rat Plasma,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+586,Protein binding in human plasma at 1 uM after 6 hrs by equilibrium dialysis,Human Plasma,1 uM,6 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+587,Plasma protein binding in Sprague-Dawley rat at 2 ug/mL,Sprague-Dawley Rat Plasma,2 ug/mL,,,,True
+588,Protein binding in rat plasma assessed as compound remaining at 5 uM incubated for 4 hrs by LC/MS/MS analysis,Rat Plasma,5 uM,4 hrs,LC/MS/MS,,True
+589,Protein binding in rat plasma at 500 to 5000 ng/ml after 4 hrs by LC/MS analysis,Rat Plasma,500 to 5000 ng/ml,4 hrs,LC/MS,,True
+590,Plasma protein binding in Beagle dog at 2 uM after 6 hrs by equlibrium dialysis method,Beagle Dog Plasma,2 uM,6 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+591,Protein binding mouse serum at 1 uM after 60 to 120 mins by HPLC-MS/MS analysis,Mouse Serum,1 uM,60 to 120 mins,HPLC-MS/MS,,True
+592,Protein binding in Sprague-Dawley rat plasma at 1 uM by ultrafiltration assay,Sprague-Dawley Rat Plasma,1 uM,,Ultrafiltration,Ultrafiltration,True
+593,Protein binding in Ellegaard Gottingen minipig plasma at 500 nM after 2 hrs by LC-MS analysis,Ellegaard Gottingen Minipig Plasma,500 nM,2 hrs,LC-MS,,True
+594,Protein binding in human plasma assessed as bound fraction at 10 uM after 6 hrs by LC-MS/MS analysis,Human Plasma,10 uM,6 hrs,LC-MS/MS,,True
+595,"Protein binding in ICR mouse brain at 30 mg/kg, po after 1 hr by LC/MS/MS analysis",ICR Mouse Brain,30 mg/kg,1 hr,LC/MS/MS,,False
+596,Protein binding in plasma (unknown origin) by equilibrium dialysis,Unknown,,,Equilibrium Dialysis,High-Throughput Dialysis,True
+597,DNDI: Protein binding in human plasma,Human Plasma,,,,,True
+598,Protein binding in plasma (unknown origin) by equilibrium dialysis method,Unknown,,,Equilibrium Dialysis,,True
+599,Protein binding in rat plasma by LC-MS/MS-based equilibrium dialysis method,Rat Plasma,,,LC-MS/MS,,True
+600,Plasma protein binding of tritium labeled compound in rat plasma was determined,Rat Plasma,,,,,True

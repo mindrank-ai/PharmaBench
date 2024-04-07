@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,Intrinsic clearance in human liver microsomes at 1 uM after 1 to 40 mins by LC-MS/MS analysis,1 uM,1 to 40 mins,NADPH,liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+1,The total clearance after i.v. administration,none,none,i.v. administration,none,none,none,none,i.v.,total clearance,none,False
+2,Clearance in rat liver microsomes at 1 uM in presence of NADPH by LC-MS/MS analysis,1 uM,none,NADPH,liver microsomes,none,LC-MS/MS,rat,none,liver microsomes,none,True
+3,Unbound intrinsic clearance in human liver microsome assessed as parent compound remaining at 2 uM incubated for 30 mins in presence of NADPH by LC-MS/MS analysis,2 uM,30 mins,NADPH,liver microsome,none,LC-MS/MS,human,none,liver microsome,unbound,True
+4,Clearance in Sprague-Dawley rat at 1 mg/kg,1 mg/kg,none,none,plasma,none,LC-MS/MS,Sprague-Dawley rat,iv,plasma,none,True
+0,Unbound intrinsic clearance in human intestinal microsomes assessed UGT-mediated glucuronidation clearance,none,none,UGT-mediated,intestinal microsomes,none,assessed,human,none,intestinal microsomes,unbound,False
+1,Metabolic stability in rat liver microsomes assessed as intrinsic clearance at 1 uM measured up to 60 mins by LC-MS/MS analysis,1 uM,up to 60 mins,NADPH,liver microsomes,none,LC-MS/MS,rat,none,liver microsomes,per mg protein,True
+2,Clearance in rat administered as iv cassette dose,none,iv cassette dose,iv cassette dose,none,none,none,rat,iv,none,none,True
+3,Intrinsic clearance in mouse liver microsomes at 2 uM measured up to 120 mins in presence of NADPH by LC-MS/MS analysis,2 uM,up to 120 mins,NADPH,liver microsomes,none,LC-MS/MS,mouse,none,liver microsomes,per mg protein,True
+4,Intrinsic clearance in human pooled liver microsomes at 1 uM incubated up to 120 mins in presence of NADPH by LC-MS analysis,1 uM,up to 120 mins,NADPH,pooled liver microsomes,none,LC-MS,human,none,liver microsomes,per mg protein,True
+0,Metabolic stability in mouse liver microsomes assessed as intrinsic clearance measured up to 60 mins in presence of NADPH by HPLC-MS analysis,1 uM,up to 60 mins,NADPH,liver microsomes,none,HPLC-MS,mouse,none,liver microsomes,per mg protein,False
+1,Intrinsic clearance in human liver microsomes assessed per protein,none,none,per protein,liver microsomes,none,assessed,human,none,liver microsomes,per mg protein,True
+2,Metabolic stability in rat hepatocytes assessed as intrinsic clearance,none,none,none,rat hepatocytes,none,assessed,rat,none,hepatocytes,none,True
+3,Metabolic stability in human hepatocytes assessed as intrinsic clearance at 1 uM measured up to 3 hrs by LC-MS/MS analysis,1 uM,up to 3 hrs,NADPH,hepatocytes,none,LC-MS/MS,human,none,hepatocytes,none,True
+4,Apparent intrinsic clearance in human liver microsomes at 1 uM in presence of NADP+ by LC-MS/MS analysis,1 uM,none,NADP+,liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+0,Metabolic stability in rat liver microsomes assessed as intrinsic clearance at 10 uM preincubated for 10 mins followed by addition of NADPH regenerating system and measured after 120 mins by HPLC analysis,10 uM,after 120 mins,NADPH regenerating system,liver microsomes,none,HPLC,rat,none,liver microsomes,none,True
+1,Intrinsic clearance in human liver microsomes at 2 uM measured up to 120 mins in presence of NADPH by LC-MS/MS analysis,2 uM,up to 120 mins,NADPH,liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+2,"Unbound clearance in rat at 0.5 mg/kg, iv",0.5 mg/kg,none,iv,none,none,none,rat,iv,none,none,False
+3,Stability in human liver microsomes assessed as compound clearance after 20 mins,none,after 20 mins,none,liver microsomes,none,none,human,none,liver microsomes,none,True
+4,Intrinsic clearance in rat microsomes assessed per mg of protein,none,none,per mg of protein,rat microsomes,none,assessed,rat,none,microsomes,per mg of protein,True

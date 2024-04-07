@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+1,"Protein binding in rat plasma assessed as unbound fraction at 2 mg/kg, po or 1 mg/kg, iv",Rat,,,,,True
+2,"Plasma protein binding in Han Wistar rat at 2 mg/kg, po by LC-MS/MS analysis",Han Wistar rat,,,LC-MS/MS,,True
+3,Plasma protein binding in Sprague-Dawley rat at 1 uM incubated for 6 hrs by equilibrium dialysis based LC-MS/MS analysis,Sprague-Dawley rat,1 uM,6 hrs,LC-MS/MS,Equilibrium Dialysis,True
+4,Protein binding in mouse brain,,,,,,False
+5,Compound was tested for protein binding in human plasma,Human,,,,,True
+6,Percentage of protein binding ability in rats was determined,Rat,,,,,False
+7,Protein binding in mouse plasma at 1 uM after 16 hrs by LC-MS/MS analysis,Mouse,1 uM,16 hrs,LC-MS/MS,,True
+8,Protein binding in human plasma by LC-MS analysis based ultracentrifugation assay,Human,,,LC-MS,Ultracentrifugation,True
+9,Protein binding in human plasma at 1 uM after 4 hrs by LC-MS/MS analysis,Human,1 uM,4 hrs,LC-MS/MS,,True
+10,Plasma protein binding in human at 1 uM,Human,1 uM,,,,True
+11,Plasma protein binding in Sprague-Dawley rat plasma at 10 uM incubated for 6 hrs by LC-MS/MS based equilibrium dialysis method,Sprague-Dawley rat,10 uM,6 hrs,LC-MS/MS,Equilibrium Dialysis,True
+12,Protein binding in dog plasma at 5 mM after 6 hrs by LC-MS analysis,Dog,5 mM,6 hrs,LC-MS,,True
+13,Protein binding in human plasma after 18 hrs by LC/MS/MS based equilibrium dialysis method,Human,,18 hrs,LC/MS/MS,Equilibrium Dialysis,True
+14,Plasma protein binding in rat at 10 uM incubated for 5 hrs by LC-MS analysis,Rat,10 uM,5 hrs,LC-MS,,True
+15,Protein binding in monkey plasma by equilibrium dialysis by equilibrium dialysis,Monkey,,,,Equilibrium Dialysis,True
+16,Plasma protein binding in rat at 0.1 uM incubated for 5 hrs by LC-MS analysis,Rat,0.1 uM,5 hrs,LC-MS,,True
+17,Protein binding in human plasma at 1 uM after 6 hrs by UPLC-MS/MS based equilibrium dialysis method,Human,1 uM,6 hrs,UPLC-MS/MS,Equilibrium Dialysis,True
+18,"Protein binding in CD-1 mouse brain at 25 mg/kg, po measured upto 6 hours by LC-MS/MS analysis",Mouse,,upto 6 hours,LC-MS/MS,,False
+19,Protein binding in Sprague-Dawley rat plasma at 2 uM after 4 hrs by LC-MS/MS analysis,Sprague-Dawley rat,2 uM,4 hrs,LC-MS/MS,,True
+20,"Protein binding in rhesus monkey plasma assessed as unbound fraction at 1 mg/kg, po or 0.5 mg/kg, iv",Rhesus monkey,,,,,True

@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+400,Aqueous solubility of the compound in phosphate buffered saline after 90 mins by laser nephelometry at pH 7.4,7.4,phosphate buffered saline,90 mins,laser nephelometry,,True
+401,Aqueous solubility of compound in PBS at pH 6.5 incubated for 20 hrs under shaking condition by HPLC-DAD analysis,6.5,PBS,20 hrs,HPLC-DAD analysis,,True
+402,Aqueous solubility of the compound in phosphate buffered saline after 90 mins by laser nephelometry at pH 4,4.0,phosphate buffered saline,90 mins,laser nephelometry,,True
+403,Solubility (21 degrees C),,,,,21 degrees C,True
+404,Solubility in phosphate buffer at pH 6.5 at 500 uM,6.5,phosphate buffer,,,,True
+405,Solubility in 5% mannitol,,5% mannitol,,,,True
+406,"Solubility (alpha-MEM culture medium, containing 5% fetal calf serum)",,"alpha-MEM culture medium, containing 5% fetal calf serum",,,,True
+407,Aqueous solubility of the compound at pH 7.4 after 16 to 18 hrs by spectrophotometry,7.4,aqueous,16 to 18 hrs,spectrophotometry,,True
+408,Kinetic solubility of the compound in pH 7.4 phosphate buffered saline,7.4,phosphate buffered saline,,kinetic solubility,,True
+409,Solubility in aqueous phosphate buffer at pH 7.4 after 24 hrs at 25 degC,7.4,aqueous phosphate buffer,24 hrs,,25 degC,True
+410,Nephelometric solubility of the compound,,,,nephelometry,,True
+411,Solubility of the compound in aqueous buffer at pH 7.4 using dried sample,7.4,aqueous buffer,,,,True
+412,Aqueous equilibrium solubility of compound in pH 7.4 solution at 20 degC,7.4,pH 7.4 solution,,aqueous equilibrium solubility,20 degC,True
+413,Aqueous equilibrium solubility of compound in pH 1 solution at 20 degC,1.0,pH 1 solution,,aqueous equilibrium solubility,20 degC,True
+414,Solubility of compound by pH 7,7.0,None,,,,True
+415,"Solubility (phosphate buffer, pH 7.4)",7.4,phosphate buffer,,,,True
+416,Solubility in japanese pharmacopoeia second fluid at pH 6.8,6.8,japanese pharmacopoeia second fluid,,,,True
+417,Solubility of the compound at pseudo-thermodynamic equilibrium after 24 hrs by UPLC/UV/TOF-MS analysis at pH 7.4,7.4,,24 hrs,UPLC/UV/TOF-MS analysis,,True
+418,Solubility of the compound in 50% DNSO/PBS,,50% DMSO/PBS,,,,True
+419,Kinetic solubility in PBS at pH 7.4 after 2 hrs by turbidimetric method,7.4,PBS,2 hrs,turbidimetric method,,True

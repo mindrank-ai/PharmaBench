@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Antiameobic activity against Entamoeba histolytica HM-1:IMSS after 72 hrs using trypan blue staining method,,,after 72 hrs,,Entamoeba histolytica HM-1:IMSS,False
+2,Binding affinity to calf thymus ssDNA in solution assessed as oxidation of exposed bases at 10'-4 M by differential pulse voltametry,10'-4 M,,,,calf thymus ssDNA,False
+3,Binding affinity to calf thymus dsDNA in biosensor assessed as oxidation of exposed bases at 10'-4 M by differential pulse voltametry,10'-4 M,,,,calf thymus dsDNA,False
+4,Mutagenicity in Escherichia coli WP2 uvrA/pKM101 in absence of S9 microsomes by Ames test,,,,absence of S9 microsomes,Escherichia coli WP2 uvrA/pKM101,True
+5,Mutagenic activity in Salmonella TA 2637 by microsome assay in presence of rat liver S9 fraction,,,,presence of rat liver S9 fraction,Salmonella TA 2637,True
+6,Antiangiogenic activity in Leghorn chicken embryo chorioallantoic membrane assessed as reduction in diameter of main blood vessel at 5 nmol after 24 hrs by light microscopic analysis,5 nmol,,after 24 hrs,,Leghorn chicken embryo chorioallantoic membrane,False
+7,Mutagenic activity in Salmonella Typhimurium TA100 by Ames assay,,,,,Salmonella Typhimurium TA100,True
+8,Mutagenic activity in Salmonella typhimurium TA98 at 5 to 400 ug/plate by Ames test in presence of mouse liver S9 fraction,5 to 400 ug/plate,,,presence of mouse liver S9 fraction,Salmonella typhimurium TA98,True
+9,Induction of apoptosis in human neutrophils assessed as pre-necrotic cells at 3 to 10 uM after 6 hrs by annexin V/propidium iodide staining based flow cytometric analysis in presence of L-NAME,3 to 10 uM,,after 6 hrs,presence of L-NAME,human neutrophils,False
+10,Dopaminergic activity in Sprague-Dawley rat assessed as stereotyped behavior characterized by continous sniffing up to 25 ug administered into caudate-putamen,up to 25 ug,,,,Sprague-Dawley rat,False
+11,Anti-virulence activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation by measuring reduction in hyphae formation in Lee medium up to 10 uM incubated for 3 to 5 days by stereomicroscopic analysis,up to 10 uM,,incubated for 3 to 5 days,,Candida albicans SC5314,False
+12,Antiviral activity against HBV genotype D infected in human HepG2.2.15 cells assessed as inhibition of viral DNA level treated twice for 3 days measured after 6 days by real time PCR,,,"treated twice for 3 days, measured after 6 days",,human HepG2.2.15 cells,False
+13,Anti-virulence activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation by measuring reduction in hyphae formation in Spider medium up to 10 uM incubated for 3 to 5 days by stereomicroscopic analysis,up to 10 uM,,incubated for 3 to 5 days,,Candida albicans SC5314,False
+14,Genotoxicity in human HTLA-230 cells assessed as gamma-H2AX production at 100 uM after 24 hrs by Western blot analysis,100 uM,,after 24 hrs,,human HTLA-230 cells,False
+15,Mutagenic activity in Salmonella typhimurium by Ames assay,,,,,Salmonella typhimurium,True
+16,Genotoxicity in Homo sapiens (human) MCF12A cells assessed as reduction of BP-DNA adduct formation at 100 uM after 24 hr by 32P-postlabeling technique,100 uM,,after 24 hr,,Homo sapiens MCF12A cells,False
+17,Genotoxicity in CHO cells by in vitro micronucleus assay,,,,,CHO cells,False
+18,Mutagenicity in Escherichia coli WP2 uvrA/pKM101 in presence of S9 microsomes by Ames test,,,,presence of S9 microsomes,Escherichia coli WP2 uvrA/pKM101,True
+19,Inhibition of sterol biosynthesis in Leishmania mexicana amazonensis promastigotes assessed as reduction in endogenous episterol level at 10 uM after 96 hrs by gas-liquid chromatography,10 uM,,after 96 hrs,,Leishmania mexicana amazonensis promastigotes,False
+20,Mutagenicity in Salmonella typhimurium LT2 TA1537 in presence of S9 microsomes by Ames test,,,,presence of S9 microsomes,Salmonella typhimurium LT2 TA1537,True

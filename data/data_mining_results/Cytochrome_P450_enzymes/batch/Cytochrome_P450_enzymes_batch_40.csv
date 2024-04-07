@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+41,"DRUGMATRIX: CYP450, 2C9 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",CYP2C9,,,,3-Cyano-7-ethoxycoumarin,,,DRUGMATRIX,,,True
+42,Inhibitory activity against recombinant human Cytochrome P450 2D6 (CYP2D6) after incubated for 45 minutes,CYP2D6,45 mins,,,,,,,recombinant human,recombinant human,True
+43,Inhibition of human placental microsome CYP19 using [1beta-3H] androstenedione as a substrate,CYP19,,,,[1beta-3H] androstenedione,,,,human placental microsome,human placental,True
+44,Inhibitory activity against CYP2D6,CYP2D6,,,,,,,,,,True
+45,Inhibition of human CYP1A2,CYP1A2,,,,,,,,,human,True
+46,"DRUGMATRIX: CYP450, 1A2 enzyme inhibition (substrate: 3-Cyano-7-ethoxycoumarin)",CYP1A2,,,,3-Cyano-7-ethoxycoumarin,,,DRUGMATRIX,,,True
+47,Inhibition of mouse CYP2A5,CYP2A5,,,,,,,,mouse,mouse,True
+48,Inhibition of CYP2C8 (unknown origin),CYP2C8,,,,,,,,,unknown origin,True
+49,Inhibition of CYP2D6 by fluorescence based assay,CYP2D6,,,,,,,fluorescence based assay,,,True
+50,Inhibition of human CYP17 expressed in Escherichia coli coexpressing NADPH-P450 reductase,CYP17,,,,,,NADPH-P450 reductase,,Escherichia coli,human,True
+51,Inhibition of human CYP2A6,CYP2A6,,,,,,,,,human,True
+52,Inhibition of human recombinant CYP3A4-mediated oxidation of 7-benzyloxyquinoline,CYP3A4,,,,7-benzyloxyquinoline,,,,recombinant human,human recombinant,True
+53,Inhibition of CYP3A4 after 30 mins,CYP3A4,30 mins,,,,,,,,,True
+54,Inhibition of human CYP11B2 expressed in hamster V79 MZ cells using [3H] 11 deoxycorticosterone as substrate by HPLC radioflow detector,CYP11B2,,,,[3H] 11 deoxycorticosterone,,,HPLC radioflow detector,hamster V79 MZ cells,human,True
+55,In vitro inhibitory concentration against human CYP11B1 expressed in V79 MZh hamster fibroblasts incubated with 100 nM of substrate deoxy-corticosterone in presence of the compound,CYP11B1,,,,100 nM deoxy-corticosterone,100 nM,,HPLC radioflow detector,V79 MZh hamster fibroblasts,human,True
+56,Inhibition of CYP3A4 using diethoxyfluorescein substrate,CYP3A4,,,,diethoxyfluorescein,,,,,,True
+57,Inhibition of human CYP11B2 expressed in hamster V79 MZh cells assessed as conversion of [4-14C]-11-deoxycorticosterone substrate by HPTLC assay,CYP11B2,,,,[4-14C]-11-deoxycorticosterone,,,HPTLC assay,hamster V79 MZh cells,human,True
+58,Inhibition of CYP3A4 pre-incubated before 30 mins,CYP3A4,pre-incubated 30 mins,,,,,,,,,True
+59,Inhibition of human placental microsomal CYP19 using [1beta-3H]androstenedione substrate pre-incubated for 5 mins by scintillation counting method,CYP19,pre-incubated 5 mins,,,[1beta-3H]androstenedione,,,scintillation counting method,human placental microsomal,human placental,True
+60,Inhibition of human CYP2D6 by fluorescence-based assay,CYP2D6,,,,,,,fluorescence-based assay,,human,True

@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+800,Aqueous solubility of the compound in buffer by turbidometric analysis,,buffer,,turbidometric analysis,,True
+801,Solubility of the compound in simulated intestinal fluid at pH 6.8,6.8,simulated intestinal fluid,,,,True
+802,Solubility of the compound at pH 7.4 by UV spectroscopy,7.4,,,UV spectroscopy,,True
+803,Aqueous solubility of the compound at pH 7.4 measured after 4 hrs by HPLC/UV analysis,7.4,aqueous,4 hrs,HPLC/UV analysis,,True
+804,Solubility of the compound at pH 2.5 by HPLC analysis,2.5,None,,HPLC analysis,,True
+805,Aqueous solubility of compound at pH 6.5 by UPLC analysis,6.5,None,,UPLC analysis,,True
+806,Aqueous solubility in 0.1% TFA after 30 mins by RP-HPLC analysis,,0.1% TFA,30 mins,RP-HPLC analysis,,True
+807,Solubility of compound at pH 7.4 by high throughput screening,7.4,,,high throughput screening,,True
+808,Solubility of compound at pH 4.5 by high throughput screening,4.5,,,high throughput screening,,True
+809,Solubility in sodium phosphate buffer at pH 6.5 by HPLC,6.5,sodium phosphate buffer,,HPLC,,True
+810,Kinetic solubility in pH 6.5 phosphate buffer by nephelometry,6.5,phosphate buffer,,nephelometry,,True
+811,Compound was evaluated for the solubility at pH 7.4,7.4,,,,,True
+812,Aqueous solubility of compound in phosphate buffer pH 2 at 10 mM for 3 days with stirring by UV-HPLC analysis,2.0,phosphate buffer,3 days,UV-HPLC analysis,,True
+813,Aqueous solubility of compound in phosphate buffer pH 7 at 10 mM for 3 days with stirring by UV-HPLC analysis,7.0,phosphate buffer,3 days,UV-HPLC analysis,,True
+814,Solubility was determined at a pH of 7,7.0,,,,,True
+815,Solubility in PBS at pH 7,7.0,PBS,,,,True
+816,Compound was evaluated for the aqueous solubility (AS) in mg/mL (Measured in 0.2 M phosphate buffer of pH 7.4),7.4,0.2 M phosphate buffer,,,,True
+817,Kinetic solubility of the compound in pH 6.8 JP2 fluid by precipitation method,6.8,JP2 fluid,,precipitation method,,True
+818,Kinetic solubility of the compound at pH 1.5 by shake flask method,1.5,,,shake flask method,,True
+819,Solubility in fasted state-simulated intestinal fluid at pH 6.8,6.8,fasted state-simulated intestinal fluid,,,,True

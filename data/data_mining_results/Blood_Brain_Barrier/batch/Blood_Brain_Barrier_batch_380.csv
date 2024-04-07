@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+360,Permeability of the compound in PBS at pH 7.4 at 10 uM after 5 hrs by LC-MS/MS analysis,LC-MS/MS,,,7.4,10 uM after 5 hrs,False
+361,Permeability from apical to basolateral side of MDCK cells expressing MDR1 after 120 mins,MDCK MDR1,,apical to basolateral,,after 120 mins,False
+362,Permeability from apical to basolateral side of human Caco2 cells at 3 uM,human Caco2,,apical to basolateral,,3 uM,False
+363,Apparent permeability of the compound across apical to basolateral side in human Caco-2 cells,human Caco-2,,apparent permeability,,,False
+364,Permeability of the compound in PBS/EtOH by PAMPA-BBB assay,PAMPA-BBB,,,,,True
+365,Permeability across Escherichia coli HN1157/pHSG576oxa7 assessed as permeability coefficient in presence of proton uncoupler carbonyl cyanide meta-chlorophenylhydrazone,Escherichia coli HN1157,,permeability coefficient,,,False
+366,Apparent permeability across apical side to basolateral side in human Caco-2 cells at 5 uM after 2 hrs by transwell assay,human Caco-2 transwell,,apical to basolateral,,5 uM after 2 hrs,False
+367,Permeability of the compound at 1 uM after 5 mins by PAMPA,PAMPA,,,,1 uM after 5 mins,False
+368,Passive permeability of the compound across apical to basolateral side in MDCK2 cells transfected with Bacmam virus containing human BCRP at 3 uM after 90 mins in presence of GF120918,MDCK2 human BCRP,,passive permeability,,3 uM after 90 mins with GF120918,False
+369,Inhibition of AQP4 expressed in rat FRT cells assessed as osmotic water permeability at 100 uM after 15 mins by stopped-flow light scattering method,rat FRT AQP4,,osmotic water permeability,,100 uM after 15 mins,False
+370,Permeability of the compound across basolateral to apical membrane in human Caco-2 cells incubated for 2 hrs by LC-MS/MS analysis,human Caco-2,,basolateral to apical,,incubated for 2 hrs,False
+371,Permeability in pH 7.4 buffer after 3 hrs by HPLC with UV detection based artificial membrane permeability assay,HPLC UV artificial membrane,,,7.4,after 3 hrs,False
+372,Permeability across low transporter-containing MDCK2 cells,MDCK2,,,,,False
+373,Permeability of the compound at 5 uM after 5 hrs by PAMPA,PAMPA,,,,5 uM after 5 hrs,False
+374,Permeability from apical to basal side of human Caco2 cells,human Caco2,,apical to basal,,,False
+375,Passive permeability in canine kidney cells,canine kidney,,,,,False
+376,Passive diffusion assessed as intrinsic permeability across Caco-2 cell membrane,Caco-2,,intrinsic permeability,,,False
+377,Permeability across apical to basolateral side in MDCK cells expressing MDR1,MDCK MDR1,,apical to basolateral,,,False
+378,Apical to basolateral fluxes across Caco-2 cell monolayers at 37 degree Celsius was studied.,Caco-2,37 degree Celsius,apical to basolateral fluxes,,,False
+379,Permeability of compound in buffer solution at pH 7.4 by PAMPA method,PAMPA,,,7.4,,False

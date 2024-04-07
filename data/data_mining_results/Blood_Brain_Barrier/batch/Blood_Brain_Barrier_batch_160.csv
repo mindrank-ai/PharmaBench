@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+160,Permeability from apical to basal side of MDCK cells expressing human mdr1 gene,MDCK human mdr1,,apical to basal,,,False
+161,Permeability of the compound at 100 ug/ml after 10 hrs by PAMPA assay,PAMPA,,,,100 ug/ml after 10 hrs,False
+162,Permeability of the compound in PBS/EtOH at 100 ug/ml after 12 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,100 ug/ml after 12 hrs,True
+163,Permeability of compound at 100 ug/ml after 10 hrs by PAMPA assay,PAMPA,,,,100 ug/ml after 10 hrs,False
+164,Membrane permeability at 25 mM at pH 6.5 to 7.4 after 4 hrs by PAMPA,PAMPA,,,6.5 to 7.4,25 mM after 4 hrs,False
+165,Permeability of compound by PAMPA at pH 7.4,PAMPA,,,7.4,,False
+166,Permeability of the compound at 100 mg/mL after 10 hrs by PAMPA,PAMPA,,,,100 mg/mL after 10 hrs,False
+167,Permeability from apical to basolateral side in MDCK cells,MDCK,,apical to basolateral,,,False
+168,Permeability across phosphatidyl choline membrane at pH 7.4 after 3 hrs by HPLC with UV detection method,phosphatidyl choline membrane,,,7.4,,False
+169,Apparent permeability across apical to basolateral side in human Caco2 cells measured at 60 to 120 mins by LC/MS/MS analysis,Caco2,,apical to basolateral,,measured at 60 to 120 mins,False
+170,Effective permeability across artificial membrane at 200 uM by PAMPA using HPLC/MS method,artificial membrane,,,,200 uM,False
+171,Passive permeability of the compound across artificial membrane by AMP assay,artificial membrane AMP,,,,,False
+172,Permeability of the compound at 50 uM after 18 hrs by PAMPA,PAMPA,,,,50 uM after 18 hrs,False
+173,Membrane permeability dissolved in PBS/EtOH (80:20) mixture by PAMPA-BBB assay,PAMPA-BBB,,,,dissolved in PBS/EtOH (80:20),True
+174,Permeability of the compound at 500 uM after 8 hrs by PAMPA,PAMPA,,,,500 uM after 8 hrs,False
+175,Permeability across apical to basolateral side in MDCK-MDR1 cells at 10 uM incubated for 1 hr by mass spectrometric method,MDCK-MDR1,,apical to basolateral,,10 uM incubated for 1 hr,False
+176,Passive permeability of the compound assessed as fraction absorbed after 5 hrs by hexadecane membrane permeability assay,hexadecane membrane,,fraction absorbed,,,False
+177,Permeability of the compound at pH 7.4 incubated for 3 hrs by HPLC based artificial membrane permeability assay,artificial membrane HPLC,,,7.4,incubated for 3 hrs,False
+178,Permeability of the compound after 4 hrs by PAMPA assay,PAMPA,,,,after 4 hrs,False
+179,Apparent permeability across basolateral to apical side in human Caco2 cells measured at 60 to 120 mins by LC/MS/MS analysis,Caco2,,basolateral to apical,,measured at 60 to 120 mins,False

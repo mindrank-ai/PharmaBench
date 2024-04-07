@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+560,Permeability of the compound at 100 uM after 6 hrs by PAMPA,PAMPA,,,,100 uM after 6 hrs,False
+561,Permeability of compound at 50 uM at pH 5.5 after 6 hrs by PAMPA,PAMPA,,,5.5,50 uM after 6 hrs,False
+562,Permeability of compound at 50 uM at pH 7.4 after 6 hrs by PAMPA,PAMPA,,,7.4,50 uM after 6 hrs,False
+563,Permeability of the compound at 10 umol/L incubated for 3 hrs by LC/MS/MS detection based PAMPA method,LC/MS/MS PAMPA,,,,10 umol/L for 3 hrs,False
+564,Permeability of the compound at 10 uM at pH 7.4 after 3 hrs by PAMPA,PAMPA,,,7.4,10 uM after 3 hrs,False
+565,Permeability of the compound in human A549 cells at 20 uM incubated for 24 hrs with 2*10^4 cells/ml media by LC/MS analysis,human A549 LC/MS,,,,20 uM incubated for 24 hrs with media,False
+566,Permeability of the compound at donor pH 7.4 and acceptor pH 7.4 by PAMPA,PAMPA,,,donor 7.4 and acceptor 7.4,,False
+567,In vitro CACO-2 cell permeability potency was determined,Caco-2,,permeability potency,,,False
+568,Permeability in human Caco2 cells at 20 uM incubated for 120 mins in presence of cyclosporin by ESI-MS/MS analysis,human Caco2 ESI-MS/MS,,,,20 uM for 120 mins with cyclosporin,False
+569,Permeability from basolateral to apical side in MDCK cells,MDCK,,basolateral to apical,,,False
+570,Basal to apical permeability in CaCo-2 cells,Caco-2,,basal to apical,,,False
+571,Permeability of the compound assessed as molar fraction in donor well at 0.5 mM measured immediately by PAMPA,PAMPA,,molar fraction in donor well measured immediately,,0.5 mM measured immediately,False
+572,Permeability of the compound assessed as molar fraction in membrane at 0.5 mM measured after 16 hrs by PAMPA,PAMPA,,molar fraction in membrane measured after 16 hrs,,0.5 mM after 16 hrs,False
+573,Permeability of the compound assessed as molar fraction in donor well at 0.5 mM measured after 2 hrs by PAMPA,PAMPA,,molar fraction in donor well measured after 2 hrs,,0.5 mM after 2 hrs,False
+574,Permeability of the compound by PAMPA at pH 7.4,PAMPA,,,7.4,,False
+575,Apparent permeability across PAMPA membrane,PAMPA,,apparent permeability,,,False
+576,Permeability in human Caco-2 cell membranes,human Caco-2,,,,,False
+577,Apparent permeability from basolateral to apical side of human Caco2 cells,human Caco2,,apparent permeability basolateral to apical,,,False
+578,Permeability of the compound by cell based assay,,,,,,False
+579,Secretory Transport in Caco-2 cells in comparison to metoprolol,Caco-2,,secretory transport,,compared to metoprolol,False

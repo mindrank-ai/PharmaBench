@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+420,Solubility in simulated gastric fluid,,simulated gastric fluid,,,,True
+421,Solubility of the compound in 0.1 M phosphate buffer/0.15 M KCl at pH 7.4 after 24 hrs,7.4,0.1 M phosphate buffer/0.15 M KCl,24 hrs,,,True
+422,Aqueous solubility of compound in PBS buffer at pH 7.4,7.4,PBS buffer,,,,True
+423,Solubility of compound in FaSSIF incubated for 48 to 72 hrs under shaking conditions by LCMS analysis,,FaSSIF,48 to 72 hrs,LCMS analysis,,True
+424,Solubility of the compound in water by microplate reader analysis,,water,,microplate reader analysis,,True
+425,Kinetic solubility of the compound in PBS at pH 7.4,7.4,PBS,,kinetic solubility,,True
+426,Kinetic solubility of the compound in phosphate buffer saline at 10 mM by HPLC analysis,7.4,phosphate buffer saline,,HPLC analysis,,True
+427,Equilibrium solubility of compound in buffer at pH 6.8 incubated over night under shaking condition by LC-MS/MS analysis,6.8,buffer,overnight,LC-MS/MS analysis,,True
+428,Solubility of compound in 0.1 M phosphate buffer at pH 7.4 at 25 degC after 24 hrs,7.4,0.1 M phosphate buffer,24 hrs,,25 degC,True
+429,Kinetic solubility of compound in PBS buffer at pH 7 incubated for 15 mins by HPLC-UV analysis,7.0,PBS buffer,15 mins,HPLC-UV analysis,,True
+430,Solubility of compound in phosphate buffered saline buffer,,phosphate buffered saline buffer,,,,True
+431,Thermodynamic aqueous solubility of the compound in phosphate buffer at pH 7.4,7.4,phosphate buffer,,thermodynamic solubility,,True
+432,Solubility of the compound in phosphate buffer at pH 6.4,6.4,phosphate buffer,,,,True
+433,Aqueous solubility of compound in DMSO/ PBS at pH 7.4 at 200 microM incubated for 24 hrs by shake flask method based chemiluminscent nitrogen detection (CLND) method,7.4,DMSO/ PBS,24 hrs,CLND method,,True
+434,Kinetic solubility of compound in water sonicated for 15 mins by HPLC analysis,,water,15 mins,HPLC analysis,,True
+435,Solubility of the compound in citrate phosphate buffer saline at pH 7 after 18 hrs by UV detection based assay,7.0,citrate phosphate buffer saline,18 hrs,UV detection based assay,,True
+436,Solubility of the compound in fasted state simulated intestinal fluid measured after overnight incubation by UV-HPLC analysis,,fasted state simulated intestinal fluid,overnight,UV-HPLC analysis,,True
+437,Solubility in sodium phosphate buffer at pH 7,7.0,sodium phosphate buffer,,,,True
+438,"Solubility (of methanesulfonate salt, pH 7.4)",7.4,,,,,True
+439,Solubility of amorphous form of compound in 50 mM potassium phosphate buffer at pH 6.5 by UV-Vis HPLC analysis,6.5,50 mM potassium phosphate buffer,,UV-Vis HPLC analysis,,True

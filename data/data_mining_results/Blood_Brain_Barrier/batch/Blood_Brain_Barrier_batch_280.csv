@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+280,Passive membrane permeability of the compound in phosphate buffered saline at 200 uM incubated for 5 hrs by PAMPA assay based HPLC analysis,PAMPA HPLC,,,,200 uM incubated for 5 hrs,False
+281,Permeability of compound was evaluated in an artificial membrane permeability assay,artificial membrane permeability,,,,,False
+282,Permeability of compound across apical to basolateral side in human Caco2 cells,human Caco2,,apical to basolateral,,,False
+283,Permeability across human Caco2 cells at pH 7.4,human Caco2,,,7.4,,False
+284,"Permeability, Pe of the compound assessed as drug accumulation",PAMPA,,Pe as drug accumulation,,,False
+285,Permeability across basolateral to apical side in human Caco2 cells incubated for 1 hr at 37 degC by HPLC-MS/MS method,human Caco2,37 degC,basolateral to apical,,incubated for 1 hr,False
+286,Permeability of compound across apical to basal compartment in PBS at pH 7.4 at 10 uM after 4 hrs by PAMPA,PAMPA,,apical to basal,pH 7.4,10 uM after 4 hrs,False
+287,Permeability from apical to basal side of MDCK2 cells expressing MDR1 assessed as fraction of mass extracted by methanol wash at 5 uM after 1 hr by LC-MS/MS analysis,MDCK2 MDR1,,fraction mass extracted,,5 uM after 1 hr,False
+288,Permeability from apical to basal side of MDCK2 cells expressing MDR1 assessed as fraction of mass extracted by methanol wash at 5 uM after 1 hr by LC-MS/MS analysis in presence of LSN 335984,MDCK2 MDR1 LSN 335984,,fraction mass extracted with LSN 335984,,5 uM after 1 hr with LSN 335984,False
+289,Permeability across artificial membrane by PAMPA,PAMPA,,,,,False
+290,Passive permeability across MDCK2 cells expressing MDR1 at 5 uM after 1 hr by LC-MS/MS analysis in presence of LSN 335984,MDCK2 MDR1 LSN 335984,,passive permeability,,5 uM after 1 hr with LSN 335984,False
+291,Permeability of the compound at pH 5.5 measured for 4 hrs by UV plate reader based PAMPA assay,PAMPA,,,5.5,measured for 4 hrs,False
+292,Permeability from basal to apical side of MDCK2 cells expressing MDR1 at 5 uM after 1 hr by LC-MS/MS analysis in presence of LSN 335984,MDCK2 MDR1 LSN 335984,,basal to apical,,5 uM after 1 hr with LSN 335984,False
+293,Permeability of the compound across apical to basolateral side in human Caco2 cells,human Caco2,,apical to basolateral,,,False
+294,Permeability from basal to apical side of MDCK2 cells expressing MDR1 at 5 uM after 1 hr by LC-MS/MS analysis,MDCK2 MDR1,,basal to apical,,5 uM after 1 hr,False
+295,Permeability of the compound at 50 ug/ml after 16 hrs by PAMPA,PAMPA,,,,50 ug/ml after 16 hrs,False
+296,Permeability of the compound incubated for 165 mins by PAMPA-BBB assay,PAMPA-BBB,,,,incubated for 165 mins,True
+297,Permeability of the compound at 500 uM after 20 hrs by PAMPA,PAMPA,,,,500 uM after 20 hrs,False
+298,Caco-2 cell membrane permeability,Caco-2,,,,,False
+299,Permeability of the compound by measuring lambda maximum incubated for 18 hrs by PAMPA method,PAMPA,,measuring lambda maximum,,incubated for 18 hrs,False

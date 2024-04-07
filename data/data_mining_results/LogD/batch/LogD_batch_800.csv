@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,Partition coefficient (logD) (octanol/0.01 N K2HPO4),,,octanol/0.01 N K2HPO4,,,,True
+2,"n-Octanol/water partition coefficient, logD of the compound incubated for 24 hrs at pH 7.4 by HPLC analysis",7.4,HPLC,n-octanol/water,,24 hrs,,True
+3,"n-octanol-PBS partition coefficient, log D of the compound at pH 7.4",7.4,,n-octanol-PBS,,,,True
+4,"Lipophilicity, log D of compound at pH 6.5 by shake-flask method",6.5,shake flask,,,,shake flask,True
+5,Partition coefficient in 1-octanol phosphate buffer at pH 7.40,7.4,,1-octanol/phosphate buffer,,,,True
+6,"Lipophilicity, logD of compound at pH 7.4 by shake-flash method",7.4,shake flask,,,,shake flask,True
+7,Log distribution coefficient between 1-octanol and aqueous buffer at pH of 9.2.,9.2,,1-octanol/aqueous buffer,,,,True
+8,Partition coefficient was determined in octanol-phosphate at pH 4.0,4.0,,octanol-phosphate,,,,True
+9,Partition coefficient of the compound at pH 7.4,7.4,,,,,,True
+10,"Octanol-water partition coefficient, log D of the compound at pH 7.4 after 6 hr by shake flask method",7.4,shake flask,octanol-water,,6 hrs,shake flask,True
+11,"Octanol/water partition coefficient, logD of compound at pH 7.4 measured after 4 hrs by shake flask method",7.4,shake flask,octanol/water,,4 hrs,shake flask,True
+12,"Lipophilicity, log D in octanol at pH 7.4",7.4,,octanol,,,,True
+13,"Lipophilicity, logD of the compound at pH 7.4 by potentiometric titration method",7.4,potentiometric titration,,,,,True
+14,"Lipophilicity, log D in octanol/buffer at pH 7.4 by shake-flask method",7.4,shake flask,octanol/buffer,,,shake flask,True
+15,Distribution Coefficient at pH 3,3.0,,,,,,True
+16,"Octanol-buffer distribution co-efficient, log D of the compound at pH 7.4",7.4,,octanol-buffer,,,,True
+17,"Lipophilicity, log D by CHI assay at pH 7.4",7.4,CHI assay,,,,,True
+18,Partition coefficient (logD) (0.1 N NaOH),,,0.1 N NaOH,,,,True
+19,"Distribution coefficient between 1-octanol and phosphate buffer, logD of the compound after 15 mins by shake flask assay",,shake flask,1-octanol/phosphate buffer,,15 mins,shake flask,True
+20,"Octanol-phosphate buffer partition coefficient, log D of the compound at pH 7.4 after 2 hrs of shaking after 2 hrs",7.4,,octanol-phosphate buffer,,2 hrs,shaking,True

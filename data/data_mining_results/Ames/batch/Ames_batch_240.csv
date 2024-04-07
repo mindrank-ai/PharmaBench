@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in human Leukocyte cells assessed as induction of DNA single strand breaks by single gel electrophoresis based alkaline comet assay,,,,presence of S9 liver extract,human Leukocyte cells,False
+2,Stabilization of TTR V3OM mutant (unknown origin) assessed as suppression of TTR tetramer dissociation at 1 to 10 uM incubated for 9 days by glutaraldehyde cross-linking assay based SDS-PAGE analysis,1 to 10 uM,,9 days,,TTR V3OM mutant,False
+3,Antiviral activity against Hepatitis C virus genotype 1b Con1 in HuH 5-2 replicon system assessed as reduction of viral replication,,,,absence of liver S9 fraction,HuH 5-2 replicon system,True
+4,Genotoxicity in Salmonella typhimurium TA100 at 30 uM in presence of rat liver S9 fraction by Ames test,30 uM,,,presence of rat S9 fraction,Salmonella typhimurium TA100,True
+5,Spermicidal activity against human spermatozoa at 10 mg/ml by modified sander-cramer assay,10 mg/ml,,,,human spermatozoa,False
+6,Metal chelation activity assessed as 1:1 compound to Cu2+L complex formation in DMF:H2O (7:3) solution by cyclic voltametry,,,,,,False
+7,Binding affinity to unilamellar vesicles of DPPC in D2O at 1:5 drug to lipid molar ratio at 323 K by [1H]-NMR spectroscopic analysis,1:5 drug to lipid molar ratio,,,,unilamellar vesicles of DPPC,False
+8,"Anticonvulsant activity in SwissRattus norvegicus albino (rat) assessed as protection against pentamethylene tetrazole-induced seizures at 10 mg/kg, ip administered for 15 min prior to pentamethylene tetrazole induction relative to placebo",10 mg/kg,,15 min prior to induction,presence of actin thin filament complex,Swiss Rattus norvegicus albino,False
+9,Mutagenicity in Escherichia coli PQ37 at 10 mg/ml by SOS-chromotest,10 mg/ml,,,,Escherichia coli PQ37,False
+10,Genotoxicity in Salmonella typhimurium TA98 at 30 uM in presence of rat liver S9 fraction by Ames test,30 uM,,,presence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+11,Genotoxicity in mouse peripheral blood by micronucleus test,,,,,mouse peripheral blood,False
+12,Mutagenicity in Salmonella typhimurium TA100 up to 5000 ug/ml by Ames test in presence of rat S9 fraction,up to 5000 ug/ml,,,presence of rat S9 fraction,Salmonella typhimurium TA100,True
+13,"Effect on LPS-induced Sprague-Dawley rat disseminated intravascular coagulation model assessed as amelioration of increased urea nitrogen levels at 10 mg/day or 25 mg/day, po after 2 hrs of fasting for 2 consecutive days",10 mg/day or 25 mg/day,,2 hrs fasting for 2 consecutive days,,Sprague-Dawley rat,False
+14,Genotoxicity in Homo sapiens (human) MCF10A cells assessed as reduction of BP-DNA adduct formation at 100 uM after 24 hr by 32P-postlabeling technique,100 uM,,after 24 hr,,Homo sapiens MCF10A cells,False
+15,"Effect on LPS-induced Sprague-Dawley rat disseminated intravascular coagulation model assessed as amelioration of increased fibrin degradation product levels at 10 mg/day or 25 mg/day, po after 2 hrs of fasting for 2 consecutive days",10 mg/day or 25 mg/day,,2 hrs fasting for 2 consecutive days,,Sprague-Dawley rat,False
+16,Mutagenic activity in Salmonella Typhimurium TA100 preincubated for 20 to 30 mins,,,20 to 30 mins,,Salmonella Typhimurium TA100,True
+17,Mutagenicity in Salmonella typhimurium TA100 up to 5000 ug/ml by Ames test in absence of rat S9 fraction,up to 5000 ug/ml,,,absence of rat S9 fraction,Salmonella typhimurium TA100,True
+18,Binding affinity to unilamellar vesicles of DPPC in D2O at 1:5 drug to lipid molar ratio at 323 K by [13C]-NMR spectroscopic analysis,1:5 drug to lipid molar ratio,,,presence of liver S9 fraction,Salmonella typhimurium TA98,False
+19,Dopaminergic activity in Sprague-Dawley rat assessed as hyperactivity up to 25 ug administered into caudate-putamen,up to 25 ug,,,,Plasmodium berghei ANKA 25R/10 - Balb/C mouse,False
+20,Antiviral activity against Zika virus harboring subgenomic GFP replicon infected in African green monkey Vero cells assessed as reduction in viral infection treated 4 hrs post-infection and measured 72 hrs post-infection,,,72 hrs post-infection,,African green monkey Vero cells,False

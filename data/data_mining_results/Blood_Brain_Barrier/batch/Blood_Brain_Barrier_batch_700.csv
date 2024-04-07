@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+660,Permeability of compound at pH 5 by PAMPA assay,PAMPA,,,pH 5,,False
+661,Absorptive permeability across Caco-2 cell membrane,Caco-2,,absorptive permeability,,,False
+662,Permeability assessed as doxycycline-induced mouse BCRP-mediated permeability from apical to basolateral side,Mouse BCRP-mediated PAMPA doxycycline-induced,,BCRP-mediated apical to basolateral,,,False
+663,Drug transport assessed as P-glycoprotein-mediated apical to basolateral permeability,Cell-based P-gp-mediated transport assay,,P-gp-mediated apical to basolateral,,,False
+664,Permeability in pig LLC-PK1 cells,LLC-PK1,,,,,False
+665,Passive permeability of the compound at 20 uM by PAMPA,PAMPA,,passive permeability,,20 uM,False
+666,Permeability across human Caco-2 cells from apical to basolateral side in human Caco2 cell membrane,human Caco2,,apical to basolateral,,,False
+667,Passive permeability of the compound from apical to basolateral direction in MDCK cells at 10 uM in presence of P-gp inhibitor,MDCK P-gp inhibitor,,passive permeability apical to basolateral,,10 uM with P-gp inhibitor,False
+668,Permeability across artificial membrane by PAMPA model,PAMPA artificial membrane,,across artificial membrane,,,False
+669,Permeability of the compound by PAMPA assay at pH 5.0,PAMPA,,,pH 5.0,,False
+670,Permeability of the compound measured on acceptor plate of PAMPA membrane at 50 uM after 1 hr by HPLC analysis,PAMPA HPLC acceptor plate,,,,50 uM after 1 hr,False
+671,Permeability of the compound across basolateral to apical side in human Caco-2 cells,human Caco-2,,basolateral to apical,,,False
+672,Apparent permeability across artificial membrane after 3 hrs by HPLC analysis,Artificial membrane HPLC,,apparent permeability,,after 3 hrs,False
+673,Permeability across apical to basolateral in MDCK expressing human MDR1 at 5 uM by LC-MS/MS method,MDCK human MDR1 LC-MS/MS,,apical to basolateral,,5 uM,False
+674,Permeability of compound across apical to basolateral side in pig LLC-PK1 cells expressing MDR1,pig LLC-PK1 MDR1,,apical to basolateral,,,False
+675,Permeability of compound at 100 uM at pH 6 incubated for 4 hrs by PAMPA-GIT assay,PAMPA-GIT,,,pH 6,100 uM for 4 hrs,False
+676,Apparent permeability from apical to basolateral side in human Caco2 cells,human Caco2,,apparent permeability apical to basolateral,,,False
+677,Permeability of the compound assessed as diffusion from donor plate through porcine brain lipid membrane into acceptor plate at pH 7.4 by PAMPA method,PAMPA BBB,,diffusion porcine brain lipid,pH 7.4,diffusion assessment,True
+678,Permeability of the compound at 5 mg/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,5 mg/ml after 18 hrs,True
+679,Permeability of compound at 100 uM at pH 7.4 incubated for 4 hrs by PAMPA-GIT assay,PAMPA-GIT,,,pH 7.4,100 uM for 4 hrs,False

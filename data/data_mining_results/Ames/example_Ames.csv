@@ -1,0 +1,41 @@
+index,original_sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,"Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F. (Class of assay: screening) [Related pubchem assays (depositor defined):AID1446, AID1486, AID1520, AID1521, AID1691, AID1699, AID1797] Panel member name: irf1 Inhibition (HEL cells)",,,,,HEL cells,False
+2,"Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F. (Class of assay: screening) [Related pubchem assays (depositor defined):AID1446, AID1486, AID1520, AID1521, AID1691, AID1699, AID1797] Panel member name: irf1 Inhibition (Ba/F3 cells)",,,,,Ba/F3 cells,False
+3,Genotoxicity in Salmonella typhimurium by Ames test,,,,,Salmonella typhimurium,True
+4,"Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F. (Class of assay: screening) [Related pubchem assays (depositor defined):AID1446, AID1486, AID1520, AID1521, AID1691, AID1699, AID1797] Panel member name: Ba/F3 Cytotoxicity",,,,,Ba/F3,False
+5,"Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F. (Class of assay: screening) [Related pubchem assays (depositor defined):AID1446, AID1486, AID1520, AID1521, AID1691, AID1699, AID1797] Panel member name: JAK2V617F Inhibition",,,,,,False
+6,Mutagenicity in Salmonella typhimurium by Ames test,,,,,Salmonella typhimurium,True
+7,Induction of phospholipidosis in bovine corneal fibroblasts assessed as lamellar inclusion bodies after 72 hrs by light microscopy,,,72 hrs,,bovine corneal fibroblasts,False
+8,Neuroprotective activity against kainate-induced cell damage in mouse primary cortical neurons assessed as reduction in kainate-induced neurofilament loss by measuring increase in MAPK level at 1 uM pretreated followed by kainate challenge measured after 18 hrs by fluorescence assay,1 uM,,18 hrs,,mouse primary cortical neurons,False
+9,Antiviral activity against HCV infected in human HuH5.2 cells assessed as inhibition of subgenomic RNA replication after 4 days by Steady-Glo luciferase assay,,,4 days,,human HuH5.2 cells,False
+10,Antibacterial activity against trimethoprim-sulfamethoxazole-resistant Stenotrophomonas maltophilia assessed as inhibition of microbial growth up to 50 ug/ml incubated for 24 hrs by microdilution assay,up to 50 ug/ml,,24 hrs,,Stenotrophomonas maltophilia,False
+1,Mutagenicity in Salmonella typhimurium TA100 in presence of liver S9 fraction by AMES test,,,,liver S9 fraction,Salmonella typhimurium TA100,True
+2,Mutagenicity in Salmonella typhimurium TA98 in presence of liver S9 fraction by AMES test,,,,liver S9 fraction,Salmonella typhimurium TA98,True
+3,Antiviral activity against Vaccinia virus WR in BSC1 cells assessed as retention of antiviral potency by measuring exogenous double stranded DNA trapping,,,,,BSC1 cells,False
+4,Genotoxicity in Salmonella typhimurium TA98 by Ames test in presence of S9 fractions,,,,S9 fractions,Salmonella typhimurium TA98,True
+5,Genotoxicity in Salmonella typhimurium TAMix by Ames test in presence of S9 fractions,,,,S9 fractions,Salmonella typhimurium TAMix,True
+6,Mutagenicity in Salmonella typhimurium TA98 by AMES test,,,,,Salmonella typhimurium TA98,True
+7,Mutagenicity in Salmonella typhimurium TA100 by AMES test,,,,,Salmonella typhimurium TA100,True
+8,Antibacterial activity against drug-resistant Pseudomonas aeruginosa clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Pseudomonas aeruginosa,False
+9,Antibacterial activity against drug-resistant Acinetobacter calcoaceticus clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Acinetobacter calcoaceticus,False
+10,Antibacterial activity against drug-resistant Serratia marcescens clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Serratia marcescens,False
+1,Antibacterial activity against drug-resistant Enterococcus faecalis clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Enterococcus faecalis,False
+2,Antibacterial activity against drug-resistant Escherichia coli clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Escherichia coli,False
+3,Antibacterial activity against drug-resistant Proteus mirabilis clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Proteus mirabilis,False
+4,Antibacterial activity against drug-resistant Klebsiella pneumoniae clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Klebsiella pneumoniae,False
+5,Antibacterial activity against drug-resistant Enterobacter cloacae clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Enterobacter cloacae,False
+6,Genotoxicity in Salmonella typhimurium TA98 by Ames test,,,,,Salmonella typhimurium TA98,True
+7,Cytotoxicity against human Huh5-2 cells carrying HCV genotype 1b I389luc-ubi-neo/NS3-3'/5.1 replicon assessed as cell morphological changes after 72 hrs by microscopic analysis,,,72 hrs,,human Huh5-2 cells,False
+8,Genotoxicity in Salmonella typhimurium TAMix by Ames test in absence of S9 fractions,,,,absence of S9 fractions,Salmonella typhimurium TAMix,True
+9,Genotoxicity in Salmonella typhimurium TA98 by Ames test in absence of S9 fractions,,,,absence of S9 fractions,Salmonella typhimurium TA98,True
+10,Genotoxicity in Salmonella Typhimurium by Ames test,,,,,Salmonella Typhimurium,True
+1,Mutagenic activity in Salmonella Typhimurium TA98 using Ames test; Activity is log of revertants / nmol; a= inactive,log of revertants / nmol,,,,Salmonella Typhimurium TA98,True
+2,Cytotoxicity against Parkinson's disease patient derived human ONS cells assessed as effect on cell morphology parameters at 10 uM after 24 hrs by DAPI staining based fluorescence assay,10 uM,,24 hrs,,Parkinson's disease patient derived human ONS cells,False
+3,Cytotoxicity against Parkinson's disease patient derived human ONS cells assessed as effect on nucleus morphology parameters at 10 uM after 24 hrs by DAPI staining based fluorescence assay,10 uM,,24 hrs,,Parkinson's disease patient derived human ONS cells,False
+4,Inhibition of yeast histone acetyltransferase Gcn5-Ada2-Ada3 complex using tetramer and [3H]-acetyl-CoA assessed as acetate incorporation after 30 mins by liquid scintillation counting in presence of 1 mM DTT,1 mM DTT,,30 mins,,yeast histone acetyltransferase Gcn5-Ada2-Ada3 complex,False
+5,Inhibition of recombinant histone acetyltransferase p300 (unknown origin) using dH3-H4 tetramer and [3H]-acetyl-CoA assessed as acetate incorporation after 30 mins by liquid scintillation counting in presence of 1 mM DTT,1 mM DTT,,30 mins,,recombinant histone acetyltransferase p300,False
+6,Antibacterial activity against Escherichia coli ATCC 11229 assessed as diameter of the inhibition zone at 1 uM/disk after 4 hrs by disk diffusion method,1 uM/disk,,4 hrs,,Escherichia coli ATCC 11229,False
+7,Substrate activity at N-terminal His6-tagged recombinant Paramecium bursaria chlorella virus 1 CPH expressed in Escherichia coli Rosetta 2 (DE3) cells assessed as substrate hydroxylation at 100 uM incubated for 16 hrs in presence of 2OG by MALDI TOF MS analysis,100 uM,,16 hrs,2OG,Escherichia coli Rosetta 2 (DE3) cells,False
+8,Mutagenic activity in Salmonella Typhimurium TA98 assessed as number of revertants after 48 hrs by Ames test,,,48 hrs,,Salmonella Typhimurium TA98,True
+9,Mutagenic activity in Salmonella Typhimurium TA100 assessed as number of revertants after 48 hrs by Ames test,,,48 hrs,,Salmonella Typhimurium TA100,True
+10,Antifungal activity against Candida maltosa SBUG 700 assessed as diameter of the inhibition zone at 1 uM/disk by disk diffusion method,1 uM/disk,,,,Candida maltosa SBUG 700,False

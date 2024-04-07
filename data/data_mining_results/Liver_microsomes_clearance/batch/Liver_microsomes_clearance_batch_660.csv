@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,"Clearance in Sprague-Dawley rat at 0.6 mg/kg, iv",0.6 mg/kg,none,none,plasma,none,LC/MS-MS,Sprague-Dawley rat,iv,none,none,True
+1,Intrinsic clearance in mouse liver microsomes measured per mg of protein,none,measured,per mg of protein,mouse liver microsomes,none,LC-MS/MS,human,none,hepatocytes,per mg of protein,True
+2,"Plasma clearance in Sprague-Dawley rat at 5 mg/kg, po by LC-MS/MS analysis",5 mg/kg,none,none,plasma,none,LC-MS/MS,Sprague-Dawley rat,po,none,none,True
+3,Intrinsic clearance in human liver microsomes in presence of NADPH-regenerating system incubated over 60 mins,1 uM,over 60 mins,NADPH-regenerating system,human liver microsomes,none,UFLC-MS/MS,human,none,liver microsomes,none,True
+4,Intrinsic clearance in rat liver microsomes by HPLC/MS analysis,none,none,NADPH,rat liver microsomes,none,HPLC/MS,rat,none,liver microsomes,none,True
+0,Intrinsic clearance in rat liver microsomes at 10 uM preincubated for 10 mins followed by NADPH addition by liquid chromatographic method,10 uM,for 10 mins followed by addition,NADPH,rat liver microsomes,none,liquid chromatographic method,rat,none,liver microsomes,none,True
+1,Metabolic stability in human liver microsomes assessed as intrinsic clearance at 1 uM in the presence of NADPH measured for 60 mins by LC-MS/MS analysis,1 uM,for 60 mins,NADPH,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+2,Unbound clearance in iv dosed C57BL/6 mouse measured up to 24 hrs by LC-MS/MS analysis,unbound clearance,up to 24 hrs,iv dosed,plasma,none,LC-MS/MS,C57BL/6 mouse,iv,none,none,True
+3,Metabolic stability in human liver assessed as intrinsic clearance at 100 uM incubated for 180 mins in presence of NADPH by LC-MS/MS analysis,100 uM,for 180 mins,NADPH,human liver,none,LC-MS/MS,human,none,liver,none,True
+4,Apparent intrinsic clearance in rat liver microsomes,none,none,intrinsic clearance,rat liver microsomes,none,none,rat,none,liver microsomes,per mg of protein,True
+0,"Clearance in CD-1 mouse at 3 mg/kg, iv measured 0.083 to 24 hrs post-treatment by LC-MS/MS analysis",3 mg/kg,0.083 to 24 hrs,none,plasma,none,LC-MS/MS,CD-1 mouse,iv,none,none,True
+1,Intrinsic clearance in rat liver microsomes measured after 60 mins in presence of NADPH by LC-MS/MS analysis,1 uM,after 60 mins,NADPH,rat liver microsomes,none,LC-MS/MS,rat,none,liver microsomes,none,True
+2,Metabolic stability in human liver microsomes assessed as clearance in presence of NADPH by LC/MS analysis,none,measured,NADPH,human liver microsomes,none,LC/MS,human,none,liver microsomes,none,True
+3,Clearance in rat plasma at 0.1 mg/kg administered as iv cassette dose by LC/MS/MS analysis,0.1 mg/kg,iv cassette dose,none,rat plasma,none,LC/MS/MS,rat,iv,plasma,none,True
+4,Intrinsic clearance in mouse liver microsomes measured after 60 mins in presence of NADPH by LC-MS/MS analysis,1 uM,after 60 mins,NADPH,mouse liver microsomes,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+0,Intrinsic clearance in CD1 mouse liver microsomes at 0.5 uM after 3 to 30 mins in presence of NADPH by UPLC/MS/MS analysis,0.5 uM,3 to 30 mins,NADPH,mouse liver microsomes,none,UPLC/MS/MS,CD1 mouse,none,liver microsomes,per mg of protein,True
+1,Metabolic stability in human liver assessed as intrinsic clearance by LC-MS/MS analysis,none,measured,intrinsic clearance,human liver,none,LC-MS/MS,human,none,liver,none,True
+2,"Clearance in Sprague-Dawley rat at 1 mg/kg, iv or 2 mg/kg, po","1 mg/kg, iv or 2 mg/kg, po",none,none,plasma,none,none,Sprague-Dawley rat,iv or po,plasma,none,True
+3,Clearance in iv dosed Harlan-Han Wistar rat,none,none,iv dosed,plasma,none,none,Harlan-Han Wistar rat,iv,plasma,none,True
+4,Microsomal stability in human liver microsomes assessed as intrinsic clearance at 4 uM incubated for 30 mins in presence of NADPH by LCMS/MS analysis,4 uM,for 30 mins,NADPH,human liver microsomes,none,LCMS/MS,human,none,liver microsomes,per mg of protein,True

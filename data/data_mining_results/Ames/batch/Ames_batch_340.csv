@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Skin stripping in human by stripped-skin assay relative to betamethasone valerate,,,,,human skin,True
+2,Anti-virulence activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation by measuring reduction in hyphae formation in YPS plus uridine medium up to 10 uM incubated for 3 to 5 days by stereomicroscopic analysis,up to 10 uM,,3 to 5 days,,Candida albicans SC5314,False
+3,Binding affinity to wild type TTR tetramer in human plasma assessed as covalent chemoselective amide bond formation with Lys15 residue of TTR subunit at 7.2 uM after 18 hrs by RP-HPLC analysis,7.2 uM,,after 18 hrs,,wild type TTR tetramer in human plasma,False
+4,Mutagenicity in Salmonella typhimurium TA100 in absence of S9 fraction by Ames test,,,,absence of S9 fraction,Salmonella typhimurium TA100,True
+5,Mutagenic activity in Salmonella Typhimurium TM677 at 2.5 to 5.0 mg/mL in absence of Aroclor 1254 pretreated rat S9 liver homogenate by forward mutation assay,2.5 to 5.0 mg/mL,,,absence of Aroclor 1254 pretreated rat S9 liver homogenate,Salmonella Typhimurium TM677,False
+6,Genotoxicity in Escherichia coli PQ37 at 500 uM after overnight incubation by SOS chromotest,500 uM,,after overnight incubation,,Escherichia coli PQ37,False
+7,Mutagenicity in Salmonella typhimurium in absence of liver S9 fraction by non-GLP Ames test,,,,absence of liver S9 fraction,Salmonella typhimurium,True
+8,Antiviral activity against HCV genotype 2a infected in human Huh7.5 cells electroporated with viral RNA assessed as reduction in viral entry by measuring reduction in ratio of viral NS3 to cellular GAPDH protein level up to 50 uM after 48 hrs by Western blot analysis,up to 50 uM,,after 48 hrs,,HCV genotype 2a (JFH-AM71) - human Huh7.5 cells,False
+9,Geno-toxicity in human HeLa cells assessed as induction of DNA damage by measuring increase in incomplete excision repair sites at pH 12.1 after 1 hr by comet assay,,,after 1 hr,,human HeLa cells,False
+10,Mutagenicity in Salmonella typhimurium TA100 at 2.5 mM after 1 hr by Ames test in presence of S9 fraction,2.5 mM,,after 1 hr,presence of S9 fraction,Salmonella typhimurium TA100,True
+11,Genotoxicity in HEK293 cells expressing UGT1A3 assessed as DNA strand breaks at 1 mM after 24 hrs by comet assay,1 mM,,after 24 hrs,,HEK293 cells,False
+12,Mutagenicity in Salmonella typhimurium TA98 at 30 to 5000 ug in presence of S9 metabolic activation system for 48 hrs by Ames test,30 to 5000 ug,,for 48 hrs,presence of S9 metabolic activation system,Salmonella typhimurium TA98,True
+13,Mutagenicity in Salmonella typhimurium TA1535 in presence of S9 fraction by Ames test,,,,presence of S9 fraction,Salmonella typhimurium TA1535,True
+14,Mutagenicity in Salmonella typhimurium TA98 in presence of S9 fraction by Ames test,,,,presence of S9 fraction,Salmonella typhimurium TA98,True
+15,Genotoxicity in human HepG2 cells assessed as induction of DNA lesion at 100 uM after 24 hrs by comet assay,100 uM,,after 24 hrs,,human HepG2 cells,False
+16,Mutagenicity in Escherichia coli WP2uvrA in presence of S9 fraction by Ames test,,,,presence of S9 fraction,Escherichia coli WP2uvrA,True
+17,Antibacterial activity against Tetragenococcus halophilus by broth dilution assay,,,,,Tetragenococcus halophilus,False
+18,Dopaminergic activity in Sprague-Dawley rat assessed as stereotypic behavior administered into caudate-putamen measured up to 25 ug from 5 to 15 mins to persisted up to 3 hrs,up to 25 ug,,"from 5 to 15 mins, up to 3 hrs",,Sprague-Dawley rat,False
+19,Mutagenic activity in Salmonella Typhimurium TA102 assessed as number of spontaneous and drug-induced revertants after 48 hrs in presence of 4% S9 mixture by Ames test,,,after 48 hrs,presence of 4% S9 mixture,Salmonella Typhimurium TA102,True
+20,Mutagenic activity in Salmonella Typhimurium TA97a assessed as number of spontaneous and drug-induced revertants after 48 hrs in presence of 4% S9 mixture by Ames test,,,after 48 hrs,presence of 4% S9 mixture,Salmonella Typhimurium TA97a,True

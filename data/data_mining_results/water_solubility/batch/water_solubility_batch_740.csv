@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+640,Aqueous solubility of compound in deionized water by HPLC-HRMS analysis,,deionized water,,HPLC-HRMS analysis,,True
+641,Thermodynamic solubility of the compound in aqueous phosphate buffer at pH 7.4 at 25 degC after 24 hrs by LC-UV method,7.4,phosphate buffer,24 hrs,LC-UV method,25 degC,True
+642,Solubility in simulated intestinal fluid at pH 7.6 by HPLC method,7.6,simulated intestinal fluid,,HPLC method,,True
+643,Solubility (in phosphate buffer),,phosphate buffer,,,,True
+644,Solubility of compound in FaSSIF at pH 1.2 incubated for 0.5 hrs by UPLC-UV analysis,1.2,FaSSIF,0.5 hrs,UPLC-UV analysis,,True
+645,Aqueous solubility of compound in pH 7.4 phosphate buffer,7.4,phosphate buffer,,,,True
+646,Aqueous solubility of the compound in 0.05 M phosphate buffer at pH 6.5,6.5,0.05 M phosphate buffer,,,,True
+647,Kinetic aqueous solubility of the compound in pH 6.8,6.8,None,,,,True
+648,Aqueous solubility of the compound in H2O after 24 hrs incubation at 30 degC by LCMS analysis,,water,24 hrs,LCMS analysis,30 degC,True
+649,Aqueous solubility in phosphate buffered saline,,phosphate buffered saline,,,,True
+650,Kinetic solubility in pH 7. PBS buffer after 1 hr by chemi-luminescent nitrogen detection method,7.0,PBS buffer,1 hr,chemi-luminescent nitrogen detection method,,True
+651,"Solubility (water, 22C, pH 7.2)",7.2,water,,,22C,True
+652,Aqueous solubility of the compound in phosphate buffer at pH 7.4 after 4 hrs by HPLC-UV analysis,7.4,,4 hrs,HPLC-UV analysis,,True
+653,Aqueous solubility of compound at pH 2,2.0,None,,,,True
+654,Solubility of the compound in sodium phosphate buffer at pH 7.4 at 25 +/- 1 degC,7.4,sodium phosphate buffer,,,25 +/- 1 degC,True
+655,Equilibrium solubility of the compound in phosphate buffer at pH 7.4 by UV-HPLC analysis,7.4,phosphate buffer,None,UV-HPLC analysis,,True
+656,Aqueous solubility of the compound at pH 7.2,7.2,None,,,,True
+657,Aqueous solubility in simulated intestinal fluid at pH 6.8,6.8,simulated intestinal fluid,,,,True
+658,Solubility of the compound in pH 6.8 sodium phosphate buffer,6.8,sodium phosphate buffer,,,,True
+659,"Solubility, of the compound by LYSA assay",,,,LYSA assay,,True

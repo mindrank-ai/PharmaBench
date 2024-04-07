@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+421,Protein binding in mouse plasma at 10 uM incubated for 4 hrs by UHPLC-MS/MS analysis,Mouse Plasma,10 uM,4 hrs,UHPLC-MS/MS,,True
+422,Plasma protein binding in mouse at 2 uM by rapid equilibrium dialysis based LC-MS/MS analysis,Mouse Plasma,2 uM,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+423,Protein binding in human plasma at 10 uM incubated for 4 hrs by LC/MS/MS analysis,Human Plasma,10 uM,4 hrs,LC/MS/MS,,True
+424,Plasma protein binding in dog at 2 ug/mL,Dog Plasma,2 ug/mL,,LC-MS/MS,,True
+425,Plasma protein binding in rat at 2 uM incubated for 4 hrs by LC-MS/MS analysis,Rat Plasma,2 uM,4 hrs,LC-MS/MS,,True
+426,Plasma protein binding in human after 15 mins by equilibrium dialysis method,Human Plasma,,15 mins,Equilibrium Dialysis,Equilibrium Dialysis,True
+427,Protein binding in human plasma assessed as unbound fraction,Human Plasma,,,,,True
+428,Plasma protein binding in rhesus monkey,Rhesus Monkey Plasma,,,,,True
+429,Plasma protein binding in mouse after 15 mins by equilibrium dialysis method,Mouse Plasma,,15 mins,Equilibrium Dialysis,Equilibrium Dialysis,True
+430,"Protein binding in Wistar Han male rat plasma at 1 mg/kg, iv or 5 mg/kg, po and measured upto 8 hrs post dose by LC-MS/MS analysis",Wistar Han Male Rat Plasma,5 mg/kg,up to 8 hrs,LC-MS/MS,,True
+431,Protein binding in mouse plasma measured after 2 to 6 hrs by rapid equilibrium dialysis,Mouse Plasma,,2 to 6 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+432,Plasma protein binding in rabbit,Rabbit Plasma,,,,,True
+433,Plasma protein binding in rat after 15 mins by equilibrium dialysis method,Rat Plasma,,15 mins,Equilibrium Dialysis,Equilibrium Dialysis,True
+434,Drug uptake in bovine cartilage assessed as cartilage binding factor,Bovine Cartilage,,,,,False
+435,Protein binding in human plasma at 10 uM by LC-MS/MS analysis,Human Plasma,10 uM,,LC-MS/MS,,True
+436,Protein binding in rat blood at 0.0002 to 1000 mg/ml after 4 hrs by LC/MS/MS based rapid equilibrium dialysis method,Rat Blood,0.0002 to 1000 mg/ml,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+437,Protein binding in cynomolgus monkey plasma at 0.2 to 20 uM,Cynomolgus Monkey Plasma,0.2 to 20 uM,,,,True
+438,Protein binding in rat plasma by LC-MS/MS analysis,Rat Plasma,,,LC-MS/MS,,True
+439,"Plasma protein binding in mouse at 1mg/kg, iv or 10 mg/kg, po",Mouse Plasma,10 mg/kg,,,,True
+440,Plasma protein binding in dog at 5 uM,Dog Plasma,5 uM,,,,True

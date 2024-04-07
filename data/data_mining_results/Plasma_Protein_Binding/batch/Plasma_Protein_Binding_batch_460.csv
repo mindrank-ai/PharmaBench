@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+41,Protein binding in human assessed as bound fraction,Human,,,,,True
+42,Plasma protein binding in human at 1 to 100 uM incubated for 16 hrs by UPLC-MS/MS analysis,Human,1 to 100 uM,16 hrs,UPLC-MS/MS,,True
+43,Plasma protein binding in human plasma at 0.2 mg/ml measured after 4 hrs by HPLC analysis,Human,0.2 mg/ml,4 hrs,HPLC,,True
+44,Protein binding in human plasma incubated for 6 hrs by quadrupole mass spectrometry coupled UFLC analysis,Human,,6 hrs,Quadrupole Mass Spectrometry Coupled UFLC,,True
+45,Plasma protein binding in monkey at 5 uM,Monkey,5 uM,,,,True
+46,"Protein binding in Wistar Han male rat plasma at 0.05 mg/kg, iv and measured upto 8 hrs post dose by LC-MS/MS analysis",Wistar Han male rat,0.05 mg/kg,upto 8 hrs,LC-MS/MS,,True
+47,Plasma protein binding in human assessed as unbound fraction incubated for 5 hrs by LC-MS/MS analysis,Human,,5 hrs,LC-MS/MS,,True
+48,"Plasma protein binding in OF1 mouse plasma at 10 mg/kg,po or 3 mg/kg,iv measured after 4 hrs by rapid equilibrium dialysis method",OF1 mouse,10 mg/kg or 3 mg/kg,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+49,Plasma protein binding in rat at 10 mg/kg relative to control,Rat,10 mg/kg,,,,True
+50,Protein binding in rat brain at 2 uM incubated for 4 hrs by LC-MS/MS analysis,Rat,2 uM,4 hrs,LC-MS/MS,,False
+51,Protein binding in mouse brain at 10 uM incubated for 5 hrs by LC-MS/MS analysis,Mouse,10 uM,5 hrs,LC-MS/MS,,False
+52,Plasma protein binding in Wister rat at 1 uM measured after 6 hrs by LC-MS/MS analysis,Wister rat,1 uM,6 hrs,LC-MS/MS,,True
+53,Protein binding in rat plasma at 1 uM incubated for 5 hrs by liquid chromatography-tandem mass spectrometry,Rat,1 uM,5 hrs,Liquid Chromatography-Tandem Mass Spectrometry,,True
+54,Plasma protein binding in mouse assessed as unbound fraction at 5 uM incubated for 18 hrs by equilibrium dialysis based LC-MS/MS analysis,Mouse,5 uM,18 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+55,Protein binding in dog plasma by high-throughput dialysis method,Dog,,,High-Throughput Dialysis,,True
+56,Protein binding in rat plasma by high-throughput dialysis method,Rat,,,High-Throughput Dialysis,,True
+57,Protein binding in cynomolgus monkey plasma at 5 uM by LC-MS/MS method based rapid equilibrium dialysis,Cynomolgus monkey,5 uM,,LC-MS/MS,Rapid Equilibrium Dialysis,True
+58,Plasma protein binding in CD-1 mouse plasma by LC-MS analysis,CD-1 mouse,,,LC-MS,,True
+59,Protein binding in rabbit,Rabbit,,,,,False
+60,Plasma protein binding in human LC/MS/MS analysis,Human,,,LC/MS/MS,,True

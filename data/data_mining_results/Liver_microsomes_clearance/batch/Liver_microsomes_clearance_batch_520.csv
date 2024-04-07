@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,"Clearance in mouse at 1 mg/kg, iv measured up to 24 hrs LC-MS/MS analysis",1 mg/kg,up to 24 hrs,none,plasma,none,LC-MS/MS,mouse,iv,none,none,False
+1,Stability in human hepatocytes assessed as intrinsic clearance measured up to 120 minutes by LC/MS/MS analysis,none,up to 120 mins,intrinsic clearance,human hepatocytes,none,LC/MS/MS,human,none,hepatocytes,none,True
+2,"Clearance in CD-1 mouse at 10 mg/kg, iv and measured up to 24 hrs by LC/MS-MS analysis",10 mg/kg,up to 24 hrs,none,plasma,none,LC/MS-MS,mouse,iv,none,none,False
+3,Stability in mouse hepatocytes assessed as intrinsic clearance measured up to 60 minutes by LC/MS/MS analysis,none,up to 60 mins,intrinsic clearance,mouse hepatocytes,none,LC/MS/MS,mouse,none,hepatocytes,measured,True
+4,Intrinsic clearance in human liver microsomes at 1 uM measured after 60 mins in presence of NADPH by LC-MS/MS analysis,1 uM,after 60 mins,NADPH,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+0,Intrinsic clearance in mouse liver microsomes at 1 uM preincubated for 5 mins followed by NADPH addition measured up to 30 mins by LC-MS/MS analysis,1 uM,up to 30 mins,NADPH,mouse liver microsomes,none,LC-MS/MS,mouse,iv,liver microsomes,assessed per mg protein,True
+1,Clearance in human liver microsomes at 0.625 uM preincubated for 5 mins followed by NADPH addition and measured after 60 mins by LC-MS/MS analysis,0.625 uM,after 60 mins,NADPH,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True
+2,Metabolic stability in human liver microsome assessed as intrinsic clearance pretreated for 5 mins followed by NADPH addition and measured up to 60 mins by HPLC-MS/MS analysis,none,up to 60 mins,NADPH,human liver microsomes,none,HPLC-MS/MS,human,none,liver microsomes,none,True
+3,Apparent intrinsic clearance in rat liver microsomes at 1 uM after 30 mins in presence of NADPH by HPLC-MS analysis,1 uM,after 30 mins,NADPH,rat liver microsomes,none,HPLC-MS,rat,none,liver microsomes,measured per mg of protein,True
+4,Intrinsic clearance in human hepatocytes per 10^6 cells,none,per 10^6 cells,none,human hepatocytes,none,LC-MS/MS,human,iv,hepatocytes,none,True
+0,Intrinsic clearance in rat liver microsomes,none,none,none,rat liver microsomes,none,none,rat,none,liver microsomes,none,False
+1,Clearance in rat hepatic microsomes at 1 umol/L incubated for 20 mins in presence of NADPH generating system by HPLC-UV analysis,1 umol/L,for 20 mins,NADPH generating system,rat hepatic microsomes,none,HPLC-UV,rat,iv,hepatic microsomes,none,True
+2,"Clearance in C57BL/6 mouse at 1 mg/kg, iv",1 mg/kg,none,none,plasma,none,none,C57BL/6 mouse,none,none,none,False
+3,Metabolic stability in mouse liver microsomes assessed as intrinsic clearance incubated for 60 mins by LC-MS/MS analysis,none,for 60 mins,intrinsic clearance,mouse liver microsomes,none,LC-MS/MS,mouse,iv,liver microsomes,none,True
+4,"Plasma clearance in Sprague-Dawley rat at 2 mg/kg, po or 1 mg/kg, iv","2 mg/kg, po or 1 mg/kg, iv",none,none,plasma,none,LC-MS/MS,Sprague-Dawley rat,po or iv,none,none,True
+0,"Clearance in Sprague-Dawley rat at 0.5 mg/kg, iv by LC-MS method",0.5 mg/kg,none,none,plasma,none,LC-MS,Sprague-Dawley rat,iv,none,none,False
+1,Intrinsic clearance in human liver at 1 uM in presence of NADPH by LC-MS/MS analysis,1 uM,none,NADPH,human liver,none,LC-MS/MS,human,none,liver microsomes,none,True
+2,"Plasma clearance in Wistar Han rat at 0.05 mg/kg, iv or 1 mg/kg, po","0.05 mg/kg, iv or 1 mg/kg, po",none,none,plasma,none,LC-MS/MS,Wistar Han rat,iv or po,none,none,False
+3,Clearance in human hepatic microsomes by LC-MS/MS analysis,none,none,none,human hepatic microsomes,none,LC-MS/MS,human,none,hepatic microsomes,none,True
+4,Unbound intrinsic clearance in mouse cryopreserved hepatocytes at 1 uM measured up to 180 min by LC-MS/MS analysis,1 uM,up to 180 min,unbound intrinsic clearance,mouse hepatocytes,none,LC-MS/MS,mouse,iv,cryopreserved hepatocytes,measured,True

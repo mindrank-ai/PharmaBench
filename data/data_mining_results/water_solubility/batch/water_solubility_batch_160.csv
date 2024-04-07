@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+80,Aqueous solubility of the compound at pH 6.8 incubated for 24 hrs under shaking condition by LC-UV analysis,6.8,water,24 hrs,LC-UV analysis,,True
+81,Solubility of compound in PBS,,PBS,,,,True
+82,Kinetic aqueous solubility of the compound after 22 mins at pH 7.4 by nephelometric analysis,7.4,,22 mins,nephelometric analysis,,True
+83,Aqueous solubility of the compound at pH 4.5 incubated for 24 hrs under shaking condition by LC-UV analysis,4.5,water,24 hrs,LC-UV analysis,,True
+84,Solubility in alpha MEM,,alpha MEM,,,,True
+85,Aqueous solubility of the compound in water at pH 7 by HPLC analysis,7.0,water,,HPLC analysis,,True
+86,Solubility in pH 7.4 PBS buffer at 50 to 150 uM incubated for 18 hrs by UV-vis spectrophotometry,7.4,PBS buffer,18 hrs,UV-vis spectrophotometry,,True
+87,Solubility of the compound by chemiluminescent nitrogen detection method,,,,chemiluminescent nitrogen detection method,,True
+88,Aqueous solubility of the compound in phosphate buffer at pH 7.4 by HPLC-UV analysis,7.4,phosphate buffer,,HPLC-UV analysis,,True
+89,Kinetic aqueous solubility of compound in PBS at pH 6.4 to 7.5 measured after 2 hrs by spectrophotometry analysis,6.4 to 7.5,PBS,2 hrs,spectrophotometry analysis,,True
+90,Solubility of the compound in DMSO by LC/MS/MS method,,DMSO,,LC/MS/MS method,,False
+91,Solubility in simulated intestinal fluid,,simulated intestinal fluid,,,,True
+92,Solubility of the compound in phosphate buffer by high throughput method,,phosphate buffer,,high throughput method,,True
+93,Kinetic solubility of compound at 200 uM incubated for 20 hrs by shake flask method based HPLC-DAD analysis,,,20 hrs,shake flask method based HPLC-DAD analysis,,True
+94,Solubility in pH 7.4 buffer,7.4,buffer,,,,True
+95,Aqueous solubility of the compound in phosphate buffer at pH 6.5 by lyophilization-based HPLC-UV analysis,6.5,phosphate buffer,,lyophilization-based HPLC-UV analysis,,True
+96,Solubility at pH 6.5,6.5,,,,,True
+97,Aqueous solubility of the compound at 10 mM in phosphate buffer by LC-MS analysis,,phosphate buffer,,LC-MS analysis,,True
+98,Kinetic solubility of compound at pH 6.5 phosphate buffer by nephelometry,6.5,phosphate buffer,,nephelometry,,True
+99,Solubility of the compound in FeSSIF,,FeSSIF,,,,True

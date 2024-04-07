@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+81,Protein binding in human blood at 1 ug/ml after 4 hrs by LC-MS/MS analysis,Human Blood,1 ug/ml,4 hrs,LC-MS/MS,,True
+82,Protein binding in rat plasma at 1 uM by rapid equilibrium dialysis method,Rat Plasma,1 uM,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+83,Protein binding in human plasma at 5 uM measured for 6 hrs by LC-MS/MS based equlibrium dialysis method,Human Plasma,5 uM,6 hrs,LC-MS/MS,Equilibrium Dialysis,True
+84,Plasma protein binding in human incubated for 48 hrs,Human Plasma,,48 hrs,,,True
+85,protein binding,,,,,,True
+86,Protein binding in CD1 mouse plasma measured after 5 hr by UPLC-MS/MS analysis based equilibrium dialysis method,CD1 Mouse Plasma,,5 hr,UPLC-MS/MS,Equilibrium Dialysis,True
+87,Protein binding in rat plasma assessed as bound fraction by LC-MS analysis based ultracentrifugation assay,Rat Plasma,,,LC-MS,Ultracentrifugation,True
+88,Protein binding in Beagle dog plasma,Beagle Dog Plasma,,,,,True
+89,Compound was measured for binding rate for human serum at a carbapenem concentration of 10 ug/mL,Human Serum,10 ug/mL,,,,True
+90,Protein binding in plasma by dialysis method,,,,Dialysis,Dialysis,True
+91,Protein binding in rat lung homogenate at 10 uM incubated for 4 hrs by LC/MS/MS analysis,Rat Lung Homogenate,10 uM,4 hrs,LC/MS/MS,,False
+92,Plasma protein binding in Balb/C mouse at 1 ug/ml after 4.2 hrs by LC-MS analysis,Balb/C Mouse Plasma,1 ug/ml,4.2 hrs,LC-MS,,True
+93,Plasma protein binding in human measured by equilibrium dialysis method,Human Plasma,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+94,Protein binding in mouse plasma at 5 uM incubated for 5 hrs by LC-MS/MS-based equilibrium dialysis method,Mouse Plasma,5 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True
+95,Protein binding in human plasma assessed as bound fraction by LC-MS analysis based ultracentrifugation assay,Human Plasma,,,LC-MS,Ultracentrifugation,True
+96,Protein binding in rat plasma measured after 4 hrs by LC-MS/MS analysis,Rat Plasma,,4 hrs,LC-MS/MS,,True
+97,Plasma protein binding in human at 5 uM incubated for 5 hrs by LC-MS analysis,Human Plasma,5 uM,5 hrs,LC-MS,,True
+98,Plasma protein binding in human at 5 mM incubated for 2 hrs by UPLC analysis,Human Plasma,5 mM,2 hrs,UPLC,,True
+99,Protein binding in human plasma at 10 uM after 4 hrs,Human Plasma,10 uM,4 hrs,,,True
+100,Protein binding in human plasma at 5 uM incubated for 5 hrs by LC-MS/MS-based equilibrium dialysis method,Human Plasma,5 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True

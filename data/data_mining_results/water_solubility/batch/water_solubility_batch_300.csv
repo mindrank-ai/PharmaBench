@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+220,Aqueous solubility (20 degree C),,aqueous,,,20 degree C,True
+221,Thermodynamic aqueous solubility at pH 7.4,7.4,aqueous,,thermodynamic solubility,,True
+222,Solubility in pH 6.5 phosphate buffered saline after 20 hrs by shake flask method,6.5,phosphate buffered saline,20 hrs,shake flask method,,True
+223,Solubility of the compound in neutral buffer at pH 7,7.0,neutral buffer,,,,True
+224,Solubility of the compound in 50 mM ammonium acetate buffer at 250 uM at pH 7.4 after 24 hrs by UPLC/UV/TOF-MS analysis,7.4,ammonium acetate buffer,24 hrs,UPLC/UV/TOF-MS analysis,,True
+225,Thermodynamic aqueous solubility of the compound at pH 7.4,7.4,aqueous,,thermodynamic solubility,,True
+226,Kinetic solubility of the compound in PBS buffer at 10 mM at pH 7.4 after 24 hrs by HPLC analysis,7.4,PBS buffer,24 hrs,HPLC analysis,,True
+227,Aqueous solubility of the compound in at pH 7.4,7.4,aqueous,,,,True
+228,Aqueous solubility of the compound in phosphate buffer at pH 7.2 after 24 hrs by shake flask method,7.2,phosphate buffer,24 hrs,shake flask method,,True
+229,Aqueous solubility of the compound in pH 7.4 phosphate buffer saline at 200 uM incubated for 1 hr under shaking condition by UV spectra analysis,7.4,phosphate buffer saline,1 hr,UV spectra analysis,,True
+230,Solubility in phosphate buffered saline,,phosphate buffered saline,,,,True
+231,Thermodynamic solubility of the compound at pH 6.5 after 24 hrs by shake flask method using LC-MS analysis,6.5,aqueous,24 hrs,shake flask method using LC-MS analysis,,True
+232,In vitro solubility in rat hepatocytes; buffer pH 7,7.0,rat hepatocytes; buffer,,,,True
+233,Solubility of compound at pH 4 incubated for 24 hrs by LC/UV analysis,4.0,None,24 hrs,LC/UV analysis,,True
+234,Kinetic solubility of compound at pH 7.4 by shake flask method,7.4,None,,shake flask method,,True
+235,Solubility of compound at pH 1.2,1.2,None,,,,True
+236,Solubility of compound at pH 6.5,6.5,None,,,,True
+237,Solubility of compound at pH 7 incubated for 24 hrs by LC/UV analysis,7.0,None,24 hrs,LC/UV analysis,,True
+238,Kinetic solubility of the compound in pH 7.4 phosphate buffer incubated for 4 hrs by HPLC analysis,7.4,phosphate buffer,4 hrs,HPLC analysis,,True
+239,Solubility of the compound in FaSSIF measured after 4 hrs,,FaSSIF,4 hrs,,,True

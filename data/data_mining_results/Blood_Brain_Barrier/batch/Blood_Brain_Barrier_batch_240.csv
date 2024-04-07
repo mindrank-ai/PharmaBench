@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+240,Permeability of the compound across dog RRCK cells,dog RRCK,,,,,False
+241,Permeability of the compound across apical to basolateral side in human Caco-2 cells,human Caco-2,,apical to basolateral,,,False
+242,Permeability of the compound at pH 6.2 by PAMPA,PAMPA,,,6.2,,False
+243,Permeability of the compound at 100 ug/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,100 ug/ml after 18 hrs,True
+244,Apparent cell permeability in Caco-2 cell line,Caco-2,,,,,False
+245,Permeability was determined,,,,,,False
+246,Permeability of the compound at pH 7.4 at 25 ug/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4,25 ug/ml after 18 hrs,True
+247,Permeability of compound after 16 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,after 16 hrs,True
+248,Permeability of the compound at pH 7.4 at 100 uM after 60 mins by PAMPA-BBB assay,PAMPA-BBB,,,7.4,100 uM after 60 mins,True
+249,Permeability of the compound at 100 ug/ml after 18 hrs by PAMPA,PAMPA,,,,100 ug/ml after 18 hrs,False
+250,Permeability of the compound in human Caco2 cells at 10 uM,human Caco2,,,,10 uM,False
+251,Permeability of compound incubated for 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,incubated for 18 hrs,True
+252,Permeability of the compound in pH 7.4 PBS/EtOH at 100 ug/ml by PAMPA-BBB assay,PAMPA-BBB,,,7.4 PBS/EtOH,100 ug/ml by PAMPA-BBB,True
+253,Passive permeability of the compound at pH 7.4 by PAMPA,PAMPA,,,7.4,,False
+254,Permeability of the compound by PSR4p PAMPA,PSR4p PAMPA,,,,,False
+255,Permeability of the compound at pH 7.4 incubated for 4 hrs by PAMPA,PAMPA,,,7.4,incubated for 4 hrs,False
+256,Permeability of the compound in PBS/EtOH buffer (70:30) by PAMPA-BBB assay,PAMPA-BBB,,,PBS/EtOH (70:30),,True
+257,Permeability of the compound at 100 uM after 3 to 6 hrs by PAMPA assay,PAMPA,,,,100 uM after 3 to 6 hrs,False
+258,Permeability across human Caco-2 cell membrane,human Caco-2,,,,,False
+259,Permeability of the compound at 100 ug/ml after 10 hrs by PAMPA,PAMPA,,,,100 ug/ml after 10 hrs,False

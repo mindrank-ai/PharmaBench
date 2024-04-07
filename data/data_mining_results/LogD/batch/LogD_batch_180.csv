@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,Distribution coefficient between 1-Octanol and phosphate buffer at pH7.4,7.4,,1-octanol and phosphate buffer,,,,True
+2,"Lipophilicity, log D of the compound by reversed phase liquid chromatographic analysis",,reverse phase liquid chromatography,,,,,True
+3,"Lipophilicity, log D of the compound in octanol at pH 7.4",7.4,,octanol,,,,True
+4,"Distribution coefficient, log D of compound",,,,,,,True
+5,Calculated partition coefficient (logD),,,,,,,True
+6,"Octanol-buffer partition co-efficient, log D of the compound at pH 7.4 by shake-flask method",7.4,shake-flask,octanol-buffer,,,shake flask,True
+7,"Distribution coefficient, logD of compound at pH 7.4 by HPLC based miniaturized shake-flask method",7.4,HPLC,,,,miniaturized shake-flask,True
+8,"Lipophilicity, log D of compound at pH 7.4 by microfluidic liquid-liquid extraction method",7.4,microfluidic liquid-liquid extraction,,,,,True
+9,"Octanol-water distribution coefficient, log D at pH 7.4 by shake-flask method",7.4,shake-flask,octanol-water,,,shake flask,True
+10,"1-Octanol-water partition coefficient, log D of the compound at pH 7.4 by HPLC analysis",7.4,HPLC,1-octanol-water,,,,True
+11,"Distribution coefficient between octanol and PBS, log D of compound in pH 7.4 at 100 uM incubated for 12 hrs by LC-MS/MS analysis",7.4,LC-MS/MS,octanol and PBS,,12 hrs,,True
+12,"Lipophilicity, log D of compound at pH 7.4 by shake-flask method",7.4,shake-flask,,,,shake flask,True
+13,"Octanol-aqueous phosphate buffer distribution coefficient, log D of the compound at pH 7.4",7.4,,octanol-aqueous phosphate buffer,,,,True
+14,"1-octanol/aqueous buffer solution partition coefficient, log D of the compound at pH 7.4 by UV-vis/HPLC method",7.4,UV-vis/HPLC,1-octanol/aqueous buffer,,,,True
+15,"Distribution coefficient, logD of compound at pH 7.4 by shake flask method based LC-MS/MS analysis",7.4,LC-MS/MS,,,,shake flask,True
+16,"Octanol-water partition coefficient, log D of the compound at pH 7.4 by reverse-phase liquid chromatography",7.4,reverse-phase liquid chromatography,octanol-water,,,,True
+17,"Lipophilicity, logD of compound by high throughput LC-MS analysis",,LC-MS,,,,,True
+18,"Octanol-water partition coefficient, log D of the compound at pH 7.4 after 5 hrs by shake-flask method",7.4,shake-flask,octanol-water,,5 hrs,shake flask,True
+19,"Lipophilicity, logD of the compound at pH 7.4 by chromatography",7.4,chromatography,,,,,True
+20,"Lipophilicity, logD of the compound at pH 7.5 by reversed-phase HPLC",7.5,reversed-phase HPLC,,,,,True

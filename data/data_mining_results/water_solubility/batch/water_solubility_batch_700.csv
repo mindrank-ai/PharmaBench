@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+600,Solubility in alpha-MEM culture medium,,alpha-MEM culture medium,,,,True
+601,Solubility in phosphate buffered saline at pH 7.4,7.4,phosphate buffered saline,,,,True
+602,Thermodynamic solubility of the compound in 30 mM phosphate buffer at 10 mM at pH 2 after 2 to 5 days by UV-HPLC analysis,2.0,phosphate buffer,2 to 5 days,UV-HPLC analysis,,True
+603,Solubility in water at pH 6.8,6.8,water,,,,True
+604,Equilibrium solubility of the compound in phosphate buffered saline after 48 to 72 hrs,,phosphate buffered saline,48 to 72 hrs,,,True
+605,Aqueous solubility of the compound after 12 hrs by shake-flask method,,aqueous,12 hrs,shake-flask method,,True
+606,Kinetic solubility in pH 7.4 PBS,7.4,PBS,,,,True
+607,Aqueous solubility at pH 7.5,7.5,aqueous,,,,True
+608,Aqueous solubility of the compound at pH 1.5 at 25 degC,1.5,aqueous,,,25 degC,True
+609,Solubility was evaluated,,,,,,True
+610,Aqueous solubility of the compound in pH 2.2 buffer solution after 24 hrs by LC-UV analysis,2.2,buffer solution,24 hrs,LC-UV analysis,,True
+611,Aqueous thermodynamic solubility of the compound at pH 6.8 measured after 4 hrs by UV-HPLC analysis,6.8,aqueous,4 hrs,UV-HPLC analysis,,True
+612,Aqueous solubility of compound at pH7 for 4 hrs by HPLC analysis,7.0,aqueous,4 hrs,HPLC analysis,,True
+613,Solubility at pH 7.3,7.3,,,,,True
+614,Solubility of the compound in aqueous buffer at pH 1.2 after 24 hrs,1.2,aqueous buffer,24 hrs,,,True
+615,Solubility was measured at PH - 7.2 buffer,7.2,buffer,,,,True
+616,Solubility (pH 7.4 buffer ar 25 degree C),7.4,None,,,25 degree C,True
+617,Thermodynamic solubility of compound at physiological pH,,physiological,,,,True
+618,Solubility of the compound in phosphate buffer at pH 6.5 by nephlometric analysis,6.5,phosphate buffer,,nephelometric analysis,,True
+619,Solubility of the compound at pH 1.2,1.2,aqueous,,,,True

@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+464,Inhibition of CYP2C19 using CEC as substrate,CYP2C19,,,,CEC,,,,,,True
+465,Inhibition of CYP1A2 in human liver microsomes using phenacetin substrate by LC-MS/MS method,CYP1A2,,,,phenacetin,,,LC-MS/MS method,human liver microsomes,human liver,True
+466,Cytotoxicity against CHO cells transfected with CYP1A1 assessed as growth inhibition after 96 hrs by MTT assay,CHO cells transfected with CYP1A1,after 96 hrs,,,,,,MTT assay,transfected CHO cells,CHO cells transfected with CYP1A1,False
+467,Inhibition of human CYP1B1 bound to yeast microsomal membrane using 7-ethoxyresorufin as substrate after 10 mins by fluorescence assay,human CYP1B1,after 10 mins,,,7-ethoxyresorufin,,,fluorescence assay,bound to yeast microsomal membrane,human,True
+468,Inhibition of recombinant human CYP1A2 expressed in baculovirus infected insect cells using 7-ethoxyresorufin as substrate preincubated for 5 mins followed by NADPH addition and measured after 35 mins by EROD assay,recombinant human CYP1A2,"preincubated for 5 mins, measured after 35 mins",,,7-ethoxyresorufin,,NADPH,EROD assay,expressed in baculovirus infected insect cells,baculovirus infected insect cells,True
+469,Antiproliferative activity against CHO cells expressing CYP1A1 assessed as growth inhibition after 96 hrs by MTT assay,CHO cells expressing CYP1A1,after 96 hrs,,,,,,MTT assay,expressing CHO cells,CHO cells expressing CYP1A1,False
+470,Inhibition of recombinant human CYP1A1 expressed in yeast cells using 7-ethoxyresorufin/3-cyano-7-ethoxycoumarin as substrate by fluorescence assay,recombinant human CYP1A1,,,,7-ethoxyresorufin/3-cyano-7-ethoxycoumarin,,NADPH,fluorescence assay,expressed in yeast cells,yeast cells,True
+471,Time dependent inhibition of CYP3A4 in human liver microsomes preincubated for 30 mins,CYP3A4,preincubated for 30 mins,,,,,,,,human liver,True
+472,Inhibition of CYP3A4 (unknown origin) using testosterone as marker substrate,CYP3A4,,,,testosterone,,,,unknown origin,unknown origin,True
+473,Inhibition of recombinant CYP2C19,recombinant CYP2C19,,,,,,,,recombinant human,recombinant human,True
+474,50% inhibitory concentration of competitive binding against hCyp-18 PPIase activity using uncoupled assay,hCyp-18 PPIase,,,,,,,uncoupled assay,,,False
+475,Inhibition of human CYP2C9 using tolbutamide as substrate by LC/MS/MS analysis,human CYP2C9,,,,tolbutamide,,,LC/MS/MS analysis,human liver microsomes,human liver,True
+476,Inhibition Assays: Inhibition of CYP isozymes was determined using a mixture of probe substrates... measured by LC/MS/MS.,Various CYP isozymes,,,,,,,LC/MS/MS,,,True
+477,Reversible inhibition of CYP1A2 (unknown origin) using phenacetin as substrate by LC-MS/MS analysis,CYP1A2,,,,phenacetin,,,LC-MS/MS analysis,unknown origin,unknown origin,True
+478,Inhibition of human CYP2D6 by radiometric assay,human CYP2D6,,,,,,,radiometric assay,by LC-MS/MS,human recombinant,True
+479,Inhibition of human recombinant CYP3A4 using 7-BQ as substrate preincubated for 5 to 10 mins before substrate addition,human recombinant CYP3A4,preincubated for 5 to 10 mins,,,7-BQ,,,,,human recombinant,True
+480,Inhibition of recombinant CYP2D6,recombinant CYP2D6,,,,,,,,insect microsomes,insect microsomes,True
+481,Inhibition of SCD in human NCI-H2122 cells expressing CYP4F11 assessed as reduction in cell viability incubated for 96 hrs by cell titer Glo reagent based assay,human NCI-H2122 cells expressing CYP4F11,incubated for 96 hrs,,,,,,cell titer Glo reagent based assay,expressing human NCI-H2122 cells,human NCI-H2122 cells expressing CYP4F11,True
+482,Inhibition of human CYP3A4 using BFC substrate by fluorescence assay,human CYP3A4,,,,BFC,,,fluorescence assay,,recombinant human,True
+483,Inhibition of CYP2D6 receptor (unknown origin),CYP2D6,,,,,,,,unknown origin,unknown origin,True

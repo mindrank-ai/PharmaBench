@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+301,Protein binding in hamster plasma at 2 uM after 4 to 6 hrs by LC-MS/MS analysis,Hamster Plasma,2 uM,4 to 6 hrs,LC-MS/MS,,True
+302,"Plasma protein binding in CD1 mouse at 5 mg/kg, po by LC-MS/MS analysis",CD1 Mouse Plasma,5 mg/kg,,LC-MS/MS,,True
+303,Protein binding in human plasma at 10 uM after 4 hrs by equilibrium dialysis method,Human Plasma,10 uM,4 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+304,Plasma protein binding in human at 5 uM,Human Plasma,5 uM,,,,True
+305,Protein binding in human plasma by HPLC analysis,Human Plasma,,,HPLC,,True
+306,Protein binding in rat plasma by equilibrium dialysis,Rat Plasma,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+307,Plasma protein binding in monkey incubated for 5 hrs by LC-MS analysis,Monkey Plasma,,5 hrs,LC-MS,,True
+308,Protein binding to human plasma at 30 to 1000 ng/ml after 2 to 6 hrs by LC-MS/MS based rapid equilibrium dialysis method,Human Plasma,30 to 1000 ng/ml,2 to 6 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+309,Protein binding in rat plasma at 5 uM after 4 hrs by LC-MS/MS based equilibrium dialysis method,Rat Plasma,5 uM,4 hrs,LC-MS/MS,Equilibrium Dialysis,True
+310,Protein binding in mouse plasma at 1 uM after 6 hrs by UPLC-MS/MS based equilibrium dialysis method,Mouse Plasma,1 uM,6 hrs,UPLC-MS/MS,Equilibrium Dialysis,True
+311,Protein binding in dog plasma by rapid equilibrium dialysis method,Dog Plasma,,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+312,Plasma protein binding in rat relative to control,Rat Plasma,,,,,True
+313,Protein binding in human plasma by rapid equilibrium dialysis method,Human Plasma,,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+314,Protein binding in rat plasma by rapid equilibrium dialysis method,Rat Plasma,,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+315,Protein binding in monkey serum,Monkey Serum,,,,,True
+316,"Plasma protein binding in Beagle dog at 1 mg/kg, iv",Beagle Dog Plasma,1 mg/kg,,LC-MS/MS,,True
+317,Protein binding in mouse plasma at 0.5 to 50 uM after 4 hrs by LC-MS/MS analysis,Mouse Plasma,0.5 to 50 uM,4 hrs,LC-MS/MS,,True
+318,Protein binding in monkey plasma at 10 uM after 4 hrs by LC-MS/MS analysis,Monkey Plasma,10 uM,4 hrs,LC-MS/MS,Equilibrium Dialysis,True
+319,"Plasma protein binding in cynomolgus monkey at 1 mg/kg, iv",Cynomolgus Monkey Plasma,1 mg/kg,,LC-MS/MS,,True
+320,Plasma protein binding in mouse by LC-MS/MS based equilibrium dialysis,Mouse Plasma,,,Equilibrium Dialysis,Equilibrium Dialysis,True

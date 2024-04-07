@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+220,Permeability from basolateral to apical side of MDCK2 cells over expressing MDR1 at 5 uM in presence LSN335984 pretreated for 30 mins measured after 1 hr,MDCK2 MDR1,,basolateral to apical,,5 uM with LSN335984 pretreated 30 mins after 1 hr,False
+221,Permeability from basolateral to apical side of MDCK2 cells over expressing MDR1 at 5 uM after 1 hr,MDCK2 MDR1,,basolateral to apical,,5 uM after 1 hr,False
+222,Passive permeability of the compound in RRCK cells,RRCK,,,,,False
+223,Permeability of the compound assessed as membrane/plate retention at 10 uM after 5 hrs by LC-MS detection based PAMPA method,PAMPA,,membrane/plate retention,,10 uM after 5 hrs,False
+224,Permeability of compound at pH 7.4 incubated for 2 hrs by PAMPA assay,PAMPA,,,7.4,incubated for 2 hrs,False
+225,Permeability of the compound incubated for 8 hrs by PAMPA-TGI assay,PAMPA-TGI,,,,incubated for 8 hrs,False
+226,Permeability of the compound in pH 7.4 buffer at 100 uM measured after 4 hrs by sandwich-PAMPA,sandwich-PAMPA,,,7.4,100 uM after 4 hrs,False
+227,Permeability in RRCK cells measured up to 1.5 hrs,RRCK,,,,measured up to 1.5 hrs,False
+228,Permeability of the compound in pH 7.4 buffer after 4 hrs by PAMPA,PAMPA,,,7.4,after 4 hrs,False
+229,Permeability of the compound at pH 7.4 measured for 4 hrs by UV plate reader based PAMPA assay,PAMPA,,,7.4,measured for 4 hrs,False
+230,Permeability of compound in human Caco-2 cells,human Caco-2,,,,,False
+231,Permeability of the compound at pH 7.4 by PAMPA-BBB assay,PAMPA-BBB,,,7.4,,True
+232,Permeability of the compound at 100 uM up to 6 hrs by PAMPA,PAMPA,,,,100 uM up to 6 hrs,False
+233,Permeability of the compound at 25 ug/ml by PAMPA-BBB assay,PAMPA-BBB,,,,25 ug/ml,True
+234,Permeability of compound in PBS at pH 7.4 after 18 hrs by PAMPA,PAMPA,,,7.4,in PBS after 18 hrs,False
+235,Permeability of the compound in aqueous buffer at pH 6.5 incubated for 2 hrs by PAMPA based HPLC analysis,PAMPA,,,6.5,incubated for 2 hrs,False
+236,Passive permeability from apical to basolateral side of dog RRCK cells,dog RRCK,,apical to basolateral,,,False
+237,Permeability across porcine brain lipid layer after 240 mins by PAMPA-BBB assay,PAMPA-BBB,,,,after 240 mins,True
+238,Permeability across apical to basolateral side in MDCK cells at 20 uM,MDCK,,apical to basolateral,,20 uM,False
+239,Permeability across apical to basal side in human MDCK-MDR1 cells at 10 uM measured after 1 hr by chromatographic method,human MDCK-MDR1,,apical to basal,,10 uM after 1 hr,False

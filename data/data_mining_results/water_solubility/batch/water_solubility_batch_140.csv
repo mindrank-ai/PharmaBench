@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+60,GSK_TB: Kinetic solubility of the compound in phosphate buffered saline at pH 7.4 after 1 hr by CLND method,7.4,phosphate buffered saline,1 hr,CLND method,,True
+61,Solubility of the compound in water at pH 7.4,7.4,water,,,,True
+62,Kinetic solubility in HEPES buffer containing 5% DMSO at pH 8 incubated for 20 hrs by NMR analysis,8.0,HEPES buffer containing 5% DMSO,20 hrs,NMR analysis,,True
+63,Kinetic solubility of the compound in pH 7.4 solution at 10 to 220 uM after 2 hrs by shake flask method,7.4,,2 hrs,shake flask method,,True
+64,Thermodynamic solubility of compound at pH 7.4,7.4,,,,,True
+65,Kinetic aqueous solubility of the compound in pH 7.4 PBS buffer by UV/Visible absorbance analysis,7.4,PBS buffer,,UV/Visible absorbance analysis,,True
+66,Solubility of the compound in simulated gastric fluid,,simulated gastric fluid,,,,True
+67,Solubility of compound in phosphate buffered saline at pH 7.4,7.4,phosphate buffered saline,,,,True
+68,Aqueous solubility of the compound at pH 7.4 by turbidimetric method,7.4,,,turbidimetric method,,True
+69,Equilibrium thermodynamic aqueous solubility of the compound in pH 6.8 buffer incubated for 24 hrs by UV-spectroscopy based shake flask method,6.8,pH 6.8 buffer,24 hrs,UV-spectroscopy based shake flask method,,True
+70,Kinetic solubility in FaSSIF at pH 6.5 after 2 hours at 25 degC by shake flask method,6.5,FaSSIF,2 hours at 25 degC,shake flask method,25 degC,True
+71,Solubility of the compound in pH 7.4 PBS buffer,7.4,PBS buffer,,,,True
+72,Aqueous solubility of the compound in phosphate buffer at pH 7.4 after 24 hrs,7.4,phosphate buffer,24 hrs,,,True
+73,Kinetic aqueous solubility of the compound by CLND method,,,,CLND method,,True
+74,Water solubility of the compound,,water,,,,True
+75,Solubility of the compound in phosphate buffer at pH 6.5,6.5,phosphate buffer,,,,True
+76,Equilibrium thermodynamic aqueous solubility of the compound at 0.5 to 5 mg after 2 to 24 hrs by shake flask method,,,2 to 24 hrs,shake flask method,,True
+77,Aqueous solubility of the compound at pH 2.2 incubated for 24 hrs under shaking condition by LC-UV analysis,2.2,,24 hrs,LC-UV analysis,,True
+78,Solubility in sodium phosphate buffer at pH 7.4 at 1 mg incubated for 24 hrs by triple quadrupole mass spectrometry,7.4,sodium phosphate buffer,24 hrs,triple quadrupole mass spectrometry,,True
+79,Aqueous kinetic solubility of the compound in phosphate buffered saline at pH 6.5 after 20 hrs by HPLC-DAD-based shake flask method,6.5,phosphate buffered saline,20 hrs,HPLC-DAD-based shake flask method,,True

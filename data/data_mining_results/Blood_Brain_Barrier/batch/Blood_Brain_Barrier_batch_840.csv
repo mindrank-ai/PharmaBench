@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+780,Permeability across human PBMC at 1 uM,human PBMC,,permeability assessment,,1 uM,False
+781,Permeability from apical to basolateral side of in P-glycoprotein-mediated MDCK cells over expressing human MDR1 assessed as cell retention at 10 uM after 2 hrs,MDCK human MDR1,,apical to basolateral cell retention,,10 uM after 2 hrs,False
+782,Permeability from apical to basolateral side of in wild type MDCK cells assessed as adsorption on transwell at 10 uM after 2 hrs,MDCK wild type,,apical to basolateral adsorption,,10 uM after 2 hrs,False
+783,Permeability from basolateral to apical side of in wild type MDCK cells assessed as adsorption on transwell at 10 uM after 2 hrs,MDCK wild type,,basolateral to apical adsorption,,10 uM after 2 hrs,False
+784,Permeability from basolateral to apical side in MDCK cells overexpressing human MDR1 assessed as adsorption on transwell at 10 uM after 2 hrs,MDCK human MDR1,,basolateral to apical adsorption,7.4,10 uM,False
+785,Permeability across apical to basolateral side in dog MDCK-MDR1 cells,dog MDCK-MDR1,,apical to basolateral,,1 uCi/ml measurement every 20 mins,False
+786,Permeability from basolateral to apical side in human Caco2 cells at 1 uCi/ml measured every 20 mins for 2 hrs,human Caco2,,basolateral to apical measurement,pH 7.4,2 uM after 3 hrs,False
+787,Apparent permeability from apical to basolateral side of MDCK2 cells at 2 uM after 3 hrs,MDCK2,,apical to basolateral apparent,,,False
+788,Passive permeability across apical to basolateral side in human Caco2 cells,human Caco2,,passive apical to basolateral,,pH 7.4 drug flux,False
+789,Permeability of the compound at pH 7.4 assessed as drug retention by PAMPA assay,PAMPA,,drug retention at pH 7.4,7.4,,False
+790,"In vitro blood brain barrier permeability across human HBEC5i cells growing in human brain astrocyte conditioned medium forming tight monolayer expressing tight junction protein, ZO-1 and P-gp at 250 uM measured after 120 mins incubation by fluorescence spectrophotometry",human HBEC5i BBB model,,BBB permeability fluorescence spectrophotometry,,250 uM after 120 mins,True
+791,Permeability from basolateral to apical side in MDCK2-MDR1 cells at 5 uM in presence of 4.3 mg/ml BSA and in presence of P-gp inhibitor LSN335984 by mass spectrometry,MDCK2-MDR1,,basolateral to apical with BSA and P-gp inhibitor,,5 uM with BSA and P-gp inhibitor,False
+792,Permeability from apical to basal side across human Caco2 cells,human Caco2,,apical to basal permeability,,,False
+793,Permeability from apical to basolateral side in MDCK2-MDR1 cells at 5 uM in presence of 4.3 mg/ml BSA and in absence of P-gp inhibitor LSN335984 by mass spectrometry,MDCK2-MDR1,,apical to basolateral with BSA absence of P-gp inhibitor,,5 uM with BSA absence of P-gp inhibitor,False
+794,Permeability of the compound at pH 5 to 7.4 by PAMPA,PAMPA,,pH 5 to 7.4 permeability,5 to 7.4,,False
+795,Permeability in human Caco2 cells assessed as compound recovery from apical to basal,human Caco2,,compound recovery apical to basal,,,False
+796,"Permeability from apical to basolateral side of human Caco2 cells at compound, Lipoid S100 and vitamin E-TPGS ratio 1:1:1",human Caco2,,apical to basolateral ratio,,compound to Lipoid S100 and vitamin E-TPGS ratio,False
+797,Permeability of the compound assessed as membrane retention by PAMPA,PAMPA,,membrane retention assessment,,,False
+798,Apparent permeability by PAMPA method,PAMPA,,apparent permeability,,,False
+799,Permeability from basolateral to apical side of dog MDCK cells expressing MDR1,dog MDCK MDR1,,basolateral to apical in MDR1 expression,,,False

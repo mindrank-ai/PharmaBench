@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"n-Octanol-PBS buffer partition coefficient, log D of the compound at 370 kBq after 3 mins at pH 7.4",7.4,,n-octanol-PBS buffer,,3 mins,,True
+2,"Octanol-phosphate buffer partition coefficient, log D of the compound at pH 7.4 after 30 mins by HPLC analysis",7.4,HPLC,octanol-phosphate buffer,,30 mins,,True
+3,"Lipophilicity, log D in octanol buffer at pH 7.4",7.4,,octanol buffer,,,,True
+4,"Octanol-phosphate buffer apparent partition coefficient, log D of the compound at pH 7.4 by GLC analysis",7.4,GLC,octanol-phosphate buffer,,,,True
+5,Partition coefficient in octanol-buffer at a pH 7.4,7.4,,octanol-buffer,,,,True
+6,"Octanol-phosphate buffer partition coefficient, log D of the compound by shake-flask method",7.4,shake flask,octanol-phosphate buffer,,,shake flask,True
+7,"n-Octanol-buffer distribution coefficient, log D of the compound at pH 7.4 after 1 hr by shake flask method",7.4,shake flask,n-octanol-buffer,,1 hr,shake flask,True
+8,"n-Octanol-buffer distribution coefficient, log D of the compound at pH 5.5 after 1 hr by shake flask method",5.5,shake flask,n-octanol-buffer,,1 hr,shake flask,True
+9,"Octanol-aqueous phosphate buffer distribution coefficient, log D of the compound at pH 7.4 at 100 mM after 24 hrs by LC-MS based shake flask method",7.4,LC-MS,octanol-aqueous phosphate buffer,,24 hrs,shake flask,True
+10,"Lipophilicity, log D of the compound at pH 7.0 by HPLC analysis",7.0,HPLC,,,,,True
+11,"n-Octanol/sorensen buffer partition coefficient, log D of compound at 50 uM at pH 7 after 10 mins by shake-flask method",7.0,shake flask,n-octanol/sorensen buffer,,10 mins,shake flask,True
+12,Log P value was determined at pH 7.4 using correlation (HPLC) method.,7.4,HPLC,,,,,True
+13,"Partition co-efficient, log D of the compound at pH 7.4",7.4,,,,,,True
+14,"n-Octanol-buffer partition coefficient, log D of the compound at pH 7.4 by shake-flask method",7.4,shake flask,n-octanol-buffer,,1 hr,shake flask,True
+15,"Distribution coefficient, log D of the compound between n-octanol and PBS buffer at pH 7.4 incubated for 1 hr by shake flask method",7.4,shake flask,n-octanol and PBS buffer,,1 hr,shake flask,True
+16,"n-Octanol/PBS partition coefficient, logD of the compound at pH 7.4",7.4,,n-Octanol/PBS,,,,True
+17,Log P (Octanol:buffer pH 7.4),7.4,,Octanol:buffer,,,,True
+18,Log D value was measured in octanol/buffer (pH 7.5),7.5,,octanol/buffer,,,,True
+19,"Octanol-buffer partition coefficient, log D of the compound at pH 7.4 measured after 24 hrs by HPLC based shake flask assay",7.4,HPLC,octanol-buffer,,24 hrs,shake flask,True
+20,"Chromatographic hydrophobicity index, log D of the compound at pH 7.4 by RP-HPLC analysis",7.4,RP-HPLC,,,,,True

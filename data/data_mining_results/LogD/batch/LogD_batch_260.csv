@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Partition coefficient, log D of the compound at pH 7.4 by UV-HPLC analysis",7.4,UV-HPLC,,,,,True
+2,"Chromatographic hydrophobicity index, log D of the compound at pH 7 by HPLC/UV analysis",7.0,HPLC/UV,,,,,True
+3,"Lipophilicity, log D of compound at pH 7 by HPLC analysis",7.0,HPLC,,,,,True
+4,"Distribution coefficient, log D of the compound at pH 7.4 by chromatography",7.4,chromatography,,,,,True
+5,"Lipophilicity, logD of compound at pH 2 to 10.5 by reversed-phase HPLC",,reversed-phase HPLC,octanol and water,,,,True
+6,"Lipophilicity, logD of compound in 1-octanol and PBS mixture in pH 7.4 at 100 uM incubated for 24 under shaking condition by HPLC analysis",7.4,HPLC,1-octanol and PBS,,24 hours,shaking,True
+7,"1,9-decadiene/aqueous buffer solution partition coefficient, log D of the compound in PBS at pH 7.4 by shake flask method",7.4,shake flask,"1,9-decadiene/aqueous buffer",,,,True
+8,"Octanol-phosphate buffer partition coefficient, log D of the compound at pH 7.4 by LC/MS/UV analysis",7.4,LC/MS/UV,octanol-phosphate buffer,,,,True
+9,"Distribution coefficient, log D of the compound in PBS/n-octanol at pH 7.4 at 25 degC by HPLC method",7.4,HPLC,PBS/n-octanol,,,,True
+10,"Lipophilicity, logD of compound at pH 7.4 by UV-vis detection based HPLC analysis",7.4,UV-vis detection based HPLC,,,,,True
+11,"Lipophilicity, log D of the compound at pH 7.2",7.2,,,,,,True
+12,"Octanol-aqueous buffer distribution coefficient, log D of the compound at pH 7.4 by CAMDIS assay",7.4,CAMDIS,octanol-aqueous buffer,,,,True
+13,"Lipophilicity, log D of the compound in octanol-phosphate buffered saline at 100 uM after 12 hrs by shake flask method",7.4,shake flask,octanol-phosphate buffered saline,,12 hrs,shake flask,True
+14,"Partition coefficient, log D of the compound at pH 7.4 by chromatographic method",7.4,chromatography,,,,,True
+15,"Octanol-buffer partition co-efficient, log D of the compound at pH 7.4 after 30 mins by shake flask method",7.4,shake flask,octanol-buffer,,30 mins,shake flask,True
+16,"Octanol-water partition coefficient, log D of the compound",,,octanol-water,,,,True
+17,"Octanol-methanol partition coefficient, log D of the compound at pH 7.2 by RP-HPLC method",7.2,RP-HPLC,octanol-methanol,,,,True
+18,"Octanol-water distribution coefficient, Log D of the compound at pH 7.4 by RP-HPLC analysis",7.4,RP-HPLC,octanol-water,,,,True
+19,"Distribution coefficient, log D of the compound by HPLC method",,HPLC,,,,,True
+20,"Octanol-water distribution coefficient, logD of the compound at pH 7.4 by HPLC-based analysis",7.4,HPLC,octanol-water,,,,True

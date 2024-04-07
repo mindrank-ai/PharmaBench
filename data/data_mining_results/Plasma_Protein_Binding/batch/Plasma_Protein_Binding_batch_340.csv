@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+341,Protein binding in rat plasma at 1 uM after 4 hrs by LC-MS/MS analysis,Rat Plasma,1 uM,4 hrs,LC-MS/MS,,True
+342,Protein binding in dog plasma at 1 uM after 6 hrs by UPLC-MS/MS based equilibrium dialysis method,Dog Plasma,1 uM,6 hrs,UPLC-MS/MS,Equilibrium Dialysis,True
+343,Protein binding in dog plasma at 10 uM after 6 hrs by UPLC-MS/MS based equilibrium dialysis method,Dog Plasma,10 uM,6 hrs,UPLC-MS/MS,Equilibrium Dialysis,True
+344,Protein binding in Beagle dog plasma at 2 uM after 4 hrs by LC-MS/MS analysis,Beagle Dog Plasma,2 uM,4 hrs,LC-MS/MS,,True
+345,Protein binding in human plasma at 2 uM after 4 hrs by LC-MS/MS analysis,Human Plasma,2 uM,4 hrs,LC-MS/MS,,True
+346,Protein binding in mouse plasma at 1 uM,Mouse Plasma,1 uM,,,,True
+347,"Protein binding in ICR mouse brain at 5 mg/kg, po measured up to 24 hrs",ICR Mouse Brain,5 mg/kg,,,,False
+348,Protein binding in rat plasma at 1 uM by equilibrium dialysis,Rat Plasma,1 uM,,Equilibrium Dialysis,Equilibrium Dialysis,True
+349,"Protein binding in human at 0.4 g, po bid",Human,0.4 g,,,,False
+350,Plasma protein binding Sprague-Dawley rat plasma at 5 uM incubated for 4 hrs,Sprague-Dawley Rat Plasma,5 uM,4 hrs,LC-MS/MS,,True
+351,"Protein binding in ICR mouse plasma at 5 mg/kg, po measured up to 24 hrs",ICR Mouse Plasma,5 mg/kg,,,,False
+352,Protein binding in mouse,Mouse,,,,,True
+353,Plasma protein binding in rat at 1 uM measured after 6 hrs LC-MS/MS analysis,Rat Plasma,1 uM,6 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+354,Protein binding in human plasma by chromatographic method,Human Plasma,,,Chromatographic Method,,True
+355,Protein binding in rat plasma at 5 mM after 6 hrs by LC-MS analysis,Rat Plasma,5 mM,6 hrs,LC-MS,,True
+356,Protein binding in human plasma at 10 uM after 6 hrs by UPLC-MS/MS based equilibrium dialysis method,Human Plasma,10 uM,6 hrs,UPLC-MS/MS,Equilibrium Dialysis,True
+357,Plasma protein binding in dog at 1 uM measured after 6 hrs LC-MS/MS analysis,Dog Plasma,1 uM,6 hrs,LC-MS/MS,,True
+358,Protein binding in human plasma by balanced dialysis method,Human Plasma,,,Balanced Dialysis,Balanced Dialysis,True
+359,Plasma protein binding in plasma,,,,,,True
+360,"Protein binding in cynomolgus monkey at 0.2 mg/kg, iv measured upto 72 hrs by LC-MS/MS analysis",Cynomolgus Monkey,0.2 mg/kg,,LC-MS/MS,Rapid Equilibrium Dialysis,True

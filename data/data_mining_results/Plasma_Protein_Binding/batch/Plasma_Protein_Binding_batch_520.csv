@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+501,Protein binding in human serum at 1 ug/ml measured after 4 hrs by equilibrium dialysis method,Human Serum,1 ug/ml,4 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+502,Plasma protein binding in mouse by ultracentrifugation,Mouse Plasma,,,Ultracentrifugation,,True
+503,"Plasma protein binding in Sprague-Dawley rat at 1 mg/kg, iv assessed as unbound fraction by ultracentrifugation method",Sprague-Dawley Rat Plasma,1 mg/kg,,Ultracentrifugation,Ultracentrifugation,True
+504,Plasma protein binding in Sprague-Dawley rat measured by rapid equilibrium dialysis method,Sprague-Dawley Rat Plasma,,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+505,"Protein binding in human plasma at 2 g, po",Human Plasma,2 g,,,,True
+506,"Protein binding in CD-1 mouse plasma at 30 mg/kg, po",CD-1 Mouse Plasma,30 mg/kg,,,,True
+507,Protein binding in cynomolgus monkey plasma fraction at 5 uM after 4.5 hrs LC-MS/MS-based rapid equilibrium dialysis method,Cynomolgus Monkey Plasma,5 uM,4.5 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+508,Protein binding in Sprague-Dawley rat serum at 1 ug/ml measured after 4 hrs by equilibrium dialysis method,Sprague-Dawley Rat Serum,1 ug/ml,4 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+509,Plasma protein binding in Beagle dog at 5 uM measured after 4 hrs by LC-MS/MS based rapid equilibrium dialysis method,Beagle Dog Plasma,5 uM,4 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+510,"Protein binding in Sprague-Dawley rat plasma at 1.8 mg/kg, iv administered as infusion for 10 mins by LC-MS analysis",Sprague-Dawley Rat Plasma,1.8 mg/kg,after 10 mins,LC-MS,,True
+511,Protein binding in Sprague-Dawley rat plasma by HPLC-UV/Vis detection-based equilibrium dialysis method,Sprague-Dawley Rat Plasma,,,HPLC-UV/Vis detection,Equilibrium Dialysis,True
+512,Plasma protein binding in mouse at 5 uM after 5 hrs by LC-MS/MS based equilibrium dialysis method,Mouse Plasma,5 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True
+513,Plasma protein binding of tritium labeled compound in mouse plasma was determined,Mouse Plasma,,,,,True
+514,Protein binding in (unknown origin) plasma,Unknown,,,,,True
+515,Plasma protein binding in Sprague-Dawley rat at 2 uM after 6 hrs by equilibrium dialysis method,Sprague-Dawley Rat Plasma,2 uM,6 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+516,Binding affinity to dog hemoglobin assessed as protein bound compound level at 1 uM,Dog Hemoglobin,1 uM,,,,True
+517,Protein binding in human plasma at 1 ug/ml after 4 hrs by LC-MS/MS method,Human Plasma,1 ug/ml,4 hrs,LC-MS/MS,Equilibrium Dialysis,True
+518,Protein binding in mouse plasma at 1 uM measured after 4 hrs by rapid equilibrium dialysis method,Mouse Plasma,1 uM,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+519,Protein binding in mouse plasma at 5 uM measured after 4 hrs by rapid equilibrium dialysis method,Mouse Plasma,5 uM,4 hrs,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+520,"Protein binding in beta lactamase-negative Haemophilus influenzae pharmacokinetic simulation model at simulated human serum concentration of 400 mg, po bid after 48 hrs",Human Serum,400 mg,48 hrs,,,True

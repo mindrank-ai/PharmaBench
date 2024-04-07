@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+161,Inhibition of human CYP11B2 expressed in hamster V79MZh11B2 cells,CYP11B2,,,,,,,,expressed in hamster V79MZh11B2 cells,human,True
+162,Inhibition of recombinant human CYP3A4 using 7-benzyloxy-trifluoromethylcoumarin as substrate preincubated for 10 mins followed by substrate addition and measured after 30 mins,CYP3A4,"preincubated for 10 mins, measured after 30 mins",,,7-benzyloxy-trifluoromethylcoumarin,,,,recombinant human,recombinant human,True
+163,Inhibition of CYP3A4 using 7-benzyloxyquinoline substrate,CYP3A4,,,,7-benzyloxyquinoline,,,,,human,True
+164,Inhibition of human recombinant CYP1A2 EROD activity expressed in Escherichia coli JM109 assessed as inhibition of de-ethylation of 7-ethoxyresorufin to resorufin by spectrofluorometric analysis,CYP1A2,,,,7-ethoxyresorufin,,,spectrofluorometric analysis,expressed in Escherichia coli JM109,recombinant human,True
+165,Inhibition of human recombinant CYP3A4 using 7-benzyloxyquinoline as substrate by fluorescence plate reader,CYP3A4,,,,7-benzyloxyquinoline,,,fluorescence plate reader,recombinant human,recombinant human,True
+166,Inhibition of human CYP11B1 expressed in hamster fibroblast using 100 nM [3H]-11-deoxycorticosterone as substrate after 25 mins by HPLC analysis,CYP11B1,after 25 mins,,,100 nM [3H]-11-deoxycorticosterone,,,HPLC,expressed in hamster fibroblast,human,True
+167,Inhibition of recombinant CYP3A4 expressed in baculovirus-infected insect microsomes,CYP3A4,,,,,,,,expressed in baculovirus-infected insect microsomes,recombinant,True
+168,Inhibition of human placental CYP19,CYP19,,,,,,,,human placental,human,True
+169,Inhibition of microsomal fraction of human CYP26B1 expressed in Sf9 cells using 9-cis-RA as substrate preincubated for 5 mins followed by NADPH addition measured after 5 mins by HPLC analysis in presence of rat P450 reductase,CYP26B1,"preincubated for 5 mins, measured after 5 mins",,,9-cis-RA,in presence of rat P450 reductase,NADPH,HPLC,expressed in Sf9 cells,human,True
+170,"Inhibition of human CYP11B1 expressed in hamster V79MZ cells using [1,2-3H]-11-deoxycorticosterone as substrate after 6 hrs by HPLC analysis",CYP11B1,after 6 hrs,,,"[1,2-3H]-11-deoxycorticosterone",,,HPLC,expressed in hamster V79MZ cells,human,True
+171,Inhibition of human hepatocyte microsome CYP3A4 using testosterone as substrate by HPLC/MS/MS method,CYP3A4,,,,testosterone,,,HPLC/MS/MS,human hepatocyte microsome,human,True
+172,Inhibition of human CYP3A4 assessed as rate of [14C]-formaldehyde/formic acid production by liquid scintillation counting,CYP3A4,,,,[14C]-formaldehyde/formic acid,,,liquid scintillation counting,,human,True
+173,Inhibition of human liver CYP1B1 expressed in Saccharomyces cerevisiae YY7 microsomal membranes using 7-ethoxyresorufin as substrate after 10 mins by fluorescence assay,CYP1B1,after 10 mins,,,7-ethoxyresorufin,,,fluorescence assay,expressed in Saccharomyces cerevisiae YY7 microsomal membranes,human liver,True
+174,Inhibition of human CYP11B1-8C7 expressed in Chinese hamster V79 cells using 11-deoxycortisol as substrate preincubated for 1 hr followed by substrate addition measured for 3 hrs by HTRF assay,CYP11B1-8C7,"preincubated for 1 hr, measured for 3 hrs",,,11-deoxycortisol,,,HTRF assay,expressed in Chinese hamster V79 cells,human,True
+175,Inhibition of CYP3A4 (unknown origin) by fluorescence assay,CYP3A4,,,,,,,fluorescence assay,unknown origin,unknown origin,True
+176,Inhibition of CYP2B6 (unknown origin),CYP2B6,,,,,,,,unknown origin,unknown origin,True
+177,Inhibition of CYP2D6 in human liver microsomes by LC-MS/MS analysis,CYP2D6,,,,,,,LC-MS/MS,human liver microsomes,human liver,True
+178,Inhibition of CYP24A1 expressed in CHO cells,CYP24A1,,,,,,,,expressed in CHO cells,expressed in CHO cells,True
+179,Inhibition of human CYP2D6 by fluorescence technique in presence of NADP,CYP2D6,in presence of NADP,,,,,NADP,fluorescence technique,expressed in Escherichia coli JM109,human,True
+180,Inhibition of human recombinant CYP2C19,CYP2C19,,,,,,,,recombinant human,recombinant human,True

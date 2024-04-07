@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Binding affinity to DOPC/DOPS large unilamellar vesicles assessed as blue shift at 100 uM by DAPI staining based fluorescence assay,100 uM,,,,DOPC/DOPS large unilamellar vesicles,False
+2,Mutagenic activity in Salmonella typhimurium TA98 at 5 to 400 ug/plate by Ames test,5 to 400 ug/plate,,,,Salmonella typhimurium TA98,True
+3,Genotoxicity in Salmonella typhimurium TA100 at 16 ug/plate by Ames test in presence of S9 fraction,16 ug/plate,,,presence of S9 fraction,Salmonella typhimurium TA100,True
+4,"Anticonvulsant activity in SwissRattus norvegicus albino (rat) assessed as protection against pentamethylene tetrazole-induced seizures at 5 mg/kg, ip administered for 15 min prior to pentamethylene tetrazole induction relative to placebo",5 mg/kg,,15 min prior to induction,,Swiss Rattus norvegicus albino,False
+5,Mutagenicity in Salmonella typhimurium TA1537 by Ames test,,,,,Salmonella typhimurium TA1537,True
+6,Mutagenicity in Salmonella typhimurium TA1535 by Ames test,,,,,Salmonella typhimurium TA1535,True
+7,Induction of mutagenesis in Salmonella Typhimurium by Ames test,,,,,Salmonella Typhimurium,True
+8,Geno-toxicity in human HeLa cells assessed as induction of DNA damage after 1 hr by alkaline comet assay,,,after 1 hr,,human HeLa cells,False
+9,Antiviral activity against Zika virus harboring subgenomic GFP replicon infected in African green monkey Vero cells assessed as reduction in viral infection treated 24 hrs post-infection and measured 72 hrs post-infection,,,"treated 24 hrs post-infection, measured 72 hrs post-infection",,African green monkey Vero cells,False
+10,Mutagenic activity in Salmonella Typhimurium TA102 preincubated for 20 to 30 mins,,,preincubated for 20 to 30 mins,,Salmonella Typhimurium TA102,True
+11,Binding affinity to EYPC/EYPG small unilamellar vesicles at 0.1 uM by tryptophan fluorescence quenching assay,0.1 uM,,,,EYPC/EYPG small unilamellar vesicles,False
+12,Vasoconstrictor activity in human relative to betamethasone valerate,,,,,human,False
+13,"Analgesic activity in rat model of spinal nerve ligation-induced neuropathic pain assessed as reduction in mechanical threshold for paw withdrawal at 100 mg/kg, po administered on day 14 after ligation surgery and measured 3 hrs post dose by Von Frey filaments based method",100 mg/kg,,"administered on day 14 after surgery, measured 3 hrs post dose",,rat,False
+14,Binding affinity to EYPC/cholesterol small unilamellar vesicles at 0.1 uM by tryptophan fluorescence quenching assay,0.1 uM,,,,EYPC/cholesterol small unilamellar vesicles,False
+15,Binding affinity to Escherichia coli large unilamellar vesicles assessed as reduction in blue shift at 10 uM by tryptophan fluorescence-based fluorometry,10 uM,,,,Escherichia coli large unilamellar vesicles,False
+16,Mutagenic activity in Salmonella TA 100 by microsome assay in presence of rat liver S9 fraction,,,,presence of rat liver S9 fraction,Salmonella TA 100,True
+17,"Inhibition of sterol biosynthesis in Leishmania mexicana amazonensis promastigotes assessed as reduction in endogenous cholesta-5,7,24-trien-3beta-ol level at 3 uM after 96 hrs by gas-liquid chromatography",3 uM,,after 96 hrs,,Leishmania mexicana amazonensis promastigotes,False
+18,Mutagenic activity in Salmonella Typhimurium TA100 assessed as number of spontaneous and drug-induced revertants after 48 hrs by Ames test,,,after 48 hrs,,Salmonella Typhimurium TA100,True
+19,Mutagenicity in Salmonella typhimurium LT2 TA1535 in absence of S9 microsomes by Ames test,,,,absence of S9 microsomes,Salmonella typhimurium LT2 TA1535,True
+20,Genotoxicity in human TK6 cells by micronucleus test,,,,,human TK6 cells,False

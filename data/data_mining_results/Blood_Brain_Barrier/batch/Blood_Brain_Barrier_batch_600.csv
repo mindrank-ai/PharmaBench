@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+580,Passive permeability of compound at 500 uM after 4 hrs by BBB-PAMPA,BBB-PAMPA,,passive permeability,,500 uM after 4 hrs,True
+581,Permeability across human Caco2 cells in presence of P-gp inhibitor Elacridor,human Caco2 with P-gp inhibitor,,permeability with P-gp inhibitor,,,False
+582,Permeability in MDCK cells at 10 uM,MDCK,,,,10 uM,False
+583,Tested for effective permeability across the rat intestinal membrane using mass balance analysis,,,effective permeability mass balance,,,False
+584,Permeability in human Caco2 cells at pH 7.4,human Caco2,,,7.4,,False
+585,Permeability in human Caco-2 cells assessed as passive diffusion after 3 hrs by HPLC,human Caco-2 HPLC,,passive diffusion,,after 3 hrs,False
+586,Permeability in LLC-PK1 cells at 1 uM incubated for 3 hrs by LC-MS/MS method,LLC-PK1 LC-MS/MS,,,,1 uM for 3 hrs,False
+587,Permeability across pig LLC-PK1 cell line overexpressing human MDR1 at 3 hrs by LC/MS analysis,pig LLC-PK1 human MDR1 LC/MS,,,,after 3 hrs,False
+588,Permeability of the compound at pH 7.4 at 10 uM by PAMPA,PAMPA,,,7.4,10 uM at pH 7.4,False
+589,Membrane permeability at pH 7.4 by PAMPA,PAMPA,,membrane permeability,7.4,at pH 7.4,False
+590,Permeability from apical to basolateral side of MDCK cells,MDCK,,apical to basolateral,,,False
+591,Apical to basal permeability in CaCo-2 cells,Caco-2,,apical to basal,,,False
+592,Permeability across artificial cell membrane,artificial cell membrane,,,,,False
+593,Permeability across apical to basolateral side in human Caco-2 cells at 10 uM incubated for 2 hrs by LC/MS/MS analysis,human Caco-2 LC/MS/MS,,apical to basolateral,,10 uM for 2 hrs,False
+594,Tested for the Caco-2 cell permeability,Caco-2,,,,,False
+595,Permeability across apical to basolateral side in MDCK cells,MDCK,,apical to basolateral,,,False
+596,Permeability of compounds was determined in Caco-2 cell monolayer permeability assay; (high),Caco-2 monolayer assay,,,,high permeability,False
+597,Permeability of the compound assessed as molar fraction in acceptor well at 0.5 mM measured after 16 hrs by PAMPA,PAMPA,,molar fraction in acceptor well,,0.5 mM after 16 hrs,False
+598,Permeability of the compound at pH 5.5 at 10 uM by PAMPA,PAMPA,,,5.5,10 uM at pH 5.5,False
+599,Permeability across basolateral to apical side in human Caco-2 cells at 10 uM measured after 90 mins by LC-MS/MS analysis,human Caco-2 LC-MS/MS,,basolateral to apical,,10 uM after 90 mins,False

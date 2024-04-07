@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Antiallodynic activity in carrageenan-induced Kunming mouse model of mechanical hyperalgesia administered as intrathecal injection after 10 to 90 mins in presence of NPFF receptor antagonist RF9 by Von Frey filament assay,,,after 10 to 90 mins,presence of NPFF receptor antagonist RF9,Kunming mouse,False
+2,Genotoxicity in Salmonella typhimurium TA98 at 1.5 to 50000 ug/plate in absence of rat liver S9 fraction by Ames test,1.5 to 50000 ug/plate,,,absence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+3,Genotoxicity in human A2780 cells assessed as induction of DNA damage after 1 hr under alkaline condition by comet assay,,,after 1 hr,,human A2780 cells,False
+4,Antimicrofilament activity in human HCT116 cells assessed as loss of microfilament at 5 uM by rhodamine-phalloidin staining,5 uM,,,,human HCT116 cells,False
+5,Antimicrofilament activity in human HCT116 cells assessed as loss of microfilament at 1 uM by rhodamine-phalloidin staining,1 uM,,,,human HCT116 cells,False
+6,Binding affinity to DOPG large unilamellar vesicle assessed as release of calcein at 1 mg/mL measured for 1 min by spectrophotometric analysis,1 mg/mL,,measured for 1 min,,DOPG large unilamellar vesicle,False
+7,Antifungal activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation in YEPD containing 10% serum medium at 100 uM incubated for 1 hr by microscopic analysis,100 uM,,incubated for 1 hr,,Candida albicans SC5314,False
+8,"Antiosteoporotic activity in glucocorticoid-induced Wistar rat osteoporosis model assessed as increase in trabecula thickness at 30 mg/kg/day, po administered six times a week for 3 months by toluidine blue staining-based light microscopic analysis relative to dexamethasone",30 mg/kg/day,,administered six times a week for 3 months,,Wistar rat,False
+9,Mutagenicity in Salmonella typhimurium TA1538 by Ames test,,,,,Salmonella typhimurium TA1538,True
+10,Genotoxicity against Escherichia coli PQ37 at 50 ug/disk,50 ug/disk,,,,Escherichia coli PQ37,False
+11,"Toxicity in Woodchuck hepatitis virus infected woodchuck assessed as effect on hematological parameters at 15 mg/kg, po qd for 48 weeks measured up to 60 weeks",15 mg/kg,,"measured for 48 weeks, up to 60 weeks",,Woodchuck hepatitis virus infected woodchuck,False
+12,Mutagenic activity in Salmonella Typhimurium TA100 by Biolum Ames test in presence of metabolizing enzyme,,,after 48 hrs,presence of metabolizing enzyme,Salmonella Typhimurium TA100,True
+13,Mutagenicity in Salmonella typhimurium TA1536 by Ames test in presence of S9 fraction,,,,presence of S9 fraction,Salmonella typhimurium TA1536,True
+14,Genotoxicity in human A2780 cells assessed as induction of DNA damage at 31 to 500 uM after 1 hr under pH 12.1 by comet assay,31 to 500 uM,,after 1 hr under pH 12.1,,human A2780 cells,False
+15,Genotoxicity in human A2780 cells assessed as induction of DNA damage at 31 to 500 uM after 1 hr under neutral conditions by comet assay,31 to 500 uM,,after 1 hr under neutral conditions,,human A2780 cells,False
+16,Geno-toxicity in human HeLa cells assessed as induction of DNA damage by measuring increase in single strand breaks after 1 hr by comet assay,,,after 1 hr,,human HeLa cells,False
+17,Mutagenicity in Escherichia coli WP2uvrA in absence of S9 fraction by Ames test,,,,absence of S9 fraction,Escherichia coli WP2uvrA,True
+18,Mutagenicity in Salmonella typhimurium TA1537 in absence of S9 fraction by Ames test,,,,absence of S9 fraction,Salmonella typhimurium TA1537,True
+19,Mutagenicity in Salmonella typhi by Ames test in presence of S4 fraction,,,,presence of S4 fraction,Salmonella typhi,True
+20,Genotoxicity in Salmonella typhimurium TA98,,,,,Salmonella typhimurium TA98,False

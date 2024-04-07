@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Mutagenic activity in Salmonella typhimurium TA100 at 0.312 to 5 mg/plate preincubated for 20 mins before addition in absence of liver S9 mixture,0.312 to 5 mg/plate,,preincubated for 20 mins,absence of liver S9 mixture,Salmonella typhimurium TA100,True
+2,Mutagenic activity in Salmonella typhimurium TA1535 at 0.312 to 5 mg/plate measured after incubation of upside down for 48 hrs in absence of liver S9 mixture,0.312 to 5 mg/plate,,48 hrs,absence of liver S9 mixture,Salmonella typhimurium TA1535,True
+3,Mutagenic activity in Salmonella typhimurium TA100 at 0.312 to 5 mg/plate measured after incubation of upside down for 48 hrs in presence of liver S9 mixture,0.312 to 5 mg/plate,,48 hrs,presence of liver S9 mixture,Salmonella typhimurium TA100,True
+4,Antiviral activity against Camelpox virus CML1 infected in HEL299 cells assessed as reduction in viral titer after 6 days postinfection by virus yield reduction assay,,,6 days postinfection,,HEL299 cells,False
+5,Genotoxicity in Salmonella typhimurium TA97a in presence of rat s9 fraction by Ames test,,,,presence of rat s9 fraction,Salmonella typhimurium TA97a,True
+6,Genotoxicity in Salmonella typhimurium TA102 in presence of rat liver S9 fraction by Ames test,,,,presence of rat liver S9 fraction,Salmonella typhimurium TA102,True
+7,Mutagenicity in Salmonella typhimurium TA98 assessed as increase in revertant colonies after 2 days in presence of rat liver S9 fraction by Ames test relative to control,,,after 2 days,presence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+8,Mutagenicity in Salmonella typhimurium TA98 at 0.06 to 5 ug/plate after 1 hr by Ames test in presence of S9 fraction,0.06 to 5 ug/plate,,after 1 hr,presence of S9 fraction,Salmonella typhimurium TA98,True
+9,Mutagenicity in Salmonella typhimurium TA98 at 0.06 to 5 ug/plate after 1 hr by Ames test in absence of S9 fraction,0.06 to 5 ug/plate,,after 1 hr,absence of S9 fraction,Salmonella typhimurium TA98,True
+10,Induction of mutagenesis in Salmonella typhimurium TA98 up to 5000 ug/plate by Ames test in presence of rat liver S9 fraction,up to 5000 ug/plate,,,presence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+11,Binding affinity to Streptomyces avidinii streptavidin at 4 mM using dye labeled Streptavidin binding aptamer by fluorescence spectral analysis method,4 mM,,,,Streptomyces avidinii,False
+12,Mutagenic activity in Salmonella Typhimurium by Ames assay,,,,,Salmonella Typhimurium,True
+13,Mutagenicity in Salmonella typhi by Ames test,,,,,Salmonella typhi,True
+14,Antiviral activity against Bovine viral diarrhea virus Oregon C24V genotype 1 subgenotype b assessed as reduction in viral RNA release at 50 uM by RT-PCR analysis,50 uM,,,,Bovine viral diarrhea virus Oregon C24V,False
+15,Mutagenicity in Salmonella typhimurium TA102 assessed as increase in revertant colonies after 2 days in presence of rat liver S9 fraction by Ames test relative to control,,,after 2 days,presence of rat liver S9 fraction,Salmonella typhimurium TA102,True
+16,Mutagenicity in Salmonella typhimurium TA100 in presence of rat liver S9 fraction by AMES test,,,,presence of rat liver S9 fraction,Salmonella typhimurium TA100,True
+17,Effect on early endosome parameters in Parkinson's disease patient derived human ONS cells at 10 uM after 24 hrs by EEA1 staining based fluorescence assay,10 uM,,24 hrs,,Parkinson's disease patient derived human ONS cells,False
+18,Binding affinity to bacterial membrane mimic POPG large unilamellar vesicle assessed as hyperchromic shift at 125 uM measured after 1 hr by UV-Vis spectrophotometric analysis,125 uM,,after 1 hr,,POPG large unilamellar vesicle,False
+19,Mutagenicity in Salmonella typhimurium TA1535 in presence of rat liver S9 fraction by AMES test,,,,presence of rat liver S9 fraction,Salmonella typhimurium TA1535,True
+20,Spermicidal activity in human semen assessed as induction of spermatozoa immotility at 0.1% w/v by Sander-Cramer method,0.1% w/v,,,,human semen,False

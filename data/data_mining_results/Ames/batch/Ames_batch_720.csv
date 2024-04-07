@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,"Inhibition of sterol biosynthesis in Leishmania mexicana amazonensis promastigotes assessed as reduction in endogenous cholesta-5,7,24-trien-3beta-ol level at 1 uM after 96 hrs by gas-liquid chromatography",1 uM,,incubated for 48 hrs,,Candida albicans ATCC SC5314,False
+2,Mutagenicity in Escherichia coli WP2 uvrA at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,after 2 to 3 days,absence of rat liver S9 fraction,Escherichia coli WP2 uvrA,True
+3,"Increase in human IgG catabolism in endogenous FcRn/beta2m gene knockout TG32B transgenic mouse harboring human FcRn at 1 mg/kg, iv QD for 4 consecutive days measured after 24 hrs by ELISA",1 mg/kg,,,,TG32B transgenic mouse harboring human FcRn,False
+4,Antimutagenic activity against aflatoxin B1-induced Salmonella typhimurium TA102 mutagenesis assessed as reduction in His+ revertants after 48 hrs by microscopy in presence of S9 liver homogenate,,,,presence of S9 liver homogenate,Salmonella typhimurium TA102,True
+5,Mutagenic activity in Salmonella typhimurium TA98 at 10 to 100 uM by ames test in presence of S9 mixture,10 to 100 uM,,,presence of S9 mixture,Salmonella typhimurium TA1535,True
+6,Antifungal activity against Cryptococcus neoformans (Sanfelice) Vuillemin ATCC 90112 assessed as diameter of inhibition zone at 20 ug/disk after 48 to 72 hrs by paper disk assay,20 ug/disk,,after 48 to 72 hrs,,Cryptococcus neoformans (Sanfelice) Vuillemin ATCC 90112,False
+7,Antimicrofilament activity in human HCT116 cells assessed as complete loss of microfilament network at 0.01 uM to 5 uM by rhodamine-phalloidin staining,0.01 uM to 5 uM,,,,human HCT116 cells,False
+8,Antimicrofilament activity in human HCT116 cells assessed as total loss of microfilament network at 1 uM by rhodamine-phalloidin staining,1 uM,,,,human HCT116 cells,False
+9,Genotoxicity against CHO cells,,,,,CHO cells,False
+10,Genotoxicity in mouse L5178Y cells after 23 hrs in absence of S9 fraction by micronucleus test,,,after 23 hrs,,mouse L5178Y cells,False
+11,Binding affinity to GST-tagged HPV16 major capsid protein L1 pentamer formation at 1:100 ratio of pentamer to compound by CD spectroscopy method,1:100 ratio,,,,,False
+12,Upregulation of porin expression in BCAEC at EC50 after 48 hrs by Western blot analysis in presence of L-NAME,,,,presence of L-NAME,BCAEC,False
+13,Genotoxicity in Salmonella typhimurium TA98 at 1.5 to 1000 ug/well in absence of rat liver S9 fraction by mini-Ames test,1.5 to 1000 ug/well,,after 90 mins,absence of S9 fraction,Salmonella typhimurium TA98,True
+14,Mutagenicity in Salmonella typhimurium TA100 at 30 to 5000 ug incubated for 48 hrs in presence of liver S9 fraction by AMES test,30 to 5000 ug,,incubated for 48 hrs,presence of liver S9 fraction,Salmonella typhimurium TA100,True
+15,Mutagenic activity in Salmonella typhimurium TA98 at 10 to 100 uM by ames test,10 to 100 uM,,,presence of S9 mixture,Salmonella typhimurium TA98,True
+16,Mutagenicity in Salmonella typhimurium TA1535/TA1538 assessed as revertant colonies/plate in presence of rat liver S9 fraction at 10 ug/spot after 2 to 3 days by Ames test,10 ug/spot,,after 2 to 3 days,presence of rat liver S9 fraction,Salmonella typhimurium TA1535/TA1538,True
+17,Induction of membrane permeabilization in PC/cholesterol large unilamellar vesicles assessed as blue shift by Tryptophan fluorescence spectroscopy,,,,,PC/cholesterol large unilamellar vesicles,False
+18,Mutagenic activity in Salmonella typhimurium TA100 at 10 to 100 uM by ames test,10 to 100 uM,,,presence of S9 fraction,Salmonella typhimurium TA100,True
+19,Induction of disorganization of actin filaments in human MDA-MB-231 cells assessed as decrease in F-actin staining intensity near cell membrane at 10^-6 M by phalloidin staining,10^-6 M,,,,human MDA-MB-231 cells,False
+20,Mutagenic activity in micronucleus (unknown origin),,,,,Salmonella Typhimurium,False

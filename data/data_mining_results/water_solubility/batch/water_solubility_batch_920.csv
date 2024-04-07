@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+820,Solubility of compound in pH 6.5 FASSIF at 2 mg measured for 5 to 60 mins by by UV spectroscopic method,6.5,FASSIF,5 to 60 mins,UV spectroscopic method,,True
+821,Water solubility of the compound at 1 mg incubated for 12 hrs under shaking condition by UV-HPLC analysis,,water,12 hrs,UV-HPLC analysis,,True
+822,Solubility of compound in JP 1st fluid at pH 1.2,1.2,JP 1st fluid,,,,True
+823,Kinetic solubility of the compound at pH 7 by UPLC/UV method,7.0,,,UPLC/UV method,,True
+824,Solubility of the compound in PBS at pH 2,2.0,PBS,,,,True
+825,Kinetic solubility of the compound in phosphate buffer at pH 6.5 after 30 mins by nephelometry,6.5,phosphate buffer,30 mins,nephelometry,,True
+826,Prodrug solubility in capmul,,capmul,,,,True
+827,Kinetic aqueous solubility of the compound by CAD or CLND method,,,,CAD or CLND method,,True
+828,Solubility of compound by high throughput assay,,,,high throughput assay,,True
+829,Solubility in 0.05 M phosphate buffer at 200 uM at pH 7.4 after 15 mins by HPLC,7.4,phosphate buffer,15 mins,HPLC,,True
+830,Aqueous solubility of the compound in 0.01M HCl at pH 2 by nephelometry,2.0,0.01M HCl,,nephelometry,,True
+831,Solubility in phosphate buffer at pH 2.5,2.5,phosphate buffer,,,,True
+832,Solubility in phosphate buffer at pH 5.5,5.5,phosphate buffer,,,,True
+833,Aqueous solubility of the compound at pH 2 measured after 4 hrs by HPLC/UV analysis,2.0,None,4 hrs,HPLC/UV analysis,,True
+834,Kinetic solubility of compound in PBS at pH 6.5 by nephelometric analysis,6.5,PBS,,nephelometric analysis,,True
+835,Solubility of the compound in PBS at pH 7.4 at RT,7.4,PBS,RT,,room temperature,True
+836,Kinetic solubility of compound in HCL at pH 2 by nephelometric analysis,2.0,HCl,,nephelometric analysis,,True
+837,Solubility of the compound in DMSO at RT,,DMSO,RT,,room temperature,True
+838,Aqueous solubility at pH 7 at 25 degreeC,7.0,aqueous,,,25 degreeC,True
+839,Thermodynamic solubility in pH 7.4 phosphate buffer incubated for 6 hrs followed by further incubation for 18 hrs with shaking by UV-HPLC analysis,7.4,phosphate buffer,24 hrs,UV-HPLC analysis,,True

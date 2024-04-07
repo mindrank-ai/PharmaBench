@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in human TK6 cells in absence of rat liver S9 fraction by micronucleus test,,,for 3 days,presence of rat liver S9 fraction,nitroreductase deficient Salmonella typhimurium TA100NR,True
+2,Inhibition of Bacillus anthracis anthrax protective antigen heptamer pre-pore to pore conversion in CMG2-expressing CHO cells,,,,,Salmonella typhimurium TA100,True
+3,Antimutagenic activity against PhIP-induced Salmonella typhimurium TA98 mutagenesis preincubated at 0.01 to 10 umol/plate for 25 mins by Ames test in presence of S9 liver homogenate relative to control,0.01 to 10 umol/plate,,for 25 mins,,Cynodon dactylon,False
+4,Binding affinity to multilamellar vesicles of DPPC at 1:10 to 1:2 drug to lipid molar ratio at 323 K by [31P]-NMR spectroscopic analysis,1:10 to 1:2 drug to lipid molar ratio,323 K,,,Salmonella typhimurium TA100,True
+5,Mutagenicity in Salmonella typhimurium TA1538 by Ames test in presence of S9 fraction,,,after 72 hrs,presence of S9 fraction,Salmonella typhimurium TA97,True
+6,Antifungal activity against Candida albicans 7N assessed as diameter of inhibition zone up to 100 ug/disk after 48 to 72 hrs by paper disk assay,up to 100 ug/disk,,after 48 to 72 hrs,,Candida albicans 7N,False
+7,Mutagenicity in Salmonella typhimurium TA97A at 2.5 mM after 1 hr by Ames test in presence of S9 fraction,2.5 mM,,after 1 hr,presence of S9 fraction,Salmonella typhimurium TA97A,True
+8,Mutagenicity in Salmonella typhi by Ames test in absence of S4 fraction,,,,,Salmonella typhi,True
+9,Induction of rabbit GAPDH tetramer segregation into monomers at 10 uM after 30 mins by SDS-PAGE,10 uM,,after 30 mins,,rabbit GAPDH,False
+10,Mutagenicity in Salmonella typhimurium TA97 at 0.5 to 500 ug/plate in absence of S9 fraction after 72 hrs by Ames test,0.5 to 500 ug/plate,,after 72 hrs,absence of S9 fraction,Salmonella typhimurium TA97,True
+11,Mutagenicity in Swiss albino mouse at 100 mg/kg after 30 hrs by micronucleus test,100 mg/kg,,after 30 hrs,,Swiss albino mouse,True
+12,Genotoxicity in Salmonella typhimurium in presence of S9 fraction by Ames test,,,,presence of S9 fraction,Salmonella typhimurium,False
+13,Mutagenicity in Salmonella typhimurium TA1535 at 0.5 to 500 ug/plate after 72 hrs in presence of S9 fraction by Ames test,0.5 to 500 ug/plate,,after 72 hrs,presence of S9 fraction,Salmonella typhimurium TA1535,True
+14,Mutagenicity in Salmonella typhimurium TA100 at 0.5 to 500 ug/plate after 72 hrs in presence of S9 fraction by Ames test,0.5 to 500 ug/plate,,after 72 hrs,presence of S9 fraction,Salmonella typhimurium TA100,True
+15,Induction of mutagenesis in Salmonella Typhimurium TA1537 by ames test,,,,,Salmonella Typhimurium TA1537,True
+16,Increase in blood pressure in hexamethonium bromide-pretreated anesthetized dog at 0.3 to 0.6 mg/kg,0.3 to 0.6 mg/kg,,,,anesthetized dog,False
+17,Mutagenic activity in Salmonella Typhimurium TM677 at 2.5 to 5.0 mg/mL in presence of Aroclor 1254 pretreated rat S9 liver homogenate by forward mutation assay,2.5 to 5.0 mg/mL,,,presence of Aroclor 1254 pretreated rat S9 liver homogenate,Salmonella Typhimurium TM677,False
+18,Antibacterial activity against Staphylococcus aureus ATCC 6538P assessed as inhibition zone diameter after 24 hrs by agar diffusion method,,,after 24 hrs,,Staphylococcus aureus ATCC 6538P,False
+19,Binding affinity to TTR K15A mutant tetramer in human plasma assessed as covalent chemoselective amide bond formation with residue-15 of TTR subunit at 7.2 uM after 18 hrs by RP-HPLC analysis,7.2 uM,,after 18 hrs,,TTR K15A mutant tetramer in human plasma,False
+20,Antiproliferative activity against human Jurkat T cells assessed as DNA content up to 100 uM after 72 hrs in presence of exogenous uridine by Hoechst 33258 dye based fluorometric method,up to 100 uM,,after 72 hrs,,human Jurkat T cells,False

@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+600,Permeability across apical side at pH 6.5 to basolateral side at pH 7.4 in human Caco2 cells at 10 uM,human Caco2,,apical pH 6.5 to basolateral pH 7.4,apical 6.5 and basolateral 7.4,10 uM,False
+601,Permeability across apical to basolateral side in human Caco-2 cells at 10 uM measured after 90 mins by LC-MS/MS analysis,human Caco-2 LC-MS/MS,,apical to basolateral,,10 uM after 90 mins,False
+602,Permeability of the compound from apical to basal side of human Caco2 cells,human Caco2,,apical to basal,,,False
+603,Permeability in Caco-2 Cell monolayers for the compound,Caco-2 monolayers,,permeability assay,,,False
+604,Permeability of the compound assessed as molar fraction in donor well at 0.5 mM measured after 16 hrs by PAMPA,PAMPA,,assessed as molar fraction in donor well,,0.5 mM after 16 hrs,False
+605,Permeability of the compound at pH 5.5 by PAMPA method,PAMPA,,,5.5,,False
+606,Permeability of the compound in PRISMA HT buffer at pH 7.4 at 10 umol/L incubated for 3 hrs by PAMPA based LC/MS/MS analysis,PAMPA LC/MS/MS PRISMA HT,,,7.4,10 umol/L for 3 hrs,False
+607,Permeability across Caco-2 cells from apical to basolateral side,Caco-2,,apical to basolateral,,,False
+608,Permeability in MDCK2 cells at 1 uM incubated for 3 hrs by LC-MS/MS method,MDCK2 LC-MS/MS,,,,1 uM for 3 hrs,False
+609,Permeability from basolateral to apical side in human Caco cells,human Caco,,basolateral to apical,,,False
+610,Permeability of compound assessed as compound mass retention after 5 hrs by PAMPA,PAMPA,,mass retention,,after 5 hrs,False
+611,Permeability from apical to basolateral side in dog MDCK cells,dog MDCK,,apical to basolateral,,,False
+612,Permeability from apical to basolateral side of the human Caco-2 membrane,human Caco-2,,apical to basolateral,,,False
+613,Permeability of the compound at 100 ug/ml measured after 18 hrs by PAMPA assay,PAMPA,,,,100 ug/ml after 18 hrs,False
+614,Blood brain permeability of the compound at donor and acceptor pH 7.4 by PAMPA,PAMPA BBB,,BBB permeability,donor and acceptor 7.4,,True
+615,Permeability from apical to basal side of MDCK cells,MDCK,,apical to basal,,,False
+616,Drug transport assessed as P-glycoprotein-mediated basolateral to apical permeability,cell-based P-gp-mediated transport assay,,P-gp mediated transport,,,False
+617,Permeability of the compound after 2 hrs at pH 6.5 by PAMPA,PAMPA,,,6.5,after 2 hrs,False
+618,Apparent permeability from apical to basolateral side in human Caco-2 cells,human Caco-2,,apparent permeability,,,False
+619,Permeability of compound assessed as compound level in donor plate after 5 hrs by PAMPA,PAMPA,,compound level in donor plate,,after 5 hrs,False

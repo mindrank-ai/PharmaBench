@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,Partition coefficient (logD7.5),7.5,,,,,,True
+2,"Octanol-water partition coefficient, log D at pH 7.4",7.4,,octanol-water,,,,True
+3,"Lipophilicity, log D of the compound by shake flask technique",,shake flask,,,,shake flask,True
+4,"Lipophilicity, log D of compound at pH 7.4 by gradient HPLC analysis",7.4,gradient HPLC,,,,,True
+5,"Lipophilicity, log D of the compound at pH 7.4 after 30 mins by shake-flask method",7.4,shake-flask,,,30 mins,shake-flask,True
+6,"Lipophilicity, log D of the compound at pH 6.5 by HPLC analysis",6.5,HPLC,,,,,True
+7,"Lipophilicity, log D of the compound in pH 7.4 phosphate buffer after 90 mins by LC-MS analysis",7.4,LC-MS,phosphate buffer,,90 mins,,True
+8,"Lipophilicity, log D at pH 7.4 by shake-flask method",7.4,shake-flask,,,,shake-flask,True
+9,"Distribution coefficient, logD of compound by HPLC analysis",,HPLC,,,,,True
+10,"Lipophilicity, logD of compound at pH 7.4 by retention time-based reverse phase chromatographic analysis",7.4,reverse phase chromatography,,,,,True
+11,"Octanol/water partition coefficient, log D of compound at pH 7.4 by shake-flask method",7.4,shake-flask,octanol/water,,,shake-flask,True
+12,"Octanol-phosphate buffer distribution coefficient, log D of the compound at pH 7.4 by LC/MS analysis",7.4,LC/MS,octanol-phosphate buffer,,,,True
+13,"1-Octanol-phosphate buffer partition coefficient, log D of the compound at pH 7.4 by HPLC system",7.4,HPLC,1-octanol-phosphate buffer,,,,True
+14,"Octanol-phosphate buffer partition co-efficient, log D of the compound at 10 uM at pH 7.4 after 3 hrs by shake flask method",7.4,shake flask,octanol-phosphate buffer,,3 hrs,shake flask,True
+15,"Lipophilicity, log D of the compound in 1-octanol and PBS mixture in pH 7.4 incubated for 1 hr under shaking condition by LC-MS/MS analysis",7.4,LC-MS/MS,1-octanol and PBS,,1 hr,shaking,True
+16,"1-Octanol-sodium citrate buffer distribution coefficient, log D of the compound at pH 5.5 by shake-flask method",5.5,shake-flask,1-octanol-sodium citrate buffer,,,shake-flask,True
+17,"Chromatographic hydrophobicity index, logD of the compound at pH 7.4 by HPLC analysis",7.4,HPLC,,,,,True
+18,"Lipophilicity, log D of the compound at 100 uM at pH 7 by HPLC/DAD analysis",7.0,HPLC/DAD,,,,,True
+19,"1-Octanol-water distribution coefficient, log D of the compound at pH 7.4 by shake-flask method",7.4,shake-flask,1-octanol-water,,,shake-flask,True
+20,"1-octanol/aqueous buffer solution partition coefficient, log D of the compound at pH 7.4 by UV-HPLC method",7.4,UV-HPLC,1-octanol/aqueous buffer,,,,True

@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+420,Permeability in plasma,,,,,in plasma,False
+421,Permeability across human Caco-2 cell membrane at pH 6.5,human Caco-2,,,6.5,,False
+422,Membrane permeability at pH 6.5 by PAMPA,PAMPA,,,6.5,,False
+423,Permeability from apical to basolateral side in human Caco2 cells at 100 uM incubated for 120 mins by LC-MS/MS method,human Caco2,,apical to basolateral,,100 uM for 120 mins,False
+424,Permeability of the compound at 150 uM by PAMPA,PAMPA,,,,150 uM,False
+425,Permeability of the compound at 1 mg/ml after 4 hrs by PAMPA,PAMPA,,,,1 mg/ml for 4 hrs,False
+426,Permeability by PAMPA assay at pH 7.4,PAMPA,,,7.4,,False
+427,Permeability of compound at pH 7.4 measured after 4 hrs by PAMPA assay,PAMPA,,,7.4,after 4 hrs,False
+428,Apparent effective permeability by PAMPA method,PAMPA,,apparent effective permeability,,,False
+429,Permeability by PAMPA assay at pH 6.2,PAMPA,,,6.2,,False
+430,Permeability across apical to basolateral side in human Caco2 cells at 50 uM incubated for 120 mins by LC/MS analysis,human Caco2,,apical to basolateral,,50 uM for 120 mins,False
+431,Permeability of compound across apical to basolateral side in dog wild type MDCK cells,dog MDCK,,apical to basolateral,,,False
+432,Permeability from basal to apical side of human Caco2 cells,human Caco2,,basal to apical,,,False
+433,Permeability of the compound at pH 4 by PAMPA,PAMPA,,,4,,False
+434,Apparent permeability across apical to basolateral side in MDCK cells,MDCK,,apical to basolateral,,,False
+435,Passive permeability of the compound in MDCK2-MDR1 cells at 5 uM after 1 hr in presence of LSN 335984,MDCK2-MDR1,,passive permeability,,5 uM after 1 hr with LSN 335984,False
+436,Permeability by PAMPA assay at pH 5.0,PAMPA,,,5.0,,False
+437,Permeability at pH 5.5 by LC/MS method based PAMPA method,LC/MS PAMPA,,,5.5,,False
+438,Permeability of the compound at pH 5.0 by PAMPA,PAMPA,,,5.0,,False
+439,Permeability of compound across basolateral to apical side in dog wild type MDCK cells,dog MDCK,,basolateral to apical,,,False

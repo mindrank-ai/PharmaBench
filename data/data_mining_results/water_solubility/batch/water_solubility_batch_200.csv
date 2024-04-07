@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+120,Solubility of the compound in FaSSIF at pH 6.5 measured after 4 hrs by HPLC-UV analysis,6.5,FaSSIF,4 hrs,HPLC-UV analysis,,True
+121,Thermodynamic solubility of the compound in 0.1M aqueous phosphate buffer at pH 7.4 after 24 hrs by LC-UV analysis,7.4,0.1M aqueous phosphate buffer,24 hrs,LC-UV analysis,,True
+122,Solubility of the compound in 0.1 M sodium phosphate buffer at pH 7.4,7.4,0.1 M sodium phosphate buffer,,,,True
+123,Solubility in pH 7.4 phosphate buffer solution at 100 uM after 24 hrs by HPLC method,7.4,phosphate buffer solution,24 hrs,HPLC method,,True
+124,Aqueous solubility in PBS pH 7.4 incubated for 24 hrs by nephelometry,7.4,PBS,24 hrs,nephelometry,,True
+125,Solubility in fasted state simulated intestinal fluid at pH 6.8,6.8,fasted state simulated intestinal fluid,,,,True
+126,Aqueous solubility of compound in at pH 7.4 by high throughput assay,7.4,,,high throughput assay,,True
+127,Aqueous solubility of compound in pH 6.5 PBS incubated for 2 hrs under shaking condition by shake-flask method based HPLC-DAD analysis,6.5,PBS,2 hrs,shake-flask method based HPLC-DAD analysis,,True
+128,Aqueous solubility of compound in pH 2 0.01M HCl incubated for 2 hrs under shaking condition by shake-flask method based HPLC-DAD analysis,2.0,0.01M HCl,2 hrs,shake-flask method based HPLC-DAD analysis,,True
+129,Aqueous solubility of the compound in 0.1 M phosphate buffer after 18 hrs,,0.1 M phosphate buffer,18 hrs,,,True
+130,Kinetic solubility of compound in PBS,,PBS,,,,True
+131,Solubility of the compound in pH 6.5 FaSSIF at 125 ug/ml measured after 16 hrs by HPLC analysis,6.5,FaSSIF,16 hrs,HPLC analysis,,True
+132,Kinetic solubility of the compound at pH 7.4 at room temperature,7.4,,room temperature,,room temperature,True
+133,Thermodynamic solubility in 50 mM aqueous phosphate buffer of pH 9.9 at 22.5 degC by HPLC analysis,9.9,50 mM aqueous phosphate buffer,22.5 degC,HPLC analysis,22.5 degC,True
+134,Aqueous solubility at pH 6.8,6.8,,,,,True
+135,Aqueous solubility at pH 7.0,7.0,,,,,True
+136,Aqueous solubility of the compound at pH 7.4 at 200 uM after 90 mins by UV-spectrophotometric method,7.4,,90 mins,UV-spectrophotometric method,,True
+137,Kinetic aqueous solubility of the compound in PBS by chemiluminescent nitrogen detection method,,PBS,,chemiluminescent nitrogen detection method,,True
+138,Solubility of compound in PBS at pH 6.5 incubated for over night by HPLC-UV based lyophilization solubility assay,6.5,PBS,overnight,HPLC-UV based lyophilization solubility assay,,True
+139,Kinetic solubility of the compound in pH 7.4 phosphate buffered saline measured after 1 hr,7.4,phosphate buffered saline,1 hr,,,True

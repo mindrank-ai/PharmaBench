@@ -1,0 +1,41 @@
+index,original_sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+0,Permeability of the compound by PAMPA,None,None,PAMPA,None,None,False
+1,Permeability of the compound at pH 7.4 by PAMPA,None,None,PAMPA,7.4,None,False
+2,SUPPLEMENTARY: PAMPA permeability assay,None,None,PAMPA,None,None,False
+3,Permeability of compound by PAMPA assay,None,None,PAMPA assay,None,None,False
+4,Permeability from apical to basolateral side in human Caco2 cells,Caco2,None,apical to basolateral,None,None,False
+5,Permeability across apical to basolateral side in human Caco2 cells,Caco2,None,apical to basolateral,None,None,False
+6,Permeability across human Caco2 cells,Caco2,None,None,None,None,False
+7,Permeability from basolateral to apical side in human Caco2 cells,Caco2,None,basolateral to apical,None,None,False
+8,Permeability at pH 7.4 by PAMPA method,None,None,PAMPA,7.4,None,False
+9,Permeability in human Caco2 cells,Caco2,None,None,None,None,False
+10,Permeability from apical to basolateral side of human Caco2 cells,Caco2,None,apical to basolateral,None,None,False
+11,Permeability of the compound at pH 7.4 by PAMPA assay,None,None,PAMPA,7.4,None,False
+12,Permeability of the compound by PAMPA method at pH 7.4,None,None,PAMPA,7.4,None,False
+13,Permeability of the compound at pH 7.4 after 30 mins by PAMPA,None,None,PAMPA,7.4,after 30 mins,False
+14,Membrane permeability by PAMPA,None,None,PAMPA,None,None,False
+15,Membrane permeability by PAMPA assay,None,None,PAMPA,None,None,False
+16,Permeability of compound by PAMPA,None,None,PAMPA,None,None,False
+17,Permeability of compound by PAMPA-BBB assay,None,None,PAMPA-BBB,None,None,True
+18,Passive transcellular permeability of the compound at pH 4 by PAMPA,None,None,PAMPA,4,None,False
+19,Passive transcellular permeability of the compound at pH 7.4 by PAMPA,None,None,PAMPA,7.4,None,False
+20,Permeability of compound at pH 7.4 by PAMPA assay,None,None,PAMPA,7.4,None,False
+21,Permeability across human Caco-2 cells,Caco-2,None,None,None,None,False
+22,Permeability of compound,None,None,None,None,None,False
+23,Permeability across basolateral to apical side in human Caco2 cells,Caco2,None,basolateral to apical,None,None,False
+24,Permeability from apical to basolateral side in human Caco-2 cells,Caco-2,None,apical to basolateral,None,None,False
+25,Permeability of the compound by PAMPA assay,None,None,PAMPA,None,None,False
+26,Permeability of the compound,None,None,None,None,None,False
+27,Permeability of the compound at pH 7.4 incubated for 30 mins by UV plate reader based PAMPA assay,None,None,UV plate reader based PAMPA,7.4,incubated for 30 mins,False
+28,Permeability of the compound by PAMPA assay at pH 7.4,None,None,PAMPA,7.4,None,False
+29,Permeability in RRCK cells,RRCK,None,None,None,None,False
+30,Permeability of compound at pH 7.4 by PAMPA,None,None,PAMPA,7.4,None,False
+31,Permeability in MDCK cells,MDCK,None,None,None,None,False
+32,Permeability across apical to basolateral side in human Caco2 cells measured up to 2 hrs by LC-MS/MS analysis or scintillation counting method,Caco2,None,"LC-MS/MS analysis, scintillation counting",None,measured up to 2 hrs,False
+33,Passive permeability in MDCK cells at 2 uM after 90 mins by LC-MS/MS analysis,MDCK,None,LC-MS/MS,None,"2 uM, after 90 mins",False
+34,Apparent permeability of compound at pH 7.4 by artificial membrane permeability assay,None,None,artificial membrane permeability assay,7.4,None,False
+35,Permeability across Caco-2 cell membrane,Caco-2,None,None,None,None,False
+36,Permeability of the compound at pH 5.5 by PAMPA,None,None,PAMPA,5.5,None,False
+37,Permeability of the compound by PAMPA-BBB assay,None,None,PAMPA-BBB,None,None,True
+38,Permeability of the compound at pH 5.5 by PAMPA assay,None,None,PAMPA,5.5,None,False
+39,Permeability of the compound at 10 uM by PAMPA,None,None,PAMPA,None,10 uM,False

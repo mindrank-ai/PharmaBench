@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Lipophilicity, log D of the compound in octanol/pH 7.4 PBS vortex at 1 uCi for 5 mins and repeated for 4 times by gamma counter method",7.4,gamma counter,octanol/pH 7.4 PBS,,"5 mins, repeated 4 times",vortex,True
+2,Compound was evaluated for partition coefficient using chloroform/buffer at pH 7.4 and 254 nm,7.4,,chloroform/buffer,,,,True
+3,"1-octanol-water partition coefficient, log D of the compound",,,1-octanol-water,,,,True
+4,"Octanol-water distribution coefficient, log D of the compound",,,octanol-water,,,,True
+5,"Octanol-buffer partition co-efficient, log D of the compound at 100 uM at pH 7.4 by shake-flask method",7.4,shake flask,octanol-buffer,,,shake flask,True
+6,"1-octanol/water partition coefficient, logD of the compound at pH 7.4 measured after 6 hrs by shake flask technique based HPLC-UV analysis",7.4,HPLC-UV,1-octanol/water,,6 hrs,shake flask,True
+7,Partition coefficient was determined in octanol-phosphate at pH 6.5,6.5,,octanol-phosphate,,,,True
+8,"n-octanol/aqueous buffer distribution coefficient, log D of compound at pH 7.4 by HPLC analysis",7.4,HPLC,n-octanol/aqueous buffer,,,,True
+9,Distribution coefficient at PH 7.4 was determined,7.4,,,,,,True
+10,The apparent partition coefficient(D) in n-octanol-0.05 M phosphate buffer (pH 7.4) at 21 degree celsius.,7.4,,n-octanol-0.05 M phosphate buffer,,,,True
+11,"Octanol-PBS buffer partition coefficient, log D of the compound at pH 7.4",7.4,,octanol-PBS buffer,,,,True
+12,"Octanol/water partition coefficient, logD of the compound at pH 7.4 by shake flask method",7.4,shake flask,octanol/water,,,shake flask,True
+13,"Octanol-water partition coefficient, log D of the compound at pH 7.4 by gamma counter",7.4,gamma counter,octanol-water,,,,True
+14,"n-Octanol-Tris/phosphoric acid buffer buffer distribution coefficient, log D of the compound at pH 7.4 shaken for 30 mins and measured after 24 hrs by UV-HPLC method",7.4,UV-HPLC,n-octanol-Tris/phosphoric acid buffer,,"30 mins, measured after 24 hrs",shaken,True
+15,Compound was evaluated for partition coefficient using chloroform/buffer at pH 7.4 and 280 nm,7.4,,chloroform/buffer,,,,True
+16,"Lipophilicity, log D of the compound by chromatographic hydrophobicity index assay",,chromatographic hydrophobicity index,,,,,True
+17,Partition coefficient in octanol/water at pH 7.5 buffer.,7.5,,octanol/water,,,,True
+18,"Octanol-saline distribution coefficient, log D at pH 7.4",7.4,,octanol-saline,,,,True
+19,"Lipophilicity, logD of the compound at pH 7",7.0,,,,,,True
+20,"Octanol-water distribution coefficient, Log D of the compound at pH 7.4 by shake flask method",7.4,shake flask,octanol-water,,,shake flask,True

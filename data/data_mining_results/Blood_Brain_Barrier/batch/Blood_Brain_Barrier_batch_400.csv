@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+380,Permeability of the compound incubated for 10 hrs by PAMPA,PAMPA,,,,incubated for 10 hrs,False
+381,Basolateral to apical fluxes across Caco-2 cell monolayers at 37 degree Celsius was studied.,Caco-2,37 degree Celsius,basolateral to apical fluxes,,,False
+382,Apparent permeability across basolateral side to apical side in human Caco-2 cells at 5 uM after 2 hrs by transwell assay,human Caco-2,,apparent permeability basolateral to apical,,5 uM after 2 hrs,False
+383,Mean apparent permeability through fuzzy rat skin,,,mean apparent permeability,,,False
+384,Permeability of the compound measured at 18 hrs by PAMPA,PAMPA,,,,measured at 18 hrs,False
+385,Permeability of compound incubated for 2 hrs by liquid chromatography analysis,,,,,incubated for 2 hrs,False
+386,Permeability across apical to basolateral side MDR1-expressing MDCK cells,MDCK MDR1,,apical to basolateral,,,False
+387,Permeability across basolateral to apical side MDR1-expressing MDCK cells,MDCK MDR1,,basolateral to apical,,,False
+388,Permeability across basal to apical side in human Caco-2 cells measured at 0.5 to 2 hrs by LC-MS analysis,human Caco-2,,basal to apical,,measured at 0.5 to 2 hrs,False
+389,Permeability of the compound from apical to basolateral side in human Caco2 cells at 10 uM,human Caco2,,apical to basolateral,,10 uM,False
+390,Permeability across apical to basolateral side in human Caco2 cells at 50 uM after 120 mins by LC/MS analysis,human Caco2,,apical to basolateral,,50 uM after 120 mins,False
+391,Permeability through isolated albino rabbit cornea,,,permeability,,,False
+392,Permeability of the compound after 18 hrs by PAMPA assay,PAMPA,,,,after 18 hrs,False
+393,Permeability of the compound at pH 7.4 measured after 30 mins by PAMPA based LC/MS analysis,PAMPA,,,7.4,after 30 mins,False
+394,Permeability from basolateral to apical side of human Caco2 cells at 10 uM after 30 to 90 mins by LC-MS/MS analysis,human Caco2,,basolateral to apical,,10 uM after 30 to 90 mins,False
+395,Permeability of the compound from basolateral to apical side in human Caco2 cells at 10 uM,human Caco2,,basolateral to apical,,10 uM,False
+396,Permeability coefficient of the compound at pH 7.4 by double-sink PAMPA,double-sink PAMPA,,permeability coefficient,7.4,,False
+397,Permeability of the compound assessed as MDR1-passive permeability by cell based assay,,,MDR1-passive permeability,,,False
+398,Permeability of the compound in PBS/EtOH buffer (7:3) at 25 ug/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,25 ug/ml after 18 hrs,True
+399,Permeability of the compound at donor pH 5.0 and acceptor pH 7.4 by PAMPA,PAMPA,,permeability donor pH 5.0 and acceptor pH 7.4,donor 5.0 and acceptor 7.4,,False

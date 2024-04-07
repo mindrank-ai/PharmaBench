@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+680,Permeability determined,,,Permeability determined,,,False
+681,Permeability of compound at 100 uM at pH 7.4 by PAMPA assay,PAMPA,,,7.4,100 uM,False
+682,Permeability of the compound at pH 7.4 at 2.5 uL incubated for 3 hrs under shaking condition by HPLC method,,,,7.4,2.5 uL under shaking condition,False
+683,Permeability across apical to basolateral side in human Caco2 cells measured at 120 mins by LC-MS/MS analysis,human Caco2 LC-MS/MS,,apical to basolateral,,at 120 mins,False
+684,Permeability from basolateral to apical side of MDCK cells,MDCK,,basolateral to apical,,,False
+685,Permeability from basolateral to apical side of MDCK2 cells expressing MDR1,MDCK2 MDR1,,basolateral to apical,,,False
+686,Permeability of the compound across apical to basolateral side in human Caco-2 cells at 25 uM incubated for 2 hrs by LC/MS/MS analysis,human Caco-2 LC/MS/MS,,apical to basolateral,,25 uM incubated for 2 hrs,False
+687,Permeability across serosal to mucosal side in human Caco2 cells,human Caco2,,serosal to mucosal,,,False
+688,Passive permeability in MDCK cells expressing human MDR1,MDCK human MDR1,,passive permeability,,,False
+689,Permeability from basolateral to apical side in human Caco2 cells at 5 uM after 90 mins,human Caco2,,basolateral to apical,,5 uM after 90 mins,False
+690,Permeability in PBS at pH 7.4 at 100 uM incubated for 5 hrs at room temperature by UPLC/MS analysis based PAMPA method,PAMPA UPLC/MS,room temperature,,7.4,100 uM for 5 hrs,False
+691,Permeability from apical to basolateral side in MDCK cells expressing MDR1 at 10 uM incubated at 37 degC for 90 mins by LC/MS/MS method,MDCK MDR1 LC/MS/MS,37 degC,apical to basolateral,,10 uM for 90 mins,False
+692,Maximum permeability flux through hairless mouse skin assessed as theophylline flux through skin from applied topically as suspension in isopropyl myristate,,,maximum permeability flux,,topically applied,False
+693,Permeability of the compound measured on donor plate of PAMPA membrane at 50 uM after 1 hr by HPLC analysis,PAMPA HPLC donor plate,,,,50 uM after 1 hr,False
+694,Permeability of the compound at pH 7.4 assessed as membrane retention at 500 uM incubated for 5 hrs by PAMPA based UV/LC-MS analysis,PAMPA UV/LC-MS,,membrane retention,7.4,500 uM incubated for 5 hrs,False
+695,Permeability of the compound at 150 uM after 18 hrs by PAMPA,PAMPA,,,,150 uM after 18 hrs,False
+696,Absorptive transport in Caco-2 cells in comparison to metoprolol,Caco-2 comparative,,absorptive transport comparison to metoprolol,,,False
+697,Permeability coefficient of the compound in PBS buffer incubated for 5 hrs by PAMPA-based LC-MS analysis,PAMPA LC-MS,,permeability coefficient,,,False
+698,Permeability from basolateral to apical side in MDCK cells harboring MDR1,MDCK MDR1,,basolateral to apical,,,False
+699,Permeability across pig LLC-PK1 cells at 5 uM after 2 hrs by LC-MS analysis,pig LLC-PK1 LC-MS,,,,5 uM after 2 hrs,False

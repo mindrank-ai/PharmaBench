@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,Water Solubility
+0,Thermodynamic solubility of the compound at pH 6.8,6.8,,,thermodynamic solubility,,True
+1,DNDI: Solubility in phosphate buffered saline at pH7.4 measured by nephelometry at room temperature (NEPH-RT),7.4,phosphate buffered saline,,nephelometry,room temperature,True
+2,Solubility (phosphate buffered saline),,phosphate buffered saline,,,,True
+3,Solubility of the compound at pH 6.5,6.5,,,,,True
+4,Solubility of the compound in FaSSIF,,FaSSIF,,,,False
+5,Solubility in PBS at pH 7.4,7.4,PBS,,,,True
+6,Solubility of the compound in simulated intestinal fluid,,simulated intestinal fluid,,,,False
+7,Solubility of the compound in phosphate-buffered saline at pH 7.4,7.4,phosphate-buffered saline,,,,True
+8,Solubility at pH 7,7.0,,,,,True
+9,Kinetic solubility of compound in in PBS buffer at pH 7.4 by HPLC analysis,7.4,PBS buffer,,HPLC analysis,,True
+10,Solubility of the compound in pH 6.5 phosphate buffer containing 5% DMSO,6.5,phosphate buffer containing 5% DMSO,,,,True
+11,Solubility was determined,,,,,,True
+12,Aqueous solubility at pH 6.5,6.5,aqueous,,,,True
+13,Kinetic solubility of compound at pH 2,2.0,,,kinetic solubility,,True
+14,Thermodynamic solubility of compound in water measured after 15 mins RP-HPLC analysis,,water,15 mins,RP-HPLC analysis,,True
+15,Aqueous solubility of the compound by HPLC analysis,,aqueous,,HPLC analysis,,True
+16,Aqueous solubility of the compound at pH 7.4 by HPLC analysis,7.4,aqueous,,HPLC analysis,,True
+17,Solubility in culture medium in presence of 5% fetal calf serum,,culture medium in presence of 5% fetal calf serum,,,,False
+18,Aqueous thermodynamic solubility of the compound in pH 6.8 solution up to 4 hrs by HPLC-UV analysis,6.8,aqueous,up to 4 hrs,HPLC-UV analysis,,True
+19,Thermodynamic solubility of the compound in aqueous phosphate buffer at pH 7.4 measured after 20 to 24 hrs by LC/MS/MS analysis,7.4,aqueous phosphate buffer,20 to 24 hrs,LC/MS/MS analysis,,True

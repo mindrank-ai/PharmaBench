@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+520,Solubility in artificial intestinal fluid at pH 6.8,6.8,artificial intestinal fluid,,,,True
+521,Solubility of the compound in phosphate buffer at pH 6.8 by HPLC analysis,6.8,phosphate buffer,,HPLC analysis,,True
+522,Kinetic solubility in FaSSIF at pH 6.5,6.5,FaSSIF,,,,True
+523,Solubility in sodium phosphate buffer at pH 3 at 1 mg incubated for 24 hrs by triple quadrupole mass spectrometry,3.0,sodium phosphate buffer,24 hrs,triple quadrupole mass spectrometry,,True
+524,Solubility in phosphate buffer at pH 7.2 after 24 hrs by shake flask method,7.2,phosphate buffer,24 hrs,shake flask method,,True
+525,Solubility of the compound in Japanese Pharmacopoeia First Fluid of pH 6.8 by HPLC,6.8,Japanese Pharmacopoeia First Fluid,,HPLC,,True
+526,Solubility against bovine trypsin,,,,,,True
+527,Aqueous solubility of the compound in PBS buffer at pH 7.4 after 24 hrs by HPLC analysis,7.4,PBS buffer,24 hrs,HPLC analysis,,True
+528,Solubility in phosphate buffer at pH 6.5,6.5,phosphate buffer,,,,True
+529,Solubility in artificial gastric fluid at pH 1.2,1.2,artificial gastric fluid,,,,True
+530,Kinetic aqueous solubility of the compound in phosphate buffer at pH 7.4 by CLND assay,7.4,phosphate buffer,,CLND assay,,True
+531,Aqueous solubility in PBS at pH 7.4,7.4,PBS,,,,True
+532,Solubility in phosphate buffered saline at pH 7,7.0,phosphate buffered saline,,,,True
+533,Aqueous solubility at pH 7.2,7.2,aqueous,,,,True
+534,Aqueous solubility of the compound in phosphate buffer at pH 7.4 incubated for 24 hrs by LC/MS/MS method,7.4,phosphate buffer,24 hrs,LC/MS/MS method,,True
+535,Solubility of the compound in phosphate buffer at pH 7.4 after 24 hrs by HPLC analysis,7.4,phosphate buffer,24 hrs,HPLC analysis,,True
+536,Kinetic aqueous solubility of compound in pH 7.4 phosphate buffer at 100 uM incubated for 1 hr under shaking condition by LC-MS/MS analysis,7.4,phosphate buffer,1 hr,LC-MS/MS analysis,,True
+537,Solubility in Japanese pharmacopeia first fluid at pH 1.2 HPLC method,1.2,Japanese pharmacopeia first fluid,,HPLC method,,True
+538,Aqueous solubility of the compound at pH 1.2,1.2,aqueous,,,,True
+539,Solubility of compound in PBS containing 1 % DMSO at pH 7.4,7.4,PBS containing 1 % DMSO,,,,True

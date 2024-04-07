@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,Clearance in mouse liver microsomes preincubated for 10 mins followed by NADP addition measured up to 30 mins by LC-MS/MS analysis,none,up to 30 mins,NADP,liver,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+1,Clearance in mouse liver microsomes at 1 uM incubated for 60 mins followed by NADPH generating system addition and measured by LC-MS/MS analysis,1 uM,60 mins,NADPH generating system,liver,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+2,Intrinsic clearance in rat microsomes assessed as compound disappearance at 1 uM preincubated for 5 mins followed by NADPH addition measured after 5 to 30 mins by LC-MS/MS analysis,1 uM,5 to 30 mins,NADPH,none,none,LC-MS/MS,rat,none,microsomes,none,True
+3,Intrinsic clearance in human liver microsomes at 1 uM up to 15 mins in presence of NADPH by LC-MS-MS analysis,1 uM,up to 15 mins,NADPH,liver,none,LC-MS-MS,human,none,liver microsomes,none,True
+4,Intrinsic clearance in human liver microsomes at 1 uM after 30 mins in presence of NADPH,1 uM,30 mins,NADPH,liver,none,none,human,none,liver microsomes,none,True
+0,Intrinsic clearance in mouse liver microsomes at 2 uM up to 30 mins assessed per mg of protein by HPCL coupled LC/MS/MS analysis,2 uM,up to 30 mins,none,liver,none,HPCL coupled LC/MS/MS,mouse,none,liver microsomes,per mg of protein,True
+1,Intrinsic clearance in human microsomes assessed as compound disappearance at 1 uM preincubated for 5 mins followed by NADPH addition measured after 5 to 30 mins by LC-MS/MS analysis,1 uM,5 to 30 mins,NADPH,none,none,LC-MS/MS,human,none,microsomes,none,True
+2,Intrinsic clearance in human liver microsomes at 0.5 uM measured up to 30 mins in presence of NADPH by LC/MS/MS analysis,0.5 uM,up to 30 mins,NADPH,liver,none,LC/MS/MS,human,none,liver microsomes,none,True
+3,Unbound hepatic clearance in rat liver microsomes,none,none,none,liver,none,none,rat,none,liver microsomes,none,True
+4,Intrinsic clearance in mouse liver microsomes at 1 uM preincubated for 10 mins followed by NADPH addition measured up to 30 mins by LC-MS/MS analysis,1 uM,up to 30 mins,NADPH,liver,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+0,Unbound hepatic clearance in mouse liver microsomes,none,none,none,liver,none,none,mouse,none,liver microsomes,none,True
+1,Intrinsic clearance in mouse liver microsomes preincubated for 10 mins followed by NADPH regenerating system addition and measured up to 30 mins by LC/MS-MS analysis,none,up to 30 mins,NADPH regenerating system,liver,none,LC/MS-MS,mouse,none,liver microsomes,none,True
+2,Intrinsic clearance in human,none,none,none,none,none,none,human,none,none,none,False
+3,Intrinsic clearance in human liver microsomes by LC-MS/MS analysis,none,none,none,liver,none,LC-MS/MS,human,none,liver microsomes,none,True
+4,Intrinsic microsomal clearance in CDI mouse liver microsomes,none,none,none,liver,none,none,CDI mouse,none,liver microsomes,none,True
+0,Intrinsic clearance in human liver microsomes at 1 uM preincubated for 5 mins followed by NADPH addition and measured up to 60 mins by LC-MS/MS analysis,1 uM,up to 60 mins,NADPH,liver,none,LC-MS/MS,human,none,liver microsomes,none,True
+1,"Clearance in mouse at 1 mg/kg, iv",1 mg/kg,none,none,none,none,none,mouse,iv,none,none,False
+2,Intrinsic clearance in mouse liver microsomes at 0.5 uM measured up to 30 mins in presence of NADPH by LC/MS/MS analysis,0.5 uM,up to 30 mins,NADPH,liver,none,LC/MS/MS,mouse,none,liver microsomes,none,True
+3,Intrinsic clearance in human liver microsomes at 1 uM after 30 mins by LC-MS HRMS analysis,1 uM,30 mins,none,liver,none,LC-MS HRMS,human,none,liver microsomes,none,True
+4,Intrinsic clearance in rat liver microsomes at 1 uM preincubated for 5 mins followed by NADPH addition and measured up to 60 mins by LC-MS/MS analysis,1 uM,up to 60 mins,NADPH,liver,none,LC-MS/MS,rat,none,liver microsomes,none,True

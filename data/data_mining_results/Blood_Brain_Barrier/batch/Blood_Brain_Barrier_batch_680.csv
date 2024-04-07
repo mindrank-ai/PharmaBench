@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+640,Passive permeability of the compound at 2 uM by cell-based assay,Cell-based assay,,Passive permeability,,2 uM,False
+641,Permeability of the compound in PBS/EtOH (70:30) at 100 ug/ml by PAMPA-BBB assay,PAMPA-BBB,,,,100 ug/ml in PBS/EtOH (70:30),False
+642,Permeability of compound at 100 uM at pH 5 incubated for 4 hrs by PAMPA-GIT assay,PAMPA-GIT,,,pH 5,100 uM at pH 5 for 4 hrs,False
+643,Permeability of the compound at donor and acceptor pH 7.4 by PAMPA,PAMPA,,,,Donor and acceptor pH 7.4,False
+644,Permeability of the compound at pH 7.4 at 500 uM incubated for 5 hrs by PAMPA based UV/LC-MS analysis,PAMPA UV/LC-MS,,,pH 7.4,500 uM at pH 7.4 for 5 hrs,False
+645,Permeability at 10 uM at pH 5.0 by PAMPA method,PAMPA,,,pH 5.0,10 uM at pH 5.0,False
+646,Permeability from apical to basolateral in Caco-2 cell membrane,Caco-2,,Apical to basolateral,,,False
+647,Permeability of the compound across artificial membrane by HPLC analysis,Artificial membrane HPLC,,,,,False
+648,Permeability of the compound at pH 7.4 after 5 hrs using porcine polar brain lipid by PAMPA-BBB assay,PAMPA-BBB porcine brain lipid,,,pH 7.4,At pH 7.4 after 5 hrs,False
+649,Membrane permeability at 10 uM at pH 7.4 by PAMPA method,PAMPA,,,pH 7.4,10 uM at pH 7.4,False
+650,Permeability from basolateral to apical side of the human Caco-2 membrane,human Caco-2,,Basolateral to apical,,,False
+651,Permeability from apical to basolateral side of MDCK2 cells expressing MDR1,MDCK2 MDR1,,Apical to basolateral,,,False
+652,Permeability of compound in PBS buffer at pH 7.4 at 500 mM incubated for 18 hrs by UV plate reader based PAMPA assay,PAMPA UV,,,pH 7.4,500 mM in PBS at pH 7.4 for 18 hrs,False
+653,Permeability of the compound at 100 mg/ml after 10 hrs by PAMPA,PAMPA,,,,100 mg/ml after 10 hrs,False
+654,Apparent permeability from basolateral to apical side in human Caco2 cells,human Caco2,,Apparent permeability basolateral to apical,,,False
+655,Absorptive permeability coefficience across human Caco-2 cells,human Caco-2,,Absorptive permeability coefficient,,,False
+656,Permeability from basolateral to apical in Caco-2 cell membrane,Caco-2,,Basolateral to apical,,,False
+657,Permeability from apical to basal side of human Caco2 cells at pH 7.4,human Caco2,,Apical to basal,pH 7.4,,False
+658,Permeability assessed as mouse BCRP-mediated permeability from basolateral to apical side,Mouse BCRP-mediated PAMPA,,BCRP-mediated permeability basolateral to apical,,0.5 mM from basolateral to apical,False
+659,Permeability assessed as doxycycline-induced mouse BCRP-mediated permeability from basolateral to apical side,Mouse BCRP-mediated PAMPA doxycycline-induced,,BCRP-mediated permeability basolateral to apical doxycycline-induced,,0.5 mM from basolateral to apical doxycycline-induced,False

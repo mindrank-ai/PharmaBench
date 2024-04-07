@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+880,Aqueous solubility of the compound in PBS after 2 hrs by turbidity assay,,PBS,2 hrs,turbidity assay,,True
+881,Equilibrium solubility in phosphate buffer in presence of 10% Labrasol at pH 7.4,7.4,phosphate buffer with Labrasol,,,,True
+882,Solubility of the compound in FaSSIF at pH 6.5 by lyophilized solubility assay,6.5,FaSSIF,,lyophilized solubility assay,,True
+883,Kinetic solubility of the compound at pH 7 after 24 hrs by shake flask method,7.0,None,24 hrs,shake flask method,,True
+884,Equilibrium solubility of the compound at pH 6.8 by high-throughput assay,6.8,None,,high-throughput assay,,True
+885,Aqueous solubility of the compound in Britton-Robinson buffer at pH 6.5 after 48 hrs by shake-flask method,6.5,Britton-Robinson buffer,48 hrs,shake-flask method,,True
+886,Aqueous solubility of the compound at pH 4 by UV-HPLC method,4.0,None,,UV-HPLC method,,True
+887,Solubility in 0.1 M phosphate buffer at pH 7.4 at 25 degC incubated for 24 hrs,7.4,phosphate buffer,24 hrs,,25 degC,True
+888,Aqueous solubility of the compound at pH 7 by UV-HPLC method,7.0,None,,UV-HPLC method,,True
+889,Solubility of the compound in amorphous form in phosphate buffer at pH 6.5,6.5,phosphate buffer (amorphous form),,,,True
+890,Solubility in artificial interstitial fluid at pH 5 by HPLC analysis,5.0,artificial interstitial fluid,,HPLC analysis,,True
+891,Solubility of the compound at pH 6.8 by high-throughput miniaturized shake flask solubility assay,6.8,None,,high-throughput miniaturized shake flask solubility assay,,True
+892,Solubility of the compound at pH 7.4 after 18 hrs by UV spectrometry,7.4,None,18 hrs,UV spectrometry,,True
+893,Aqueous solubility in pH 7.4 phosphate buffer at 10 mg/ml after 4 hrs by by UV-HPLC method,7.4,phosphate buffer,4 hrs,UV-HPLC method,,True
+894,Aqueous solubility of compound in distilled water,,distilled water,,,,True
+895,Aqueous solubility of the compound in buffer at pH 6.8 by HPLC method,6.8,buffer,,HPLC method,,True
+896,Solubility of the compound in FaSSIF buffer at pH 6.5 by UPLC/DAD analysis,6.5,FaSSIF buffer,,UPLC/DAD analysis,,True
+897,Solubility of the compound after 24 hrs at pH 7.2,7.2,None,24 hrs,,,True
+898,Kinetic solubility of compound in 0.1 M HCl at pH 1 at 20 degC by HPLC analysis,1.0,0.1 M HCl,,HPLC analysis,20 degC,True
+899,Kinetic solubility in fasted state simulated intestinal fluid at pH 6.5,6.5,fasted state simulated intestinal fluid,,,,True

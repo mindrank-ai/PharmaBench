@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+60,Permeability across apical to basolateral side in human Caco-2 cells,Caco-2,,apical to basolateral,,,False
+61,Apparent permeability by PAMPA membrane,PAMPA,,,,,False
+62,Permeability in MDCK-II cells,MDCK-II,,,,,False
+63,Permeability across basolateral to apical side in human Caco-2 cells,Caco-2,,basolateral to apical,,,False
+64,Permeability of the compound at 25 ug/ml after 18 hrs by PAMPA assay,PAMPA,,,,25 ug/ml after 18 hrs,False
+65,Permeability by PAMPA,PAMPA,,,,,False
+66,Permeability of the compound at pH 7.4 after 4 hrs by PAMPA,PAMPA,,,7.4,after 4 hrs,False
+67,Permeability from apical to basolateral side of human Caco2 cells at 10 uM by LC/MS/MS analysis,Caco2,,apical to basolateral,,10 uM,False
+68,Permeability from basolateral to apical side of human Caco2 cells at 10 uM by LC/MS/MS analysis,Caco2,,basolateral to apical,,10 uM,False
+69,Permeability across apical to basolateral side in MDCK cells pgp knock out incubated up to 180 mins by LC_MS/MS analysis,MDCK pgp knock out,,apical to basolateral,,incubated up to 180 mins,False
+70,Membrane permeability at pH 7.4 by PAMPA assay,PAMPA,,,7.4,,False
+71,Permeability of the compound at pH 7.4 at 100 uM after 4 hrs by PAMPA,PAMPA,,,7.4,100 uM after 4 hrs,False
+72,Permeability of the compound in pH 7.4 PBS buffer incubated for 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4 PBS,incubated for 18 hrs,True
+73,Permeability of the compound by PAMPA method,PAMPA,,,,,False
+74,Effective permeability of the compound in PBS at 50 uM incubated for 5 hrs by PAMPA,PAMPA,,,PBS,50 uM incubated for 5 hrs,False
+75,Permeability of the compound at pH 7.4 by LC-MS/MS based PAMP assay,PAMPA,,,7.4,,False
+76,Passive permeability of the compound by PAMPA,PAMPA,,,,,False
+77,Permeability of the compound at pH 7.4 by PAMPA method,PAMPA,,,7.4,,False
+78,Permeability at pH 6.5 by PAMPA method,PAMPA,,,6.5,,False
+79,Permeability of the compound after 16 hrs by PAMPA,PAMPA,,,,after 16 hrs,False

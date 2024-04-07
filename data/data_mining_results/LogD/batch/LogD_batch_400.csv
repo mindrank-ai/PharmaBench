@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Distribution coefficient, log D of the compound at pH 7.4 by HPLC method",7.4,HPLC,,,,,True
+2,"Octanol-water distribution coefficient, log D of the compound in phosphate buffer at 1 uM at pH 7.4 after 2 hrs by shake flask method",7.4,shake flask,octanol-water in phosphate buffer,,2 hrs,shake flask,True
+3,"Octanol-water intrinsic distribution co-efficient, log D of the compound at 100 uM at pH 7.4 after 16 to 22 hrs by CAMDIS assay",7.4,CAMDIS,octanol-water,,16 to 22 hrs,,True
+4,"Lipophilicity, logD of the compound in 1-octanol and phosphate buffer at pH 7.4 by LC-MS analysis",7.4,LC-MS,1-octanol and phosphate buffer,,,,True
+5,"Methanol-buffer partition coefficient, log D of the compound by RP-HPLC analysis at pH 7.5",7.5,RP-HPLC,methanol-buffer,,,,True
+6,"Chromatographic hydrophobicity index, log D of the compound at pH 6.5 by HPLC method",6.5,HPLC,,,,,True
+7,"Partition coefficient, logD of the compound at pH 7.4 by HPLC method",7.4,HPLC,,,,,True
+8,"Octanol-water distribution coefficient, log D at pH 7.4 at 25 degC by potentiometric titration method",7.4,potentiometric titration,octanol-water,,,,True
+9,"Distribution coefficient, logD of compound at pH 7.4 by shake flask method",7.4,shake flask,,,,shake flask,True
+10,"Partition co-efficient, log D of the compound at pH 7.4 by shake flask method",7.4,shake flask,,,,shake flask,True
+11,"Lipophilicity, log D of the compound at pH 6.5 by chromatographic method",6.5,chromatography,,,,,True
+12,Lipophilicity was expressed as Log D,7.4,,,,,,True
+13,"Octanol/water partition coefficient, log D of compound at pH 7.4 at 1 uM incubated for 2 hrs by LC-MS analysis",7.4,LC-MS,octanol/water,,2 hrs,,True
+14,"Lipophilicity, logD of the compound at pH 7.6 by shake flask assay",7.6,shake flask,,,,shake flask,True
+15,"Octanol-Japanese pharmacopoeia second fluid distribution coefficient, Log D after 30 mins by shake-flask method",7.4,shake flask,octanol-Japanese pharmacopoeia second fluid,,30 mins,shake flask,True
+16,"Distribution coefficient, log D at pH 7.4 after 30 mins by shake flask method",7.4,shake flask,,,30 mins,shake flask,True
+17,"Lipophilicity, log D of the compound at PH 7.4",7.4,,,,,,True
+18,"n-Octanol/PBS buffer distribution coefficient, logD of the compound at pH 7.4 by shake flask method based UV spectrophotometry analysis",7.4,UV spectrophotometry,n-octanol/PBS buffer,,,shake flask,True
+19,"Lipophilicity, log D of the compound at pH 7.4 by high throughput method",7.4,high throughput,,,,,True
+20,"Distribution coefficient of the compound, log D",,,,,,,True

@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+820,Permeability of the compound from basolateral to apical side of transepithelial human Caco2 model assessed as secretory transport by mass balance study,human Caco2 mass balance secretory,,secretory transport mass balance,,,False
+821,Permeability in human cadaver skin at 0.2 mg/cm'2 assessed as amount of compound crossing 1 cm after 48 hrs by HPLC and UV spectroscopy,human cadaver skin HPLC UV spectroscopy,,permeability assessment,,0.2 mg/cm'2 for 48 hrs,False
+822,Passive permeability in MDCK2-MDR1 cells at 5 uM in presence of 4.3 mg/ml BSA and in presence of P-gp inhibitor LSN335984 by mass spectrometry,MDCK2-MDR1 LC-MS/MS,,passive permeability with P-gp inhibitor,,5 uM with BSA and P-gp inhibitor,False
+823,Permeability from basolateral to apical side in MDCK2-MDR1 cells at 5 uM in presence of 4.3 mg/ml BSA and in absence of P-gp inhibitor LSN335984 by mass spectrometry,MDCK2-MDR1 LC-MS/MS,,permeability without P-gp inhibitor,,5 uM with BSA without P-gp inhibitor,False
+824,Dimensionless membrane permeability (Pm) from in situ single-pass rat jejunal perfusion at a concentration of 0.1 mM,rat jejunal perfusion in situ,,dimensionless permeability (Pm),,0.1 mM,False
+825,Permeability across Syrian golden hamster ear skin assessed as skin flux applied topically after 24 hrs by LC-MS analysis,Syrian golden hamster ear skin LC-MS,,topical skin flux,,applied topically for 24 hrs,False
+826,Permeability of the compound at 100 ug/mL after 10 hrs by PAMPA,PAMPA,,,,100 ug/mL after 10 hrs,False
+827,Permeability across LLCPK1 cells expressing MDR1 gene,LLCPK1 MDR1,,,,,False
+828,Permeability from apical to basolateral side in MDCK cells expressing human MDR,MDCK human MDR,,,,,False
+829,Permeability across apical to basal side in MDCK-MDR1 cells,MDCK-MDR1,,,,,False
+830,Permeability from apical to basolateral side of NIH 3T3 cell,NIH 3T3,,,,,False
+831,Permeability of compound in human brain like endothelial cells BBB model at 10 uM after 120 mins by LC-MS analysis,Human brain like endothelial cells BBB model LC-MS,,BBB model permeability,,10 uM after 120 mins,True
+832,Permeability of the compound at pH 6.5 measured after 2 hrs by PAMPA,PAMPA,,,6.5,,False
+833,Percentage intracellular concentration in MCF7/ADR drug-resistant cell line,MCF7/ADR cell line,,intracellular concentration,,,False
+834,Permeability of the compound at pH 7 by PAMPA,PAMPA,,,7,,False
+835,Permeability of the compound in human jejunum,human jejunum,,permeability in jejunum,,,False
+836,"Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound, Lipoid S100 and pluronic f68 ratio 1:1:1",human Caco2 mass balance,,mass balance apical to basolateral,,,False
+837,Percentage intracellular concentration in AT3B1 drug-resistant cell line,AT3B1 cell line,,intracellular concentration,,,False
+838,Permeability at 50 uM at pH 5 by PAMPA,PAMPA,,,5,50 uM,False
+839,Permeability across basolateral to apical side in human Caco-2 cells at pH 7.4 at 1 uM,human Caco-2 LC-MS/MS,,basolateral to apical,7.4,1 uM after 2 hrs,False

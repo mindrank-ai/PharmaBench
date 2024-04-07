@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Lipophilicity, log D of the compound in n-octanol buffer at 0.5 mg after 2 to 24 hrs by LC-MS analysis",7.4,LC-MS,n-octanol buffer,,2 to 24 hrs,shake flask,True
+2,"Octanol-water distribution coefficient, log D at pH 4 by HPLC",4.0,HPLC,octanol-water,,,,True
+3,"Octanol-water distribution co-efficient, log D of the compound at pH 7.4",7.4,,octanol-water,,,,True
+4,"1-octanol-aqueous phosphate buffer distribution coefficient, log D of the compound at pH 7.4 after 30 mins by shake-flask method",7.4,shake flask,1-octanol-aqueous phosphate buffer,,30 mins,shake flask,True
+5,Partition coefficient was determined in octanol-phosphate at pH 6.0,6.0,,octanol-phosphate,,,,True
+6,"Lipophilicity, log D of the compound at pH 6.5 by shake flask method",6.5,shake flask,octanol and phosphate buffer,,,shake flask,True
+7,"1-Octanol-PBS buffer distribution coefficient, log D of natEu labelled compound at pH 7.4 by time resolved fluorescence analysis",7.4,time resolved fluorescence,1-octanol-PBS buffer,,,,True
+8,"Octanol-PBS buffer distribution coefficient, log D of 177Lu labelled compound at pH 7.4 by radiometric analysis",7.4,radiometric,Octanol-PBS buffer,,,,True
+9,"n-octanol-water partition coefficient, log D of the compound by shake-flask method",,shake flask,n-octanol-water,,,shake flask,True
+10,"Lipophilicity, log D of the compound at pH 6.8",6.8,,,,,,True
+11,"Lipophilicity, log D of the compound in octanol saturated mobile phase at pH 7.4 by chromatographic method",7.4,chromatography,octanol saturated mobile phase,,,,True
+12,"n-Octanol-PBS buffer partition coefficient, log D of the compound at pH 7.4 after overnight incubation by LC/UV/qTOF analysis",7.4,LC/UV/qTOF,n-octanol-PBS buffer,,overnight,,True
+13,"Lipophilicity, log D of the compound at pH 7.4 by reversed phase HPLC method",7.4,reversed phase HPLC,,,,,True
+14,"n-Octanol-buffer partition co-efficient, log D of the compound at pH 7.4 incubated overnight by shake-flask method",7.4,shake flask,n-octanol-buffer,,overnight,shake flask,True
+15,Log D at pH 7 by HPLC,7.0,HPLC,,,,,True
+16,Compound was evaluated for the partition coefficient (octanol/pH 7.4 buffer),7.4,,octanol/pH 7.4 buffer,,,,True
+17,Lipophilic dissociation constant is determined as a measure of partitioning of neutral molecules at pH 7.5,7.5,,,,,,True
+18,Log Doctanol value by by HPLC peak area analysis of aqueous and octanol phases at pH 4.5-6.5,,HPLC,,,,,True
+19,Log D of compound at pH 7.4 by chromotography,7.4,chromatography,,,,,True
+20,"Octanol-buffer partition co-efficient, log D of the compound after 24 hrs by high-throughput shake-flask method",,high-throughput shake-flask,octanol-buffer,,24 hrs,shake flask,True

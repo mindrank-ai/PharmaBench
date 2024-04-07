@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,Water Solubility
+0,Aqueous solubility of the compound at pH 2,2.0,aqueous,,,,True
+1,Solubility of the compound in water at pH 7.0 by HPLC,7.0,water,,HPLC,,True
+2,Solubility of the compound at pH 7.4 after 18 hrs by UV spectroscopic analysis,7.4,,18 hrs,UV spectroscopic analysis,,True
+3,Aqueous solubility of compound at pH 7.4 by HPLC analysis,7.4,aqueous,,HPLC analysis,,True
+4,Kinetic solubility of compound at pH 7.4,7.4,,,kinetic solubility,,True
+5,Equilibrium solubility of the compound at pH 7.4,7.4,,,equilibrium solubility,,True
+6,Aqueous solubility of the compound at pH 6.5,6.5,aqueous,,,,True
+7,Kinetic solubility of compound in pH 7.4 PBS after 1 hr by chemiluminescence nitrogen detection assay,7.4,PBS,1 hr,chemiluminescence nitrogen detection assay,,True
+8,Thermodynamic solubility of the compound,,,,thermodynamic solubility,,True
+9,Solubility of the compound in 0.1 M phosphate buffer at 600 uM at pH 7.4 after 24 hrs by LC/MS/MS analysis,7.4,0.1 M phosphate buffer,24 hrs,LC/MS/MS analysis,,True
+10,Kinetic solubility of the compound at pH 6.5,6.5,,,kinetic solubility,,True
+11,Kinetic solubility of the compound by chemiluminescent nitrogen detection assay,,,,chemiluminescent nitrogen detection assay,,True
+12,Solubility of compound at pH 7,7.0,,,,,True
+13,Kinetic solubility of the compound at pH 7.4 by CLND method,7.4,,,CLND method,,True
+14,Solubility (buffer pH 4),4.0,buffer,,,,True
+15,Intrinsic solubility of the compound in water,,water,,intrinsic solubility,,True
+16,Solubility of the compound in phosphate buffer at pH 7.4,7.4,phosphate buffer,,,,True
+17,Solubility by CLND assay,,,,CLND assay,,True
+18,Solubility,,,,,,True
+19,Thermodynamic aqueous solubility of compound in phosphate buffer at pH 7.4 incubated for 20 to 24 hrs under shaking conditions by LC-MS/MS analysis,7.4,phosphate buffer,20 to 24 hrs,LC-MS/MS analysis,,True

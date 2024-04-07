@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+544,Inhibition of CYP3A4 (unknown origin) using midazolam substrate,CYP3A4,,,,midazolam,,,,unknown origin,unknown origin CYP3A4,True
+545,Inhibition of CYP3A4 (unknown origin) using BFC substrate after 30 mins by fluorescence assay,CYP3A4,after 30 mins,,,BFC,,,fluorescence assay,unknown origin,unknown origin CYP3A4,True
+546,Inhibition of CYP2C9 in human liver microsomes using 4-hydroxydiclofenac as substrate,CYP2C9,,,,4-hydroxydiclofenac,,,,human liver microsomes,human liver CYP2C9,True
+547,Inhibition of recombinant CYP2C9 (unknown origin) by fluorescence-based assay,CYP2C9,,,,,,,fluorescence-based assay,unknown origin,unknown origin recombinant CYP2C9,True
+548,Inhibition of CYP1A2 in human liver microsomes using phenacetin as substrate after 30 mins by LC-MS analysis,CYP1A2,after 30 mins,,,phenacetin,,,LC-MS,human liver microsomes,human liver CYP1A2,True
+549,Inhibition of CYP3A4 in human liver microsomes using midazolam as substrate after 8 mins by LC-MS/MS analysis,CYP3A4,after 8 mins,,,midazolam,,,LC-MS/MS,human liver microsomes,human liver CYP3A4,True
+550,Inhibition of human CYP2D6 expressed in microsomes using MMC as substrate after 10 mins by P450 cypex assay,CYP2D6,after 10 mins,,,MMC,,,P450 cypex assay,expressed in microsomes,human CYP2D6,True
+551,Inhibition of recombinant human CYP3A4 expressed in baculovirus infected insect cells using fluorescent substrate,CYP3A4,,,,,,,,expressed in baculovirus infected insect cells,recombinant human CYP3A4,True
+552,Inhibition of human CYP1A2 by fluorescence assay,CYP1A2,,,,,,,fluorescence assay,,human CYP1A2,True
+553,Inhibition of human recombinant CYP1A2 preincubated for 10 mins,CYP1A2,preincubated for 10 mins,,,,,,,expressed in Escherichia coli,recombinant human CYP1A2,True
+554,Inhibition of CYP3A4 in human liver microsomes after 10 mins by LC/MS/MS analysis,CYP3A4,after 10 mins,,,,,,LC/MS/MS,human liver microsomes,human liver CYP3A4,True
+555,Inhibition of human recombinant CYP3A4 expressed in baculovirus-infected insect cells using 7-Benzoyloxy-4-trifluoromethyl coumarin substrate in presence of NADP+ by fluorescence based assay,CYP3A4,,,,7-Benzoyloxy-4-trifluoromethyl coumarin,,,fluorescence based assay,expressed in insect cells microsomes,recombinant human CYP3A4,True
+556,Antiproliferative activity against ER positive human MCF7 cells expressing low level of CYP assessed as reduction in cell viability measured after 96 hrs by MTT assay,CYP,after 96 hrs,,,,,,MTT assay,,ER positive human MCF7 cells,False
+557,Inhibition of human liver microsomes CYP3A4 using testosterone as substrate by MUX-MS/MS analysis,CYP3A4,,,,testosterone,,,MUX-MS/MS,,human liver CYP3A4,True
+558,Inhibition of human recombinant CYP2C9 coexpressed in Escherichia coli,CYP2C9,,,,,,,,,recombinant human CYP2C9,True
+559,Inhibition of CYP1A2 in human liver microsomes after 10 mins,CYP1A2,after 10 mins,,,,,,,,human liver CYP1A2,True
+560,Inhibition of recombinant CYP2C9 after 45 mins,CYP2C9,after 45 mins,,,,,,,,recombinant CYP2C9,True
+561,Inhibition of CYP1A2 in human liver microsomes by LC-MS/MS analysis,CYP1A2,,,,,,,LC-MS/MS,,human liver CYP1A2,True
+562,Inhibition of CYP1A2 in human liver microsomes using phenacetin as substrate in presence of NADPH by LC/MS/MS analysis,CYP1A2,,,,phenacetin,in presence of NADPH,,LC/MS/MS,expressed in Escherichia coli,human recombinant CYP1A2,True
+563,Inhibition of recombinant human CYP1A2 using 7-ethoxyresorufin as substrate after 50 mins in presence of NADP+ by EROD assay,CYP1A2,after 50 mins,,,7-ethoxyresorufin,in presence of NADP+,,EROD assay,expressed in Escherichia coli,recombinant human CYP1A2,True

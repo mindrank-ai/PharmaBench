@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+480,P-glycoprotein-mediated transport in MDCK2-MDR1 cells assessed as permeability across basolateral to apical side at 5 uM after 1 hr,MDCK2-MDR1,,P-gp mediated transport basolateral to apical,,5 uM after 1 hr,False
+481,Permeability in PBS buffer measured after 18 hrs by PAMPA based LC-MS analysis,PAMPA LC-MS,,,,measured after 18 hrs,False
+482,Permeability of the compound after 15 hrs by PAMPA,PAMPA,,,,after 15 hrs,False
+483,Permeability of compound in PBS at pH 7.4 incubated for 120 mins by UV spectroscopy assay based PAMPA-BBB assay,PAMPA-BBB UV,,,7.4,500 uM incubated for 120 mins,True
+484,Passive permeability across apical to basolateral side in MDCK2-MDR1 cells at 3 uM after 90 mins in presence of P-gp inhibitor GF120918 by Transwell assay,MDCK2-MDR1 Transwell,,passive permeability apical to basolateral,,3 uM after 90 mins with GF120918,False
+485,Permeability across basolateral side at pH 6.5 to apical side at pH 7.4 in human Caco2 cells at 10 uM,human Caco2,,basolateral to apical,basolateral 6.5 to apical 7.4,10 uM,False
+486,Passive permeability from apical to basolateral side in human Caco2 cells,human Caco2,,apical to basolateral,,,False
+487,Permeability from basolateral to apical side in human Caco2 cells at pH 7.4,human Caco2,,basolateral to apical,7.4,,False
+488,Membrane permeability assessed as passive transport after 4 hrs by PAMPA in presence of 20% 1-propanol,PAMPA,,passive transport,,after 4 hrs with 20% 1-propanol,False
+489,Permeability of compound at pH 7.4,PAMPA,,,7.4,,False
+490,Permeability assessed as drug flux at pH 7.4 by PAMPA assay,PAMPA,,drug flux,7.4,,False
+491,Apparent permeability from basolateral side to apical in verapamil pretreated MDCK cells expressing MDR1 at 10 uM after 60 mins by LC/MS analysis,MDCK MDR1 LC/MS,,apparent permeability basolateral to apical,,10 uM after 60 mins with verapamil,False
+492,Passive membrane permeability of compound in phosphate buffered saline at pH 7.4 at 10 uM incubated for 16 hrs by PAMPA assay based TQ-S LC-MS/MS analysis,PAMPA TQ-S LC-MS/MS,,passive membrane permeability,7.4,10 uM incubated for 16 hrs,False
+493,Permeability across apical side to basolateral side of membrane in human Caco2 cells,human Caco2,,apical to basolateral,,,False
+494,Membrane permeability of the compound at pH 6.5 by PAMPA PSR4p assay,PAMPA PSR4p,,,6.5,,False
+495,Passive permeability from basolateral to apical side in human Caco2 cells,human Caco2,,basolateral to apical,,,False
+496,Permeability of the compound at 100 uM measured after 40 mins by PAMPA,PAMPA,,,,100 uM after 40 mins,False
+497,Permeability of compound across apical to basolateral membrane in MDCK cells,MDCK,,apical to basolateral,,,False
+498,Permeability in vinblastine-treated human Caco2 cells,human Caco2 vinblastine-treated,,,,,False
+499,Permeability across basolateral side to apical side of membrane in human Caco2 cells,human Caco2,,basolateral to apical,,,False

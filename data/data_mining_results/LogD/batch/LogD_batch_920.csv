@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"1-octanol/water partition co-efficient, log D of the compound at pH 7.4 by chromatographic analysis",7.4,chromatography,octanol/water,,,,True
+2,Log distribution coefficient between 1-octanol and aqueous buffer at pH of 7.4.,7.4,,1-octanol/aqueous,,,,True
+3,"Distribution coefficient, log D of compound at pH 6.5",6.5,,,,,,True
+4,"Octanol-buffer distribution coefficient, log D at pH 7.4",7.4,,octanol/buffer,,,,True
+5,"Chromatographic hydrophobicity index, log D of the compound",,,,,,,True
+6,"Lipophilicity, LogD at pH 7.4 of the compound by shake flask method",7.4,shake flask,,,,,True
+7,"Lipophilicity, LogD of compound",,,,,,,True
+8,Partition coefficient (logD5.2) (octanol/pH 5.2 acetate buffer),5.2,,octanol/acetate buffer,,,,True
+9,The octanol-water partition coefficient at pH 10.8,10.8,,octanol/water,,,,True
+10,The octanol-water partition coefficient at pH 4.5,4.5,,octanol/water,,,,True
+11,"Octanol-PBS partition coefficient, log D of the compound at pH 7.4 after 2 hrs",7.4,shake flask,octanol-PBS,2 hrs equilibration,,,True
+12,"Octanol-water distribution coefficient, log D of the compound in PBS buffer at pH 7.4",7.4,,octanol/water in PBS,,,,True
+13,"Lipophilicity, logD of the compound at pH 6.5",6.5,,,,,,True
+14,"Partition coefficient, log D at pH 7.2 to 7.4 by HPLC Supelcosil",7.2 to 7.4,HPLC Supelcosil,,,,,True
+15,Distribution coefficient (Log D) in ethylacetate-water system at pH 6.4,6.4,,ethylacetate/water,,,,True
+16,"Partition coefficient, log D of the compound in n-octanol-PBS at 10'-4 M at pH 7.4",7.4,,n-octanol-PBS,,,,True
+17,"Distribution coefficient, logD of the compound at pH 7.4 by HPLC",7.4,HPLC,,,,,True
+18,"n-octanol-buffer distribution co-efficient, log D of the compound at pH 7.4 by shake flask method",7.4,shake flask,n-octanol/buffer,,,,True
+19,Partition coefficient at 25 degree Celsius in octanol/aqueous buffer at pH 6.02,6.02,,octanol/aqueous buffer,,,,True
+20,"Lipophilicity, Log D at pH 7.2",7.2,,,,,,True

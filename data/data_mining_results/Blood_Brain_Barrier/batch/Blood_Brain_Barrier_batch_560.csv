@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+540,Permeability across apical to basolateral side in MDCK-MDR1 cells at 10 uM after 1 hr by LC-MS analysis,MDCK-MDR1 LC-MS,,apical to basolateral,,10 uM after 1 hr,False
+541,Permeability in dog MDCK cells,dog MDCK,,,,,False
+542,Permeability from basolateral side to apical side in human Caco2 cells,human Caco2,,basolateral to apical,,,False
+543,Permeability in human Caco2 cells at 20 uM incubated for 120 mins by ESI-MS/MS analysis,human Caco2 ESI-MS/MS,,,,20 uM for 120 mins,False
+544,Permeability of the compound at 10 uM after 30 mins by PAMPA,PAMPA,,,,10 uM after 30 mins,False
+545,Membrane permeability in MDCK cells at 50 uM after 60 mins by LC-MS/MS analysis,MDCK LC-MS/MS,,membrane permeability,,50 uM after 60 mins,False
+546,Permeability coefficient across apical to basolateral side in human Caco-2 cells,human Caco-2,,permeability coefficient,,,False
+547,Permeability in artificial membrane,artificial membrane,,,,,False
+548,Permeability across Caco-2 cells from basolateral to apical side,human Caco-2,,basolateral to apical,,,False
+549,Permeability of the compound measured after 16 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,measured after 16 hrs,True
+550,Permeability in artificial membrane assay,artificial membrane assay,,,,,False
+551,Permeability coefficient across basolateral to apical side in human Caco-2 cells,human Caco-2,,permeability coefficient,,,False
+552,Apparent permeability across apical to basolateral in human Caco2 cells by LC-MS/MS analysis,human Caco2 LC-MS/MS,,apparent permeability apical to basolateral,,,False
+553,Permeability of the compound at 50 uM measured after 4 hrs by PAMPA assay,PAMPA,,,,50 uM after 4 hrs,False
+554,Permeability across apical to basolateral side in human Caco2/TC7 cells at pH 6.5 to 7.4,human Caco2/TC7 pH 6.5 to 7.4,,apical to basolateral,,,False
+555,Permeability of the compound assessed as molar fraction in acceptor well at 0.5 mM measured after 2 hrs by PAMPA,PAMPA,,assessed as molar fraction in acceptor well,,0.5 mM after 2 hrs,False
+556,Permeability from apical to basolateral side in MDCK cells harboring MDR1,MDCK MDR1,,apical to basolateral,,,False
+557,Permeability of compound in pH 7.4 phosphate buffered saline at 10 uM measured after 4 hrs by PAMPA,PAMPA,,,7.4,10 uM after 4 hrs,False
+558,Permeability of the compound in human A549 cells at 20 uM incubated for 24 hrs with 1*10^4 cells/ml media by LC/MS analysis,human A549 LC/MS,,,,20 uM for 24 hrs with cells,False
+559,Permeability of the compound assessed as molar fraction in membrane at 0.5 mM measured after 2 hrs by PAMPA,PAMPA,,assessed as molar fraction in membrane,,0.5 mM after 2 hrs,False

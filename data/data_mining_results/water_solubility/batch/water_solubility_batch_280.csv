@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+200,Aqueous solubility of compound at pH 4 by UPLC analysis,4.0,aqueous,,UPLC analysis,,True
+201,Aqueous solubility of compound at pH 1 by UPLC analysis,1.0,aqueous,,UPLC analysis,,True
+202,Aqueous solubility of the compound in pH 7.4 HBSS buffer HPLC-MS analysis,7.4,HBSS buffer,,HPLC-MS analysis,,True
+203,Kinetic solubility of the compound in potassium phosphate buffer at pH 6.8 by turbidimetric assay,6.8,potassium phosphate buffer,,turbidimetric assay,,True
+204,Equilibrium aqueous solubility of the compound at pH 2,2.0,aqueous,,equilibrium solubility,,True
+205,Aqueous solubility of compound at pH 6.8,6.8,aqueous,,,,True
+206,Amorphous solubility of the compound in 25 mM aqueous phosphate buffer at pH 6.5 after 24 hrs by HPLC analysis,6.5,25 mM aqueous phosphate buffer,24 hrs,HPLC analysis,,True
+207,Aqueous solubility of the compound at pH 7.4 in phosphate buffer,7.4,phosphate buffer,,,,True
+208,Aqueous equilibrium solubility of compound in phosphate buffer at pH 2,2.0,phosphate buffer,,equilibrium solubility,,True
+209,Thermodynamic solubility of the compound in phosphate buffer at pH 2.4 at 25 degC after 24 hrs,2.4,phosphate buffer,24 hrs,thermodynamic solubility,25 degC,True
+210,Equilibrium aqueous solubility of the compound at pH 7,7.0,aqueous,,equilibrium solubility,,True
+211,Solubility at pH 6.8,6.8,None,,,,True
+212,Solubility of the compound in DMSO at pH 4 incubated for 24 hrs by LC-UV method,4.0,DMSO,24 hrs,LC-UV method,,False
+213,Water solubility was determined,,water,,,,True
+214,Solubility of the compound in saline by CLND method,,saline,,CLND method,,True
+215,Aqueous solubility (37 degree C),,aqueous,,,37 degree C,True
+216,Kinetic aqueous solubility of compound in phosphate buffer at pH 7.4 incubated for 1 hr,7.4,phosphate buffer,1 hr,,,True
+217,Solubility of compound in phosphate buffer at pH 7.4 using dried form of sample,7.4,phosphate buffer,,,,True
+218,Intrinsic solubility of the compound in phosphate buffered saline at pH 7.4 by shake-flask method,7.4,phosphate buffered saline,,shake-flask method,,True
+219,Aqueous solubility of compound by chemiluminescent nitrogen detection analysis,,aqueous,,chemiluminescent nitrogen detection analysis,,True

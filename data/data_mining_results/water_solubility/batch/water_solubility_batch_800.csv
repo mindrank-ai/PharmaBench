@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+700,Solubility of the compound in pH 2 0.01M HCl at 50 uM after overnight incubation by LC-MS analysis,2.0,0.01M HCl,overnight,LC-MS analysis,,True
+701,Kinetic solubility of the compound in isotonic buffer at pH 7.4,7.4,isotonic buffer,,,,True
+702,Solubility of compound by LYSA assay,,,,LYSA assay,,True
+703,Solubility of compound in pH 7.4 phosphate buffer after 24 hrs by HPLC analysis,7.4,phosphate buffer,24 hrs,HPLC analysis,,True
+704,Thermodynamic aqueous solubility in PBS of pH 7.4 after overnight incubation by chemiluminescent nitrogen detection,7.4,PBS,overnight,chemiluminescent nitrogen detection,,True
+705,Kinetic solubility in pH 7.4 PBS buffer at 250 uM incubated for 1 hr by UPLC/MS analysis,7.4,PBS buffer,1 hr,UPLC/MS analysis,,True
+706,Kinetic solubility of the compound in phosphate buffer after 30 mins by nephelometry at pH 6.5,6.5,phosphate buffer,30 mins,nephelometry,,True
+707,Aqueous solubility of the compound in pH 6.8 JP2 fluid incubated for 20 hrs by liquid chromatography,6.8,JP2 fluid,20 hrs,liquid chromatography,,True
+708,Thermodynamic solubility of the compound in phosphate buffer at pH 4 after 24 hrs by HPLC analysis,4.0,phosphate buffer,24 hrs,HPLC analysis,,True
+709,Solubility in Na2HPO4/NaH2PO4 buffer at pH 7.4,7.4,Na2HPO4/NaH2PO4 buffer,,,,True
+710,Solubility at pH 7.2,7.2,,,,,True
+711,Aqueous solubility in at pH 7.4,7.4,,,,,True
+712,Kinetic aqueous solubility of the compound in phosphate buffered saline at pH 7 at 25 degC after 24 hrs by HPLC/DAD method,7.0,phosphate buffered saline,24 hrs,HPLC/DAD method,25 degC,True
+713,"Solubility was measured in D2O using 1H NMR integration of the C-20 ethyl group against internal standard 1,4-dioxane",,D2O,,1H NMR integration,,True
+714,Aqueous solubility of the compound in phosphate-buffered saline at pH 7.2 after 1 to 24 hrs,7.2,phosphate-buffered saline,1 to 24 hrs,,,True
+715,Aqueous solubility by chemiluminescent nitrogen detection,,,,chemiluminescent nitrogen detection,,True
+716,Aqueous solubility of the compound by nephelometry method,,,,nephelometry,,True
+717,Kinetic aqueous solubility of the compound in in 4% DMSO/HEPES buffer at pH 8 incubated for 20 hrs by NMR analysis,8.0,4% DMSO/HEPES buffer,20 hrs,NMR analysis,,True
+718,Thermodynamic solubility of the compound at pH 4,4.0,,,,,True
+719,Solubility of the compound in water by HPLC analysis,,water,,HPLC analysis,,True

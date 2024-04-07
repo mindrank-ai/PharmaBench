@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in Salmonella typhimurium TA1537 at 1.5 to 50000 ug/plate in absence of rat liver S9 fraction by Ames test,1.5 to 50000 ug/plate,,,absence of S9 fraction,Salmonella typhimurium TA1537,True
+2,Genotoxicity in Salmonella typhimurium TA1535 at 1.5 to 50000 ug/plate in absence of rat liver S9 fraction by Ames test,1.5 to 50000 ug/plate,,,absence of S9 fraction,Salmonella typhimurium TA1535,True
+3,Mutagenicity in Salmonella typhimurium TA98 in absence of S9 fraction by Ames test,,,,absence of S9 fraction,Salmonella typhimurium TA98,True
+4,Mutagenicity in Salmonella typhimurium TA1537 in presence of S9 fraction by Ames test,,,,presence of S9 fraction,Salmonella typhimurium TA1537,True
+5,Mutagenicity in Escherichia coli WP2 uvrA in presence of liver S9 fraction by AMES test,,,,presence of liver S9 fraction,Escherichia coli WP2 uvrA,True
+6,Mutagenicity in Salmonella typhimurium TA98 in absence of liver S9 fraction by AMES test,,,,absence of liver S9 fraction,Salmonella typhimurium TA98,True
+7,Genotoxicity in Salmonella typhimurium TA98 at 5 to 2490 uM after 90 mins by Ames test in presence of rat liver S9 fraction,5 to 2490 uM,,after 90 mins,presence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+8,Genotoxicity in Salmonella typhimurium TA98 at 5 to 2490 uM after 90 mins by Ames test in absence of rat liver S9 fraction,5 to 2490 uM,,after 90 mins,absence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+9,Mutagenicity in Salmonella typhimurium TA7001/7002/7003/7004/7005/7006 up to 100 uM in presence of rat liver S9 fraction by Ames 2 assay,up to 100 uM,,,presence of rat liver S9 fraction,Salmonella typhimurium TA7001/7002/7003/7004/7005/7006,True
+10,Mutagenicity in Salmonella typhimurium TA1535 by Ames test in presence of S9 fraction,,,,presence of S9 fraction,Salmonella typhimurium TA1535,True
+11,Genotoxicity in Escherichia coli WP2uvrA at 1.5 to 50000 ug/plate in presence of rat liver S9 fraction by Ames test,1.5 to 50000 ug/plate,,,presence of rat liver S9 fraction,Escherichia coli WP2uvrA,True
+12,Genotoxicity in Salmonella typhimurium TA1535 at 1.5 to 50000 ug/plate in presence of rat liver S9 fraction by Ames test,1.5 to 50000 ug/plate,,,presence of rat liver S9 fraction,Salmonella typhimurium TA1535,True
+13,Mutagenicity in Salmonella typhimurium TA1535 in presence of liver S9 fraction by AMES test,,,,presence of liver S9 fraction,Salmonella typhimurium TA1535,True
+14,Genotoxicity in Salmonella typhimurium TA100 at 1.5 to 50000 ug/plate in presence of rat liver S9 fraction by Ames test,1.5 to 50000 ug/plate,,,presence of rat liver S9 fraction,Salmonella typhimurium TA100,True
+15,Antiviral activity against hepatitis A virus genotype 1b infected in human Huh-7.5.1 cells assessed as reduction in virus production incubated for 72 hrs by Nano-Glo luciferase assay,,,incubated for 72 hrs,,human Huh-7.5.1 cells,False
+16,Induction of mutagenesis in Salmonella Typhimurium TA98 by ames test,,,,,Salmonella Typhimurium TA98,True
+17,Mutagenic activity in Salmonella Typhimurium TA100 by Biolum Ames test,,,,,Salmonella Typhimurium TA100,True
+18,Modulation of glucocorticoid receptor in human SKGT4 cells assessed as receptor translocation from cytoplasm to nucleus at 10 uM after 4 hrs by Hoechst staining relative to Dexamethasone,10 uM,,after 4 hrs,,human SKGT4 cells,False
+19,Inhibition of sterol biosynthesis in Leishmania mexicana amazonensis promastigotes assessed as reduction in endogenous 5-dehydro episterol level at 3 uM after 96 hrs by gas-liquid chromatography,3 uM,,after 96 hrs,,Leishmania mexicana amazonensis promastigotes,False
+20,Activity at human glucocorticoid receptor in C57BI/6 mouse peritoneal exudate cells assessed as repression of mouse IL6 relative to Dexamethasone,,,,,C57BI/6 mouse peritoneal exudate cells,False

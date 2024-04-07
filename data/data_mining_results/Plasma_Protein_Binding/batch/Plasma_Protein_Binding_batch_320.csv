@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+321,Protein binding in po dosed rat plasma,Rat Plasma,,,LC-MS/MS,,True
+322,Protein binding in human plasma at 1 uM after 6 hrs by equilibrium dialysis method,Human Plasma,1 uM,6 hrs,ESI-LC/MS/MS,,True
+323,Protein binding in rat plasma at 10 uM after 4 hrs by LC-MS/MS analysis,Rat Plasma,10 uM,4 hrs,LC-MS/MS,,True
+324,Plasma protein binding in human at 1 uM measured after 6 hrs LC-MS/MS analysis,Human Plasma,1 uM,6 hrs,LC-MS/MS,,True
+325,Plasma protein binding in mouse at 1 uM measured after 6 hrs LC-MS/MS analysis,Mouse Plasma,1 uM,6 hrs,LC-MS/MS,,True
+326,"Protein binding in Wistar Han rat plasma at 0.05 mg/kg, iv administered as cassette dose",Wistar Han Rat Plasma,0.05 mg/kg,,,,True
+327,"Protein binding in dog plasma assessed as unbound fraction at 1 mg/kg, po or 0.5 mg/kg, iv",Dog Plasma,0.5 mg/kg,,,,True
+328,Protein binding in human plasma at 10 uM after 4 hrs by HPLC-MS/MS-based equilibrium dialysis method,Human Plasma,10 uM,4 hrs,HPLC-MS/MS,Equilibrium Dialysis,True
+329,Plasma protien binding of the compound incubated for 24 hrs by equilibrium dialysis method,,,24 hrs,Equilibrium Dialysis,,True
+330,Protein binding in Sprague-Dawley rat plasma by equilibrium dialysis,Sprague-Dawley Rat Plasma,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+331,Plasma protein binding in mouse at 1 uM incubated for 4 hrs by rapid equilibrium dialysis method,Mouse Plasma,1 uM,4 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+332,Protein binding in human plasma at 10 uM,Human Plasma,10 uM,,,,True
+333,Protein binding in rat plasma at 1 uM after 6 hrs by UPLC-MS/MS based equilibrium dialysis method,Rat Plasma,1 uM,6 hrs,UPLC-MS/MS,Equilibrium Dialysis,True
+334,Protein binding in DMEM medium containing 10% fetal calf serum by LC-MS analysis based ultracentrifugation assay,,,,LC-MS,,True
+335,Protein binding in BALB/c mouse serum at 10 ug/mL incubated for 4 hrs under shaking condition by LC/MS/MS analysis,BALB/c Mouse Serum,10 ug/mL,4 hrs,LC/MS/MS,,True
+336,Protein binding in mouse plasma by equilibrium dialysis,Mouse Plasma,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+337,Protein binding in Beagle dog plasma by equilibrium dialysis,Beagle Dog Plasma,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+338,"Protein binding in Sprague-Dawley rat plasma at 10 to 100 mg/kg, po by LC-MS/MS analysis",Sprague-Dawley Rat Plasma,10 to 100 mg/kg,,LC-MS/MS,,True
+339,Protein binding in human serum at 1 ug/ml after 4 hrs by equilibrium dialysis method,Human Serum,1 ug/ml,4 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+340,Protein binding in monkey plasma at 10 uM by LC-MS/MS based rapid equilibrium dialysis,Monkey Plasma,10 uM,,LC-MS/MS,Rapid Equilibrium Dialysis,True

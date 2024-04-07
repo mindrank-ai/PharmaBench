@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+500,Solubility in simulated intestinal fluid at pH 6.8,6.8,simulated intestinal fluid,,,,True
+501,Kinetic solubility of compound in PBS at pH 7.4,7.4,PBS,,UV-VIS absorption spectrophotometry analysis,,True
+502,Aqueous solubility of the compound at 1 mM by UV spectroscopic assay,,aqueous,,UV spectroscopic assay,,True
+503,Aqueous stability at pH 7.4,7.4,aqueous,,,,True
+504,Aqueous solubility of the compound in PBS buffer at pH 7.4,7.4,PBS buffer,,,,True
+505,Kinetic aqueous solubility of compound in phosphate buffer at pH 7.4 at 100 uM at 20 degree C shaken for 24 hrs by HPLC analysis,7.4,phosphate buffer,24 hrs,HPLC analysis,20 degree C,True
+506,Aqueous equilibrium solubility of the compound at pH 7.4 by HPLC-UV analysis,7.4,None,,HPLC-UV analysis,,True
+507,Intrinsic aqueous solubility of compound at pH 7.4 by LC-MS based shake-flask method,7.4,,,LC-MS based shake-flask method,,True
+508,Thermodynamic solubility of compound in PBS at pH 7.4 measured after 24 hrs by shake-flask method,7.4,PBS,24 hrs,shake-flask method,,True
+509,Kinetic solubility of the compound by dry down method,,,,dry down method,,True
+510,Solubility against porcine pancreatic elastase,,,,,,True
+511,Solubility in Japanese pharmacopeia second fluid at pH 6.8 HPLC method,6.8,Japanese pharmacopeia second fluid,,HPLC method,,True
+512,Solubility in alphaMEM culture medium containing 5% FCS at 22 degC,,alphaMEM culture medium containing 5% FCS,,,22 degC,True
+513,Solubility against bovine alpha-chymotrypsin,,,,,,True
+514,Solubility of the compound in Japanese Pharmacopoeia First Fluid of pH 1.2 by HPLC,1.2,Japanese Pharmacopoeia First Fluid,,HPLC,,True
+515,Aqueous solubility of the compound in PBS buffer by light scattering assay,,PBS buffer,,light scattering assay,,True
+516,Thermodynamic aqueous solubility of the compound at pH 6.8,6.8,aqueous,,,,True
+517,Aqueous solubility of the compound in 0.05 M phosphate buffer at pH 7.4 by shake-flask method,7.4,0.05 M phosphate buffer,,shake-flask method,,True
+518,Kinetic aqueous solubility of the compound in 4% DMSO/HEPES buffer at pH 8 incubated for 20 hrs by quantitative 1H-NMR analysis,8.0,4% DMSO/HEPES buffer,20 hrs,quantitative 1H-NMR analysis,,True
+519,Aqueous solubility of the compound in 0.05 M phosphate buffer at pH 7.4 by shake flask method,7.4,0.05 M phosphate buffer,,shake flask method,,True

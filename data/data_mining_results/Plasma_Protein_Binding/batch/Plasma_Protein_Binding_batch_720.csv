@@ -1,0 +1,17 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+61,Protein binding in mouse plasma at 5 uM,Mouse,5 uM,,,,True
+62,Plasma protein binding in mouse by LC/MS/MS analysis,Mouse,,,LC/MS/MS,,True
+63,Protein binding in 10% FBS in Trypanosoma brucei culture medium at 2 uM after 6 hrs by equilibrium dialysis and LC-MS analysis,,2 uM,6 hrs,LC-MS,Equilibrium Dialysis,True
+64,Protein binding in dog plasma fraction at 5 uM after 4.5 hrs LC-MS/MS-based rapid equilibrium dialysis method,Dog,5 uM,4.5 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+65,"Protein binding in hamster plasma at 50 mg/kg, po qd for 7 days measured 6 hrs post dose on day 5",Hamster,50 mg/kg,6 hrs post dose,,,True
+66,Protein binding in rat plasma fraction at 5 uM after 4.5 hrs LC-MS/MS-based rapid equilibrium dialysis method,Rat,5 uM,4.5 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+67,Plasma protein binding in human at 5 uM by LC/MS/MS based equilibrium dialysis method,Human,5 uM,,LC/MS/MS,Equilibrium Dialysis,True
+68,Plasma protein binding in human measured by rapid equilibrium dialysis method,Human,,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True
+69,Protein binding in guinea pig plasma,Guinea pig,,,,,True
+70,Plasma protein binding in female BALB/c mouse measured after 0.25 mins by HPLC analysis,BALB/c mouse,,0.25 mins,HPLC,,True
+71,Protein binding in rat brain homogenate at 5 uM after 4 hrs by LC-MS/MS based equilibrium dialysis method,Rat,5 uM,4 hrs,LC-MS/MS,Equilibrium Dialysis,False
+72,Protein binding to serum,,,,,,False
+73,Protein binding in dog plasma at 5 uM after 4 hrs by LC-MS/MS based equilibrium dialysis method,Dog,5 uM,4 hrs,LC-MS/MS,Equilibrium Dialysis,True
+74,"Protein binding in human OCI-LY3 cells xenografted SCID Beige mouse plasma at 200 mg/kg, po after 24 hrs by equilibrium dialysis method",Human,200 mg/kg,24 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+75,Protein binding in human plasma by LC-MS/MS based equilibrium dialysis method,Human,,,LC-MS/MS,Equilibrium Dialysis,True
+76,Plasma protein binding in mouse at 1 to 100 uM incubated for 16 hrs by UPLC-MS/MS analysis,Mouse,1 to 100 uM,16 hrs,UPLC-MS/MS,Equilibrium Dialysis,True

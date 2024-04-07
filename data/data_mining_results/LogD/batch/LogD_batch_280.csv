@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,Partition coefficient (logD) (0.01 M HCl),,,0.01 M HCl,,,,True
+2,"Octanol/water distribution co-efficient, log D of the compound at pH 7.4",7.4,,octanol/water,,,,True
+3,"Octanol-water partition coefficient, log D of the compound at pH 7.4 by RP-HPLC analysis",7.4,RP-HPLC,octanol-water,,,,True
+4,"Lipophilicity, log D of the compound at pH 7.4 by reversed phase chromatography",7.4,reversed phase chromatography,,,,,True
+5,"Lipophilicity, LogD at pH 7.4",7.4,,,,,,True
+6,"Lipophilicity, logD of the compound at pH 7 by HPLC method",7.0,HPLC,,,,,True
+7,"Octanol-buffer partition coefficient, log D of the compound",,,octanol-buffer,,,,True
+8,"Lipophilicity, log D of compound at pH 7.4 in octanol/phosphate buffer measured by shake flask method",7.4,shake flask,octanol/phosphate buffer,,,shake flask,True
+9,"Distribution coefficient, log D at pH 7.4 by shake flask method",7.4,shake flask,,,,shake flask,True
+10,"Octanol-phosphate buffer partition coefficient, logD of compound at pH 7.4 by LC/UV analysis",7.4,LC/UV,octanol-phosphate buffer,,,,True
+11,"Octanol-phosphate buffer partition coefficient, logD of compound at pH 7.4 by HPLC-UV analysis",7.4,HPLC-UV,octanol-phosphate buffer,,,,True
+12,"Octanol-water distribution coefficient, log D at pH 7.4 by HPLC-MS analysis",7.4,HPLC-MS,octanol-water,,,,True
+13,"Octanol-buffer partition coefficient, log D of the compound at pH 7.4 after 30 mins by LC-UV based shake-flask method",7.4,LC-UV,octanol-buffer,,30 mins,shake flask,True
+14,"1-Octanol-PBS buffer distribution coefficient, log D of compound at pH 7.4",7.4,,1-octanol-PBS buffer,,,,True
+15,"Lipophilicity, logD of the compound in phosphate buffer at pH 7.4",7.4,,phosphate buffer,,,,True
+16,"Distribution coefficient, log D of the compound at pH 7.4 by LC-MS",7.4,LC-MS,,,,,True
+17,"Lipophilicity, logD of compound at pH 7.4 by microscale shake flask method",7.4,microscale shake flask,,,,microscale shake flask,True
+18,"Distribution coefficient, log D of the compound at pH 1.5",1.5,,,,,,True
+19,"Distribution coefficient, logD of the compound at pH 7.4 by LC-MS based shake-flask method",7.4,LC-MS,,,,shake flask,True
+20,"Distribution coefficient, log D of the compound at pH 6.8 by HPLC method",6.8,HPLC,,,,,True

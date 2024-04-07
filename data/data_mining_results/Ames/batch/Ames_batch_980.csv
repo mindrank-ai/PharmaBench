@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in Salmonella typhimurium by microAmes assay in presence of S9 fraction,,,,presence of S9 fraction,Salmonella Typhimurium TA98,True
+2,Toxicity in Salmonella Typhimurium TA98 at 5000 ng/plate after 48 hrs by Ames assay,5000 ng/plate,,after 48 hrs,,Aspergillus niger,False
+3,Antiparasitic activity against Pythium irregulare assessed as culture diameter at <= 0.3 mg/ml after 24 hr,<= 0.3 mg/ml,,after 24 hrs,,Salmonella Typhimurium TA98,False
+4,Antimutagenic activity in Salmonella Typhimurium TA1535 carrying pSK1002 containing umuC'-lacZ fused gene assessed as suppression of MeIQ-induced SOS response to alteration in DNA synthesis measured by beta-galactosidase activity by Umu test,,,,,Balb/c mouse,False
+5,Antimutagenic activity against PhIP-induced Salmonella typhimurium TA98 mutagenesis assessed as reduction in His+ revertants after 48 hrs by microscopy in presence of S9 liver homogenate,,,,,Salmonella Typhimurium TA100,False
+6,Induction of apoptosis in human HeLa cells at 500 nM after 24 to 48 hrs by Annexin V-FITC/propidium iodide staining based biparametric cytofluorimetric analysis,500 nM,,after 24 to 48 hrs,,Salmonella Typhimurium TA100,False
+7,Induction of stereotyped behaviour in Sprague-Dawley rat administered into caudate putamen in presence of 5 mg/kg aceperone,5 mg/kg,,,,Sprague-Dawley rat,False
+8,Binding affinity to endogenously expressed carbonic anhydrase2 in Slc:ICR mouse using anti-mouse CA2 antibody by Western blot analysis,,,,,Cunninghamella bertholletiae infected neutropenic OF1 mouse,False
+9,Genotoxicity in Salmonella typhimurium by Ames 2 test,,,,,Salmonella Typhimurium WP2 uvrA (pKM 101),True
+10,Genotoxicity in human primary lymphocytes by micronucleus test,,,,,human monocytes-derived macrophages,False
+11,Genotoxicity in Salmonella typhimurium TAMix after 90 mins by Ames test,,,,,New Zealand rabbit,True
+12,Genotoxicity in Salmonella typhimurium TA98 in absence of aroclor-1254-induced rat S9 fraction by Ames test,,,,,Salmonella Typhimurium TA102,True
+13,Genotoxicity in human MDA-MB-231 cells assessed as induction of DNA damage at 3 uM incubated for 24 hrs by comet assay,3 uM,,,,DPPC unilamellar vesicle,False
+14,Induction of circling behaviour in Sprague-Dawley rat administered into caudate putamen in presence of cyproheptadine,,,,,Cunninghamella bertholletiae infected neutropenic OF1 mouse,False
+15,Binding affinity to 4:1 POPC/POPG large unilamellar vesicles assessed as calcein leakage at 4 to 20 uM measured up to 90 mins by fluorimetric analysis,4 to 20 uM,,,,human HeLa cells,False
+16,Binding affinity to eukaryotic cell membrane mimic DOPC/Cholesterol (3:1) large unilamellar vesicles assessed as calcein leakage measured after 30 mins fluorescence based assay,,,,,Escherichia coli ATCC 25922,False
+17,Genotoxicity in Salmonella typhimurium TA1535 at 0.03 to 2.25 ug/plate incubated for 48 hrs in absence of liver S9 fraction by Ames test,0.03 to 2.25 ug/plate,,incubated for 48 hrs,,Salmonella Typhimurium TA1535,True
+18,Toxicity in Salmonella Typhimurium TA100 at 2500 ng/plate after 48 hrs by Ames assay,2500 ng/plate,,after 48 hrs,,Slc:ICR mouse,False
+19,Geno-toxicity in human HeLa cells assessed as induction of DNA damage by measuring increase in double stranded DNA breaks at 69 to 550 uM after 1 hr by neutral comet assay,69 to 550 uM,,after 1 hr,,Cunninghamella bertholletiae infected neutropenic OF1 mouse,False
+20,Mutagenicity in chinese hamster V79-4 cells assessed as mutation frequency measured per 5 x 10'5 cells per plate at 10'-3 M after 24 hrs relative to control,10'-3 M,,after 24 hrs,,Salmonella Typhimurium T98,False

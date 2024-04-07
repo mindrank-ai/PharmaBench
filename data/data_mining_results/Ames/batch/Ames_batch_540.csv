@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in Salmonella typhimurium TA98 at 1.5 to 1000 ug/well in presence of rat liver S9 fraction by mini-Ames test,1.5 to 1000 ug/well,37 degC,for 3 days,presence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+2,Genotoxicity in Salmonella typhimurium TA100 at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,,absence of liver S9 fraction,Salmonella typhimurium TA100,True
+3,Antiviral activity against HCV genotype 1b replicon infected in HuH7 cells after 3 days by renilla luciferase assay,,,after 3 days,,HCV genotype 1b replicon infected HuH7 cells,False
+4,Genotoxicity in Salmonella typhimurium TA98 at 5000 lg/plate in presence of liver S9 fraction by Ames test,5000 lg/plate,,,presence of liver S9 fraction,Salmonella typhimurium TA98,True
+5,Effect on cell membrane integrity in human HeLa cells assessed as lactate dehydrogenase release at 32 times MIC against Staphylococcus aureus by CytoTox ONE homogenous membrane integrity assay,,,,,human HeLa cells,False
+6,Antifungal activity against Cryptococcus neoformans (Sanfelice) Vuillemin ATCC 90112 assessed as diameter of inhibition zone at 1 ug/disk after 48 to 72 hrs by paper disk assay,1 ug/disk,,after 48 to 72 hrs,,Candida albicans 7N,False
+7,Genotoxicity in Salmonella typhimurium TA97 at 50 times antiproliferative IC50 by Ames test,,,,presence of rat liver S9 fraction,Salmonella typhimurium TA97,True
+8,Mutagenicity in Salmonella typhimurium by Ames II assay,,,,,Salmonella Typhimurium TA98,True
+9,Induction of human Ishikawa cells growth containing endogenous ERalpha receptor at 1 uM by MTT assay relative to estradiol,1 uM,,,,human Ishikawa cells,False
+10,"Vasorelaxant activity in C57 mouse thoracic aortic rings containing endothelium assessed as reduction in high extracellular K+-induced contractions at 3 to 300 uM pretreated with nitric oxide synthase inhibitor, L-NAME and measured for 16 mins by myograph method",3 to 300 uM,,measured for 16 mins,,C57 mouse thoracic aortic rings,False
+11,Mutagenicity in Salmonella typhimurium TA98 at 6.2 to 500 ug/plate in absence of S9 fraction,6.2 to 500 ug/plate,,,absence of S9 fraction,Salmonella typhimurium TA98,True
+12,Mutagenicity in Salmonella typhimurium TA98 at 6.2 to 500 ug/plate in presence of S9 fraction,6.2 to 500 ug/plate,,,presence of S9 fraction,Salmonella typhimurium TA98,True
+13,Genotoxicity in mouse L5178Ytk+/- cells assessed as occurrence of micronucleation event measured without metabolic activation at 28 ug/ml after 24 hrs by fluorescence/light microscopy with phase contrast,28 ug/ml,,after 24 hrs,,mouse L5178Ytk+/- cells,False
+14,Genotoxicity in Salmonella Typhimurium Genox T104(recN2-4) at 0.1 to 10 uM measured every 5 mins for 4 hrs by vitotox assay in absence of S9 liver extract,0.1 to 10 uM,,measured every 5 mins for 4 hrs,absence of S9 liver extract,Salmonella Typhimurium Genox T104(recN2-4),False
+15,Upregulation of mitochondrial complex-2 expression in BCAEC at EC50 after 48 hrs by Western blot analysis in presence of L-NAME,,,after 48 hrs,presence of L-NAME,BCAEC,False
+16,Genotoxicity in Chinese hamster V79 cells by micronucleus test,,,,,Chinese hamster V79 cells,False
+17,Antimicrofilament activity in human HCT116 cells assessed as total loss of microfilament network at 5 uM by rhodamine-phalloidin staining,5 uM,37 degC,,,human HCT116 cells,False
+18,Mutagenicity in Salmonella typhimurium TA98 at 5 to 230 uM measured after 90 mins in absence of rat liver S9 fraction by Ames test,5 to 230 uM,37 degC,after 90 mins,absence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+19,Effect on cell morphology in rat A10 cells assessed as microfilaments depolymerization by immunofluorescence assay,,,,,rat A10 cells,False
+20,Genotoxicity in human blood assessed as frequency of sister chromatid exchange at 0.1 to 100 uM by BrdU/Giemsa staining based fluorescence assay,0.1 to 100 uM,,,,human blood,False

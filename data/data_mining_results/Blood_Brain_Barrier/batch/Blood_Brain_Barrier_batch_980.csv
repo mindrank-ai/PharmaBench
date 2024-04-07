@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+820,Permeability across artificial phospholipid membrane by HPLC,Artificial phospholipid membrane HPLC,,permeability across membrane,,,True
+821,Permeability from apical side to basolateral side in human Caco-2 cells,human Caco-2,,apical to basolateral,,,False
+822,Apparent permeability in MDCKII expressing MDR1 cells across basolateral to apical side,MDCKII MDR1,,basolateral to apical apparent,,,False
+823,Permeability of the compound after 3 hrs by UV-HPLC based artificial lipid membrane permeability assay,Artificial lipid membrane UV-HPLC,,permeability assay,,after 3 hrs,False
+824,Permeability in human Caco-2 cells at 2 to 50 uM,human Caco-2,,,,2 to 50 uM,False
+825,Intestinal permeability in ex vivo Wistar rat everted gut sac model assessed as GLUT2-mediated drug permeation by measuring drug level permeated through intestinal membrane at 100 uM added 10 mins after 100 uM SGLT1 inhibitor phloridzin dihydrate and measured after 30 mins post drug dose by HPLC analysis,Wistar rat everted gut sac HPLC,,GLUT2-mediated intestinal permeation,,100 uM added after inhibitor measured after 30 mins,False
+826,Effective permeability of compound by PAMPA-BBB assay,PAMPA-BBB,,effective permeability,,,True
+827,Permeability surface area of paracellular transport in MDCK2 cells expressing human ABCG2 assessed as ABCG2-mediated transport at 50 uM after 0.5 to 1 hrs by HPLC method,MDCK2 human ABCG2 HPLC,,ABCG2-mediated transport,,50 uM after 0.5 to 1 hr,False
+828,Permeability surface area of paracellular transport in MDCK2 cells expressing human ABCG2 assessed as ABCG2-mediated transport at 200 uM after 0.5 to 1 hrs by HPLC method,MDCK2 human ABCG2 HPLC,,ABCG2-mediated transport,,200 uM after 0.5 to 1 hr,False
+829,Permeability of the compound across apical to basolateral side in human Caco-2 cells at pH 6.5,human Caco-2 pH 6.5,,apical to basolateral permeability,6.5,,False
+830,Permeability from basolateral to apical side in human Caco2 cells by HPLC-MS/MS method,human Caco2 HPLC-MS/MS,,basolateral to apical permeability,,,False
+831,Intrinsic permeability from apical to basolateral side in human Caco2 cells at 10 uM,human Caco2,,intrinsic apical to basolateral permeability,,10 uM,False
+832,Effective permeability of compound in PBS at pH 7.4 at 200 uM incubated for 17 hrs by PAMPA-BBB assay,PAMPA-BBB PBS pH 7.4,,effective permeability,7.4,200 uM for 17 hrs,False
+833,Membrane permeability of compound,,,membrane permeability,,,False
+834,Permeability of the compound across basolateral to apical side of membrane in human Caco-2 cells,human Caco-2 basolateral to apical,,basolateral to apical permeability,,,False
+835,Permeability in Sprague-Dawley rat skin,Sprague-Dawley rat skin,,permeability in rat skin,,,False
+836,Permeability of the compound across apical to basolateral side of membrane in human Caco-2 cells,human Caco-2 apical to basolateral,,apical to basolateral permeability,,,False
+837,Permeability in human cadaver skin at 0.7 mg/cm'2 assessed as amount of compound crossing 1 cm after 48 hrs by HPLC and UV spectroscopy,human cadaver skin HPLC UV spectroscopy,,permeability assessment in human skin,,0.7 mg/cm'2 for 48 hrs,False
+838,Permeability of the compound at 120 uM after 16 hrs agitation by PAMPA,PAMPA,,agitation permeability assessment,,120 uM after 16 hrs,False
+839,Permeability surface area of paracellular transport in MDCK2 cells assessed as transport at 10 uM after 0.5 to 1 hrs by HPLC method,MDCK2 HPLC,,paracellular transport,,10 uM after 0.5 to 1 hr,False

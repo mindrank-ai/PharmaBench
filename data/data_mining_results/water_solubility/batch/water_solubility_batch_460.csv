@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+40,Kinetic solubility in pH 2.0 0.01M HCl buffer incubated for 30 mins by nephelometry,2.0,0.01M HCl buffer,30 mins,nephelometry,,True
+41,Aqueous solubility of the compound in Dulbecco's phosphate-buffered saline at pH 7.4 by high-throughput HPLC method,7.4,Dulbecco's phosphate-buffered saline,,high-throughput HPLC,,True
+42,Aqueous solubility of the compound in pH 7.2 phosphate buffered saline/DMSO,7.2,phosphate buffered saline/DMSO,,,,True
+43,Solubility of the compound in water after 24 hrs by HPLC analysis,,water,24 hrs,HPLC analysis,,True
+44,Aqueous solubility of the compound in 25 uM phosphate buffer at pH 6.5,6.5,25 uM phosphate buffer,,,,True
+45,Solubility of the compound in phosphate buffer at pH 7.4 by HPLC analysis,7.4,phosphate buffer,,HPLC analysis,,True
+46,Kinetic solubility of compound in PBS at pH 6.8 incubated for 24 hrs by UPLC/MS analysis,6.8,PBS,24 hrs,UPLC/MS analysis,,True
+47,Thermodynamic aqueous solubility of the compound in PBS buffer at pH 6.8 after 24 hrs by HPLC analysis,6.8,PBS buffer,24 hrs,HPLC analysis,,True
+48,Solubility of compound by chemiluminscent nitrogen detection method,,,,chemiluminscent nitrogen detection,,
+49,Kinetic solubility in pH 1 HCl by HPLC analysis,1.0,HCl,,HPLC analysis,,True
+50,Aqueous solubility in pH 7.4 phosphate buffer at 120 uM after 24 hrs by HPLC method,7.4,phosphate buffer,24 hrs,HPLC method,,True
+51,Solubility of the compound in FaSSIF at pH 6.5 incubated for 16 hrs by HPLC gradient analysis,6.5,FaSSIF,16 hrs,HPLC gradient analysis,,True
+52,Solubility of the compound in dried DMSO after 24 hrs by equilibrium method,,DMSO,24 hrs,equilibrium method,,
+53,Aqueous solubility in pH 5.5 phosphate buffer at 120 uM after 24 hrs by HPLC method,5.5,phosphate buffer,24 hrs,HPLC method,,True
+54,"Solubility (phosphate buffered saline, 1% DMSO, at pH 6.5)",6.5,"phosphate buffered saline, 1% DMSO",,,,True
+55,Solubility of compound in fasted state simulated intestinal fluid,,fasted state simulated intestinal fluid,,,,True
+56,Solubility in phosphate buffer at pH 6.8,6.8,phosphate buffer,,,,True
+57,Kinetic solubility of the compound in sodium phosphate buffer at pH 6.5 after 24 hrs by polycarbonate filter solubility plate assay,6.5,sodium phosphate buffer,24 hrs,polycarbonate filter solubility plate assay,,True
+58,"Solubility (pH 7.4, 25 degree C)",7.4,,,,25 degree C,True
+59,Kinetic solubility of the compound by CLND method,,,,CLND method,,True

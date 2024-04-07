@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+320,Kinetic solubility of the compound in phosphate buffer at pH 6.5 by nephelometry,6.5,phosphate buffer,,nephelometry,,True
+321,Equilibrium solubility of the compound in DMSO preincubated for 4 hrs,,DMSO,4 hrs,equilibrium solubility,,False
+322,Aqueous solubility (pH 7),7.0,aqueous,,,20 degC,True
+323,Kinetic solubility of the compound in potassium phosphate buffer at pH 6.5,6.5,potassium phosphate buffer,,kinetic solubility,,True
+324,Solubility of compound in phosphate buffer at pH 7.4,7.4,phosphate buffer,,,,True
+325,Aqueous solubility of the compound at pH 6.8 after 20 hrs by HPLC analysis,6.8,aqueous,20 hrs,HPLC analysis,,True
+326,Solubility at pH 7 after 24 hrs by LC-MS/MS analysis,7.0,None,24 hrs,LC-MS/MS analysis,,True
+327,Kinetic solubility of compound in in PBS buffer at pH 7.4,7.4,PBS buffer,,kinetic solubility,,True
+328,Solubility of compound in pH 6.8 sodium phosphate buffer at 10 mmol,6.8,sodium phosphate buffer,,,,True
+329,Solubility in stimulated intestinal fluid at pH 7 after 3 days,7.0,stimulated intestinal fluid,3 days,,,True
+330,Solubility of compound in water/PBS buffer measured after 24 hrs by HPLC analysis,,water/PBS buffer,24 hrs,HPLC analysis,,True
+331,Solubility of compound in pH 6.5 phosphate buffer by nephelometry,6.5,phosphate buffer,,nephelometry,,True
+332,Aqueous solubility in water,,water,,,,True
+333,Aqueous solubility of the compound in saline,,saline,,,,True
+334,Solubility of compound in pH 2 0.01 M HCl by nephelometry,2.0,0.01 M HCl,,nephelometry,,True
+335,Thermodynamic solubility of the compound in phosphate buffer at pH 7.4 at 1 mg after 10 mins by HPLC -UV analysis,7.4,phosphate buffer,10 mins,HPLC -UV analysis,,True
+336,Aqueous solubility of the compound in water after 48 hrs by UV spectrophotometer,,water,48 hrs,UV spectrophotometer,,True
+337,Solubility in pH 2.0 solution,2.0,None,,,,True
+338,Solubility of the compound in FaSSIF by HPLC analysis,,FaSSIF,,HPLC analysis,,True
+339,Solubility in stimulated gastric fluid at pH 2 umol after 3 days,2.0,stimulated gastric fluid,3 days,,,True

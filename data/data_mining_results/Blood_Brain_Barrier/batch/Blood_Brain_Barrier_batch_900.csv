@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+780,Passive permeability in wild-type MDCK cells,wild-type MDCK,,Passive permeability,,,False
+781,Permeability of the compound in bovine endothelial/rat astrocytes assessed as transcellular electrical resistance at 1 uCi/ml measured every 20 mins for 2 hrs,bovine endothelial/rat astrocytes TER,,transcellular electrical resistance,,1 uCi/ml measurement every 20 mins,False
+782,Substrate activity at P-gp (unknown origin) assessed as permeability across apical to basolateral side,P-gp substrate activity,,apical to basolateral permeability,,,False
+783,Substrate activity at P-gp (unknown origin) assessed as permeability across basolateral to apical side,P-gp substrate activity,,basolateral to apical permeability,,,False
+784,Apparent permeability in pig LLC-PK1 cells,LLC-PK1,,apparent permeability,,,False
+785,Permeability from basal to apical side across human Caco2 cells,human Caco2,,basal to apical,,,False
+786,Permeability through isolated albino rabbit denuded (epithelium-free) cornea,rabbit denuded cornea,,permeability through cornea,,,False
+787,Permeability from apical to basolateral side across human Caco2 cells after 2 hrs by LC-MS analysis,human Caco2 LC-MS,,apical to basolateral permeability,,after 2 hrs,False
+788,Apparent permeability from basolateral to apical side of human Caco-2 cells,human Caco-2,,basolateral to apical apparent,,,False
+789,Permeability from apical to basolateral side of the human Caco-2 membrane by LC-MS/MS analysis,human Caco-2 LC-MS/MS,,apical to basolateral permeability,,after 2 hrs,False
+790,Permeability across apical to basolateral side of human Caco2 cells at 10 umol/L at pH 7.4,human Caco2,,apical to basolateral permeability,7.4,10 umol/L at pH 7.4,False
+791,Permeability from apical to basolateral side in MDCK2 cells stably expressing human wild-type ABCB1 at 5 uM incubated for 60 mins,MDCK2 ABCB1,,apical to basolateral permeability,,5 uM for 60 mins,False
+792,"Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound, Lipoid S100 and vitamin E-TPGS ratio 1:2:1",human Caco2 mass balance,,mass balance permeability,,ratio 1:2:1,False
+793,Permeability in MDCK2-MDR1 cells at 1 uM incubated for 1 hr by LC-MS/MS method,MDCK2-MDR1 LC-MS/MS,,permeability in MDCK2-MDR1,,1 uM for 1 hr,False
+794,"Permeability from apical to basolateral side of human Caco2 cells at compound, Lipoid S100 and pluronic f68 ratio 1:1:1",human Caco2 mass balance,,mass balance permeability,,ratio 1:1:1,False
+795,MDR1-mediated transport in MDCK cells assessed as permeability from apical to basolateral side at 5 uM,MDCK MDR1-mediated,,MDR1-mediated permeability,,5 uM,False
+796,"Permeability from apical to basolateral side of human Caco2 cells at compound, Lipoid S100 and pluronic f127 ratio 1:1:1",human Caco2 mass balance,,mass balance permeability,,ratio 1:1:1,False
+797,Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound to Lipoid S100 ratio 1:3 in presence of 5:1 molar ratio of Lipoid S100 to tween 80,human Caco2 mass balance,,mass balance permeability with tween 80,,ratio 1:3 with tween 80,False
+798,Permeability of compounds was determined in Caco-2 cell monolayer permeability assay; (moderate),Caco-2 cell monolayer permeability,,Caco-2 permeability (moderate),,,False
+799,Permeability from apical to basolateral side of MDR1 transfected MDCK cells at 3.16 uM after 1 hr by LC/MS analysis,MDCK MDR1 LC/MS,,apical to basolateral permeability,,3.16 uM after 1 hr,False

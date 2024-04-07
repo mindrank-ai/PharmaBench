@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+620,Permeability of compound in PBS buffer assessed as permeability coefficient at pH 7.4 at 200 uM incubated for 5 hrs by PAMPA based LC-MS analysis,PAMPA LC-MS,,permeability coefficient,7.4,200 uM for 5 hrs,False
+621,Permeability of the compound in human HeLa cells at 5 uM incubated for 2 hrs by flow cytometric analysis relative to CPP9,human HeLa flow cytometry,,relative permeability flow cytometry,,5 uM for 2 hrs,False
+622,Permeability of compound after 5 hrs by PAMPA,PAMPA,,,,after 5 hrs,False
+623,Permeability of compound assessed as compound level in acceptor plate after 5 hrs by PAMPA,PAMPA,,compound level in acceptor plate,,after 5 hrs,False
+624,Permeability from apical to basolateral side in human Caco2 cells at 5 uM after 90 mins,human Caco2,,apical to basolateral,,5 uM after 90 mins,False
+625,Apparent permeability from basolateral to apical side in MDCK2-MDR1 measured upto 120 mins,MDCK2-MDR1,,basolateral to apical apparent permeability,,up to 120 mins,False
+626,Permeability across cell membrane,,,permeability across membrane,,,False
+627,Exsorptive permeability coefficienty across human Caco-2 cells,human Caco-2,,exsorptive permeability coefficient,,,False
+628,Permeability of the compound at 50 uM after 4 hrs by PAMPA,PAMPA,,,,50 uM after 4 hrs,False
+629,Apparent permeability from apical to basolateral side in MDCK2-MDR1 measured upto 120 mins,MDCK2-MDR1,,apical to basolateral apparent permeability,,up to 120 mins,False
+630,Permeability of compound in human Caco2 cells by PAMPA assay,human Caco2 PAMPA,,permeability assay,,,False
+631,Passive permeability from basolateral to apical side in human Caco2 cells at 12.5 uM,human Caco2,,passive permeability basolateral to apical,,12.5 uM,False
+632,Permeability from apical to basolateral side in MDCK cells at 1 uM,MDCK,,apical to basolateral,,1 uM,False
+633,Passive permeability from apical to basolateral side in human Caco2 cells at 12.5 uM,human Caco2,,passive permeability apical to basolateral,,12.5 uM,False
+634,Permeability from apical to basolateral side in dog RRCK cells,dog RRCK,,apical to basolateral,,,False
+635,Permeability across PAMPA membrane,PAMPA,,permeability across membrane,,,False
+636,Apparent permeability from apical to basolateral side of human Caco-2 cells,human Caco-2,,apparent permeability apical to basolateral,,,False
+637,Permeability in P-gp expressing MDCK cells,MDCK P-gp,,permeability in P-gp expressing,,,False
+638,Passive permeability of compound from apical to basolateral side over basolateral to apical side in human Caco-2 cells,human Caco-2,,passive permeability apical to basolateral > basolateral to apical,,,False
+639,Permeability from basolateral to apical side of human Caco-2 cell membrane at 10 uM,human Caco-2,,basolateral to apical,,10 uM,False

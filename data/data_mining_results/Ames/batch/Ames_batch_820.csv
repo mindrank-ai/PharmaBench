@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Mutagenic activity in Salmonella Typhimurium TA97a by Ames test in absence of S9 fraction,,,,absence of S9 fraction,Salmonella Typhimurium TA97a,True
+2,Mutagenicity in Salmonella typhimurium TA98 at 0.2 to 16 ug/ml after 48 hrs by Ames test,0.2 to 16 ug/ml,,after 48 hrs,,Salmonella typhimurium TA98,True
+3,Antiinflammatory activity against ip dosed zymosan-induced C57BL/6J mouse inflamed paw model assessed as effect on paw swelling administered 30 mins before zymosan challenge,,,,,C57BL/6J mouse,False
+4,Effect on actin cytoskeleton in rat A10 cells assessed as loss of F-actin filament at 52 nM by TRITC-phalloidin staining,52 nM,,after 24 hrs,,rat A10 cells,False
+5,Induction of stereotyped behaviour in Sprague-Dawley rat administered into caudate putamen in presence of 5 mg/kg cyproheptadine,5 mg/kg,,,,Sprague-Dawley rat,False
+6,Mutagenicity in Salmonella typhimurium TA100 at 1.5 to 64 ug in presence of S9 fraction by ames test,1.5 to 64 ug,,after 48 hrs,presence of S9 fraction,,False
+7,"Antialzheimer activity in APP-PS1 transgenic 7 month old mouse hippocampus assessed as reduction of hexamers of amyloid beta level at 2 mg/kg, ip administered 3 times in a week for 4 weeks by immunoblot analysis",2 mg/kg,,for 4 weeks,,APP-PS1 transgenic mouse,True
+8,Herbicidal activity against Convolvulus arvensis assessed as diameter of leaf necrosis at 250 ug/ml measured after 2 days post compound treatment by leaf puncture assay,250 ug/ml,,after 2 days,,Convolvulus arvensis,False
+9,Induction of phospholipidosis in bovine corneal fibroblasts assessed as lamellar inclusion bodies at 20 uM after 72 hrs by light microscopy,20 uM,,after 72 hrs,,bovine corneal fibroblasts,False
+10,Genotoxicity in human HeLa cells assessed as induction of genetic damage at 1 uM preincubated for 24 hrs followed by 7 mins LED light irradiation and measured after 24 hrs by alkali comet assay,1 uM,,after 24 hrs,,HeLa cells,False
+11,Antiinflammatory activity in human monocytes-derived macrophages assessed as inhibition of LPS-induced IL-6 secretion at 30 uM pretreated for 1 hr followed by LPS stimulation and measured after 24 hrs by homogenous time-resolved fluorescence assay,30 uM,,after 24 hrs,,human monocytes-derived macrophages,False
+12,Mutagenicity in Salmonella typhimurium TA97 at 3 to 3000 ug/plate in presence of rat liver S9 fraction after 72 hrs by Ames test,3 to 3000 ug/plate,,after 72 hrs,presence of rat liver S9 fraction,Salmonella typhimurium TA97,True
+13,Mutagenicity in chinese hamster V79-4 cells assessed as mutation frequency measured per 1 x 10'5 cells per plate at 10'-3 M after 24 hrs relative to control,10^-3 M,,after 24 hrs,presence of S9 fraction,,True
+14,Genotoxicity in Salmonella typhimurium in absence of rat liver S9 fraction and NADPH incubated for 72 hrs by Ames reverse mutation assay,,,,,Salmonella typhimurium,False
+15,Inhibition of endogenous sphingosine level in human MCF7 cells at 10 uM after 2.5 hrs,10 uM,,after 2.5 hrs,,human HL60 cells,False
+16,Agonist activity at muscarinic acetylcholine receptor in guinea pig ileum assessed as longitudinal muscle contraction measured every 20 mins in absence of 10 uM competitive nicotinic antagonist hexamethonium chloride,,,,,C57BL/6J mouse,False
+17,"Antialzheimer activity in APP-PS1 transgenic 11 month old mouse hippocampus assessed as reduction of dodecamer of amyloid beta level at 2 mg/kg, ip administered 3 times in a week for 4 weeks by immunoblot analysis",2 mg/kg,,3 times in a week for 4 weeks,,,False
+18,Antimicrofilament activity in human HCT116 cells assessed as complete loss of microfilament network at GI50 concentration by rhodamine-phalloidin staining,GI50 concentration,,,,mouse L5178Y cells,False
+19,Antiviral activity against Hepatitis B virus infected in human HepG2.2.15 cells assessed as reduction in HBV pregenomic mRNA level at 1 uM measured after 5 days by Northern blot analysis,1 uM,,after 5 days,,Cunninghamella bertholletiae,False
+20,Genotoxicity in Salmonella typhimurium TA100 at 0.6 to 100 uM after 96 hrs by photometry analysis,0.6 to 100 uM,,after 96 hrs,,Salmonella Typhimurium TA1535,False

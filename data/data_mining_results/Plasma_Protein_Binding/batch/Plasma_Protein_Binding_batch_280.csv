@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+281,Protein binding in mouse plasma by LC-MS/MS analysis,Mouse Plasma,,,LC-MS/MS,,True
+282,Protein binding in Beagle dog plasma at 1 mg/kg administered as iv infusion for 30 mins and measured after 24 hrs by ESI-LC/MS/MS analysis,Beagle Dog Plasma,1 mg/kg,after 24 hrs,ESI-LC/MS/MS,,True
+283,Protein binding in mouse plasma at 10 uM measured after 4 hrs by LC-MS/MS analysis,Mouse Plasma,10 uM,4 hrs,LC-MS/MS,,True
+284,Protein binding in human plasma at 1 uM incubated for 5 hrs by LC-MS/MS analysis,Human Plasma,1 uM,5 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+285,Plasma protein binding in human relative to control,Human Plasma,,,,,True
+286,Plasma protein binding in dog relative to control,Dog Plasma,,,,,True
+287,Protein binding in rat plasma at 8 ug/ml after 15 mins by UPLC based charcoal adsorption method,Rat Plasma,8 ug/ml,15 mins,UPLC,,True
+288,Protein binding in human plasma incubated for 240 mins by equilibrium dialysis,Human Plasma,,240 mins,Equilibrium Dialysis,Equilibrium Dialysis,True
+289,Protein binding in mouse plasma by LC-MS analysis based ultracentrifugation assay,Mouse Plasma,,,Ultracentrifugation,Ultracentrifugation,True
+290,Protein binding in rat brain at 1 uM measured after 15 mins by LC-MS/MS analysis,Rat Brain,1 uM,15 mins,LC-MS/MS,,False
+291,Plasma protein binding in human at 10 uM,Human Plasma,10 uM,,,,True
+292,Protein binding in rat plasma at 5 uM incubated for 16 hrs under shaking condition by LC/MS/MS based rapid equilibrium dialysis method,Rat Plasma,5 uM,16 hrs,LC/MS/MS,Rapid Equilibrium Dialysis,True
+293,Protein binding in rhesus monkey plasma at 1 mg/kg administered as iv infusion for 30 mins and measured after 24 hrs by ESI-LC/MS/MS analysis,Rhesus Monkey Plasma,1 mg/kg,after 24 hrs,ESI-LC/MS/MS,,True
+294,Plasma protein binding rate in human,Human Plasma,,,,,True
+295,Protein binding in rat plasma at 1 uM,Rat Plasma,1 uM,,LC-MS,,True
+296,Protein binding in mouse plasma at 5 uM after 6 hrs by LC/MS analysis,Mouse Plasma,5 uM,6 hrs,LC/MS,,True
+297,"Plasma protein binding in Sprague-Dawley rat plasma at 1 mg/kg, iv measured up to 8 hrs by LC-MS/MS analysis",Sprague-Dawley Rat Plasma,1 mg/kg,up to 8 hrs,LC-MS/MS,,True
+298,Protein binding in human plasma at 5 uM after 6 hrs by LC/MS analysis,Human Plasma,5 uM,6 hrs,LC/MS,,True
+299,DNDI: Protein binding in dog plasma,Dog Plasma,,,,,True
+300,Plasma protein binding rate in mouse,Mouse Plasma,,,,,True

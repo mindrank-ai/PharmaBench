@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Mutagenicity in Salmonella typhimurium TA1537 in presence of rat liver S9 fraction by AMES test,,,,presence of rat liver S9 fraction,Salmonella typhimurium TA1537,True
+2,Antiviral activity against Bovine viral diarrhea virus Oregon C24V genotype 1 subgenotype b infected in bovine EBTr cells assesed as inhibition of virus-induced cytopathic effect at 50 uM after 72 hrs by MTT assay,50 uM,,72 hrs,,bovine EBTr cells,True
+3,Mutagenicity in Salmonella typhimurium TA1535 assessed as increase in revertant colonies after 2 days in presence of rat liver S9 fraction by Ames test relative to control,,,after 2 days,presence of rat liver S9 fraction,Salmonella typhimurium TA1535,True
+4,Antiviral activity against Bovine viral diarrhea virus Oregon C24V genotype 1 subgenotype b infected in bovine EBTr cells assesed as inhibition of virus-induced cytopathic effect at 20 to 100 uM after 72 hrs by MTT assay,20 to 100 uM,,72 hrs,,bovine EBTr cells,True
+5,Binding affinity to Escherichia coli ATCC 25922 genomic DNA after 30 mins by agarose gel electrophoresis,,,after 30 mins,,Escherichia coli ATCC 25922,False
+6,Genotoxicity in Salmonella typhimurium TA102 at 50 times IC50 by Ames test,50 times IC50,,,,Salmonella typhimurium TA102,True
+7,Genotoxicity in Salmonella Typhimurium expressing luxCDABE assessed as induction of transcription of SOS DNA repair gene at 0.1 to 10 uM,0.1 to 10 uM,,,,Salmonella Typhimurium,False
+8,Genotoxicity in human lymphocytes assessed as chromosome aberration,,,,,human lymphocytes,False
+9,Genotoxicity in Salmonella typhimurium TA98 at 50 times IC50 by Ames test,50 times IC50,,,,Salmonella typhimurium TA98,True
+10,Mutagenic activity in Salmonella typhimurium TA100 assessed as induction of reverse mutation at 50 uM,50 uM,,,,Salmonella typhimurium TA100,False
+11,Antibacterial activity against Klebsiella pneumoniae ATCC 10032 assessed as inhibition zone diameter after 24 hrs by agar diffusion method,,,after 24 hrs,,Klebsiella pneumoniae ATCC 10032,False
+12,Behavioral responses in Sprague-Dawley rat with unilateral 6-OHDA lesion of nigrostriatal pathway assessed as bilateral response at 6.25 to 25 mg/kg direct injection into caudate-putamen,6.25 to 25 mg/kg,,,,Sprague-Dawley rat,False
+13,Genotoxicity in Salmonella typhimurium TA1535 at 50 times IC50 by Ames test,50 times IC50,,,,Salmonella typhimurium TA1535,True
+14,Genotoxicity in Salmonella Typhimurium expressing episomal lux operon at 0.1 to 10 uM,0.1 to 10 uM,,,,Salmonella Typhimurium,False
+15,Genotoxicity in Salmonella Typhimurium expressing luxCDABE assessed as induction of transcription of SOS DNA repair gene at 0.1 to 10 uM in presence of S9 fraction,0.1 to 10 uM,,,presence of S9 fraction,Salmonella Typhimurium,False
+16,Genotoxicity in Salmonella typhimurium TA97 at 50 times IC50 by Ames test,50 times IC50,,,,Salmonella typhimurium TA97,True
+17,Antimigratory activity in human MDA-MB-231 cells assessed as wound diameter at 5 uM measured after 24 hrs by microscopic analysis,5 uM,,after 24 hrs,,human MDA-MB-231 cells,False
+18,Antiprotozoal activity against Paramecium caudatum assessed as parasites viability at 1 ug/ml after 15-20 mins by stereomicroscopy,1 ug/ml,,15-20 mins,,Paramecium caudatum,False
+19,Behavioral responses in Sprague-Dawley rat with unilateral 6-OHDA lesion of nigrostriatal pathway assessed as hyperactivity response at 6.25 to 25 mg/kg direct injection into caudate-putamen,6.25 to 25 mg/kg,,,,Sprague-Dawley rat,False
+20,Stimulation of plant growth parameters in Triticum aestivum (wheat) assessed as increase in aerial weight at 50 mol/ha,50 mol/ha,,,,Triticum aestivum (wheat),False

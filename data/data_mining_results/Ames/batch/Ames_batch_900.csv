@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Mutagenicity in Salmonella typhimurium TA100 assessed as mean revertant colonies at 0.25 to 240 ug/well in presence of rat liver S9 fraction,0.25 to 240 ug/well,,after 48 hrs,presence of rat liver S9 fraction,Salmonella Typhimurium TA100,True
+2,Mutagenicity in Salmonella typhimurium TA98 at 0.06 to 12.5 ug/plate after 1 hr by Ames test in absence of S9 fraction,0.06 to 12.5 ug/plate,,after 1 hr,,Salmonella typhimurium TA98,True
+3,Herbicidal activity against Avena sterilis subsp. ludoviciana assessed as diameter of leaf necrosis at 250 ug/ml measured after 2 days post compound treatment by leaf puncture assay,250 ug/ml,,after 2 days,,Avena sterilis subsp. ludoviciana,False
+4,Mutagenicity in Salmonella typhimurium TA98 at 1.5 to 64 ug in presence of S9 fraction by ames test,1.5 to 64 ug,,after 48 hrs,,Salmonella typhimurium TA98,True
+5,Induction of outgrowth of neurofilament positive neutrite-like structures in human BE(2)-C cells at 10 uM after 6 days by DAPI-staining based microscopic analysis,10 uM,,after 6 days,,BE(2)-C cells,False
+6,Mutagenicity in Salmonella typhimurium in absence of liver S9 fraction by Ames test,,,,,Salmonella typhimurium,False
+7,Mutagenicity against mouse L5178Y cells at 25 ug/mL after 4 hrs by MOLY assay in absence of S9 fraction,25 ug/mL,,after 4 hrs,,mouse L5178Y cells,True
+8,Genotoxicity in Salmonella typhimurium TA104 RecN2-4 at 0.25 to 50 uM measured for 4 hrs with 5 mins interval by Vitotox luminescence assay,0.25 to 50 uM,,measured for 4 hrs,presence of rat liver S9 fraction,Salmonella typhimurium TA104 RecN2-4,False
+9,Mutagenicity in Salmonella typhimurium TA98 after 2 days by Ames test in presence of rat liver S9 fraction,,,after 2 days,presence of rat liver S9 fraction,Salmonella typhimurium TA98,True
+10,Membrane permeabilization in bacterial membrane model consisting large unilamellar vesicle of dipalmitoylphosphatidylcholine:dipalmitoylphosphatidylglycerol at ratio of 7:3 assessed as calcein release after 5 mins by fluorescence assay,,,after 5 mins,,unilamellar vesicles of dipalmitoylphosphatidylcholine:dipalmitoylphosphatidylglycerol,False
+11,Inhibition of gametogenesis after 1 hrs in Plasmodium falciparum 3D7 at 10 uM in emergence medium,10 uM,,after 1 hr,,Plasmodium falciparum 3D7,False
+12,Mutagenicity in Salmonella typhimurium TA1538 at 3 to 3000 ug/plate in presence of rat liver S9 fraction after 72 hrs by Ames test,3 to 3000 ug/plate,,after 72 hrs,presence of rat liver S9 fraction,Salmonella typhimurium TA1538,True
+13,Genotoxicity in Salmonella typhimurium TA100 in presence of S9 fraction by Mini-Ames test,,,,,human HL60 cells,False
+14,Herbicidal activity against Digitaria sanguinalis (hairy crabgrass) assessed as diameter of leaf necrosis at 50 ug/ml measured after 2 days post compound treatment by leaf puncture assay,50 ug/ml,,after 2 days,,Cynodon dactylon,False
+15,"Antinociceptive activity in carrageenan-induced Swiss mouse model of mechanical hyperalgesia at 100 umol/kg, po pretreated for 1 hr followed by carrageenan challenge measured at 3 hrs to 7 hrs post dose by Von Frey filament assay",100 umol/kg,,"pretreated for 1 hr, measured at 3 hrs to 7 hrs post dose",,Chinese hamster V79-4 cells,False
+16,"Necrosis in iv dosed mouse assessed as inflamed, bloody, upper GI tract with pancreatic damage and hemorrhage in lungs",,,,,Salmonella typhimurium TA1535,False
+17,Mutagenicity in Salmonella typhimurium TA100 after 96 hrs in absence of rat liver S9 fraction by Ames test,,,after 96 hrs,presence of rat liver S9 fraction,Salmonella typhimurium TA102,False
+18,Mutagenic activity in Salmonella Typhimurium TA98 assessed as number of revertant colonies at 313 ng/plate after 48 hrs by Ames assay,313 ng/plate,,after 48 hrs,,Cunninghamella bertholletiae UTHSC 04-2581,True
+19,Induction of circling behaviour in Sprague-Dawley rat administered into caudate putamen in presence of haloperidol,,,,,Candida albicans SC5314,False
+20,Mutagenic activity in aldehyde-sensitive Salmonella Typhimurium TA104 assessed as number of revertant colonies at 36 ng/plate after 48 hrs by Ames assay,36 ng/plate,,after 48 hrs,,Escherichia coli ATCC 25922,False

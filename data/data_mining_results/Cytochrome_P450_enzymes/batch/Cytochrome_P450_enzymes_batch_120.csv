@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+121,Inhibition of human CYP11B1 expressed in V79 cells incubated for 1 hr before 11-deoxycortisol substrate addition by HTRF-based assay,CYP11B1,incubated for 1 hr,,,11-deoxycortisol,,,HTRF-based assay,expressed in V79 cells,human,True
+122,Inhibition of human recombinant CYP2J2 assessed as reduction in astemizole O-demethylation by LC-MS/MS method,CYP2J2,,,,astemizole,,,LC-MS/MS,recombinant human,human recombinant,True
+123,Inhibition of CYP3A4 using diethoxyfluorescein as substrate,CYP3A4,,,,diethoxyfluorescein,,,,,human,True
+124,Inhibition of recombinant human CYP1A2,CYP1A2,,,,,,,,recombinant human,recombinant human,True
+125,Inhibition of human recombinant CYP11B1 by cell-based assay,CYP11B1,,,,,,,cell-based assay,recombinant human,human recombinant,True
+126,Inhibition of CYP2D6 by human liver microsome assay,CYP2D6,,,,,,,human liver microsome assay,,human,True
+127,Inhibition of human adrenal corticoid CYP11B1 expressed in chinese hamster V79 MZh cells,CYP11B1,,,,,,,,expressed in chinese hamster V79 MZh cells,human adrenal corticoid,True
+128,Inhibition of CYP26 expressed in human T47D cell line,CYP26,,,,,,,,expressed in human T47D cell line,human,True
+129,Inhibition of human CYP11B2 expressed in V79 11B2 cells,CYP11B2,,,,,,,,expressed in V79 11B2 cells,human,True
+130,Inhibition of human recombinant CYP11B1 using deoxycortisol as substrate incubated for 60 mins by cell-based HPLC analysis,CYP11B1,incubated for 60 mins,,,deoxycortisol,,,cell-based HPLC,recombinant human,human recombinant,True
+131,In vitro binding affinity against 5-hydroxytryptamine 1A receptor using [3H]8-OH-DPAT in human CYP3A4 assay,5-hydroxytryptamine 1A receptor,,,,[3H]8-OH-DPAT,,,,,,False
+132,Inhibition of human CYP11B2 expressed in V79 MZh cells using [14C]-deoxycorticosterone substrate incubated for 6 hrs by HPTLC method,CYP11B2,incubated for 6 hrs,,,[14C]-deoxycorticosterone,,,HPTLC,expressed in V79 MZh cells,human,True
+133,Inhibition of CYP2C9 in human liver microsomes using diclofenac as substrate in presence of NADPH,CYP2C9,,,,diclofenac,in presence of NADPH,NADPH,LC-MS/MS,human liver microsomes,human liver,True
+134,Inhibition of human CYP1B1 by EROD assay,CYP1B1,,,,,,,EROD assay,,human,True
+135,Inhibition of human CYP1A2 by EROD assay,CYP1A2,,,,,,,EROD assay,,human,True
+136,Inhibition of human CYP1A1 assessed as reduction in 7-ethoxyresorufin O-deethylation activity by fluorescence based EROD assay,CYP1A1,,,,7-ethoxyresorufin,,,fluorescence based EROD assay,,human,True
+137,Inhibition of human recombinant CYP11B2 using deoxycorticosterone as substrate incubated for 90 mins by cell-based HPLC analysis,CYP11B2,incubated for 90 mins,,,deoxycorticosterone,,,cell-based HPLC,recombinant human,human recombinant,True
+138,Inhibition of human CYP1A2 assessed as reduction in 7-ethoxyresorufin O-deethylation activity by fluorescence based EROD assay,CYP1A2,,,,7-ethoxyresorufin,,,fluorescence based EROD assay,,human,True
+139,Inhibition of CYP2C9 in human liver microsomes using 7-methoxy-4-(trifluoromethyl)-coumarin as substrate after 45 mins by LC/MS/MS analysis,CYP2C9,after 45 mins,,,7-methoxy-4-(trifluoromethyl)-coumarin,,,LC/MS/MS,human liver microsomes,human liver,True
+140,Inhibition of human CYP11B1 expressed in V79 11B1 cells,CYP11B1,,,,,,,,expressed in V79 11B1 cells,human,True

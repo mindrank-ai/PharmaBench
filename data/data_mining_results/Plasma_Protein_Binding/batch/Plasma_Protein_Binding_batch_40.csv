@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+41,Protein binding using 10% human serum,Human Serum,,,,,True
+42,Protein binding in mouse plasma at 1000 ng/mL after 4.2 hrs by LC-MS analysis based ultracentrifugation assay,Mouse,1000 ng/mL,4.2 hrs,LC-MS,Ultracentrifugation,True
+43,Protein binding in plasma,,,,,,True
+44,Protein binding in human plasma by equilibrium dialysis assay,Human,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+45,Protein binding in monkey plasma,Monkey,,,,,True
+46,Plasma protein binding in mouse assessed as bound fraction at 2 uM measured after 120 mins by equilibrium dialysis method,Mouse,2 uM,120 mins,Equilibrium Dialysis,Equilibrium Dialysis,True
+47,Plasma protein binding in human assessed as bound fraction at 2 uM incubated for 120 mins by equilibrium dialysis method,Human,2 uM,120 mins,Equilibrium Dialysis,Equilibrium Dialysis,True
+48,Protein binding in plasma at 20 ug/ml,,20 ug/ml,,,,True
+49,Plasma protein binding in CD1 mouse at 10 uM after 4 hrs by LC-MS/MS analysis,CD1 Mouse,10 uM,4 hrs,LC-MS/MS,,True
+50,Plasma protein binding in Sprague-Dawley rat at 10 uM after 4 hrs by LC-MS/MS analysis,Sprague-Dawley Rat,10 uM,4 hrs,LC-MS/MS,,True
+51,Plasma protein binding in rat at 5 uM measured after 4 hrs by LC-MS/MS analysis,Rat,5 uM,4 hrs,LC-MS/MS,,True
+52,Protein binding in human plasma at 5 uM incubated for 4 hrs by LC-MS/MS analysis,Human,5 uM,4 hrs,LC-MS/MS,,True
+53,Plasma protein binding in human at 10 uM after 4 hrs by LC-MS/MS analysis,Human,10 uM,4 hrs,LC-MS/MS,,True
+54,Protein binding in plasma in pH 7.4 at 20 ug/ml by spectrophotometry,,20 ug/ml,,Spectrophotometry,,True
+55,Protein binding in Wistar Han rat plasma,Wistar Han Rat,,,,,True
+56,Protein binding in human plasma at 10 uM measured after 6 hrs UV-UPLC based rapid equilibrium dialysis method,Human,10 uM,6 hrs,UV-UPLC,Rapid Equilibrium Dialysis,True
+57,Plasma protein binding in human at 0.5 mg/ml by HPLC analysis,Human,0.5 mg/ml,,HPLC,,True
+58,Protein binding in human plasma at 1 uM measured after 3 to 6 hrs by equilibrium dialysis based HPLC-MS/MS analysis,Human,1 uM,3 to 6 hrs,HPLC-MS/MS,Equilibrium Dialysis,True
+59,Protein binding in human serum at 50 uM after 1 hr by RP-UHPLC method,Human Serum,50 uM,1 hr,RP-UHPLC,,True
+60,Protein binding in mouse plasma at 1 uM by rapid equilibrium dialysis method,Mouse,1 uM,,Rapid Equilibrium Dialysis,Rapid Equilibrium Dialysis,True

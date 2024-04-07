@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+1,Inhibition of CYP2D6,CYP2D6,,,,,,,,,,True
+2,Inhibition of CYP3A4,CYP3A4,,,,,,,,,,True
+3,Inhibition of CYP2C9,CYP2C9,,,,,,,,,,True
+4,Inhibition of CYP3A4 (unknown origin),CYP3A4,,,,,,,,,unknown origin,True
+5,Inhibition of CYP2C19,CYP2C19,,,,,,,,,,True
+6,Inhibition of CYP2C9 (unknown origin),CYP2C9,,,,,,,,,unknown origin,True
+7,Inhibition of CYP2D6 (unknown origin),CYP2D6,,,,,,,,,unknown origin,True
+8,Inhibition of human placental microsome CYP19,CYP19,,,,,,,,,human placental microsome,True
+9,GSK_TCAKS: pIC50 CYP51 from Trypanosoma cruzi.,CYP51 from Trypanosoma cruzi,,,,,pIC50,,,,,False
+10,Inhibition of human CYP3A4,CYP3A4,,,,,,,,,human,True
+11,Inhibition of human CYP11B1 expressed in chinese hamster V79 cells,CYP11B1,,,,,,,,chinese hamster V79 cells,human,True
+12,Inhibition of CYP1A2,CYP1A2,,,,,,,,,,True
+13,Inhibition of human recombinant CYP2D6,CYP2D6,,,,,,,,recombinant,human recombinant,True
+14,Inhibition of human CYP2C9,CYP2C9,,,,,,,,,human,True
+15,Inhibition of human CYP11B2 expressed in chinese hamster V79 cells,CYP11B2,,,,,,,,chinese hamster V79 cells,human,True
+16,"Inhibition of human CYP11B1 expressed in hamster V79MZh cells using [1,2-3H]-11-deoxycorticosterone as substrate",CYP11B1,,,,"[1,2-3H]-11-deoxycorticosterone",,,,hamster V79MZh cells,human,True
+17,Inhibition of CYP2C19 (unknown origin),CYP2C19,,,,,,,,,unknown origin,True
+18,Inhibition of human CYP2D6,CYP2D6,,,,,,,,,human,True
+19,Inhibition of CYP1A2 (unknown origin),CYP1A2,,,,,,,,,unknown origin,True
+20,Inhibition of human recombinant CYP3A4,CYP3A4,,,,,,,,recombinant,human recombinant,True

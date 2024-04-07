@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Mutagenicity in Salmonella typhimurium LT2 TA98 in absence of S9 microsomes by Ames test,,,,absence of S9 microsomes,Salmonella typhimurium LT2 TA98,True
+2,Anti-virulence activity against Candida albicans SC5314 assessed as inhibition of fungal filamentation by measuring reduction in hyphae formation in YPS medium up to 10 uM incubated for 3 to 5 days by stereomicroscopic analysis,up to 10 uM,,3 to 5 days,,Candida albicans SC5314,False
+3,"Inhibition of sterol biosynthesis in Leishmania mexicana amazonensis promastigotes assessed as reduction in endogenous cholesta-7,24-dien-3beta-ol level at 1 uM after 96 hrs by gas-liquid chromatography",1 uM,,after 96 hrs,,Leishmania mexicana amazonensis promastigotes,False
+4,Mutagenic activity in Salmonella typhimurium TA 100 at 5 to 100 ug by Ames test in absence of Fischer-344 rat liver S9 fraction relative to 5-methylchrysene,5 to 100 ug,,,absence of Fischer-344 rat liver S9 fraction,Escherichia coli WP2 uvrA/pKM101,True
+5,Binding affinity to 4:1 POPC/POPG large unilamellar vesicle at 100 uM by circular dichroism analysis,100 uM,,,,Salmonella typhimurium TA 100,True
+6,Mutagenicity in Salmonella typhimurium in absence of human liver S9 fraction by Ames test,,,,absence of human liver S9 fraction,POPC/POPG large unilamellar vesicle,False
+7,Cytotoxicity against human ONS cells derived from Parkinson's disease patients assessed as alteration of cellular parameters at 10 uM,10 uM,,,,Salmonella typhimurium,True
+8,Mutagenicity in Salmonella typhimurium LT2 TA1537 in absence of S9 microsomes by Ames test,,,,absence of S9 microsomes,human ONS cells,False
+9,Myorelaxant activity in New Zealand white rabbit gastric fundus smooth muscle assessed as relaxation of noradrenaline-induced contraction in presence of L-NAME,,,,presence of L-NAME,Salmonella typhimurium LT2 TA1537,True
+10,Antiviral activity against Huh 7.5 cell culture derived HCV genotype 2a (JFH-AM71) infected in human Huh7-J20 cells assessed as inhibition of viral replication treated for 72 hrs by SEAP reporter gene assay,,,for 72 hrs,,New Zealand white rabbit gastric fundus,False
+11,Genotoxicity in Salmonella typhimurium TA100 at 50 ug/plate by Ames test in absence of S9 fraction,50 ug/plate,,,absence of S9 fraction,Huh 7.5 cell culture derived HCV genotype 2a (JFH-AM71) - human Huh7-J20 cells,True
+12,Genotoxicity in Salmonella typhimurium TA1535/pSK1002 after 4 hrs by SOS/umu test absence of rat S9 fraction,,,after 4 hrs,absence of rat S9 fraction,Salmonella typhimurium TA100,False
+13,Antimutagenic activity against aflatoxin B1-induced Salmonella typhimurium TA98 mutagenesis assessed as reduction in His+ revertants after 48 hrs by microscopy in presence of S9 liver homogenate,,,after 48 hrs,presence of S9 liver homogenate,Salmonella typhimurium TA1535/pSK1002,True
+14,Genotoxicity in Salmonella typhimurium TA1535/pSK1002 after 4 hrs by SOS/umu test presence of rat S9 fraction,,,after 4 hrs,presence of rat S9 fraction,Candida albicans SC5314,False
+15,Membrano-lytic effect in bacterial inner membrane mimic DOPC/DOPG (7:3) large unilamellar vesicles assessed as calcein leakage measured up to 100 mins for every 10 mins by multimode microplate reader assay,,,,,Drosophila melanogaster,False
+16,Mutagenicity in Drosophila melanogaster somatic cells assessed as frequency of clone formation in HB crosses at 0.25 to 1 mM by SMART assay,0.25 to 1 mM,,,,Drosophila melanogaster,False
+17,Mutagenicity in Drosophila melanogaster somatic cells assessed as frequency of clone formation in ST crosses at 0.25 to 1 mM by SMART assay,0.25 to 1 mM,,,,human HepG2 cells,False
+18,Genotoxicity in human HepG2 cells assessed as micronuclei formation at 50 uM after 24 hrs by DAPI staining,50 uM,,after 24 hrs,,Salmonella typhimurium TA100,False
+19,Mutagenicity in Salmonella typhimurium TA100 at 2.5 mM after 1 hr by Ames test in absence of S9 fraction,2.5 mM,,after 1 hr,absence of S9 fraction,Salmonella typhimurium LT2 TA1537,True
+20,"Induction of endogenous ROS accumulation in Candida albicans CAI4 after 3 hrs by 2',7'-dichlorofluorescein diacetate staining",,,after 3 hrs,,Candida albicans CAI4,False

@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+524,Inhibition of human recombinant CYP2C19 coexpressed in Escherichia coli,CYP2C19,,,,,,,,coexpressed in Escherichia coli,human recombinant,True
+525,Inhibition of human recombinant CYP3A4 coexpressed in Escherichia coli,CYP3A4,,,,,,,,coexpressed in Escherichia coli,human recombinant,True
+526,Inhibition of CYP3A4 in human liver microsomes using testosterone and midazolam as substrate preincubated for 30 mins followed substrate addition by LC-MS/MS analysis,CYP3A4,"preincubated for 30 mins, after substrate/NADPH addition",,,"testosterone, midazolam",,NADPH,LC-MS/MS,human liver microsomes,human liver,True
+527,Inhibition of human recombinant CYP1A2 by fluorescence assay,CYP1A2,,,,,,,fluorescence assay,,human recombinant,True
+528,Inhibition of hepatic CYP3A4 (unknown origin),hepatic CYP3A4,,,,,,,,unknown origin,hepatic CYP3A4,True
+529,Inhibition of human CYP3A4 by fluorescence assay,CYP3A4,,,,,,,fluorescence assay,,human,True
+530,Inhibition of CYP1A2 in human liver microsomes using tacrine as substrate preincubated for 5 mins followed by NADPH addition measured after 8 mins by LC/MS/MS analysis,CYP1A2,"preincubated for 5 mins, after NADPH addition",,,tacrine,,NADPH,LC/MS/MS,human liver microsomes,human liver,True
+531,Inhibition of CYP2D6 (unknown origin) using AMMC substrate after 45 mins by fluorescence assay,CYP2D6,after 45 mins,,,AMMC,,,fluorescence assay,,unknown origin,True
+532,Inhibition of recombinant full length human CYP51 expressed in Escherichia coli incubated for 1 min using [3H] lanosterol as substrate by HPLC analysis,CYP51,incubated for 1 min,,,[3H] lanosterol,,,HPLC,recombinant full length human expressed in Escherichia coli,recombinant human,True
+533,Inhibition of CYP2D6 in human liver microsomes using dextromethorphan as substrate preincubated for 30 mins before substrate addition measured after 20 mins by LC-MS/MS analysis,CYP2D6,"preincubated for 30 mins, after substrate addition",,,dextromethorphan,,,LC-MS/MS,human liver microsomes,human liver,True
+534,Inhibition of CYP3A4 (unknown origin) using testosterone substrate,CYP3A4,,,,testosterone,,,,,unknown origin,True
+535,Inhibition of CYP3A4 preincubated for 30 mins,CYP3A4,preincubated for 30 mins,,,,,,,,,True
+536,Inhibition of recombinant human CYP2D6 expressed in insect cells microsomes using AMMC as substrate preincubated for 30 mins followed by NADP addition and measured after 45 mins by fluorescence analysis,CYP2D6,"preincubated for 30 mins, after NADP addition",,,AMMC,,NADPH,fluorescence analysis,expressed in insect cells microsomes,recombinant human,True
+537,Inhibition of CYP3A4 (unknown origin) using DBF fluorometric substrate,CYP3A4,,,,DBF,,,,,unknown origin,True
+538,Inhibition of CYP3A4 in human liver microsomes assessed as inhibition of dextromethorphan metabolism by HPLC/MS analysis,CYP3A4,after incubation,,,,,NADPH,HPLC/MS,human liver microsomes,human liver,True
+539,Inhibition of CYP3A4 in human liver microsomes after 30 secs by LC/MS/MS analysis,CYP3A4,after 30 secs,,,,,,LC/MS/MS,human liver microsomes,human liver,True
+540,Inhibition of human recombinant CYP2D6 by fluorescence assay,CYP2D6,,,,,,,fluorescence assay,,human recombinant,True
+541,Inhibition of SCD in human H2009 cells non-expressing CYP4F11 assessed as reduction in cell viability incubated for 96 hrs by cell titer Glo reagent based assay,SCD,incubated for 96 hrs,,,,,,cell titer Glo reagent based assay,non-expressing CYP4F11,human H2009 cells,True
+542,Inhibition of CYP3A4 in human liver microsomes using testosterone as substrate after 5 mins by LC-MS analysis,CYP3A4,after 5 mins,,,testosterone,,,LC-MS,human liver microsomes,human liver,True
+543,Inhibition of human hepatic CYP2D6,CYP2D6,,,,,,,,,hepatic CYP2D6,True

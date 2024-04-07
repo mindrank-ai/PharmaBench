@@ -1,0 +1,41 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+0,Aqueous solubility of the compound,,water,,,,TRUE
+1,"ASTRAZENECA: Solubility in pH7.4 buffer using solid starting material using the method described in J. Assoc. Lab. Autom. 2011, 16, 276-284. Experimental range 0.10 to 1500 uM",7.4,buffer,,"method described in J. Assoc. Lab. Autom. 2011, 16, 276-284",,TRUE
+2,Solubility of the compound,,,,,,TRUE
+3,Aqueous solubility of the compound at pH 7.4,7.4,water,,,,TRUE
+4,Kinetic solubility of the compound,,,,kinetic solubility,,TRUE
+5,Solubility in water,,water,,,,TRUE
+6,Aqueous solubility at pH 7.4,7.4,water,,,,TRUE
+7,Solubility at pH 7.4,7.4,,,,,TRUE
+8,SUPPLEMENTARY: Lyophilisation Solubility Assay (LYSA),,,,Lyophilisation Solubility Assay (LYSA),,TRUE
+9,Aqueous solubility of compound,,water,,,,TRUE
+10,Kinetic aqueous solubility of the compound,,water,,kinetic solubility,,TRUE
+11,Solubility of the compound at pH 7.4,7.4,,,,,TRUE
+12,Kinetic solubility of compound,,,,kinetic solubility,,TRUE
+13,Solubility of the compound in water,,water,,,,TRUE
+14,Solubility of the compound at pH 7,7,,,,,TRUE
+15,Aqueous solubility,,water,,,,TRUE
+16,Kinetic solubility of the compound at pH 7.4,7.4,,,kinetic solubility,,TRUE
+17,Solubility of the compound at pH 6.8,6.8,,,,,TRUE
+18,Aqueous solubility of compound at pH 7.4,7.4,water,,,,TRUE
+19,Solubility of compound in PBS pH 7.4 incubated for 2 hrs by spectrophotometry,7.4,PBS,2 hrs,spectrophotometry,,TRUE
+20,Solubility (buffer pH 7.4),7.4,buffer,,,,TRUE
+21,Thermodynamic aqueous solubility of the compound,,water,,thermodynamic solubility,,TRUE
+22,GSK_TB: GSK in-house kinetic solubility assay. DMSO stock solution diluted to 100 ml with pH 7.4 phosphate buffered saline.,7.4,DMSO stock solution diluted with pH 7.4 phosphate buffered saline,,kinetic solubility,,TRUE
+23,Aqueous solubility of the compound at pH 7,7,water,,,,TRUE
+24,Thermodynamic solubility of the compound at pH 7.4,7.4,,,thermodynamic solubility,,TRUE
+25,Solubility of the compound at pH 2,2,,,,,TRUE
+26,Aqueous solubility in phosphate buffered saline by multi-screen solubility assay,,phosphate buffered saline,,multi-screen solubility assay,,TRUE
+27,Solubility in sodium phosphate buffer at pH 7.4,7.4,sodium phosphate buffer,,,,TRUE
+28,Aqueous solubility of the compound at pH 6.8,6.8,water,,,,TRUE
+29,Solubility of compound in water,,water,,,,TRUE
+30,Solubility of compound at pH 7.4,7.4,,,,,TRUE
+31,Solubility in 100 mM glycylglycine buffer at pH 4.0 incubated for 18 hrs by UPLC analysis,4,100 mM glycylglycine buffer,18 hrs,UPLC analysis,,TRUE
+32,Solubility in 100 mM glycylglycine buffer at pH 3.0 incubated for 18 hrs by UPLC analysis,3,100 mM glycylglycine buffer,18 hrs,UPLC analysis,,TRUE
+33,Solubility in 100 mM bistrispropane buffer at pH 6.0 incubated for 18 hrs by UPLC analysis,6,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,TRUE
+34,Solubility in 100 mM bistrispropane buffer at pH 6.5 incubated for 18 hrs by UPLC analysis,6.5,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,TRUE
+35,Solubility in 100 mM bistrispropane buffer at pH 7.0 incubated for 18 hrs by UPLC analysis,7,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,TRUE
+36,Solubility in 100 mM bistrispropane buffer at pH 8.0 incubated for 18 hrs by UPLC analysis,8,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,TRUE
+37,Solubility in 100 mM glycylglycine buffer at pH 5.0 incubated for 18 hrs by UPLC analysis,5,100 mM glycylglycine buffer,18 hrs,UPLC analysis,,TRUE
+38,Solubility in 100 mM bistrispropane buffer at pH 7.5 incubated for 18 hrs by UPLC analysis,7.5,100 mM bistrispropane buffer,18 hrs,UPLC analysis,,TRUE
+39,Solubility of compound,,,,,,TRUE

@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+100,Solubility of the compound in PBS at pH 7.4,7.4,PBS,,,,True
+101,Aqueous solubility in phosphate buffered saline at 25 mM at pH 7.4 after 16 to 24 hrs,7.4,phosphate buffered saline,16 to 24 hrs,,,True
+102,Kinetic solubility of the compound in FaSSIF at pH 6.5 after 20 hrs by shake flask method,6.5,FaSSIF,20 hrs,shake flask method,,True
+103,Kinetic solubility of the compound in phosphate buffer at pH 7.4 by HPLC analysis,7.4,phosphate buffer,,HPLC analysis,,True
+104,Thermodynamic solubility of the compound at pH 7,7.0,,,,,True
+105,Kinetic solubility of the compound in pH 8 Tris buffer at 500 uM after 90 by UV-Vis absorbance analysis,8.0,Tris buffer,90 min,UV-Vis absorbance analysis,,True
+106,Solubility of compound in PBS at pH 7.4,7.4,PBS,,,,True
+107,Water solubility of compound at pH 7 at 0.1 to 10 mg by HPLC-UV analysis,7.0,water,,HPLC-UV analysis,,True
+108,Water solubility of compound at pH 7.4 at 0.1 to 10 mg by HPLC-UV analysis,7.4,water,,HPLC-UV analysis,,True
+109,Water solubility of compound at pH 2 at 0.1 to 10 mg by HPLC-UV analysis,2.0,water,,HPLC-UV analysis,,True
+110,Aqueous kinetic solubility of the compound in pH 7.4 PBS at 100 uM incubated for 1 hr by UV spectra analysis,7.4,PBS,1 hr,UV spectra analysis,,True
+111,Intrinsic aqueous solubility of the compound,,,,intrinsic solubility,,True
+112,Kinetic solubility in pH 7.4 PBS buffer by LC-UV assay,7.4,PBS buffer,,LC-UV assay,,True
+113,Kinetic solubility of the compound by chemi-luminescent nitrogen detection method,,,,chemi-luminescent nitrogen detection method,,True
+114,Aqueous solubility of the compound by HPLC method,,,,HPLC method,,True
+115,Kinetic solubility of the compound in aqueous buffer at pH 7.4 after 24 hrs,7.4,aqueous buffer,24 hrs,,,True
+116,Solubility at 22 degC in culture medium in presence of 5% fetal calf serum,,culture medium in presence of 5% fetal calf serum,,,22 degC,True
+117,Solubility in pH 7.4 buffer after 18 hrs by UV spectroscopy based microSol assay,7.4,buffer,18 hrs,UV spectroscopy based microSol assay,,True
+118,Kinetic aqueous solubility in 0.1 M phosphate buffer at pH 7.4 and 25 degree C incubated for 20 to 24 hrs under shaking condition by LC-MS/MS analysis,7.4,0.1 M phosphate buffer,20 to 24 hrs,LC-MS/MS analysis,25 degree C,True
+119,Aqueous solubility of the compound in pH 7.4 phosphate buffer after 24 hrs by LC-UV analysis,7.4,phosphate buffer,24 hrs,LC-UV analysis,,True

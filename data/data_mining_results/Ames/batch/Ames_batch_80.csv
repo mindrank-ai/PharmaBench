@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Disruption of microfilament in rat A10 cells at 9 uM after 18 hrs using DAPI staining by fluorescence microscopy,9 uM,,18 hrs,,rat A10 cells,False
+2,Mutagenicity in Saccharomyces cerevisiae D7 assessed as induction of mutagenesis by measuring forward and reverse mutations up to 0.1 mg/mL,up to 0.1 mg/mL,,,,Saccharomyces cerevisiae D7,False
+3,Effect on autophagosome in Parkinson's disease patient derived human ONS cells assessed as LC3b parameters at 10 uM after 24 hrs by anti-LC3b 1/335 staining based fluorescence assay,10 uM,,24 hrs,,Parkinson's disease patient derived human ONS cells,False
+4,Membrane permeabilization in eukaryotic membrane model consisting of single unilamellar vesicle of L-alpha-phosphatidylcholine-cholesterol assessed as 5(6)-carboxyfluorescein release at high peptide-to-lipid ratio after 50 mins by fluorescence assay,high peptide-to-lipid ratio,,50 mins,,eukaryotic membrane model,False
+5,Genotoxicity in Schizosaccharomyces pombe Var. Paul Linder 3360 assessed as DNA damage at 2 to 10 ug/ml after 17 to 18 hrs by agarose gel electrophoresis analysis,2 to 10 ug/ml,,17 to 18 hrs,,Schizosaccharomyces pombe Var. Paul Linder 3360,False
+6,Genotoxicity in Salmonella typhimurium,,,,,Salmonella typhimurium,False
+7,Cytotoxicity against human HeLa cells at 80 nM after 34 hrs by microfilament disruption assay,80 nM,,34 hrs,,human HeLa cells,False
+8,Membrane permeabilization in eukaryotic membrane model consisting of single unilamellar vesicle of L-alpha-phosphatidylcholine-cholesterol assessed as 5(6)-carboxyfluorescein release at high peptide-to-lipid ratio after 20 mins by fluorescence assay,high peptide-to-lipid ratio,,20 mins,,eukaryotic membrane model,False
+9,Induction of mutagenecity in Vibrio harveyi BB7,,,,,Vibrio harveyi BB7,False
+10,Antibacterial activity against Bacillus subtilis ATCC 6051 assessed as diameter of the inhibition zone at 1 uM/disk after 4 hrs by disk diffusion method,1 uM/disk,,4 hrs,,Bacillus subtilis ATCC 6051,False
+11,Binding affinity to full length human N-terminal His6-tagged LDH-H expressed in Escherichia coli Rosetta (DE3) assessed as effect on tetramerization site at 100 to 200 uM in sodium phosphate buffer at pH 7.6 by WaterLOGSY NMR analysis,100 to 200 uM,,,,human N-terminal His6-tagged LDH-H,False
+12,Mutagenic activity in Salmonella typhimurium TA100 assessed as reverse mutation at 30 uM by Ames test,30 uM,,,,Salmonella typhimurium TA100,True
+13,Effect on mitochondria parameters in Parkinson's disease patient derived human ONS cells at 10 uM after 24 hrs by MitoTracker Orange CMTMRos staining based fluorescence assay,10 uM,,24 hrs,,Parkinson's disease patient derived human ONS cells,False
+14,Mutagenic activity in Saccharomyces cerevisiae after 3 hrs,,,3 hrs,,Saccharomyces cerevisiae,False
+15,Induction of mutagenecity in Vibrio harveyi BB7XM,,,,,Vibrio harveyi BB7XM,False
+16,Inhibition of exogenous EGF-induced EGFR phosphorylation in human A431 cells at 0.1 uM pretreated for 24 hrs measured after 72 hrs of drug removel by ELISA,0.1 uM,,24 hrs pretreatment + 72 hrs post-treatment,,human A431 cells,False
+17,Mutagenicity in Salmonella typhi TA1537 by Ames test,,,,,Salmonella typhi TA1537,True
+18,Mutagenic activity in Salmonella typhimurium TA98 assessed as reverse mutation at 30 uM by Ames test,30 uM,,,,Salmonella typhimurium TA98,True
+19,Induction of mutagenecity in Vibrio harveyi BB7M,,,,,Vibrio harveyi BB7M,False
+20,Induction of mutagenecity in Vibrio harveyi BB7X,,,,,Vibrio harveyi BB7X,False

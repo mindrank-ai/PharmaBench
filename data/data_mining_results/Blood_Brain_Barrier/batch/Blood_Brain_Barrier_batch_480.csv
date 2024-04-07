@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+460,Permeability of the compound at pH 7.4 at 10 umol/L after 3 hrs by PAMPA,PAMPA,,,7.4,10 umol/L after 3 hrs,False
+461,Permeability from apical to basolateral side in dog MDCK2-MDR1 cells expressing ABCB1 at 5 uM after 30 mins in presence of compound 15 by LC-MS/MS analysis,dog MDCK2-MDR1 ABCB1 LC-MS/MS,,apical to basolateral,,5 uM after 30 mins with compound 15,False
+462,Permeability of the compound at pH 7.4 incubated for 4 hrs by PAMPA-based UV spectrophotometry,PAMPA UV,,,7.4,incubated for 4 hrs,False
+463,Permeability of the compound in PBS buffer at pH 7.4 at 500 uM incubated for 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4,500 uM incubated for 18 hrs,True
+464,Permeability across MDR1-overexpressing MDCK cells,MDCK MDR1,,across MDR1,,,False
+465,Permeability at pH 7.4 by LC/MS method based PAMPA method,LC/MS PAMPA,,,7.4,,False
+466,Permeability across basolateral to apical side in human Caco-2 cells incubated for 2 hrs by LC-MS/MS analysis,human Caco-2 LC-MS/MS,,basolateral to apical,,incubated for 2 hrs,False
+467,Permeability of the compound at pH 3.0 by PAMPA,PAMPA,,,3.0,,False
+468,Permeability of the compound across artificial membrane by AMP assay,AMP,,across artificial membrane,,,False
+469,Permeability from apical to basolateral side in dog MDCK2-MDR1 cells expressing ABCB1 at 5 uM after 30 mins in absence of compound 15 by LC-MS/MS analysis,dog MDCK2-MDR1 ABCB1 LC-MS/MS,,apical to basolateral,,5 uM after 30 mins without compound 15,False
+470,Permeability of compound across basolateral to apical side in dog wild type MDCK-MDR1 cells,dog MDCK-MDR1,,basolateral to apical,,,False
+471,Percutaneous permeability through human SCE membrane in Franz diffusion cell after 12 hrs by UV-Vis spectrophotometry,human SCE Franz diffusion,,percutaneous permeability,,after 12 hrs,False
+472,Permeability at pH 7.4 by PAMPA,PAMPA,,,7.4,,False
+473,Permeability from apical to basolateral side in human Caco-2 cells at 5 uM,human Caco-2,,apical to basolateral,,5 uM,False
+474,Permeability of the compound measured after 4 hrs by PAMPA,PAMPA,,,,after 4 hrs,False
+475,Permeability from basolateral to apical side in dog MDCK2-MDR1 cells expressing ABCB1 at 5 uM after 30 mins in presence of compound 15 by LC-MS/MS analysis,dog MDCK2-MDR1 ABCB1 LC-MS/MS,,basolateral to apical,,5 uM after 30 mins with compound 15,False
+476,Permeability of compound from apical to basolateral side in human Caco2 cells at pH 7.4,human Caco2,,apical to basolateral,7.4,,False
+477,Permeability in MDCK cells expressing human MDR1 at 0.5 uM after 150 mins by LC-MS/MS analysis,MDCK human MDR1 LC-MS/MS,,,,0.5 uM after 150 mins,False
+478,P-glycoprotein-mediated transport in MDCK2-MDR1 cells assessed as permeability across basolateral to apical side at 5 uM after 1 hr in presence of LSN 335984,MDCK2-MDR1 LC-MS/MS,,P-gp mediated transport basolateral to apical,,5 uM after 1 hr with LSN 335984,False
+479,P-glycoprotein-mediated transport in MDCK2-MDR1 cells assessed as permeability across apical to basolateral side at 5 uM after 1 hr in presence of LSN 335984,MDCK2-MDR1 LC-MS/MS,,P-gp mediated transport apical to basolateral,,5 uM after 1 hr with LSN 335984,False

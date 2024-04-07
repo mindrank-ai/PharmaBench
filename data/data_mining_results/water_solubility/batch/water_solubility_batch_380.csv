@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+300,Aqueous solubility in phosphate buffer of pH 7.4,7.4,phosphate buffer,,,,True
+301,Aqueous solubility at pH 4.0,4.0,,,,,True
+302,Kinetic solubility of the compound by nephelometry at pH 2.0,2.0,,,nephelometry,,True
+303,Solubility of compound in buffer at pH 6.8 after 16 hrs by HPLC analysis,6.8,buffer,16 hrs,HPLC analysis,,True
+304,Aqueous solubility of the compound at pH 6.8 after 24 hrs by high-throughput equilibrium solubility assay,6.8,,24 hrs,high-throughput equilibrium solubility assay,,True
+305,Aqueous solubility of the compound in phosphate buffer at pH 6.5,6.5,phosphate buffer,,,,True
+306,Aqueous solubility of compound in pH 7.4 solution after 24 hrs,7.4,pH 7.4 solution,24 hrs,,,True
+307,Solubility of the compound by HPLC analysis,,,,HPLC analysis,,True
+308,Intrinsic aqueous solubility of the compound by potentiometric titration method,,,,potentiometric titration method,,True
+309,Kinetic solubility of the compound in water up to 250 uM by laser nephelometry,,water,,laser nephelometry,,True
+310,Kinetic solubility of compound in DMSO using the charged aerosol detector (CAD) analysis,,DMSO,,charged aerosol detector (CAD) analysis,,False
+311,Aqueous solubility of the compound at pH 6.6,6.6,,,,,True
+312,Solubility of the compound in 0.01 N HCl,,0.01 N HCl,,,,True
+313,Solubility of the compound in simulated intestinal fluid compliant with Japanese pharmacopeia,,simulated intestinal fluid compliant with Japanese pharmacopeia,,,,True
+314,Kinetic solubility in PBS at 6.75 to 200 uM incubated for 90 mins,,PBS,90 mins,kinetic solubility,,True
+315,Solubility in saline,,saline,,,,True
+316,Solubility of the compound in 0.1 M phosphate buffer at pH 7.4 after overnight incubation by HPLC analysis,7.4,0.1 M phosphate buffer,overnight,HPLC analysis,,True
+317,Kinetic solubility of the compound in PBS buffer at pH 7.4,7.4,PBS buffer,,kinetic solubility,,True
+318,Solubility of the compound in simulated gastric fluid compliant with Japanese pharmacopeia,,simulated gastric fluid compliant with Japanese pharmacopeia,,,,True
+319,Kinetic solubility of compound in pH 6.5 phosphate buffered saline,6.5,phosphate buffered saline,,kinetic solubility,,True

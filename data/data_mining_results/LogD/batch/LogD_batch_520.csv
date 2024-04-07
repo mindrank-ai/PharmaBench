@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Lipophilicity, log D of the compound at 100 uM at pH 7.4 after 24 hrs by HPLC method",7.4,HPLC,,,24 hrs,,True
+2,"Octanol/water partition coefficient, logD of the compound at pH 7.4",7.4,,octanol/water,,,,True
+3,"Octanol-phosphate buffer partition coefficient, log D at pH 7.4 by spectrophotometry",7.4,spectrophotometry,octanol-phosphate buffer,,,,True
+4,"Distribution coefficient, log D by shake flask method",,shake flask,,,,shake flask,True
+5,Log P value by using Octanol / pH 7.4 buffer,7.4,,octanol/buffer,,,,True
+6,Lipophilicity was determined,,,,,,,True
+7,"Distribution coefficient, log D by C-18 reversed phase method",,C-18 reversed phase,,,,,True
+8,"Distribution coefficient, log D between 1-octonol and phosphate buffer at pH 7",7.0,,1-octonol/phosphate buffer,,,,True
+9,"Octanol-water partition coefficient, log D of the compound at pH 7.4 at 1 mg after 24 hrs by HPLC analysis",7.4,HPLC,octanol-water,,24 hrs,shake flask,True
+10,"1-octanol/PBS distribution co-efficient, log D of the compound at pH 7.4",7.4,,1-octanol/PBS,,,,True
+11,Distribution between 1-octanol and water containing phosphate buffer at pH 7.4,7.4,,1-octanol/water with phosphate buffer,,,,True
+12,"n-octanol/water distribution coefficient, log D in pH 7.4 HEPES buffer at 0.10M KCl by shake-flask method",7.4,shake-flask,n-octanol/water in HEPES buffer,,,shake flask,True
+13,"n-octanol-KH2PO4-Na2HPO4 buffer partition coefficient, log D of the compound at pH 7.4 by shake flask method",7.4,shake flask,n-octanol-KH2PO4-Na2HPO4 buffer,,,shake flask,True
+14,"n-Octanol-buffer distribution coefficient, log D of the compound at pH 5 incubated for 4 hrs by UV-vis based shake flask method",5.0,UV-vis,n-octanol-buffer,,4 hrs,shake flask,True
+15,"Lipophilicity, log D of the compound in pH 7.5 MeCN/H2O solution by reversed-phase HPLC analysis",7.5,reversed-phase HPLC,MeCN/H2O,,,,True
+16,"Distribution coefficient, effective log D of the compound at pH 7.4 by RP-HPLC based ElogD(oct) method",7.4,RP-HPLC ElogD(oct),,,,,True
+17,"n-Octanol/water partition coefficient, log D of compound at pH 7.4 by UV-HPLC analysis",7.4,UV-HPLC,n-octanol/water,,,,True
+18,"1-Octanol/saturated PBS buffer distribution coefficient, logD of the compound incubated for 1 hr by LC-MS/MS analysis",,LC-MS/MS,1-octanol/saturated PBS buffer,,1 hr,shake flask,True
+19,Distribution coefficient measured in Octanol/buffer (0.15 M KCl),,,octanol/buffer,,,,True
+20,Partition coefficient of anion (logD),,,,,,,True

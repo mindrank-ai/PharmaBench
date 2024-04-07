@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+620,Effective permeability of the compound in PBS at pH 7.4 at 10 uM incubated for 5 hrs by PAMPA based UPLC-MS/MS analysis,PAMPA UPLC-MS/MS,,effective permeability,7.4,10 uM for 5 hrs,False
+621,Permeability of the compound at 10 uM measured after 4 hrs by PAMPA based LC-MS analysis,PAMPA LC-MS,,,,10 uM after 4 hrs,False
+622,Permeability from basolateral to apical side in dog MDCK cells,dog MDCK,,basolateral to apical,,,False
+623,Exsorptive permeability across Caco-2 cell membrane,Caco-2,,exsorptive permeability,,,False
+624,Permeability of the compound at pH 6.2 by PAMPA assay,PAMPA,,,6.2,,False
+625,Permeability from apical to basolateral side of human Caco-2 cell membrane at 10 uM,human Caco-2,,apical to basolateral,,10 uM,False
+626,Permeability from apical to basolateral side in human Caco cells,human Caco,,apical to basolateral,,,False
+627,Permeability across apical to basolateral side of human Caco2 cells after 120 mins by LC-MS/MS analysis,human Caco2 LC-MS/MS,,apical to basolateral,,after 120 mins,False
+628,Apparent permeability from basolateral to apical side in human Caco-2 cells,human Caco-2,,basolateral to apical apparent,,,False
+629,Permeability of compound at 10 uM incubated for 4 hrs by LC-MS/MS based PAMPA method,PAMPA LC-MS/MS,,,,10 uM for 4 hrs,False
+630,Permeability in MDCK-MDR1 cells,MDCK-MDR1,,,,,False
+631,Permeability across mucosal to serosal side in human Caco2 cells,human Caco2,,mucosal to serosal,,,False
+632,In vitro intestinal permeability in rats,,,intestinal permeability in rats,,,False
+633,Permeability assessed as mouse BCRP-mediated permeability from apical to basolateral side,mouse BCRP-mediated PAMPA,,BCRP-mediated apical to basolateral,,,False
+634,Permeability of the compound measured on donor plate of PAMPA membrane at 50 uM after 5 hrs by HPLC analysis,PAMPA HPLC,,measured on donor plate,,50 uM after 5 hrs,False
+635,Permeability at 10 uM at pH 7.4 by PAMPA method,PAMPA,,,7.4,10 uM at pH 7.4,False
+636,Permeability across basolateral to apical side of human Caco2 cells after 120 mins by LC-MS/MS analysis,human Caco2 LC-MS/MS,,basolateral to apical,,after 120 mins,False
+637,Permeability of the compound measured on acceptor plate of PAMPA membrane at 50 uM after 5 hrs by HPLC analysis,PAMPA HPLC,,measured on acceptor plate,,50 uM after 5 hrs,False
+638,Maximum permeability flux through hairless mouse skin applied topically as suspension in isopropyl myristate,,,maximum permeability flux,,topically applied,False
+639,Passive permeability of compound in MDCK cells,MDCK,,passive permeability,,,False

@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+360,Permeability of the compound by PAMPA assay at pH 6.5,PAMPA,,,6.5,,False
+361,Permeability across apical to basolateral side in human Caco2 cells at 100 uM,human Caco2,,apical to basolateral,,100 uM,False
+362,Permeability for across blood brain barrier by PAMPA,PAMPA BBB,,,,,True
+363,Permeability of the compound at 25 ug/ml at pH 7.4 after 18 hrs by PAMPA,PAMPA,,,7.4,25 ug/ml after 18 hrs,False
+364,Apparent permeability from basolateral to apical side of MDCK2 cells over expressing MDR1 at 5 uM after 1 hr,MDCK2 MDR1,,basolateral to apical,,5 uM after 1 hr,False
+365,Permeability of the compound at 500 uM incubated for 20 hrs by PAMPA,PAMPA,,,,500 uM for 20 hrs,False
+366,Permeability from apical to basolateral side of the human Caco-2 cells at pH 7.4,human Caco-2,,apical to basolateral,7.4,,False
+367,Permeability of the compound assessed as amount of compound absorbed by PAMPA method,PAMPA,,amount absorbed,,,False
+368,Permeability of the compound assessed as membrane retention after 1 to 6 hrs by PAMPA-HDM method relative to control,PAMPA-HDM,,membrane retention,,after 1 to 6 hrs,False
+369,Permeability across Caco cell membrane,Caco,,,,,False
+370,Permeability of the compound at pH 7.4 by PAMPA-based pION assay,PAMPA pION,,,7.4,,False
+371,Permeability of compound at pH 7.4 measured after 18 hrs PAMPA-BBB assay,PAMPA-BBB,,,7.4,measured after 18 hrs,True
+372,Permeability across apical to basolateral side in human Caco2 cells at 10 uM,human Caco2,,apical to basolateral,,10 uM,False
+373,Membrane permeability across MDCK2-MDR1 cells in presence of Pgp inhibitor,MDCK2-MDR1,,,,,False
+374,Apparent permeability from basolateral to apical side of MDCK2 cells over expressing MDR1 after 1 hr,MDCK2 MDR1,,basolateral to apical,,5 uM after 1 hr,False
+375,Permeability of the compound at 200 uL after 16 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,200 uL after 16 hrs,True
+376,Permeability of compound at pH 5.0 by PAMPA assay,PAMPA,,,5.0,,False
+377,Permeability from apical to basolateral side of Caco-2 cell membrane,Caco-2,,apical to basolateral,,,False
+378,Permeability of the compound after 5 hrs by PAMPA,PAMPA,,,,after 5 hrs,False
+379,Permeability of the compound across apical to basolateral membrane in human Caco-2 cells incubated for 2 hrs by LC-MS/MS analysis,human Caco-2,,apical to basolateral,,incubated for 2 hrs,False

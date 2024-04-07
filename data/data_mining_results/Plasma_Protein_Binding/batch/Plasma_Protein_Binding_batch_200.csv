@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+201,Seminal plasma protein binding in human treated with 100 mg of efavirenz administered every 4 hrs by ultrafiltration method,Human Seminal Plasma,100 mg,,Ultrafiltration,,True
+202,Protein binding in CD1 mouse plasma at 10 uM incubated for 4 hrs under shaking condition by LC-MS/MS analysis,CD1 Mouse Plasma,10 uM,4 hrs,LC-MS/MS,,True
+203,Protein binding in CD-1 mouse plasma at 1 uM incubated for incubated for 2 hrs by HPLC-MS/MS analysis,CD-1 Mouse Plasma,1 uM,2 hrs,HPLC-MS/MS,,True
+204,Protein binding in human plasma at 1 uM measured up to 6 hrs by LC-MS/MS analysis,Human Plasma,1 uM,up to 6 hrs,LC-MS/MS,,True
+205,Protein binding in monkey,Monkey,,,,,True
+206,Protein binding in Sprague-Dawley rat plasma at 5 uM after 4 hrs by equilibrium dialysis method,Sprague-Dawley Rat Plasma,5 uM,4 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+207,Plasma Protein binding in human incubated for 4 hrs by equilibrium dialysis method,Human Plasma,,4 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+208,Protein binding in dog serum,Dog Serum,,,,,True
+209,Protein binding in cynomolgus monkey,Cynomolgus Monkey,,,,,True
+210,Compound was evaluated for its anticoagulant and antithrombotic activity by measuring the %protein binding in human plasma,Human Plasma,,,,,True
+211,Plasma protein binding in human measured after 5 hrs by LC-MS/MS analysis,Human Plasma,,5 hrs,LC-MS/MS,,True
+212,Protein binding in plasma (unknown origin) by equilibrium dialysis assay,,,,Equilibrium Dialysis,Equilibrium Dialysis,True
+213,Plasma protein binding in mouse measured after 5 hrs by LC-MS/MS analysis,Mouse Plasma,,5 hrs,LC-MS/MS,,True
+214,Protein binding in mouse plasma by LCMS analysis,Mouse Plasma,,,LCMS,,True
+215,Plasma protein binding in CD1 mouse at 5 uM measured after 4 hrs by LC-MS/MS based rapid equilibrium dialysis method,CD1 Mouse Plasma,5 uM,4 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+216,Plasma protein binding in human at 5 uM measured after 4 hrs by LC-MS/MS based rapid equilibrium dialysis method,Human Plasma,5 uM,4 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+217,Protein binding in rat plasma assessed as bound fraction at 10 uM and measured for 5 hrs by by LC-MS/MS based dialysis analysis,Rat Plasma,10 uM,5 hrs,LC-MS/MS,,True
+218,Plasma protein binding in rat at 10 uM,Rat Plasma,10 uM,,,,True
+219,Protein binding in pooled human plasma at 10 uM incubated for 4 hrs under shaking condition by LC-MS/MS analysis,Pooled Human Plasma,10 uM,4 hrs,LC-MS/MS,,True
+220,Protein binding in CD1 mouse plasma at 10 ug/mL after 5 hrs by UPLC-MS/MS analysis based equilibrium dialysis method,CD1 Mouse Plasma,10 ug/mL,5 hrs,UPLC-MS/MS,Equilibrium Dialysis,True

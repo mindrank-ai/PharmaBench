@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+180,Kinetic solubility of the compound in phosphate buffered saline of pH 7.4,7.4,phosphate buffered saline,,kinetic solubility,,True
+181,Kinetic solubility of the compound in PBS buffer at pH 7.4 after 18 hrs by UV spectrophotometric analysis,7.4,PBS buffer,18 hrs,UV spectrophotometric analysis,,True
+182,Kinetic aqueous solubility of the compound in pH 6.5 buffer at 200 uM after 20 hrs by HPLC-DAD-MS based shake flask method,6.5,pH 6.5 buffer,20 hrs,HPLC-DAD-MS based shake flask method,,True
+183,Solubility of the compound in phosphate buffer at pH 7 after 24 hrs by HPLC/UV method,7.0,phosphate buffer,24 hrs,HPLC/UV method,,True
+184,Solubility of compound in pH 7.4 sodium phosphate buffer,7.4,sodium phosphate buffer,,,,True
+185,Aqueous solubility (25 degree C),,aqueous,,,25 degree C,True
+186,Solubility in sodium phosphate buffer at pH 7.4 incubated for 2 hrs at room temperature by UV spectrometry method,7.4,sodium phosphate buffer,2 hrs,UV spectrometry method,room temperature,True
+187,Kinetic solubility of the compound in water at pH 7 at 20 degC by HPLC analysis,7.0,water,,HPLC analysis,20 degC,True
+188,Kinetic solubility of compound in PBS buffer,,PBS buffer,,kinetic solubility,,True
+189,Kinetic solubility of the compound in water at pH 7 by HPLC analysis,7.0,water,,HPLC analysis,,True
+190,Thermodynamic solubility of the compound in 0.1 M phosphate buffer at pH 7.4,7.4,0.1 M phosphate buffer,,thermodynamic solubility,,True
+191,Solubility at pH 6.5 after 24 hrs by chemiluminescence assay,6.5,,24 hrs,chemiluminescence assay,,True
+192,Solubility of compound in fasted state simulated intestinal fluid measured after 4 hrs,,fasted state simulated intestinal fluid,4 hrs,,,True
+193,Solubility of the compound in PBS buffer at pH 7.4,7.4,PBS buffer,,,,True
+194,Solubility of the compound in phosphate buffered saline,,phosphate buffered saline,,,,True
+195,Solubility in pH 6.8 buffer by UPLC method,6.8,,,UPLC method,,True
+196,Kinetic aqueous solubility of compound in PBS at pH 7.4 at 250 uM,7.4,PBS,,kinetic aqueous solubility,,True
+197,Aqueous solubility of the compound in 2% DMSO at pH 7.4 by HPLC analysis,7.4,2% DMSO,,HPLC analysis,,True
+198,Aqueous equilibrium solubility of compound in simulated intestinal fluid at pH 6.8,6.8,simulated intestinal fluid,,aqueous equilibrium solubility,,True
+199,Aqueous solubility at room temperature,,aqueous,,aqueous solubility,room temperature,True

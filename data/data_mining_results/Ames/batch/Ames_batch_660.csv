@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Induction of T-cell immunity in C57BL/6 mouse splenocytes assessed as increase in CD3+CD8+ tetramer administered intramuscularly on day 1 and as booster dose on day 14 in presence of ovalbumin and SINFEKL MHC specific tetramer measured on day 28 by flow cytometric analysis,,,"administered on day 1 and day 14, measured on day 28",,C57BL/6 mouse splenocytes,True
+2,Genotoxicity in Salmonella typhimurium TA102 at 50 times antiproliferative IC50 by Ames test,50 times antiproliferative IC50,,,,Salmonella typhimurium TA102,False
+3,"Antiosteoporotic activity in glucocorticoid-induced Wistar rat osteoporosis model assessed as densed trabecula at 30 mg/kg/day, po administered six times a week for 3 months by toluidine blue staining-based light microscopic analysis relative to dexamethasone",30 mg/kg/day,,administered six times a week for 3 months,,glucocorticoid-induced Wistar rat osteoporosis model,False
+4,"Antifungal activity against Candida albicans infected in mouse assessed as reduction in fungal endogenous infection symptoms at 20 mg/kg, ip administered on days 2,4,6,8,10,12 and measured on day 14 by GMS staining based analysis",20 mg/kg,,"administered on days 2,4,6,8,10,12, measured on day 14",,Candida albicans,False
+5,Genotoxicity in Salmonella typhimurium T104 expressing lux operon assessed as activation of SOS operon at 0.1 to 10 ug/ml measured for 4 hrs with 5 mins interval by vitotox assay in presence of S9 fraction,0.1 to 10 ug/ml,,measured for 4 hrs with 5 mins interval,presence of S9 fraction,Salmonella typhimurium T104,False
+6,Genotoxicity in Salmonella typhimurium TA98 up to 500 ug/plate in absence of mouse liver S9 fraction by Ames test,up to 500 ug/plate,,,,Salmonella typhimurium TA98,False
+7,Antimicrofilament activity in human HCT116 cells assessed as total loss of microfilament network at 0.5 uM by rhodamine-phalloidin staining,0.5 uM,,,,human HCT116 cells,False
+8,Induction of human A375 cell differentiation assessed as formation of vimentin intermediate filament at 20 uM after 96 hrs by immunofluorescence analysis,20 uM,,after 96 hrs,,human A375 cells,False
+9,Mutagenicity in Salmonella typhimurium TA102 in absence of S9 fraction by mini-Ames test,,,,absence of S9 fraction,Salmonella typhimurium TA102,False
+10,Binding affinity to 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine large unilamellar vesicle at 100 uM by isothermal titration calorimetry analysis,100 uM,,,,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine LUV,False
+11,Genotoxicity in Salmonella typhimurium TA1535 at 50 times antiproliferative IC50 by Ames test,50 times antiproliferative IC50,,,,Salmonella typhimurium TA1535,False
+12,Genotoxicity in Salmonella typhimurium TA100 at 5000 lg/plate in presence of liver S9 fraction by Ames test,5000 lg/plate,,,presence of liver S9 fraction,Salmonella typhimurium TA100,False
+13,Mutagenicity in Salmonella typhimurium at 1500 ug/plate by Ames test,1500 ug/plate,,,,Salmonella typhimurium,True
+14,Genotoxicity in Salmonella typhimurium TA1537 at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,,,Salmonella typhimurium TA1537,False
+15,Genotoxicity in Salmonella typhimurium TA97a by Ames test,,,,,Salmonella typhimurium TA97a,False
+16,Mutagenicity in Salmonella typhimurium TA100 assessed as revertant colonies at 300 umol incubated under aerobic conditions in dark for 2 days by Ames test,300 umol,,incubated under aerobic conditions in dark for 2 days,,Salmonella typhimurium TA100,False
+17,Mutagenic activity in Salmonella Typhimurium,,,,,,False
+18,Genotoxicity in Salmonella typhimurium TA98 at 0.004 to 5 mg/ml measured after 90 mins in presence of rat S9 fraction by mini-Ames test,0.004 to 5 mg/ml,,after 90 mins,presence of rat S9 fraction,Salmonella typhimurium TA98,False
+19,Genotoxicity in Salmonella typhimurium TA100 at 0.004 to 5 mg/ml measured after 90 mins in presence of rat S9 fraction by mini-Ames test,0.004 to 5 mg/ml,,after 90 mins,presence of rat S9 fraction,Salmonella typhimurium TA100,False
+20,Genotoxicity in Salmonella typhimurium TA98 at 500 ug/plate by Ames test in absence of S9 fraction,500 ug/plate,,,,Salmonella typhimurium TA98,False

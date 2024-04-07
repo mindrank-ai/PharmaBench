@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"Lipophilicity, logD of compound at pH 7.4 measured after 20 mins by UPLC analysis",7.4,UPLC,octanol-buffer,,after 20 mins,,True
+2,"Distribution coefficient, log D at pH 6.0",6.0,,octanol-water,,,,True
+3,The apparent partition coefficient (D) in cyclohexane-0.05 M phosphate buffer (pH 7.4) at 21 degree celsius.,7.4,,cyclohexane/phosphate buffer,,,,True
+4,"n-Octanol-phosphate buffer partition coefficient, log D of the compound at pH 7.4 incubated for 3 hrs in dark condition by fluorimeter",7.4,fluorimeter,n-octanol/phosphate buffer,,after 3 hrs,in dark condition,True
+5,"n-Octanol-PBS buffer partition coefficient, log P of the compound at pH 7.4 by shake flask method",7.4,shake flask,n-octanol-PBS buffer,,,shake flask,True
+6,"Octanol-water distribution coefficient, log D of the compound at pH 11 by shake flask method",11.0,shake flask,octanol-water,,,shake flask,True
+7,Distribution coefficient (LogD) between octanol and buffer,,,,,,,True
+8,"Lipophilicity, log D at pH 8.0",8.0,,,,,,True
+9,Distribution Coefficient at pH 5,5.0,,,,,,True
+10,"Lipophilicity, log D of the compound at pH 4.0",4.0,,,,,,True
+11,The octanol-water partition coefficient at pH 7.0,7.0,,octanol-water,,,,True
+12,Compound was evaluated for the partition coefficients probably at the pH >> 7.2 at the aqueous phase 0.1 N NaOH,,,,,,,True
+13,"Octanol-1-ol-phosphate buffered saline partition coefficient, log D after 5 hrs by LC-UV analysis at pH 7.4",7.4,LC-UV,octanol-1-ol/phosphate buffered saline,,after 5 hrs,,True
+14,The octanol-water partition coefficient at pH 6.4,6.4,,octanol-water,,,,True
+15,The octanol-water partition coefficient at pH 9.4,9.4,,octanol-water,,,,True
+16,"Lipophilicity, log D of compound at pH 7",7.0,,,,,,True
+17,"Log D, lipophilicity of the compound by HPLC analysis",,HPLC,,,,,True
+18,"Lipophilicity, logD of compound at pH 6.8",6.8,,,,,,True
+19,Distribution Coefficient at pH 7.4,7.4,,,,,,True
+20,Partition coefficient in octanol/buffer at pH 7,7.0,,octanol/buffer,,,,True

@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+280,Solubility of the compound in in 0.01N HCl at pH 2 incubated for 1 hr in shaker and subsequently equilibrated for 72 hrs by LC/MS analysis,2.0,0.01N HCl,73 hrs,LC/MS analysis,,True
+281,Aqueous solubility in fasted-state stimulated intestinal fluid at pH 6.8,6.8,fasted-state stimulated intestinal fluid,,,,True
+282,Kinetic aqueous solubility of compound at pH 7 at 20 degC by HPLC analysis,7.0,aqueous,,HPLC analysis,20 degC,True
+283,DNDI: Solubility in phosphate buffered saline at pH7.4 measured by optical density (turbidimetry) at room temperature (OD-RT),7.4,phosphate buffered saline,room temperature,turbidimetry,,True
+284,Solubility of the compound in FaSSIF at pH 7 at 200 uM incubated for 24 hrs by UV-vis detection based HPLC analysis,7.0,FaSSIF,24 hrs,UV-vis detection based HPLC analysis,,True
+285,Kinetic solubility of the compound at pH 1.2,1.2,,,kinetic solubility,,True
+286,Thermodynamic solubility of the compound at pH 6.5,6.5,,,thermodynamic solubility,,True
+287,Solubility of the compound in FaSSIF at pH 2 at 200 uM incubated for 24 hrs by UV-vis detection based HPLC analysis,2.0,FaSSIF,24 hrs,UV-vis detection based HPLC analysis,,True
+288,Solubility of the compound in lactate at pH 4 by UPLC analysis,4.0,lactate,,UPLC analysis,,True
+289,Solubility of the compound in double distilled water,,double distilled water,,,,True
+290,Kinetic solubility of the compound in potassium phosphate buffer at pH 6.8 by turbidometric analysis,6.8,potassium phosphate buffer,,turbidometric analysis,,True
+291,Aqueous solubility in 0.01N HCl,,0.01N HCl,,,,True
+292,Kinetic solubility in phosphate buffer at pH 6.5 by nephelometric analysis,6.5,phosphate buffer,,nephelometric analysis,,True
+293,Aqueous kinetic solubility of the compound in PBS buffer at pH 7.4 after 24 hrs,7.4,PBS buffer,24 hrs,kinetic solubility,,True
+294,Solubility in DMSO,,DMSO,,,,False
+295,Aqueous solubility of compound in water at pH 7.4 incubated at 20 degC by HPLC-UV analysis,7.4,water,,HPLC-UV analysis,20 degC,True
+296,Solubility of the compound in lactate at pH 5 by UPLC analysis,5.0,lactate,,UPLC analysis,,True
+297,Solubility of the compound in PBS at pH 7.4 after 2 hrs,7.4,PBS,2 hrs,,,True
+298,Kinetic solubility of the compound by nephelometry at pH 6.5,6.5,,,nephelometry,,True
+299,Aqueous solubility of compound measured using solids from evaporated DMSO solution at pH 7.4,7.4,aqueous,,,,True

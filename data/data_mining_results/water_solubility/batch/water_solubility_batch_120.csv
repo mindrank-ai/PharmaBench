@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+40,Kinetic aqueous solubility of compound in McIlvaine buffer at pH 7 incubated for 24 hr under shaking condition by UPLC analysis,7.0,McIlvaine buffer,24 hr,UPLC analysis,,True
+41,Solubility of the compound in 0.01 M HCl at pH 2,2.0,0.01 M HCl,,,,True
+42,Kinetic solubility of the compound in phosphate buffered saline at pH 6.5 after 20 hrs by shake flask method,6.5,phosphate buffered saline,20 hrs,shake flask method,,True
+43,Solubility in PBS buffer,,PBS buffer,,,,True
+44,Solubility of the compound at pH 7.4 after 18 hrs by UV-spectroscopy,7.4,,18 hrs,UV-spectroscopy,,True
+45,Kinetic solubility of the compound in 1% DMSO at pH 6.8,6.8,1% DMSO,,kinetic solubility,,True
+46,Solubility of compound by CLND assay,,,,CLND assay,,True
+47,Kinetic solubility of the compound at pH 2,2.0,,,kinetic solubility,,True
+48,Aqueous solubility of the compound in water,,water,,aqueous solubility,,True
+49,Aqueous solubility of the compound in 0.1 M sodium phosphate buffer at pH 7.4,7.4,0.1 M sodium phosphate buffer,,,,True
+50,Solubility at pH 7.0,7.0,,,,,True
+51,Solubility of the compound in acetonitrile/water mixture at 10 mM measured after 24 by HPLC-UV method,,acetonitrile/water mixture,24 hrs,HPLC-UV method,,True
+52,Solubility in 0.01N HCl,,0.01N HCl,,,,True
+53,Kinetic solubility of the compound in buffer at pH 7.4 after 16 to 19 hrs by UV absorbance assay,7.4,buffer,16 to 19 hrs,UV absorbance assay,,True
+54,Kinetic solubility of the compound at pH 7.4 after 1 hr by CLND-based assay,7.4,,1 hr,CLND-based assay,,True
+55,Solubility in PBS,,PBS,,,,True
+56,Solubility of compound in phosphate buffer at pH 7.4 measured after 24 hrs by LC-MS/MS analysis,7.4,phosphate buffer,24 hrs,LC-MS/MS analysis,,True
+57,Solubility of the compound in phosphate buffered saline at pH 7.4,7.4,phosphate buffered saline,,,,True
+58,Aqueous solubility in 50 mM phosphate buffer at pH 6.5 after overnight incubation by HPLC based lyophilized solubility assay,6.5,50 mM phosphate buffer,overnight,HPLC based lyophilized solubility assay,,True
+59,Thermodynamic solubility in pH 7.4 solution after 20 to 24 hrs by LC-MS/MS analysis,7.4,,20 to 24 hrs,LC-MS/MS analysis,,True

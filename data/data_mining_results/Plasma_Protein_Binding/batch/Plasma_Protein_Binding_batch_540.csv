@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+521,Protein binding in rat plasma at 10 uM after 5 to 10 mins by LC-MS/MS analysis,Rat Plasma,10 uM,5 to 10 mins,LC-MS/MS,Equilibrium Dialysis,True
+522,Plasma protein binding in pigeon at 2.5 ug/ml,Pigeon Plasma,2.5 ug/ml,,,,True
+523,Protein binding in 10% fetal calf serum,Fetal Calf Serum,,,,,True
+524,Protein binding in human plasma at 1 uM after 5 hrs by LC/MS analysis,Human Plasma,1 uM,5 hrs,LC/MS,,True
+525,Protein binding in human plasma at 5 uM incubated for 6 hrs by red equilibrium dialysis based LC-MS/MS analysis,Human Plasma,5 uM,6 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,True
+526,Protein binding in horse pooled plasma at 0.5 to 15 ug/ml,Horse Pooled Plasma,0.5 to 15 ug/ml,,,,True
+527,Protein binding in rabbit serum,Rabbit Serum,,,,,True
+528,Plasma protein binding in rat at 5 uM after 5 hrs by LC-MS/MS based equilibrium dialysis method,Rat Plasma,5 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True
+529,Protein binding in human plasma at 1 uM by equilibrium dialysis,Human Plasma,1 uM,,Equilibrium Dialysis,Equilibrium Dialysis,True
+530,Protein binding in rat brain homogenate,Rat Brain Homogenate,,,,,False
+531,Protein binding in Sprague-Dawley rat plasma assessed as fraction unbound at 5 to 100 uM,Sprague-Dawley Rat Plasma,5 to 100 uM,,,,True
+532,Protein binding in rat plasma at 1 uM after 5 hrs by equilibrium dialysis based LC-MS/MS analysis,Rat Plasma,1 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True
+533,Protein binding in human plasma at 1 uM by ultrafiltration assay,Human Plasma,1 uM,,Ultrafiltration,Ultrafiltration,True
+534,Protein binding in rat plasma at 10 uM after 4 hrs,Rat Plasma,10 uM,4 hrs,,,True
+535,Protein binding in Sprague-Dawley rat plasma at 40 uM incubated for 4 hrs by equilibrium dialysis,Sprague-Dawley Rat Plasma,40 uM,4 hrs,Equilibrium Dialysis,Equilibrium Dialysis,True
+536,Protein binding in cynomolgus monkey plasma by high-throughput dialysis method,Cynomolgus Monkey Plasma,,,High-Throughput Dialysis,High-Throughput Dialysis,True
+537,Binding affinity of the [35S]- radiolabeled compound to human plasma protein,Human Plasma,,,,,False
+538,"Protein binding in human plasma at 125 mg, po",Human Plasma,125 mg,,,,True
+539,Plasma protein binding of tritium labeled compound in human plasma was determined,Human Plasma,,,,,True
+540,Protein binding in mouse lung at 1 ug/ml after 4 hrs by rapid equilibrium dialysis and LC-MS/MS analysis,Mouse Lung,1 ug/ml,4 hrs,LC-MS/MS,Rapid Equilibrium Dialysis,False

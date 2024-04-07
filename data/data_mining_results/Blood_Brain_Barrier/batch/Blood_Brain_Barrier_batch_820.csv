@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+760,Apparent permeability across basolateral to apical in human Caco2 cells by LC-MS/MS analysis,human Caco2 LC-MS/MS,,basolateral to apical apparent,,at 0.25 to 0.75 uM,False
+761,Permeability of compound measured after 4 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,,False
+762,Permeability of the compound in 0.025 M phosphate buffer at pH 7.4 assessed drug flux level after 5 hrs by PAMPA,PAMPA,,drug flux assessment,7.4,,False
+763,"Permeability from apical to basolateral side of human Caco2 cells at compound, Lipoid S100 and tween 80 ratio 1:1:1",human Caco2,,apical to basolateral ratio,,ratio assessment,False
+764,Permeability across polyvinylidene fluoride membrane coated with polar brain lipid extract porcine by BBB PAMPA,BBB PAMPA,,across PVDF membrane with porcine brain lipid,,,True
+765,Apparent permeability from serosal to mucosal side in Wistar rat jejunum,Wistar rat jejunum,,serosal to mucosal apparent,,,False
+766,Permeability of the compound at 50 uM by PAMPA,PAMPA,,,,50 uM,False
+767,Permeability from basolateral to apical side of in wild type MDCK cells assessed as mass balance at 10 uM after 2 hrs,MDCK mass balance,,basolateral to apical mass balance,,10 uM after 2 hrs,False
+768,Permeability from apical to basolateral side in human Caco2 cells at 10 uM incubated for 60 mins,human Caco2,,apical to basolateral,,10 uM for 60 mins,False
+769,Permeability across basolateral to apical side in MDCK cells,MDCK,,basolateral to apical,,,False
+770,Permeability of the compound at 50 to 100 uM after 18 hrs by PAMPA,PAMPA,,,,50 to 100 uM after 18 hrs,False
+771,Permeability across apical to basolateral side in RRCK cells expressing MDR1,RRCK MDR1,,apical to basolateral,,,False
+772,Permeability of the compound at pH 6.5 after 2 hrs by PAMPA,PAMPA,,,6.5,after 2 hrs,False
+773,Permeability of compound at pH 5 by PAMPA,PAMPA,,,5.0,,False
+774,Permeability across apical to basolateral side in MDCK2-MDR1 cells at 2 uM,MDCK2-MDR1,,apical to basolateral,,2 uM,False
+775,Passive permeability across MDR1-expressing dog MDCK2 cells membrane at 3 uM in presence of P-glycoprotein inhibitor,MDCK2 MDR1 P-gp inhibitor,,passive permeability with P-gp inhibitor,,3 uM with P-gp inhibitor,False
+776,Brain penetration in mouse assessed as brain/plasma ratio at 100 or 300 mg/kg/day for 4 to 5 days,Mouse brain penetration study,,brain/plasma ratio,,100 or 300 mg/kg/day for 4 to 5 days,False
+777,Permeability across basolateral to apical side in RRCK cells expressing MDR1,RRCK MDR1,,basolateral to apical,,,False
+778,Permeability from apical to basolateral side of human Caco2 cells at compound to Lipoid S100 ratio 1:3,human Caco2,,apical to basolateral ratio,,compound to Lipoid S100 ratio,False
+779,Permeability from apical to basolateral side of in wild type MDCK cells assessed as mass balance at 10 uM after 2 hrs,MDCK mass balance,,apical to basolateral mass balance,,10 uM after 2 hrs,False

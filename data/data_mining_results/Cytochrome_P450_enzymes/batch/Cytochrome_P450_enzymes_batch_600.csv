@@ -1,0 +1,10 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+584,Inhibition of CYP2D6 using AMMC as substrate,CYP2D6,,,,AMMC,,,,,CYP2D6,True
+585,"Inhibition of recombinant human CYP2D6 using 3-[2-(N,N-diethylamino)ethyl]-7-methoxy-4-methylcoumarin as substrate preincubated for 10 mins followed by substrate addition and measured after 30 mins",CYP2D6,"preincubated for 10 mins, measured after 30 mins",,,"3-[2-(N,N-diethylamino)ethyl]-7-methoxy-4-methylcoumarin",,,,recombinant human,recombinant human CYP2D6,True
+586,Inhibition of CYP2B6,CYP2B6,,,,,,,,,CYP2B6,True
+587,Inhibition of CYP3A4 in human liver microsomes using midazolam as substrate by LC-MS/MS analysis,CYP3A4,,,,midazolam,,,LC-MS/MS,human liver microsomes,human liver CYP3A4,True
+588,Inhibition of recombinant CYP3A4 using 7-benzyloxyresorufin as substrate,CYP3A4,,,,7-benzyloxyresorufin,,,,recombinant,recombinant CYP3A4,True
+589,Inhibition of CYP2D6 in human liver microsomes using dextromethorphan as substrate after 15 mins in presence of NADPH by LC-MS/MS analysis,CYP2D6,after 15 mins,,,dextromethorphan,,NADPH,LC-MS/MS,human liver microsomes,human liver CYP2D6,True
+590,Inhibition of CYP2D6 in human liver microsomes using dextromethorphan as substrate by LC-MS/MS analysis,CYP2D6,,,,dextromethorphan,,,LC-MS/MS,human liver microsomes,human liver CYP2D6,True
+591,Inhibition of recombinant human CYP3A4 expressed in baculosomes preincubated for 10 mins followed by cofactor addition measured every minute for 10 mins using 7-benzyloxyquinoline as substrate by CYPEX assay,CYP3A4,"preincubated for 10 mins, measured every minute for 10 mins",,,7-benzyloxyquinoline,,,CYPEX assay,recombinant human expressed in baculosomes,recombinant human CYP3A4,True
+592,Inhibition of CYP450,CYP450,,,,,,,,,CYP450,True

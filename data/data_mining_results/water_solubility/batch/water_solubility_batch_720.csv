@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+620,Aqueous kinetic solubility of the compound by turbidimetric method,,aqueous,,turbidimetric method,,True
+621,Aqueous solubility of the compound in phosphate buffered saline at pH 7.4 at 8 to 2000 uM by nephelometric method,7.4,phosphate buffered saline,,nephelometric method,,True
+622,"Solubility (phosphate-buffered saline, pH =7.4)",7.4,phosphate-buffered saline,,,,True
+623,Aqueous solubility in pH 7.4 phosphate buffer after 24 hrs by UPLC/MS/MS analysis,7.4,phosphate buffer,24 hrs,UPLC/MS/MS analysis,,True
+624,Solubility of the compound in aqueous buffer at pH 6.8 after 24 hrs,6.8,aqueous buffer,24 hrs,,,True
+625,Kinetic solubility of the compound at pH 7.4 after 1 hr by chemiluminescent nitrogen detection assay,7.4,None,1 hr,chemiluminescent nitrogen detection assay,,True
+626,Solubility in water by HPLC,,water,,HPLC,,True
+627,Kinetic solubility of the compound in 0.1M HCl at pH 1 at 20 degC by HPLC analysis,1.0,0.1M HCl,,HPLC analysis,20 degC,True
+628,Solubility at pH 7.4 was determined,7.4,None,,,,True
+629,Solubility in 20% HPbetaCD after 24 hrs,,20% HPbetaCD,24 hrs,,,True
+630,Aqueous solubility in pH 6.5 phosphate buffer,6.5,phosphate buffer,,,,True
+631,Aqueous stability at pH 7.4 after 18 hrs,7.4,None,18 hrs,,,True
+632,Aqueous solubility of compound by shake flask method,,aqueous,,shake flask method,,True
+633,Aqueous solubility after 18 hrs at pH 7.4,7.4,aqueous,18 hrs,,,True
+634,Solubility of compound in SGF at pH 1.2 incubated for 2 hrs by UPLC-UV analysis,1.2,SGF,2 hrs,UPLC-UV analysis,,True
+635,Solubility in 50 mM phosphate buffer at pH 7.4 after 20 hrs by HPLC method,7.4,phosphate buffer,20 hrs,HPLC method,,True
+636,Crystalline solubility of the compound,,,,,,True
+637,Kinetic solubility of the compound in PBS buffer at pH 7.4 incubated for 18 hrs by LC-MS analysis,7.4,PBS buffer,18 hrs,LC-MS analysis,,True
+638,Solubility of the compound in serum-free DMEM assessed as compound concentration required for crystal formation measured after 1 day by microscopic analysis,,serum-free DMEM,1 day,microscopic analysis,,True
+639,Solubility of the compound at pH 6.8 by high-throughput equilibrium analysis,6.8,,,high-throughput equilibrium analysis,,True

@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+481,Protein binding in mouse serum at 10 uM incubated for 5 hrs by equilibrium dialysis based LC-MS/MS analysis,Mouse Serum,10 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True
+482,Protein binding in rat serum at 10 uM incubated for 5 hrs by equilibrium dialysis based LC-MS/MS analysis,Rat Serum,10 uM,5 hrs,LC-MS/MS,Equilibrium Dialysis,True
+483,Protein binding in human plasma at 0.25 mg/ml measured after 24 hrs by RP-HPLC analysis relative to control,Human Plasma,0.25 mg/ml,24 hrs,RP-HPLC,,True
+484,Protein binding in rat plasma by LC-MS/MS based equilibrium dialysis method,Rat Plasma,,,LC-MS/MS,Equilibrium Dialysis,True
+485,Plasma protein binding in human assessed as bound fraction at 0.5 to 2 uM measured after 30 mins by HPLC-MS/MS analysis,Human Plasma,0.5 to 2 uM,30 mins,HPLC-MS/MS,,True
+486,"Plasma protein binding in mouse at 0.5 mg/kg, iv or 10 mg/kg, po",Mouse,10 mg/kg,,,,True
+487,Plasma protein binding in human at 2 uM by rapid equilibrium dialysis based LC-MS/MS analysis,Human Plasma,2 uM,,LC-MS/MS,Rapid Equilibrium Dialysis,True
+488,"Protein binding in human at 0.2 g, po bid",Human,0.2 g,,,,True
+489,"Protein binding in human at 0.6 g, po",Human,0.6 g,,,,True
+490,Protein binding in 50% plasma (unknown origin),Unknown,,,,Equilibrium Dialysis,True
+491,Protein binding in monkey plasma at 1 uM incubated incubated for 5 hrs under shaking conditions by LC-MS analysis,Monkey Plasma,1 uM,5 hrs,LC-MS,,False
+492,Protein binding in swine brain at 10 uM after 30 mins by ultrafiltration method,Swine Brain,10 uM,30 mins,Ultrafiltration,Equilibrium Dialysis,True
+493,Plasma protein binding in CD-1 mouse,CD-1 Mouse Plasma,,,LC-MS/MS,,True
+494,"Protein binding in CD-1 mouse brain at 1 mg/kg, iv measured at 2 hrs",CD-1 Mouse Brain,1 mg/kg,2 hrs,,,False
+495,"Plasma protein binding in CD1 mouse at 5.1 mg/kg, po by LC-MS/MS analysis",CD1 Mouse Plasma,5.1 mg/kg,,LC-MS/MS,Rapid Equilibrium Dialysis,True
+496,Plasma protein binding in male Sprague-Dawley rat measured after 0.25 mins by HPLC analysis,Male Sprague-Dawley Rat Plasma,,0.25 mins,HPLC,,True
+497,Plasma protein binding in female BALB/c mouse measured after 2 mins by HPLC analysis,Female BALB/c Mouse Plasma,,2 mins,HPLC,Equilibrium Dialysis,True
+498,Protein binding in human plasma at 2 uM after 5 hrs by LC/MS analysis,Human Plasma,2 uM,5 hrs,LC/MS,,True
+499,Binding affinity to dog hemoglobin assessed as protein bound compound level at 20 uM,Dog Hemoglobin,20 uM,,,Rapid Equilibrium Dialysis,False
+500,"Protein binding in cynomolgus monkey at 1 mg/kg, iv measured upto 72 hrs by LC-MS/MS analysis",Cynomolgus Monkey,1 mg/kg,up to 72 hrs,LC-MS/MS,,True

@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Genotoxicity in Salmonella typhimurium TA104 RecN2-4 harboring lux operon at 0.25 to 25 uM measured every 5 mins for 4 hrs by vitotox assay in presence of S9 liver extract,0.25 to 25 uM,,measured every 5 mins for 4 hrs,presence of S9 liver extract,Salmonella typhimurium TA104 RecN2-4,False
+2,Genotoxicity in Salmonella typhimurium TA104 RecN2-4 harboring lux operon at 0.25 to 25 uM measured every 5 mins for 4 hrs by vitotox assay,0.25 to 25 uM,,measured every 5 mins for 4 hrs,,Salmonella typhimurium TA104 RecN2-4,False
+3,Mutagenicity in Salmonella typhi TA1537 by Ames test in absence of liver S9 fraction,50 uM,,,absence of liver S9 fraction,Salmonella typhi TA1537,True
+4,Mutagenicity in Salmonella typhimurium TA98 up to 5000 ug/ml by Ames test in presence of rat S9 fraction,up to 5000 ug/ml,,,presence of rat S9 fraction,Salmonella typhimurium TA98,True
+5,Activation of smooth myosin S1 ATPase in chicken gizzard at 10 uM in presence of actin thin filament complex,10 uM,,,presence of actin thin filament complex,chicken gizzard,False
+6,Activity at human glucocorticoid receptor in C2C12 cells assessed as mouse glutamine synthetase activity relative to Dexamethasone,,,,,C2C12 cells,False
+7,Mutagenic activity in Salmonella Typhimurium TA98 assessed as number of revertant colonies at 250000 ng/plate after 48 hrs by Ames assay,250000 ng/plate,,after 48 hrs,,Salmonella Typhimurium TA98,True
+8,Activation of skeletal myosin S1 ATPase in rabbit psoas muscle at 10 uM in presence of actin thin filament complex,10 uM,,,presence of actin thin filament complex,rabbit psoas muscle,False
+9,Genotoxicity in CHO cells assessed as chromosomal aberrations at 10 ppm after 60 mins in dark followed by 5 W/m'2 UV irradiation for 30 mins,10 ppm,,after 60 mins in dark + 30 mins UV,,CHO cells,False
+10,Antimicrofilament activity in human HCT116 cells assessed as loss of microfilament network at 0.5 uM by rhodamine-phalloidin staining,0.5 uM,,,,human HCT116 cells,False
+11,Mutagenicity in Salmonella typhimurium TA98 up to 5000 ug/ml by Ames test in absence of rat S9 fraction,up to 5000 ug/ml,,,absence of rat S9 fraction,Salmonella typhimurium TA98,True
+12,Mutagenicity in Escherichia coli WP2uvrA up to 5000 ug/ml by Ames test in presence of rat S9 fraction,up to 5000 ug/ml,,,presence of rat S9 fraction,Escherichia coli WP2uvrA,True
+13,Genotoxicity in Salmonella typhimurium TA-1538 after 2 days by Ames test in presence of C57BL/6J mouse liver S9 fraction relative to control,,,after 2 days,presence of C57BL/6J mouse liver S9 fraction,Salmonella typhimurium TA-1538,True
+14,Mutagenicity in Escherichia coli WP2uvrA up to 5000 ug/ml by Ames test in absence of rat S9 fraction,up to 5000 ug/ml,,,absence of rat S9 fraction,Escherichia coli WP2uvrA,True
+15,Genotoxicity in CHO cells assessed as chromosomal aberrations at 2.5 ppm after 60 mins in dark followed by 5 W/m'2 UV irradiation for 30 mins,2.5 ppm,,after 60 mins in dark + 30 mins UV,,CHO cells,False
+16,Genotoxicity in Salmonella typhimurium TA-1538 after 2 days by Ames test relative to control,,,after 2 days,,Salmonella typhimurium TA-1538,True
+17,Mutagenicity in Salmonella typhimurium TA98 assessed as number of revertants by Ames test in absence of microsomal activation,,,,absence of microsomal activation,Salmonella typhimurium TA98,True
+18,Antimutagenic activity in Salmonella Typhimurium TA102 assessed as inhibition of H2O2-induced mutagenesis at 0.05 to 0.25 ug/ml after 48 hrs by Ames test,0.05 to 0.25 ug/ml,,after 48 hrs,,Salmonella Typhimurium TA102,False
+19,Metal chelation activity assessed as 1:2 Fe3+:L complex formation in DMF:H2O (7:3) solution by cyclic voltametry,,,,,,False
+20,"Gametocytocidal activity against Plasmodium berghei ANKA 25R/10 infected in Balb/C mouse assessed as reduction in number of oocysts per mosquito at 15 mg/kg, ip after 2 hrs feed Anopheles stephensi mosquitoes for 2 hrs on compound treated animals measured after 10 days post feed by stereomicroscopy",15 mg/kg,,"after 2 hrs feed, measured after 10 days post feed",,Plasmodium berghei ANKA 25R/10 infected Balb/C mouse,False

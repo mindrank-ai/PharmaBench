@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,"PUBCHEM_BIOASSAY: Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F. (Class of assay: screening) [Related pubchem assays (depositor defined):AID1446, AID1486, AID1520, AID1521, AID1691, AID1699, AID1797] Panel member name: irf1 Inhibition (HEL cells)",,,,,HEL cells,False
+2,"PUBCHEM_BIOASSAY: Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F. (Class of assay: screening) [Related pubchem assays (depositor defined):AID1446, AID1486, AID1520, AID1521, AID1691, AID1699, AID1797] Panel member name: irf1 Inhibition (Ba/F3 cells)",,,,,Ba/F3 cells,False
+3,Genotoxicity in Salmonella typhimurium by Ames test,,,,,Salmonella typhimurium,True
+4,"PUBCHEM_BIOASSAY: Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F. (Class of assay: screening) [Related pubchem assays (depositor defined):AID1446, AID1486, AID1520, AID1521, AID1691, AID1699, AID1797] Panel member name: Ba/F3 Cytotoxicity",,,,,Ba/F3,False
+5,"PUBCHEM_BIOASSAY: Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F. (Class of assay: screening) [Related pubchem assays (depositor defined):AID1446, AID1486, AID1520, AID1521, AID1691, AID1699, AID1797] Panel member name: JAK2V617F Inhibition",,,,,,False
+6,Mutagenicity in Salmonella typhimurium by Ames test,,,,,Salmonella typhimurium,True
+7,Induction of phospholipidosis in bovine corneal fibroblasts assessed as lamellar inclusion bodies after 72 hrs by light microscopy,,,72 hrs,,bovine corneal fibroblasts,False
+8,Neuroprotective activity against kainate-induced cell damage in mouse primary cortical neurons assessed as reduction in kainate-induced neurofilament loss by measuring increase in MAPK level at 1 uM pretreated followed by kainate challenge measured after 18 hrs by fluorescence assay,1 uM,,18 hrs,,mouse primary cortical neurons,False
+9,Antiviral activity against HCV infected in human HuH5.2 cells assessed as inhibition of subgenomic RNA replication after 4 days by Steady-Glo luciferase assay,,,4 days,,human HuH5.2 cells,False
+10,Antibacterial activity against trimethoprim-sulfamethoxazole-resistant Stenotrophomonas maltophilia assessed as inhibition of microbial growth up to 50 ug/ml incubated for 24 hrs by microdilution assay,up to 50 ug/ml,,24 hrs,,Stenotrophomonas maltophilia,False
+11,Mutagenicity in Salmonella typhimurium TA100 in presence of liver S9 fraction by AMES test,,,,liver S9 fraction,Salmonella typhimurium TA100,True
+12,Mutagenicity in Salmonella typhimurium TA98 in presence of liver S9 fraction by AMES test,,,,liver S9 fraction,Salmonella typhimurium TA98,True
+13,Antiviral activity against Vaccinia virus WR in BSC1 cells assessed as retention of antiviral potency by measuring exogenous double stranded DNA trapping,,,,,BSC1 cells,False
+14,Genotoxicity in Salmonella typhimurium TA98 by Ames test in presence of S9 fractions,,,,S9 fractions,Salmonella typhimurium TA98,True
+15,Genotoxicity in Salmonella typhimurium TAMix by Ames test in presence of S9 fractions,,,,S9 fractions,Salmonella typhimurium TAMix,True
+16,Mutagenicity in Salmonella typhimurium TA98 by AMES test,,,,,Salmonella typhimurium TA98,True
+17,Mutagenicity in Salmonella typhimurium TA100 by AMES test,,,,,Salmonella typhimurium TA100,True
+18,Antibacterial activity against drug-resistant Pseudomonas aeruginosa clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Pseudomonas aeruginosa,False
+19,Antibacterial activity against drug-resistant Acinetobacter calcoaceticus clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Acinetobacter calcoaceticus,False
+20,Antibacterial activity against drug-resistant Serratia marcescens clinical isolate assessed as inhibition zone diameter after 24 hrs by antibacterial susceptibility test,,,24 hrs,,Serratia marcescens,False

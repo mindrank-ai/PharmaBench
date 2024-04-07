@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,Total clearance of compound in rat after administration of 1 mg/kg (iv) and 5 mg/kg (po),"1 mg/kg iv, 5 mg/kg po",none,none,rat,none,none,rat,"iv, po",none,none,False
+1,Stability in human hepatocytes assessed as intrinsic clearance at 0.5 uM measured after 120 mins by LC/MS/MS analysis,0.5 uM,after 120 mins,none,human hepatocytes,none,LC/MS/MS,human,none,none,none,False
+2,Intrinsic clearance in mouse liver microsomes at 500 uM pretreated up to 45 mins followed by NADPH addition and measured by LC-MS/MS analysis,500 uM,pretreated up to 45 mins,NADPH,mouse liver microsomes,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+3,Plasma clearance in human liver microsomes,none,none,none,human liver microsomes,none,none,human,none,liver microsomes,none,False
+4,"Clearance in C57BL/6 mouse at 1 mg/kg, iv after 5 mins to 7 hrs by HPLC-MS/MS analysis",1 mg/kg,5 mins to 7 hrs,none,C57BL/6 mouse,none,HPLC-MS/MS,C57BL/6 mouse,iv,none,none,False
+5,Intrinsic clearance in mouse liver microsomes at 1 uM measured after 30 mins in presence of NADPH by LC-MS/MS analysis,1 uM,after 30 mins,NADPH,mouse liver microsomes,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+6,"Unbound clearance in rat at 0.5 mg/kg, iv by LC-MS/MS analysis",0.5 mg/kg,none,none,rat,none,LC-MS/MS,rat,iv,none,unbound,False
+7,Intrinsic clearance in human liver microsomes at 50 uM in presence of NADPH by HPLC-MS analysis,50 uM,none,NADPH,human liver microsomes,none,HPLC-MS,human,none,liver microsomes,none,True
+8,Stability in rat liver microsomes assessed as intrinsic clearance at 1 uM incubated for 30 mins by LC-MS/MS analysis,1 uM,30 mins,none,rat liver microsomes,none,LC-MS/MS,rat,none,liver microsomes,none,True
+9,Stability in rat liver microsomes assessed as intrinsic clearance,none,none,none,rat liver microsomes,none,none,rat,none,liver microsomes,none,True
+10,Clearance in human microsomes assessed per mg protein,none,none,none,human microsomes,none,none,human,none,microsomes,per mg protein,True
+11,Metabolic stability in mouse liver microsomes assessed as intrinsic clearance at 10 mM incubated for 45 mins in presence of NADPH by LC/MS analysis,10 mM,45 mins,NADPH,mouse liver microsomes,none,LC/MS,mouse,none,liver microsomes,none,True
+12,Plasma clearance in female rat was determined with intravenous dosing at 1 mpk and oral dosing at 2 mpk,"1 mpk iv, 2 mpk po",none,none,female rat,none,none,female rat,"iv, po",none,none,False
+13,Metabolic stability in human liver microsomes assessed as intrinsic clearance at 0.5 uM incubated for 30 mins by UPLC-MS/MS analysis,0.5 uM,30 mins,none,human liver microsomes,none,UPLC-MS/MS,human,none,liver microsomes,none,True
+14,Metabolic stability in CD-1 mouse liver microsomes assessed as intrinsic clearance measured upto 45 mins by LC-MS/MS analysis,none,up to 45 mins,none,CD-1 mouse liver microsomes,none,LC-MS/MS,CD-1 mouse,none,liver microsomes,none,True
+15,Clearance in Wistar Han rat by LC-MS/MS analysis,none,none,none,Wistar Han rat,none,LC-MS/MS,Wistar Han rat,none,none,none,False
+16,"Clearance in BALB/c mouse at 5 mg/kg, iv",5 mg/kg,none,none,BALB/c mouse,none,none,BALB/c mouse,iv,none,none,False
+17,Clearance in rat liver microsomes at 0.625 uM preincubated for 5 mins followed by NADPH addition and measured after 60 mins by LC-MS/MS analysis,0.625 uM,after 60 mins,NADPH,rat liver microsomes,none,LC-MS/MS,rat,none,liver microsomes,none,True
+18,"Clearance in CD-1 mouse at 1 mg/kg, iv administered as single dose measured up to 24 hrs",1 mg/kg,up to 24 hrs,none,CD-1 mouse,none,none,CD-1 mouse,iv,none,none,False
+19,Metabolic stability in human liver microsomes assessed as intrinsic clearance at 1 uM preincubated for 5 mins followed by NADPH addition by LC-MS/MS analysis,1 uM,preincubated for 5 mins,NADPH,human liver microsomes,none,LC-MS/MS,human,none,liver microsomes,none,True

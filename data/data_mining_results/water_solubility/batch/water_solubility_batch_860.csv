@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+760,Aqueous solubility at 25 degC,,aqueous,,,25 degC,True
+761,Solubility of compound in aqueous buffer at pH 6.8 by HPLC analysis,6.8,aqueous buffer,,HPLC analysis,,True
+762,Aqueous solubility of the compound in JP2 fluid at pH 6.8 at 10 mM after 20 hrs by HPLC analysis,6.8,JP2 fluid,20 hrs,HPLC analysis,,True
+763,Aqueous solubility of compound in PBS buffer at pH 7.4 by HPLC analysis,7.4,PBS buffer,,HPLC analysis,,True
+764,Aqueous solubility of the compound at pH 7 sonicated for 15 mins by HPLC analysis,7.0,aqueous,15 mins,HPLC analysis,,True
+765,Solubility of compound in simulated gastric fluid pH 2 by nephelometry,2.0,simulated gastric fluid,,nephelometry,,True
+766,"Solubility was determined with phosphate buffer (0.10M, 5 mL).",,phosphate buffer,,,,True
+767,Aqueous solubility of the compound by nephlometric method,,None,,nephelometric method,,True
+768,Solubility of compound at pH 7 by HPLC analysis,7.0,aqueous,,HPLC analysis,,True
+769,Compound was evaluated for its solubility in water,,water,,,,True
+770,Solubility in water at pH 7 by UV-vis spectrophotometric analysis,7.0,water,,UV-vis spectrophotometric analysis,,True
+771,Solubility of the compound in phosphate buffer at pH 6.5 after 1 to 2 hrs by LYSA,6.5,phosphate buffer,1 to 2 hrs,LYSA,,True
+772,Solubility in pH 5.2 buffer,5.2,,,,,True
+773,Solubility of compound in PBS at pH 7.0 at 100 uM measured for 20 mins by LC-MS/MS analysis,7.0,PBS,20 mins,LC-MS/MS analysis,,True
+774,Solubility of the compound in pH 6.5 FaSSIF at 125 ug/ml incubated for 16 hrs by HPLC analysis,6.5,FaSSIF,16 hrs,HPLC analysis,,True
+775,High throughput equilibrium solubility at pH 6.8,6.8,,,high throughput equilibrium solubility,,True
+776,Kinetic solubility of the compound in pH 7.4 phosphate buffer measured after 6 hrs by UV spectroscopy,7.4,phosphate buffer,6 hrs,UV spectroscopy,,True
+777,Prodrug solubility in Labrasol,,Labrasol,,,,True
+778,Solubility at pH 2.0,2.0,,,,,True
+779,Compound was tested for its solubility in water,,water,,,,True

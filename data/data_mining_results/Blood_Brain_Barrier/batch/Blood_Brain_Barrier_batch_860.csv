@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+800,Permeability of the compound using filter-immobilized artificial membranes measured at pH 7.4 by PAMPA,PAMPA artificial membranes,,permeability in artificial membranes,7.4,,False
+801,Permeability across human Caco2 cells after 2 hrs by LC-MS/MS analysis,human Caco2 LC-MS/MS,,across Caco2 cells,,after 2 hrs,False
+802,Permeability of compound at pH 7.4 after 30 mins by PAMPA assay,PAMPA,,,7.4,after 30 mins,False
+803,Brain permeability is determined by ratio of concentration of compound in brain to that of in plasma (CB/CP) 2 hrs after oral dosing of 10.0 mg/kg (N=3),Brain permeability study,,brain/plasma ratio CB/CP,,at 10 mg/kg oral dosing,False
+804,Passive permeability across basolateral to apical side in human Caco2 cells,human Caco2,,basolateral to apical passive permeability,,,False
+805,Apparent Permeability from apical to basolateral side of MDCK2 cells over expressing MDR1,MDCK2 MDR1,,apical to basolateral apparent,,,False
+806,"Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound, Lipoid S100 and pluronic f127 ratio 1:1:1",human Caco2 mass balance,,apical to basolateral mass balance,,mass balance ratio,False
+807,Permeability from basolateral to apical side of in wild type MDCK cells assessed as cell retention at 10 uM after 2 hrs,MDCK wild type,,basolateral to apical cell retention,,10 uM after 2 hrs,False
+808,MDR1-mediated transport in MDCK cells assessed as permeability from basolateral to apical side at 5 uM,MDCK MDR1-mediated,,basolateral to apical MDR1-mediated,,5 uM,False
+809,Apparent permeability of the compound from apical to basolateral direction in pig cerebral capillary endothelial cells measured per cm'2 size of filter at 500 uM after 3 hrs by RP-HPLC analysis,pig cerebral endothelial RP-HPLC,,apical to basolateral apparent porcine cerebral endothelial,,500 uM per cm'2 filter after 3 hrs,False
+810,Permeability across basal to apical side in MDCK-MDR1 cells,MDCK-MDR1,,basal to apical,,,False
+811,Permeability from apical to basolateral side in MDCK cells overexpressing human MDR1 assessed as adsorption on transwell at 10 uM after 2 hrs,MDCK human MDR1 transwell,,apical to basolateral adsorption,,10 uM after 2 hrs,False
+812,Permeability across polyvinylidene fluoride membrane coated with biomimetic lipid membrane by GIT PAMPA,GIT PAMPA,,across biomimetic lipid membrane,,,False
+813,Permeability of the compound from apical to basolateral side of transepithelial human Caco2 model assessed as absorptive transport by mass balance study,human Caco2 mass balance,,apical to basolateral absorptive transport,,mass balance absorptive transport,False
+814,Permeability from apical to basolateral side in human Caco2 cells at 1 uCi/ml measured every 20 mins for 2 hrs,human Caco2,,apical to basolateral every 20 mins,,1 uCi/ml every 20 mins,False
+815,Permeability from basolateral to apical side of in P-glycoprotein-mediated MDCK cells over expressing human MDR1 assessed as cell retention at 10 uM after 2 hrs,MDCK human MDR1 P-gp-mediated,,basolateral to apical cell retention,,10 uM after 2 hrs,False
+816,Permeability at 50 uM at pH 7.4 by PAMPA,PAMPA,,,7.4,50 uM,False
+817,Permeability from basolateral to apical side of in MDCK cells overexpressing human MDR1 assessed as mass balance at 10 uM after 2 hrs,MDCK human MDR1 mass balance,,basolateral to apical mass balance,,10 uM after 2 hrs,False
+818,Permeability of the compound from apical to basolateral side at pH 6.8 by PAMPA,PAMPA,,from apical to basolateral at pH 6.8,6.8,,False
+819,Permeability across human skin assessed as skin flux applied topically after 24 hrs by LC-MS analysis,human skin LC-MS,,skin permeability topically applied,,applied topically for 24 hrs,False

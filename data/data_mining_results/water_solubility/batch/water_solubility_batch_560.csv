@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+480,Solubility by CLND method,,,,CLND method,,True
+481,Equilibrium solubility of the compound in phosphate buffer by LC-MS analysis,,phosphate buffer,,LC-MS analysis,,True
+482,Aqueous solubility of the compound at pH 6.5 using amorphous form of sample,6.5,aqueous (amorphous sample),,,,True
+483,Solubility of compound by pH 2,2.0,None,,,,True
+484,Solubility in phosphate buffer at pH 6.5 by lyophilization solubility assay,6.5,phosphate buffer,,lyophilization solubility assay,,True
+485,Kinetic solubility of compound in PBS at pH 7.4 by UV-VIS absorption spectrophotometry analysis,7.4,PBS,,UV-VIS absorption spectrophotometry analysis,,True
+486,Kinetic solubility of the compound at pH 7.4 by HPLC-UV method,7.4,None,,HPLC-UV method,,True
+487,Kinetic solubility of compound in PBS at pH 7.4 measured after 2 hrs by LC/MS method,7.4,PBS,2 hrs,LC/MS method,,True
+488,Aqueous solubility at pH 7,7.0,aqueous,,,,True
+489,Aqueous kinetic solubility of the compound in PBS at pH 7.4 at 37 degC after 24 hrs by UPLC/MS method,7.4,PBS,24 hrs,UPLC/MS method,37 degC,True
+490,Kinetic solubility of compound at 12 to 250 uM by laser nephlometry,,None,,laser nephelometry,,True
+491,Cytotoxicity against human A549 cells after 48 hrs by MTT assay,,,48 hrs,MTT assay (cytotoxicity),,False
+492,Aqueous solubility at pH 4,4.0,,,,,True
+493,Solubility of compound in pH 7.4 buffer at 1 uM,7.4,,,,,True
+494,Kinetic aqueous solubility of the compound in phosphate buffer at pH 6.5 by nephelometric analysis,6.5,phosphate buffer,,nephelometric analysis,,True
+495,Thermodynamic solubility of compound in pH 7.4 solution,7.4,,,,,True
+496,Kinetic aqueous solubility of the compound in phosphate buffer at pH 2 by nephelometric analysis,2.0,phosphate buffer,,nephelometric analysis,,True
+497,Solubility of the compound in phosphate buffer saline,,phosphate buffer saline,,,,True
+498,Kinetic apparent solubility of the compound in sodium phosphate buffer at pH 6.5,6.5,sodium phosphate buffer,,,,True
+499,Kinetic solubility of compound in DMSO/phosphate buffered saline at pH7.4 by chemiluminescent nitrogen detection method,7.4,DMSO/phosphate buffered saline,,chemiluminescent nitrogen detection method,,False

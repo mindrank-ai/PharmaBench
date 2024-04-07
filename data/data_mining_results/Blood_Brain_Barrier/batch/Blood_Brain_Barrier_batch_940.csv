@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+800,Permeability of the compound across the blood brain barrier measured after 18 hrs by parallel artificial membrane permeation assay,PAMPA BBB,,BBB permeability measured,7.4,after 18 hrs,True
+801,Permeability of the compound across apical to basolateral side in human Caco-2 cells at pH 7.4,human Caco-2,,across apical to basolateral side pH 7.4,7.4,,False
+802,Permeability of the compound assessed as drug transmittance level at 10 uM after 16 hrs by LC-MS detection based PAMPA method,PAMPA LC-MS,,drug transmittance level assessed,,10 uM after 16 hrs,False
+803,Permeability of compound at pH >= 5.5 by PAMPA assay,PAMPA,,,>= 5.5,,False
+804,Apparent permeability from apical to basolateral side of Caco-2 cell membrane,Caco-2,,apical to basolateral apparent,,,False
+805,Membrane permeability at neutral pH by PAMPA,PAMPA,,membrane permeability at pH 7.4,neutral pH,10 uM,False
+806,Permeability of the compound at 10 uM at pH 7.4 by LC-MS/MS based PAMPA method,PAMPA LC-MS/MS,,permeability at 10 uM at pH 7.4,7.4,,False
+807,Permeability from apical to basolateral side of Caco-2 cell membrane at pH 5.5,Caco-2,,,5.5,at pH 5.5,False
+808,Permeability across apical to basolateral membrane in human Caco2 cells,human Caco2,,apical to basolateral permeability,,,False
+809,Permeability across apical to basolateral side in human Caco2 cells at 3 uM,human Caco2,,apical to basolateral permeability at 3 uM,,3 uM,False
+810,Permeability of the compound in PBS/EtOH solution measured after 16 hrs by PAMPA,PAMPA PBS/EtOH,,permeability in PBS/EtOH solution,,100 ug/mL,False
+811,Intestinal permeability in ex vivo Wistar rat everted gut sac model assessed as GLUT2-mediated drug permeation by measuring drug level permeated through intestinal membrane at 100 uM added 10 mins after 100 uM SGLT1 inhibitor phloridzin dihydrate and measured after 15 mins post-drug dose by HPLC analysis,Wistar rat everted gut sac HPLC,,GLUT2-mediated drug permeation in gut sac,,100 uM with SGLT1 inhibitor measured after 15 mins,False
+812,Maximum uptake velocity/rate permeability in human Caco-2 cells at 0.25 to 30 uM measured after 120 mins by LC-MS/MS analysis,human Caco-2 LC-MS/MS,,uptake velocity/rate permeability,,0.25 to 30 uM after 120 mins,False
+813,Permeability of the compound across the blood-brain barrier at pH 7.4 by PAMPA,PAMPA BBB,,BBB permeability at pH 7.4,7.4,,True
+814,Passive permeability across apical to basal side in human Caco2 cells,human Caco2,,passive apical to basal permeability,,,False
+815,Permeability across basolateral to apical side in MDCK cells expressing MDR1,MDCK MDR1,,basolateral to apical permeability in MDR1 expression,,,False
+816,Permeability from apical to basolateral side of human Caco-2 cells at 50 uM by LC/MS-MS analysis,human Caco-2 LC/MS-MS,,apical to basolateral permeability at 50 uM,,50 uM,False
+817,Passive permeability from apical to basolateral side of pig LLC-PK1 cells expressing human MDR1,pig LLC-PK1 human MDR1,,passive apical to basolateral permeability,,at 2 uM,False
+818,Permeability from apical to basolateral side of pig LLC-PK1 cells overexpressing human MDR1 at 9918 uM,pig LLC-PK1 human MDR1,,apical to basolateral permeability at 9918 uM,,with P-gp inhibitor,False
+819,"Permeability of compound in Sprague-Dawley rat abdominal skin assessed as drug penetration rate at steady state at 300 mg as 4% ointment, TOP measured up to 24 hrs by HPLC analysis",Sprague-Dawley rat skin HPLC,,drug penetration rate in rat skin,,"at 300 mg 4% ointment, TOP up to 24 hrs",False

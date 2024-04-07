@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+20,Kinetic solubility of compound incubated for 24 hrs,,,24 hrs,kinetic solubility,,True
+21,Solubility of compound at pH 2,2.0,,,,,True
+22,Kinetic solubility of the compound at pH 7.4 after 2 hrs by shake flask method-based HPLC-DAD analysis,7.4,,2 hrs,shake flask method-based HPLC-DAD analysis,,True
+23,Solubility of the compound in 0.01M HCl at pH 2,2.0,0.01M HCl,,,,True
+24,Solubility of the compound in pH 7.4 phosphate buffer saline after 1 hr by chemiluminescence nitrogen detection method,7.4,phosphate buffer saline,1 hr,chemiluminescence nitrogen detection method,,True
+25,Solubility of the compound in PBS,,PBS,,,,True
+26,Aqueous solubility in phosphate buffer at pH 7.4,7.4,phosphate buffer,,,,True
+27,Solubility in PBS buffer at pH 7.4,7.4,PBS buffer,,,,True
+28,Equilibrium solubility of the compound,,,,equilibrium solubility,,True
+29,Kinetic solubility of the compound in 0.01 M HCl at pH 2 by nephelometry,2.0,0.01 M HCl,,nephelometry,,True
+30,Kinetic solubility in pH 7.4 HEPES-BSA buffer at 5 uM incubated for 24 hrs at 20 degC by HPLC method,7.4,HEPES-BSA buffer,24 hrs at 20 degC,HPLC method,20 degC,True
+31,Solubility in water at pH 7.4,7.4,water,,,,True
+32,Solubility of the compound at pH 1.1 to 7.4,1.1 to 7.4,,,,,True
+33,Aqueous solubility of the compound in pH 7.4 phosphate buffer at 200 uM incubated for 1 hr under shaking condition by UV spectra analysis,7.4,phosphate buffer,1 hr,UV spectra analysis,,True
+34,Aqueous solubility of the compound at pH 4,4.0,,,,,True
+35,Solubility of compound in PBS buffer at pH 7.4,7.4,PBS buffer,,,,True
+36,Solubility of the compound in system solution buffer at pH 7.4 after 18 hrs by UV spectrometry analysis,7.4,system solution buffer,18 hrs,UV spectrometry analysis,,True
+37,Kinetic aqueous solubility of compound by CLND assay,,,,CLND assay,,True
+38,Kinetic solubility of the compound in pH 7.4 phosphate buffer,7.4,phosphate buffer,,kinetic solubility,,True
+39,Kinetic solubility of the compound in HCl at pH 2 after 20 hrs by shake flask method,2.0,HCl,20 hrs,shake flask method,,True

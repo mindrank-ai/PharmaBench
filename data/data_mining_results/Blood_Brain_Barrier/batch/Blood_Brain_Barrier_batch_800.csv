@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+740,"Permeability from apical to basolateral side of human Caco2 cells at compound, Lipoid S100 and gelucire 44/14 ratio 1:1:1",human Caco2 mass balance,,mass balance with Lipoid S100 and gelucire ratio,,,False
+741,Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at 5 mg/mL,human Caco2 mass balance,,mass balance at 5 mg/mL,,,False
+742,Permeability of compound in MDCK cells,MDCK,,,,,False
+743,Effective apical efflux permeability in MDCK2 cells expressing human ABCG2 assessed as ABCG2-mediated transport by HPLC method,MDCK2 human ABCG2 HPLC,,ABC-mediated efflux transport,,5 uM with BSA and P-gp inhibitor,False
+744,Permeability of the compound after 16 hrs assessed as compound flux by PAMPA method,PAMPA compound flux,,assessed as compound flux,,,False
+745,Permeability from apical to basolateral side of human Caco2 cells at compound to Lipoid S100 ratio 1:1,human Caco2 mass balance,,mass balance Lipoid S100 ratio,7.4,,False
+746,Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound to Lipoid S100 ratio 1:3,human Caco2 mass balance,,mass balance Lipoid S100 ratio,,10 uM,False
+747,"Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound, Lipoid S100 and tween 80 ratio 1:1:1",human Caco2 mass balance,,mass balance Lipoid S100 and tween 80 ratio,,,False
+748,"Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound, Lipoid S100 and vitamin E-TPGS ratio 1:1:1",human Caco2 mass balance,,mass balance Lipoid S100 and vitamin E-TPGS ratio,,,False
+749,Permeability across basolateral to apical side in human Caco2 cells coexpressing Pgp at 10 uM measured for 3 hrs by UPLC/MS analysis,human Caco2 coexpressing Pgp UPLC/MS,,basolateral to apical with Pgp coexpression,,,False
+750,Permeability from apical to basolateral side in human Caco2 cells at 10 uM at pH 7.4,human Caco2,,apical to basolateral at pH 7.4,7.4,1 uM up to 2 hrs,False
+751,Permeability across basolateral to apical side in human Caco-2 cells incubated for 2 hrs by LC/MS/MS analysis,human Caco-2 LC/MS/MS,,basolateral to apical,,,False
+752,Permeability surface area product in healthy Wistar rat perfused liver assessed per gm of liver at 4 mM after 10 mins,Wistar rat liver perfusion,,permeability surface area product,,per gm of liver at 4 mM after 10 mins,False
+753,Permeability across apical to basolateral side in pig LLC-PK1 cells expressing human MDR1,pig LLC-PK1 human MDR1,,apical to basolateral human MDR1 expression,,,False
+754,Permeability of the compound in pH 7.4 HBSS at 10 uM incubated for 4 hrs by LC-MS/MS based PAMPA method,PAMPA LC-MS/MS HBSS,,,7.4 HBSS,10 uM in pH 7.4 HBSS for 4 hrs,False
+755,Permeability of the compound in human Caco-2 cells,human Caco-2,,,,,False
+756,Permeability across basolateral to apical side in human Caco2 cells at 10 uM at pH 7.4,human Caco2,,basolateral to apical at pH 7.4,7.4,,False
+757,Permeability of the compound in pH 7.4 HBSS buffer assessed as percentage remained in membrane at 10 uM incubated for 4 hrs by LC-MS/MS based PAMPA method,PAMPA LC-MS/MS HBSS,,percentage remained in membrane,7.4 HBSS,,False
+758,Permeability across MDR1-expressing MDCK2 cells at 3 uM in presence of p-glycoprotein inhibitor,MDCK2 MDR1 with p-glycoprotein inhibitor,,permeability with p-glycoprotein inhibitor,,3 uM with p-glycoprotein inhibitor,False
+759,Intrinsic permeability across apical to basolateral side in human Caco2 cells in presence of efflux inhibitor,human Caco2 efflux inhibitor,,apical to basolateral with efflux inhibitor,,,False

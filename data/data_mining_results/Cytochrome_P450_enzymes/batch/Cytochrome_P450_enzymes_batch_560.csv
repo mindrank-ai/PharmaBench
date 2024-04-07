@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+564,Inhibition of CYP2B1 (unknown origin)-mediated depentylation of resorufin pentyl ether after 5 mins by spectrofluorimetric analysis,CYP2B1,after 5 mins,,,resorufin pentyl ether,,,spectrofluorimetric analysis,unknown origin,unknown origin CYP2B1,True
+565,Inhibition of CYP2C9 using MFC as substrate,CYP2C9,,,,MFC,,,fluorescence assay,unknown origin,human CYP2C9,True
+566,Reversible inhibition of CYP2C19 in human liver microsomes,CYP2C19,,,,,,,,human liver microsomes,human liver CYP2C19,True
+567,Inhibition of human CYP3A4-mediated midazolam oxidation,CYP3A4,,,,midazolam,,,,recombinant human,human CYP3A4,True
+568,Inhibition of CYP2C19 in human liver microsomes after 10 mins by LC/MS/MS analysis,CYP2C19,after 10 mins,,,S-mephenytoin,,NADPH,LC/MS/MS analysis,human liver microsomes,human liver CYP2C19,True
+569,Inhibition of CYP2C9 (unknown origin) preincubated with protein for 30 mins followed by substrate addition,CYP2C9,preincubated for 30 mins,,,,,,fluorescence assay,unknown origin,unknown origin CYP2C9,True
+570,Inhibition of recombinant CYP2C19 (unknown origin) by LC/MS/MS analysis,CYP2C19,,,,,,NADPH,,recombinant human,unknown origin recombinant CYP2C19,True
+571,Inhibition of human recombinant CYP2C19 preincubated for 10 mins,CYP2C19,preincubated for 10 mins,,,,,NADPH,fluorescence assay,recombinant human,human recombinant CYP2C19,True
+572,Inhibition of recombinant human CYP3A4 assessed as conversion of testosterone into 6-hydroxytestosterone after 30 mins by HPLC analysis,CYP3A4,after 30 mins,,,testosterone,,NADPH,HPLC analysis,recombinant human,recombinant human CYP3A4,True
+573,Inhibition of CYP3A4 in human liver microsomes using diethoxyfluorescein/7-benzyloxyquinoline as substrate,CYP3A4,,,,diethoxyfluorescein/7-benzyloxyquinoline,,,fluorescence assay,recombinant human,human liver CYP3A4,True
+574,Inhibition of CYP2E1 in acetone-treated Sprague-Dawley rat liver microsomes assessed as hydroxylation of p-nitrophenol by spectrophotometry,CYP2E1,,,,p-nitrophenol,acetone-induced,,spectrophotometry,Sprague-Dawley rat liver microsomes,acetone-treated Sprague-Dawley rat CYP2E1,True
+575,Inhibition of CYP2A6,CYP2A6,,,,,,,,,CYP2A6,True
+576,Inhibition of CYP2C19 in human liver microsomes using S-mephenytoin as substrate after 10 mins by LC/MS/MS analysis,CYP2C19,after 10 mins,,,S-mephenytoin,,NADPH,LC/MS/MS analysis,human liver microsomes,human liver CYP2C19,True
+577,Inhibition of CYP1A2 (unknown origin) using CEC substrate after 15 mins by fluorescence assay,CYP1A2,after 15 mins,,,CEC,,,fluorescence assay,unknown origin,unknown origin CYP1A2,True
+578,Inhibition of human recombinant CYP3A4 using midazolam as substrate incubated for 40 to 130 mins in presence of NADPH by LC-MS/MS analysis,CYP3A4,incubated for 40 to 130 mins,,,midazolam,NADPH,NADPH,LC-MS/MS analysis,recombinant human,human recombinant CYP3A4,True
+579,Inhibition of CYP2D6 (unknown origin) preincubated with protein for 30 mins followed by substrate addition,CYP2D6,preincubated for 30 mins,,,,,NADPH,fluorescence assay,unknown origin,unknown origin CYP2D6,True
+580,Inhibition of CYP1A2 in human liver microsomes using acetaminophen as substrate,CYP1A2,,,,acetaminophen,,,,human liver microsomes,CYP1A2,True
+581,Inhibition of human recombinant CYP1A2 coexpressed in Escherichia coli using phenacetin as probe,CYP1A2,,,,phenacetin,,,,recombinant human,human recombinant CYP1A2,True
+582,Inhibition of CYP2D6 in human liver microsomes after 10 mins by LC/MS/MS analysis,CYP2D6,after 10 mins,,,,,,LC/MS/MS analysis,recombinant human,human liver CYP2D6,True
+583,Inhibition of CYP2E1 (unknown origin),CYP2E1,,,,,,,,unknown origin,unknown origin CYP2E1,True

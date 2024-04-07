@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+140,Solubility in PG/EtOH (96%) at 30 mg/mL after 24 hrs by UV-spectrometric method,,PG/EtOH (96%),24 hrs,UV-spectrometric method,,False
+141,Solubility of the compound in DMSO at pH 9 incubated for 24 hrs by LC-UV method,9.0,DMSO,24 hrs,LC-UV method,,False
+142,Solubility of the compound in fasted state simulated intestinal fluid,,fasted state simulated intestinal fluid,,,,True
+143,Solubility of the compound in PBS buffer at pH 7.4 by shake-flask method,7.4,PBS buffer,,shake-flask method,,True
+144,Solubility of the compound by CAD method,,,,CAD method,,True
+145,Aqueous solubility of the compound in PBS buffer at 100 uM after 24 hrs at pH 7.4 by LC/CLND analysis,7.4,PBS buffer,24 hrs,LC/CLND analysis,,True
+146,Aqueous kinetic solubility of the compound at pH 7.4,7.4,,,kinetic solubility,,True
+147,Solubility of the compound in phosphate buffered saline at pH 7.4 after 1 hr by CLND method,7.4,phosphate buffered saline,1 hr,CLND method,,True
+148,Aqueous solubility of the compound after 24 hrs by LC/CLND analysis,,,24 hrs,LC/CLND analysis,,True
+149,Thermodynamic solubility of the compound in solid form at pH 7.4,7.4,,,thermodynamic solubility,,True
+150,Solubility of the compound in phosphate buffered saline at pH 7.4 by chemiluminescent nitrogen detection method,7.4,phosphate buffered saline,,chemiluminescent nitrogen detection method,,True
+151,Solubility of the compound in DMSO at pH 7 incubated for 24 hrs by LC-UV method,7.0,DMSO,24 hrs,LC-UV method,,False
+152,Kinetic solubility of the compound in phosphate buffer at pH 6.5 by nephelometry analysis,6.5,phosphate buffer,,nephelometry analysis,,True
+153,Solubility of the compound in water at pH 7 by UV-vis spectrophotometric analysis,7.0,water,,UV-vis spectrophotometric analysis,,True
+154,Thermodynamic solubility at pH 6.5,6.5,,,thermodynamic solubility,,True
+155,Kinetic solubility of the compound in 0.01M HCl at pH 2 by nephelometry analysis,2.0,0.01M HCl,None,nephelometry analysis,,True
+156,Solubility of compound in PBS by UV spectral analysis,,PBS,,UV spectral analysis,,True
+157,Kinetic solubility of compound at pH 7.4 by nephelometry,7.4,,,nephelometry,,True
+158,Aqueous solubility of compound in phosphate buffered saline at pH 7.4 incubated for 2 hrs by turbidimetric analysis,7.4,phosphate buffered saline,2 hrs,turbidimetric analysis,,True
+159,Kinetic solubility of the compound in pH 7.4 solution up to 350 uM after 90 mins,7.4,,90 mins,kinetic solubility,,True

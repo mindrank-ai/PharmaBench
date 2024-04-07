@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+504,Inhibition of human liver microsomes CYP2C9 using diclofenac as substrate by MUX-MS/MS analysis,CYP2C9,,,,diclofenac,,NADPH-regenerating system,MUX-MS/MS,human liver microsomes,human liver,True
+505,Inhibitory concentration to inhibit MRP1 in CYP 3A4 assay,MRP1,,,,,,,,,CYP 3A4 assay,False
+506,Inhibition of human liver microsome CYP2D6 assessed as [14C]formaldehyde formation,CYP2D6,,,,,,,,human liver microsomes,human liver,True
+507,Inhibition of CYP2C9 by fluorescence method,CYP2C9,,,,,,,,,unknown origin,True
+508,Inhibition of CYP450 3A4,CYP3A4,,,,,,,,human liver microsomes,CYP3A4,True
+509,Inhibition of CYP3A4 using DBF as substrate,CYP3A4,,,,DBF,,,,human liver microsomes,CYP3A4,True
+510,Inhibition of CYP3A4 in human liver microsomes using testosterone as substrate preincubated for 5 mins followed by NADPH addition measured after 10 mins by LC-MS/MS analysis,CYP3A4,"preincubated for 5 mins, measured after 10 mins",,,testosterone,,NADPH,LC-MS/MS,human liver microsomes,human liver,True
+511,Inhibition of human CYP3A4 expressed in Escherichia coli assessed as inhibition of nifedipine oxidation,CYP3A4,,,,nifedipine,,,,expressed in Escherichia coli,CYP3A4,True
+512,Antiproliferative activity against CYP1A1 deficient human MDA-MB-231 cells after 72 hrs by SRB assay,CYP1A1,after 72 hrs,,,,,,SRB assay,MDA-MB-231 cells,CYP1A1 deficient MDA-MB-231 cells,False
+513,Inhibition of human recombinant CYP2D6 expressed in insect microsomes,CYP2D6,,,,,,,,expressed in insect microsomes,recombinant human,True
+514,Inhibition of human CYP17 expressed in Escherichia coli using progesterone as substrate NADPH as cofactor,CYP17,,,,progesterone,,NADPH,,expressed in Escherichia coli,CYP17,True
+515,Inhibition of human CYP19 using [1beta-3H]-androstenedione as substrate after 15 mins in presence of NADPH by liquid scintillation counter method,CYP19,after 15 mins,,,[1beta-3H]-androstenedione,,NADPH,liquid scintillation counter,,human,True
+516,Inhibition of human liver microsome CYP1A2 using phenacetin as substrate incubated for 5 to 20 mins by LC-MS/MS analysis,CYP1A2,incubated for 5 to 20 mins,,,phenacetin,,,LC-MS/MS,human liver microsomes,human liver,True
+517,Inhibition of human CYP2C19 by fluorescence assay,CYP2C19,,,,,,,,,human,True
+518,Time dependent inhibition of human CYP3A4 preincubated for 30 mins in presence of NADPH,CYP3A4,preincubated for 30 mins,,,,,NADPH,,,human,True
+519,Inhibition of recombinant full length human CYP51 expressed in Escherichia coli incubated for 1 hr using [3H] lanosterol as substrate by HPLC analysis,CYP51,incubated for 1 hr,,,[3H] lanosterol,,,HPLC,expressed in Escherichia coli,human liver,True
+520,Inhibition of CYP2D6 in human liver microsomes assessed as dextromethorphan O-demethylation,CYP2D6,,,,dextromethorphan,,,,human liver microsomes,recombinant human,True
+521,Inhibition of human CYP2C19 after 10 mins,CYP2C19,after 10 mins,,,,,,,,human NCI-H2122 cells,True
+522,Inhibition of human liver microsome CYP3A4 using midazolam as substrate incubated for 5 to 20 mins by LC-MS/MS analysis,CYP3A4,incubated for 5 to 20 mins,,,midazolam,,,LC-MS/MS,human liver microsomes,human liver,True
+523,Inhibition of human CYP3A4 after 10 mins,CYP3A4,after 10 mins,,,,,,,human liver microsomes,unknown origin,True

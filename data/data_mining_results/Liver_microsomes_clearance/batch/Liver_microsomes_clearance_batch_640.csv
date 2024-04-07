@@ -1,0 +1,21 @@
+index,original sentence,Compound Concentration,Incubation Time,Presence of NADPH/NADP,Enzyme Source,Temperature Range,Analytical Technique,Species,Route of Administration,Type of Microsomes,Protein Amount or Microsomal Protein Concentration,Liver_microsomes_clearance experiment
+0,Metabolic stability in human hepatocyte assessed as intrinsic clearance at 1 uM incubated for 90 mins by UPLC-MS/MS analysis,1 uM,for 90 mins,NADPH,human hepatocytes,none,UPLC-MS/MS,human,none,hepatocytes,none,True
+1,Intrinsic clearance in mouse liver microsomes at 1 uM in presence of NADPH measured up to 60 mins by UFLC-MS/MS analysis,1 uM,up to 60 mins,NADPH,mouse liver microsomes,none,UFLC-MS/MS,mouse,none,liver microsomes,none,True
+2,Clearance in human hepatocyte,none,none,none,human hepatocytes,none,none,human,none,hepatocytes,none,True
+3,"Clearance in Balb/C mouse blood at 2 mg/kg, iv by LC-MS/MS analysis",2 mg/kg,up to 24 hrs,none,mouse plasma,none,LC-MS/MS,BALB/c mouse,iv,plasma,none,True
+4,"Clearance in Wistar rat at 0.3 mg/kg, iv measured up to 24 hrs by LC-MS analysis",0.3 mg/kg,up to 24 hrs,none,rat plasma,none,LC-MS,Wistar rat,iv,plasma,none,True
+0,Clearance in rat liver microsomes assessed as drug turnover level at 1 uM incubated for 30 mins in presence of NADPH,1 uM,30 mins,NADPH,rat liver microsomes,none,none,rat,none,liver microsomes,measured per mg of protein,True
+1,Intrinsic clearance in CD1 mouse liver microsomes at 1 uM up to 40 mins by LC-MS/MS method,1 uM,up to 40 mins,NADPH,mouse liver microsomes,none,LC-MS/MS,CD1 mouse,none,liver microsomes,per mg of protein,True
+2,Intrinsic clearance in C57BL/6 mouse liver microsomes at 3 uM measured over 60 mins by HPLC analysis,3 uM,60 mins,NADPH,mouse liver microsomes,none,HPLC,C57BL/6 mouse,none,liver microsomes,per mg of protein,True
+3,Intrinsic clearance in human liver microsomes at 1 uM in presence of NADPH measured up to 60 mins by UFLC-MS/MS analysis,1 uM,up to 60 mins,NADPH,human liver microsomes,none,UFLC-MS/MS,human,none,liver microsomes,none,True
+4,"Clearance in C57BL/6 mouse plasma at 2 mg/kg, iv",2 mg/kg,none,none,mouse plasma,none,none,C57BL/6 mouse,iv,plasma,none,True
+0,Intrinsic clearance in mouse liver microsomes at 1 uM measured up to 90 mins by LC-MS/MS analysis,1 uM,up to 90 mins,NADPH,mouse liver microsomes,none,LC-MS/MS,mouse,none,liver microsomes,none,True
+1,Intrinsic clearance in Han Wistar rat hepatocytes at 1 uM measured up to 90 mins by LC/MS/MS analysis,1 uM,up to 90 mins,NADPH,rat hepatocytes,none,LC/MS/MS,Han Wistar rat,none,hepatocytes,none,True
+2,"Clearance in Sprague-Dawley rat model of bleomycin-induced pulmonary fibrosis at 2 mg/kg, iv by LC-MS/MS analysis",2 mg/kg,none,none,rat plasma,none,LC-MS/MS,Sprague-Dawley rat,iv,plasma,none,True
+3,Metabolic stability in human liver microsomes assessed as intrinsic clearance in presence of NADPH cofactor under shaking condition for 10 mins measured after 5 to 60 mins by LC-MS/MS analysis,none,after 5 to 60 mins,NADPH cofactor,human liver microsomes,under shaking condition,LC-MS/MS,human,none,liver microsomes,none,True
+4,Intrinsic clearance in rat liver microsomes at 1 uM measured up to 15 mins in presence of NADPH by LC-MS/MS analysis,1 uM,up to 15 mins,NADPH,rat liver microsomes,none,LC-MS/MS,rat,none,liver microsomes,none,True
+0,Intrinsic clearance in CD1 mouse liver microsomes at 1 uM up to 40 mins by UPLC-MS/MS analysis,1 uM,up to 40 mins,NADPH,mouse liver microsomes,none,UPLC-MS/MS,CD1 mouse,none,liver microsomes,measured per mg protein,True
+1,"Observed clearance in rat at 1 mg/kg, iv",1 mg/kg,none,none,rat,none,none,rat,iv,none,none,True
+2,"Clearance in rat blood at 3 mg/kg, po or 1 mg/kg, iv","3 mg/kg, po or 1 mg/kg, iv",none,none,rat plasma,none,none,rat,po or iv,plasma,none,True
+3,"Clearance in CD-1 mouse at 0.3 mg/kg, iv measured up to 24 hrs by LC-MS/MS analysis",0.3 mg/kg,up to 24 hrs,none,mouse plasma,none,LC-MS/MS,CD-1 mouse,iv,plasma,none,True
+4,In vivo clearance after administration in rat,none,after administration,none,rat,none,none,rat,none,liver microsomes,none,True

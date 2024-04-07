@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+120,Permeability of the compound across dog MDCK cells,dog MDCK,,,,,False
+121,Passive permeability of compound in RRCK cells,RRCK,,,,,False
+122,Permeability across artificial membrane,artificial membrane,,,,,False
+123,Permeability of compound in PBS/EtOH buffer (7:3) PAMPA-BBB assay,PAMPA-BBB,,,,in PBS/EtOH (7:3),True
+124,Permeability of the compound from basolateral to apical side in human Caco2 cells,Caco2,,basolateral to apical,,,False
+125,Permeability from basolateral to apical side in human Caco-2 cells,Caco-2,,basolateral to apical,,,False
+126,Permeability in MDCK cells harboring human MDR1 by HPLC-MS analysis,MDCK human MDR1,,,,,False
+127,Permeability of the compound in PBS/EtOH at 100 ug/ml after 10 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,100 ug/ml after 10 hrs,True
+128,Permeability in buffer of pH 7.4 by PAMPA,PAMPA,,,7.4,,False
+129,Permeability of the compound in PBS/EtOH buffer (70:30) incubated for 18 hrs by UV plate reader based PAMPA assay,PAMPA,,,,incubated for 18 hrs,True
+130,Permeability across monolayer of human Caco-2 cell,Caco-2,,,,,False
+131,Permeability from apical side to basolateral side in MDCK1 cells harboring human MDR1,MDCK1 human MDR1,,apical to basolateral,,,False
+132,Permeability across apical to basolateral side in MDCK-MDR1 cells,MDCK-MDR1,,apical to basolateral,,,False
+133,Permeability by PAMPA assay,PAMPA,,,,,False
+134,Cellular permeability in Caco-2 cells.,Caco-2,,,,,False
+135,Permeability of the compound at 10 uM after 4 hrs by PAMPA assay,PAMPA,,,,10 uM after 4 hrs,False
+136,Permeability in artificial phospholipid membrane by AMPA based HPLC/UV analysis,artificial phospholipid membrane,,,,,False
+137,Permeability from basolateral to apical side side in human Caco2 cells,Caco2,,basolateral to apical,,,False
+138,Permeability of the compound across human Caco2 cells,Caco2,,,,,False
+139,Permeability of the compound at pH 6.5 by PAMPA,PAMPA,,,6.5,,False

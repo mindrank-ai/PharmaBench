@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+260,Permeability of the compound in PBS/EtOH buffer (70:30) incubated for 10 hrs by UV plate reader based PAMPA-BBB assay,PAMPA-BBB,,,,incubated for 10 hrs,True
+261,Permeability of compound at pH 7.4 after 4 hrs by GIT PAMPA method,GIT PAMPA,,,7.4,after 4 hrs,False
+262,Passive permeability across apical to basolateral side in MDCK2-MDR1 cells transduced with BacMam2-BCRP at 3 uM after 90 mins in presence of P-gp inhibitor GF120918 by Transwell assay,MDCK2-MDR1 BacMam2-BCRP,,apical to basolateral,,3 uM after 90 mins with GF120918,False
+263,Permeability of the compound by artificial membrane permeability assay,artificial membrane permeability,,,,,False
+264,Passive permeability of the compound at 100 uM after 6 hrs by PAMPA,PAMPA,,,,100 uM after 6 hrs,False
+265,Permeability of the compound in pH 7.4 PBS/EtOH at 25 ug/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4 PBS/EtOH,25 ug/ml after 18 hrs,True
+266,Permeability in Caco-2 cell,Caco-2,,,,,False
+267,Permeability of the compound across basolateral side to apical side in human Caco2 cells,human Caco2,,basolateral to apical,,,False
+268,Permeability coefficient of the compound at 100 uM after 4 hrs by PAMPA,PAMPA,,permeability coefficient,,100 uM after 4 hrs,False
+269,Permeability of the compound after 2.5 hrs by PAMPA-BBB assay,PAMPA-BBB,,,,after 2.5 hrs,True
+270,Permeability of the compound across apical side to basolateral side in human Caco2 cells,human Caco2,,apical to basolateral,,,False
+271,Permeability across apical to basolateral side in human Caco2 cells incubated for 1 hr at 37 degC by HPLC-MS/MS method,human Caco2,37 degC,apical to basolateral,,incubated for 1 hr,False
+272,Permeability across apical to basolateral in MDCK1 cells,MDCK1,,apical to basolateral,,,False
+273,"Permeability, Pe of the compound",PAMPA,,,,,False
+274,Permeability of the compound in PBS/EtOH at 100 ug/ml after 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,PBS/EtOH,100 ug/ml after 18 hrs,True
+275,Permeability from apical to basolateral side in MDCK-MDR1 cells at 5 uM by LC/MS/MS analysis,MDCK-MDR1,,apical to basolateral,,5 uM,False
+276,Permeability across apical to basolateral side of MDCK cell BBB penetration model expressing human mdr1 at 10 uM incubated for 1 hr by mass spectrometric analysis,MDCK BBB penetration model human mdr1,,apical to basolateral,,10 uM incubated for 1 hr,True
+277,Permeability of compound across apical to basal compartment in PBS at pH 5.5 at 10 uM after 4 hrs by PAMPA,PAMPA,,apical to basal,5.5,10 uM after 4 hrs,False
+278,Permeability from apical to basal side of MDCK2 cells expressing MDR1 at 5 uM after 1 hr by LC-MS/MS analysis in presence of LSN 335984,MDCK2 MDR1,,apical to basal,,5 uM after 1 hr with LSN335984,False
+279,Permeability from apical to basal side of MDCK2 cells expressing MDR1 at 5 uM after 1 hr by LC-MS/MS analysis,MDCK2 MDR1,,apical to basal,,5 uM after 1 hr,False

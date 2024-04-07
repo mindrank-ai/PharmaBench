@@ -1,0 +1,21 @@
+index,original sentence,pH Level,Solvent/System Composition,Time Period,Measurement Technique,Temperature Range,water_solubility
+240,Solubility of compound at pH 9 incubated for 24 hrs by LC/UV analysis,9.0,None,24 hrs,LC/UV analysis,,True
+241,Kinetic solubility of the compound in pION buffer at pH 7.4 measured after 18 hrs,7.4,pION buffer,18 hrs,,,True
+242,Aqueous solubility of compound in PBS at pH 6.8 incubated for 16 hrs by HPLC analysis,6.8,PBS,16 hrs,HPLC analysis,,True
+243,Aqueous solubility of the compound at pH 2 by HPLC analysis,2.0,None,,HPLC analysis,,True
+244,Thermodynamic solubility of the compound in PBS at pH 7.4,7.4,PBS,,thermodynamic solubility,,True
+245,Solubility of the compound in PBS buffer at pH 7.4 after 2 hrs by turbidimetric analysis,7.4,PBS buffer,2 hrs,turbidimetric analysis,,True
+246,Solubility of the compound by lyophilized solubility assay,,,,lyophilized solubility assay,,True
+247,Solubility of the compound in PBS buffer,,PBS buffer,,,,True
+248,Solubility in japanese pharmacopoeia first fluid at pH 6.8,6.8,japanese pharmacopoeia first fluid,,,,True
+249,Solubility in japanese pharmacopoeia first fluid at pH 1.2,1.2,japanese pharmacopoeia first fluid,,,,True
+250,Kinetic solubility of the compound in water after 30 mins by nephelometric analysis,,water,30 mins,nephelometric analysis,,True
+251,Kinetic solubility of the compound in 25 mM potassium phosphate buffer by Titer plate shaker analysis,,potassium phosphate buffer,,Titer plate shaker analysis,,True
+252,Aqueous solubility of the compound in pH 1 HCl buffer by RP-UPLC analysis,1.0,HCl buffer,,RP-UPLC analysis,,True
+253,Solubility in pH 7.0 phosphate buffer,7.0,phosphate buffer,,,,True
+254,Solubility of the compound in phosphate buffer at pH 6.8,6.8,phosphate buffer,,,,True
+255,Solubility of compound in PBS buffer at pH 7 at 200 uM incubated for 24 hrs in shaker by UPLC-DAD analysis,7.0,PBS buffer,24 hrs,UPLC-DAD analysis,,True
+256,Thermodynamic solubility of the compound in aqueous phosphate buffer at pH 7.4 measured after 24 hrs by UPLC-MS/MS-based shake-flask method,7.4,aqueous phosphate buffer,24 hrs,UPLC-MS/MS-based shake-flask method,,True
+257,Solubility by nephelometric analysis,,,,nephelometric analysis,,True
+258,Solubility of compound in PBS buffer at pH 2 at 200 uM incubated for 24 hrs in shaker by UPLC-DAD analysis,2.0,PBS buffer,24 hrs,UPLC-DAD analysis,,True
+259,Solubility of the compound in DMSO,,DMSO,,,,False

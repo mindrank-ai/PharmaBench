@@ -1,0 +1,21 @@
+index,original sentence,Concentration/Dosage Levels,Temperature Range,Time Duration,Metabolic Activation Presence,Cell/Tissue Type or Organism Used,Ames experiment
+1,Disruption of membrane integrity in Candida albicans ATCC SC5314 assessed as endogenous substances leakage at 16 ug/ml incubated for 48 hrs by transmission electron microscopy,16 ug/ml,,incubated for 48 hrs,,Candida albicans ATCC SC5314,True
+2,Mutagenicity in Salmonella typhimurium TA1535/TA1538 assessed as revertant colonies/plate in absence of rat liver S9 fraction at 10 ug/spot after 2 to 3 days by Ames test,10 ug/spot,,after 2 to 3 days,absence of S9 fraction,Salmonella typhimurium TA1535/TA1538,True
+3,Upregulation of mitochondrial complex-1 expression in BCAEC at EC50 after 48 hrs by Western blot analysis in presence of L-NAME,,,,presence of L-NAME,BCAEC,False
+4,Genotoxicity in Salmonella typhimurium TA1537 at 5000 lg/plate in presence of liver S9 fraction by Ames test,5000 lg/plate,,,presence of liver S9 fraction,Salmonella typhimurium TA1537,True
+5,Mutagenic activity in Salmonella Typhimurium TA100 assessed as number of revertant colonies at 250000 ng/plate after 48 hrs by Ames assay,250000 ng/plate,,,,Salmonella Typhimurium TA100,True
+6,Genotoxicity in Salmonella typhimurium TA1535 at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,,absence of liver S9 fraction,Salmonella typhimurium TA1535,True
+7,Upregulation of mitofilin expression in BCAEC at EC50 after 48 hrs by Western blot analysis in presence of L-NAME,,,,presence of L-NAME,BCAEC,False
+8,Mutagenicity in Salmonella typhimurium TA98 at 5000 lg/plate in presence of liver S9 fraction by Ames test,5000 lg/plate,,,presence of liver S9 fraction,Salmonella typhimurium TA98,True
+9,Mutagenicity in nitroreductase deficient Salmonella typhimurium TA1537NR assessed as lowest compound concentration causing mutagenic effect incubated at 16 to 5000 ug/plate at 37 degC for 3 days in absence of rat liver S9 fraction by Ames test,16 to 5000 ug/plate,37 degC,for 3 days,absence of rat liver S9 fraction,nitroreductase deficient Salmonella typhimurium TA1537NR,True
+10,Genotoxicity in Salmonella typhimurium TA1535 harboring pSK1002 up to 1 mg/ml by SOS/umu assay,up to 1 mg/ml,,,presence of S9 fraction,Salmonella typhimurium TA1535 harboring pSK1002,False
+11,Mutagenicity in Salmonella typhimurium TA98 at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,,absence of liver S9 fraction,Salmonella typhimurium TA98,True
+12,Mutagenicity in Salmonella typhimurium TA100 assessed as increase in number of revertants at 10 uM after 90 mins by Ames test,10 uM,,after 90 mins,,Salmonella typhimurium TA100,True
+13,Mutagenicity in Escherichia coli WP2 uvrA at 5000 lg/plate in presence of liver S9 fraction by Ames test,5000 lg/plate,,,,Escherichia coli WP2 uvrA,True
+14,Mutagenicity in Salmonella typhimurium TA1537 at 5000 lg/plate in absence of liver S9 fraction by Ames test,5000 lg/plate,,,presence of liver S9 fraction,Salmonella typhimurium TA1537,True
+15,Genotoxicity in human HepG2/C3A cells assessed as genomic DNA fragmentation at 10 uM after 24 hrs by comet assay,10 uM,,after 24 hrs,presence of liver S9 fraction,human HepG2/C3A cells,False
+16,Increase in seed vigor in Cenchrus americanus cultivar 7042S at 20 mM incubated for 6 hr followed by sowing measured at 7-day old seedling stage relative to control,20 mM,,incubated for 6 hr followed by measuring at 7-day old seedling stage,,Cenchrus americanus cultivar 7042S,False
+17,Mutagenic activity in Salmonella typhimurium TA1537 at 10 to 100 uM by Ames test in presence of S9 mixture,10 to 100 uM,,,,Salmonella typhimurium TA1537,True
+18,Mutagenicity in Salmonella typhimurium TA102 measured after 20 mins in absence of S9 fraction by microsome assay,,,after 20 mins,presence of S9 mixture,Salmonella typhimurium TA102,False
+19,Mutagenicity in Swiss albino mouse at 250 mg/kg after 30 hrs by micronucleus test,250 mg/kg,,after 30 hrs,,Swiss albino mouse,False
+20,Mutagenicity in Salmonella typhimurium TA100,,,,absence of liver S9 fraction,Salmonella typhimurium TA100,False

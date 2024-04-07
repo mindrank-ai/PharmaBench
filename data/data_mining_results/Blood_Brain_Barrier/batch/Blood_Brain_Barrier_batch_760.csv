@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+700,Passive permeability in MDCK cells,MDCK,,Passive permeability,,2 uM,False
+701,Permeability across apical to basolateral side in rat brain Astroglial/Endothelial cells at 0.25 to 0.75 uM after 15 to 60 mins by liquid scintillation analysis,rat astroglial/endothelial liquid scintillation,,apical to basolateral,,0.25 to 0.75 uM after 15 to 60 mins,False
+702,Permeability from apical to basolateral side in MDCK2-MDR1 cells at 5 uM in presence of 4.3 mg/ml BSA and in presence of P-gp inhibitor LSN335984 by mass spectrometry,MDCK2-MDR1 mass spectrometry,,apical to basolateral with BSA and P-gp inhibitor,,5 uM with P-gp inhibitor,False
+703,Passive permeability of compound after 4 hrs by sink-PAMPA assay,sink-PAMPA,,Passive permeability by PAMPA,,after 4 hrs,False
+704,Permeability of compound across basolateral to apical side in human Caco-2 cells at pH 7.4,human Caco-2,,basolateral to apical,7.4,100 uM at pH 7.4,False
+705,Permeability of compound at pH 7.4 at 60 uM incubated for 1 hr by PAMPA-BBB assay,PAMPA-BBB,,,7.4,60 uM at pH 7.4 for 1 hr,False
+706,Permeability from apical to basolateral side in MDCK cells at 2.5 uM incubated for 1 hr,MDCK,,apical to basolateral,,2.5 uM incubated for 1 hr,False
+707,Passive permeability of the compound in MDCKII-LE cells by flow cytometry analysis,MDCKII-LE flow cytometry,,Passive permeability by flow cytometry,,,False
+708,Permeability across apical to basal side in human Caco-2 cells at 1 uM measured up to 120 min by LC-MS analysis,human Caco-2 LC-MS,,apical to basal by LC-MS,,1 uM up to 120 min,False
+709,Permeability across apical to basolateral side in human Caco-2 cells at pH 6.5 at 1 uM,human Caco-2,,apical to basolateral at pH 6.5,6.5,1 uM at pH 6.5,False
+710,Permeability apical to basolateral side in human Caco-2 cells,human Caco-2,,apical to basolateral,,,False
+711,Permeability surface area product in perfused liver of high-fat emulsion-induced nonalcoholic steatohepatitis Wistar rat assessed per gm of liver at 4 mM after 10 mins,Wistar rat liver perfusion,,perfused liver permeability,,per gm of liver at 4 mM after 10 mins,False
+712,Permeability from apical to basolateral side in MDCK cells overexpressing human MDR1 assessed as mass balance at 10 uM after 2 hrs,MDCK human MDR1,,apical to basolateral mass balance,,10 uM after 2 hrs,False
+713,Permeability from apical to basolateral side of human Caco2 cells at 5 mg/mL,human Caco2,,apical to basolateral,,5 mg/mL,False
+714,Permeability across apical at pH6 to basolateral side at pH 7.4 in human Caco2 cells,human Caco2,,apical at pH 6 to basolateral at pH 7.4,pH 6 to 7.4,,False
+715,Permeability of the compound in pH 7.05 phosphate buffer measured after 3 hrs by artificial membrane permeability assay based LC-MS analysis,artificial membrane LC-MS,,permeability in phosphate buffer,7.05,0.5 mM after 3 hrs,False
+716,Permeability across hairless mouse skin from isopropyl myristate,hairless mouse skin isopropyl myristate,,permeability across skin,,,False
+717,Permeability from apical to basolateral side of dog MDCK cells expressing MDR1,MDCK MDR1,,apical to basolateral,,10 uM after 1 hr with P-gp inhibitor,False
+718,Permeability across apical to basolateral side of human Caco2 cells,human Caco2,,apical to basolateral,,,False
+719,Percentage intracellular concentration in MCF7 breast cancer cells,MCF7 breast cancer cells,,intracellular concentration,,10 uM,False

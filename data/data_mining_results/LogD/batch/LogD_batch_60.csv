@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"1-Octanol-aquoues buffer distribution coefficient, log D of compound at pH 7.4 by UPLC-MS based shake flask method",7.4,UPLC-MS,octanol-aqueous buffer,,,shake flask,True
+2,"Distribution coefficient, logD of the compound by chromatography",,chromatography,,,,,True
+3,"Octanol/water partition coefficient, log D of the compound at pH 2",2.0,,octanol/water,,,,True
+4,"Lipophilicity, log D of the compound at pH 7.4 by RP-HPLC analysis",7.4,RP-HPLC,,,,,True
+5,"Octanol/water partition coefficient, log D of the compound at pH 11",11.0,,octanol/water,,,,True
+6,"Octanol-water distribution coefficient, log D at pH 7.4 by shake-flask technique",7.4,,octanol-water,,,shake-flask,True
+7,"Lipophilicity, logD of the compound by shake flask assay",,shake flask,,,,shake flask,True
+8,"Chromatographic hydrophobicity index, log D of the compound at pH 7.4",7.4,chromatography,,,,,True
+9,"Distribution coefficient, logD at pH 7.4",7.4,,,,,,True
+10,"Lipophilicity, LogD of compound by reverse phase HPLC analysis",,reverse phase HPLC,,,,,True
+11,"Octanol-phosphate buffer partition coefficient, log D of the compound at pH 7.4",7.4,,octanol-phosphate buffer,,,,True
+12,"Octanol-water distribution coefficient, log D at pH 7.4",7.4,,octanol-water,,,,True
+13,"Apparent hydrophobicity, log D of the compound in Octanol-buffer",,,octanol-buffer,,,,True
+14,"Lipophilicity, log D of the compound at pH 7.4 by chromatography",7.4,chromatography,,,,,True
+15,"Lipophilicity, logD of the compound at pH 6.5 by HPLC analysis",6.5,HPLC,,,,,True
+16,"Octanol/water distribution coefficient, logD of the compound at pH 7.4 sonicated for 30 mins followed by 24 hrs shaking",7.4,,octanol/water,,sonicated for 30 mins followed by 24 hrs,shaking,True
+17,"Octanol-water partitioning co-efficient, log D of the compound at pH 7.4 by LC/MS/MS analysis",7.4,LC/MS/MS,,,,,True
+18,Partition coefficient (logD) (aqueous phase 0.1 N HCl),,,,,,,True
+19,"1-octanol-aqueous buffer distribution coefficient, log D of the compound at pH 7.4",7.4,,octanol-aqueous buffer,,,,True
+20,"Lipophilicity, logD of compound in octanol and water at pH 7.4 incubated overnight by LC/UV/qTOF method",7.4,LC/UV/qTOF,octanol-water,,incubated overnight,,True

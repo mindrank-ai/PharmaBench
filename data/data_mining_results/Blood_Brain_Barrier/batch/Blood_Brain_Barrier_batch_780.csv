@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+720,Permeability from apical to basolateral side in human Caco2 cells assessed as drug recovery at 10'-5 M at pH 6.5 to 7.4,human Caco2,,apical to basolateral drug recovery,pH 6.5 to 7.4,10'-5 M (0.01 uM),False
+721,Permeability in pig LLC-PK1 cells transfected with MDR1 gene,pig LLC-PK1 MDR1,,,,,False
+722,"Permeability coefficient, Kp across basolateral to apical side in human Caco2 cells",human Caco2,,permeability coefficient Kp basolateral to apical,,,False
+723,Permeability across apical to basolateral side in human Caco2 cells expressing Pgp at 1 uM measured for 3 hrs by UPLC/MS analysis,human Caco2 Pgp UPLC/MS,,apical to basolateral Pgp expression,,1 uM for 3 hrs,False
+724,Permeability in MDCK-MDR1 cells at 5 uM after 1 hr by LC-MS/MS analysis,MDCK-MDR1 LC-MS/MS,,,,5 uM after 1 hr,False
+725,Permeability in Caco-2 cells at 10 uM,Caco-2,,,,10 uM,False
+726,Permeability of compound at pH 7.4 incubated for 30 mins by PAMPA,PAMPA,,,7.4,,False
+727,Permeability of the compound in PBS buffer incubated for 5 hrs by PAMPA-based LC-MS/MS analysis,PAMPA LC-MS/MS,,,,in PBS for 5 hrs,False
+728,Permeability of compound across apical to basolateral side in human Caco-2 cells at pH 6.5,human Caco-2,,apical to basolateral at pH 6.5,6.5,,False
+729,"Permeability from apical to basolateral side of human Caco2 cells at compound, Lipoid S100 and vitamin E-TPGS ratio 1:2:1",human Caco2,,apical to basolateral Lipoid S100 and vitamin E-TPGS,,,False
+730,Permeability across basolateral to apical side in human Caco2 cells coexpressing Pgp at 1 uM measured for 3 hrs by UPLC/MS analysis,human Caco2 Pgp coexpression UPLC/MS,,basolateral to apical Pgp coexpression,,1 uM for 3 hrs,False
+731,Permeability from basal to apical side of MDCK cells,MDCK,,basal to apical,,,False
+732,Apparent permeability across apical to basolateral side in human Caco2 cells,human Caco2,,apical to basolateral apparent,,,False
+733,Apparent Permeability from basolateral to apical side of MDCK2 cells over expressing MDR1,MDCK2 MDR1,,basolateral to apical apparent in MDR1 expression,,,False
+734,Permeability across Aspergillus fumigatus at 12.5 ug/ml relative to human PBMC,Aspergillus fumigatus,,permeability relative to human PBMC,,12.5 ug/ml,False
+735,Permeability of the compound after 2.45 hrs by PAMPA,PAMPA,,,,after 2.45 hrs,False
+736,Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound to Lipoid S100 ratio 1:1,human Caco2,,apical to basolateral mass balance Lipoid S100 ratio,,,False
+737,"Permeability from apical to basolateral side of human Caco2 cells assessed as mass balance at compound, Lipoid S100 and gelucire 44/14 ratio 1:1:1",human Caco2,,apical to basolateral mass balance Lipoid S100 and gelucire ratio,,,False
+738,Permeability coefficient across PAMPA,PAMPA,,permeability coefficient,,,False
+739,Permeability of compound in dog MDCK cells,dog MDCK,,permeability in dog MDCK,,,False

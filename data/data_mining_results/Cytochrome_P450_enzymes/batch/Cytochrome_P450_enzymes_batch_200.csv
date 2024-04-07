@@ -1,0 +1,21 @@
+index,original sentence,Enzyme Source,Incubation Time,Temperature Range,pH Level,Substrate Concentration,Inhibitor Concentration,Cofactors,Detection Method,Protein Expression System,CYP sources,Cytochrome_P450_enzymes
+200,Inhibition Assay: To gain insight into the selectivity of the synthetic compounds for inhibition...,mouse or rat or human liver microsomes (CYPs not specified),1 hr (unless specified otherwise),37Â° C.,7.5,,,"0.5 mM NADP+, 2.0 mM G6P",fluorescence (for fluorometric substrates) or Hitachi L-7100 system,,"mouse, rat, human",True
+201,Inhibition of microsomal fraction of human CYP26A1 expressed in Sf9 cells using 9-cis-RA as substrate preincubated for 5 mins...,CYP26A1,1 min,,,9-cis-RA,,NADPH,HPLC,Sf9 cells,human,True
+202,Amplex Red Peroxide/Peroxidase-Coupled Assay: The compounds of the invention can be tested for their ability to inhibit LSD1...,,,,,,0 to 75 uM,,Amplex Red peroxide/peroxidase-coupled assay,,,False
+203,Inhibition of CYP3A4 in human liver microsomes using midazolam as substrate preincubated for 5 mins before substrate addition...,CYP3A4,,,,midazolam,,,LC-MS/MS,,human,True
+204,Inhibition of human CYP11B2 expressed in hamster V79 MZh cells using deoxycorticosterone substrate,CYP11B2,,,,deoxycorticosterone,,,,hamster V79 MZh cells,human,True
+205,"Inhibition of human CYP11B2 expressed in hamster V79MZ cells using [1,2-3H]-11-deoxycorticosterone as substrate after 6 hrs...",CYP11B2,6 hrs,,,"[1,2-3H]-11-deoxycorticosterone",,,HPLC,hamster V79MZ cells,human,True
+206,Inhibition of CYP3A4 expressed in baculovirus infected insect microsomes,CYP3A4,,,,,,,,baculovirus infected insect microsomes,,True
+207,Inhibition of CYP2D6 (unknown origin) by fluorescence-based assay,CYP2D6,,,,,,,fluorescence-based assay,,unknown,True
+208,Reversible inhibition of CYP2C9 in human liver microsomes,CYP2C9,,,,,,,,,human,True
+209,Inhibition of CYP11B1 in human V79MZ cells using [3H]-11-deoxycorticosterone as substrate incubated for 1 hr...,CYP11B1,,,,[3H]-11-deoxycorticosterone,,,HPLC,human V79MZ cells,human,True
+210,Inhibition of CYP2C9 in human liver microsomes using diclofenac as substrate preincubated for 5 mins...,CYP2C9,15 mins,,,diclofenac,,NADPH-regenerating system,UPLC-MS,,human,True
+211,Inhibition of recombinant human CYP3A5 in supersomes using midazolam as substrate after 5 mins...,CYP3A5,5 mins,,,midazolam,,,LC-MS/MS,supersomes,human,True
+212,Reversible inhibition of CYP3A4-mediated conversion of testosterone to 6-beta-hydroxy-testosterone after 30 mins,CYP3A4,30 mins,,,,,,,,human,True
+213,Inhibition of human recombinant CYP3A4 co-expressed with human P450 reductase/human b5 reductase using 7-benzyloxyquinoline substrate,CYP3A4,,,,7-benzyloxyquinoline,,,,co-expressed with human P450 reductase/human b5 reductase,human,True
+214,Inhibition of human CYP11B1-8C7 expressed in chinese hamster V79 cells using 11-deoxycortisol as substrate preincubated for 1 hr...,CYP11B1-8C7,3 hrs,,,11-deoxycortisol,,,HTRF assay,chinese hamster V79 cells,human,True
+215,Inhibition of CYP1A2 (unknown origin) by luciferase reporter assay in presence of NADPH regeneration system,CYP1A2,,,,,,NADPH regeneration system,luciferase reporter assay,,unknown,True
+216,Inhibition of CYP3A4 in human liver microsomes using midazolam as substrate after 10 mins...,CYP3A4,10 mins,,,midazolam,,,HPLC-MS,,human,True
+217,Inhibition of CYP1A2 in microsomes,CYP1A2,,,,,,,,,,True
+218,Inhibition of human CYP11B1 expressed in hamster V79MZh cells,CYP11B1,,,,,,,,hamster V79MZh cells,human,True
+219,Inhibition of CYP1A2 in human liver microsomes using phenacetin as substrate preincubated for 15 mins...,CYP1A2,8 mins,,,phenacetin,,,LC-MS/MS,,human,True

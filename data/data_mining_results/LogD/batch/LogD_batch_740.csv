@@ -1,0 +1,21 @@
+index,original sentence,pH,Analytical Method,Solvent System,Equilibration Technique,Incubation Time,Shaking Condition,LogD experiment
+1,"1-octanol/phosphate buffer partition co-efficient, log D of the compound at pH 7.4 after 3 hrs by shake-flask method",7.4,shake flask,1-octanol/phosphate buffer,,3 hrs,shake flask,True
+2,"Lipophilicity, log D at pH7.5",7.5,,,,,,True
+3,"Octanol-buffer distribution co-efficient, log D of the compound by shake-flask method",,shake flask,octanol-buffer,,,shake flask,True
+4,"n-octanol-potassium phosphate buffer partition coefficient, log D of the compound at pH 7.4 after 1 hr by LC-MS analysis",7.4,LC-MS,n-octanol-potassium phosphate buffer,,1 hr,,True
+5,"Distribution coefficient, log D of the compound at pH 7 by potentiometric titration",7.0,potentiometric titration,,,,,True
+6,"Distribution coefficient, log D of the compound at pH 7.4 by LC-MS/MS analysis",7.4,LC-MS/MS,,,,,True
+7,"Octanol/PBS partition coefficient, logD of compound at pH 7.4 measured after 2 hrs by shake flask method",7.4,shake flask,octanol/PBS,,2 hrs,shake flask,True
+8,Log P at pH 7.4,7.4,,,,,,True
+9,"Octanol-water distribution coefficient, log D of the compound at pH 0.82 by stir flask method",0.82,stir flask,octanol-water,,,,True
+10,"n-Octanol-buffer distribution coefficient, log D of the compound at pH 7.4 incubated for 4 hrs by HPLC-UV-vis based shake flask method",7.4,HPLC-UV-vis,n-octanol-buffer,,4 hrs,shake flask,True
+11,"Distribution coefficient at pH 7.4, log D",7.4,,,,,,True
+12,Distribution coefficient (Log D) value at pH 7.4,7.4,,,,,,True
+13,Distribution coefficient log D of the compound at pH 7.4,7.4,,,,,,True
+14,"Partition coefficient, log D at pH 7.4 by shake-flask method",7.4,shake flask,,,,shake flask,True
+15,Partition coefficient (log P) at pH 7.4,7.4,,,,,,True
+16,"Distribution coefficient, log D in octanol and phosphate buffer at pH 7.4",7.4,,octanol and phosphate buffer,,,,True
+17,Octanol water partition coefficient was determined at pH 7.4,7.4,,octanol water,,,,True
+18,"Chromatographic hydrophobicity index, log D of compound at 250 uM at pH 7.4 by HPLC analysis",7.4,HPLC,,,,,True
+19,Lipophilicity was reported,,,,,,,True
+20,"Octanol-phosphate buffered saline distribution coefficient, log D of the compound at pH 7.4 measured after 1 min by gamma counting",7.4,gamma counting,octanol-phosphate buffered saline,,1 min,,True

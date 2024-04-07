@@ -1,0 +1,21 @@
+index,original sentence,Cell Line Models,Temperature Conditions,Permeability Assays,pH Levels,Concentration and Dosing Parameters,Blood_Brain_Barrier
+340,Permeability of compound at pH 5.5 by PAMPA assay,PAMPA,,,5.5,,False
+341,Permeability of compound in PBS buffer at pH 7.4 incubated for 18 hrs by PAMPA-BBB assay,PAMPA-BBB,,,7.4,100 ug/ml incubated for 18 hrs,True
+342,Permeability of the compound assessed as compound influx measured after 16 hrs by PAMPA assay,PAMPA,,compound influx,,measured after 16 hrs,False
+343,Apparent permeability across human Caco-2 cells at 12.5 uM,human Caco-2,,apparent permeability,,12.5 uM,False
+344,Intrinsic permeability of compound across apical to basolateral side in human Caco-2 cells,human Caco-2,,intrinsic permeability,,,False
+345,Membrane permeability assessed as drug permeation at 100 uM at pH 7.2 after 8 hrs by PAMPA,PAMPA,,drug permeation,7.2,100 uM after 8 hrs,False
+346,Drug penetration in DPPC monolayer at surface pressure of 25 mN/m for 1 hr by Langmuir film method,,,drug penetration Langmuir film,,,False
+347,Permeability of the compound using PDVF membrane after 2 hrs 45 mins by PAMPA-BBB assay,PAMPA-BBB PVDF membrane,,,,after 2 hrs 45 mins,True
+348,Apparent permeability from apical to basolateral side of MDCK2 cells over expressing MDR1 after 1 hr,MDCK2 MDR1,,apparent permeability,,5 uM after 1 hr,False
+349,Drug penetration in DPPC monolayer at surface pressure of 15 mN/m for 1 hr by Langmuir film method,,,drug penetration Langmuir film,,,False
+350,Permeability of the compound in PBS/EtOH buffer (7:3) incubated for 16 hrs by UV plate reader based PAMPA-BBB assay,PAMPA-BBB,,,,in PBS/EtOH (7:3) incubated for 16 hrs,True
+351,Corneal permeability in rabbit corneal tissues mounted on vertical Using chambers,rabbit corneal,,corneal permeability,,,False
+352,Permeability of compound from apical to basolateral side in MDCK-MDR1 cells at 5 uM measured after 120 mins in presence of P-gp inhibitor GF120918 by LC-MS/MS analysis,MDCK-MDR1,,apical to basolateral,,5 uM after 120 mins with GF120918,False
+353,Apparent permeability from basolateral to apical side of MDCK2 cells over expressing MDR1 at 5 uM after 1 hr in presence of 25 uM LSN335984,MDCK2 MDR1,,basolateral to apical,,5 uM after 1 hr with 25 uM LSN335984,False
+354,Permeability across human Caco2 cells at 10 uM after 1 hr,human Caco2,,across human Caco2,,10 uM after 1 hr,False
+355,Permeability of the compound at 200 uM measured after 5 hrs at pH 7.4 by PAMPA,PAMPA,,,7.4,200 uM after 5 hrs,False
+356,Permeability of the compound at 25 ug/ml after 18 hrs by PAMPA-BBB method,PAMPA-BBB,,,,25 ug/ml after 18 hrs,True
+357,Apparent permeability from apical to basolateral side of MDCK2 cells over expressing MDR1 at 5 uM after 1 hr,MDCK2 MDR1,,apparent permeability,,5 uM after 1 hr,False
+358,Apparent permeability from apical to basolateral side of MDCK2 cells over expressing MDR1 at 5 uM after 1 hr in presence of 25 uM LSN335984,MDCK2 MDR1,,apparent permeability,,5 uM after 1 hr with 25 uM LSN335984,False
+359,Permeability of the compound at 100 ug/ml incubated for 18 hrs by PAMPA,PAMPA,,,,100 ug/ml incubated for 18 hrs,False

@@ -1,0 +1,21 @@
+index,original sentence,Species/Origin of Plasma or Serum,Concentration of Tested Compound,Duration of Incubation,Analytical Detection Method,Equilibrium Dialysis for Protein Binding Assessment,Plasma_Protein_Binding
+101,Plasma protein binding in mouse at 2 uM preincubated for 1 hr by balanced dialysis based LC-MS/MS analysis,Mouse Plasma,2 uM,1 hr preincubation,LC-MS/MS,Balanced Dialysis,True
+102,Protein binding in human plasma at 1 uM after 6 hrs by LC-MS/MS analysis,Human Plasma,1 uM,6 hrs,LC-MS/MS,,True
+103,"Protein binding in Swiss mouse plasma at 20 mg/kg, po administered as single dose via gavage measured over 24 hrs by LC-MS analysis",Swiss Mouse Plasma,20 mg/kg,24 hrs,LC-MS,,True
+104,Protein binding in dog,Dog,,,,,True
+105,Plasma protein binding in human measured at 150 uM preincubated for 30 mins followed by addition of dialysis buffer measured after 4 hrs by LC-MS/MS analysis,Human Plasma,150 uM,30 mins preincubation followed by 4 hrs,LC-MS/MS,,True
+106,Protein binding in 55% human plasma at 100 uM incubated for 3 hrs by LC/MS detection based equilibrium dialysis,Human Plasma,100 uM,3 hrs,LC/MS,Equilibrium Dialysis,True
+107,Plasma protein binding in CD-1 mouse plasma incubated for 4 hrs at 2 uM measured by LC/MS/MS analysis,CD-1 Mouse Plasma,2 uM,4 hrs,LC/MS/MS,,True
+108,Binding affinity to human plasma protein,Human Plasma Protein,,,,,True
+109,Protein binding in mouse plasma after 6 hrs by LC-MS/MS based equilibrium dialysis method,Mouse Plasma,,6 hrs,LC-MS/MS,Equilibrium Dialysis,True
+110,Protein binding in mouse plasma at 1 uM after 6 hrs by LC-MS/MS analysis,Mouse Plasma,1 uM,6 hrs,LC-MS/MS,,True
+111,Protein binding in rat plasma at 1 uM after 6 hrs by LC-MS/MS analysis,Rat Plasma,1 uM,6 hrs,LC-MS/MS,,True
+112,Protein binding in mouse plasma at 1 mM after 5 hrs by LC-MS/MS analysis,Mouse Plasma,1 mM,5 hrs,LC-MS/MS,,True
+113,Protein binding in human plasma at 1 mM after 5 hrs by LC-MS/MS analysis,Human Plasma,1 mM,5 hrs,LC-MS/MS,,True
+114,Protein binding in Sprague-Dawley rat plasma,Sprague-Dawley Rat,,,,,True
+115,Protein binding in 55% mouse plasma at 100 uM incubated for 3 hrs by LC/MS detection based equilibrium dialysis,Mouse Plasma,100 uM,3 hrs,LC/MS,Equilibrium Dialysis,True
+116,Plasma protein binding in mouse plasma at 5 uM measured by LC/MS-MS analysis,Mouse Plasma,5 uM,,LC/MS-MS,,True
+117,Protein binding in human plasma at 10 uM by equilibrium dialysis based LC-MS/MS analysis,Human Plasma,10 uM,,LC-MS/MS,Equilibrium Dialysis,True
+118,"Protein binding in human at 0.4 g, po",Human,0.4 g,,,,False
+119,DNDI: Protein binding in mouse plasma,Mouse Plasma,,,,,True
+120,Protein binding in mouse plasma at 10 uM after 4 hrs by LC-MS/MS analysis,Mouse Plasma,10 uM,4 hrs,LC-MS/MS,Equilibrium Dialysis,True
